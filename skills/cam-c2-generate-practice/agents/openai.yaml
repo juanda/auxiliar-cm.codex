@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAM C2 Generar Práctica"
+  short_description: "Crea tests, tarjetas y simulacros"
+  default_prompt: "Use $cam-c2-generate-practice to create CAM C2 tests, flashcards, or official-style mock exams."

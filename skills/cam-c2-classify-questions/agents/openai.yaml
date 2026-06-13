@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAM C2 Clasificar Preguntas"
+  short_description: "Clasifica preguntas por tema y tipo"
+  default_prompt: "Use $cam-c2-classify-questions to normalize and classify extracted CAM C2 questions."

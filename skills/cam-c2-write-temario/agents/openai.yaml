@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAM C2 Redactar Temario"
+  short_description: "Redacta temas enfocados al examen"
+  default_prompt: "Use $cam-c2-write-temario to draft an exam-focused CAM C2 topic chapter."

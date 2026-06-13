@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAM C2 Extraer Preguntas"
+  short_description: "Extrae preguntas oficiales a JSON/CSV"
+  default_prompt: "Use $cam-c2-extract-questions to extract official exam questions into the project schema."

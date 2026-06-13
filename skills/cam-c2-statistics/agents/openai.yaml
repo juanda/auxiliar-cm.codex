@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAM C2 Estadísticas"
+  short_description: "Calcula recurrencias y tendencias"
+  default_prompt: "Use $cam-c2-statistics to generate recurrence tables and trend analysis for CAM C2 exams."
