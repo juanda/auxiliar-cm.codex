@@ -1,0 +1,51 @@
+{
+  "fuentes_academia": {
+    "ruta": "01_examenes_originales/psicotecnicos_academias/",
+    "uso": "Banco no oficial de ejemplos para entrenamiento, simulacros y clasificacion de patrones psicotecnicos.",
+    "criterio": "No mezclar con examenes oficiales sin marcar la procedencia en fuente."
+  },
+  "tipos": [
+    {
+      "tipo": "psicotecnico_verbal",
+      "subtipos": [
+        "sinonimos",
+        "antonimos",
+        "analogias verbales",
+        "comprension verbal",
+        "ordenacion alfabetica",
+        "codificacion verbal"
+      ]
+    },
+    {
+      "tipo": "psicotecnico_numerico",
+      "subtipos": [
+        "series numericas",
+        "calculo aritmetico",
+        "regla de tres",
+        "fracciones",
+        "porcentajes",
+        "problemas de proporcionalidad"
+      ]
+    },
+    {
+      "tipo": "psicotecnico_logico",
+      "subtipos": [
+        "series de letras",
+        "razonamiento abstracto",
+        "patrones logicos",
+        "codificacion",
+        "deduccion de reglas"
+      ]
+    },
+    {
+      "tipo": "psicotecnico_atencion",
+      "subtipos": [
+        "tablas de datos",
+        "busqueda visual",
+        "comparacion de informacion",
+        "clasificacion documental",
+        "rapidez perceptiva"
+      ]
+    }
+  ]
+}

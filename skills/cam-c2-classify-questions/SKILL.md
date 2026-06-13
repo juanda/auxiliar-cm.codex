@@ -1,6 +1,6 @@
 ---
 name: cam-c2-classify-questions
-description: Normalize and classify extracted CAM C2 Auxiliar Administrativo questions by official topic, subtopic, required type taxonomy, and difficulty. Use when Codex is asked to fill `tema`, `subtema`, `tipo`, `dificultad`, create `preguntas_normalizadas.json`, or update `03_clasificacion/*.json`.
+description: Normalize and classify CAM C2 Auxiliar Administrativo Comunidad de Madrid exam questions by official 2026 topic, subtopic, required type taxonomy, and difficulty. Use when Codex is asked in Spanish or English to clasificar preguntas, normalizar preguntas, fill `tema`, `subtema`, `tipo`, `dificultad`, create `02_preguntas_extraidas/preguntas_normalizadas.json`, or update `03_clasificacion/*.json`.
 ---
 
 # CAM C2 Classify Questions
@@ -8,7 +8,7 @@ description: Normalize and classify extracted CAM C2 Auxiliar Administrativo que
 ## Workflow
 
 1. Read `02_preguntas_extraidas/preguntas.json` or the specific question set requested.
-2. Load `references/programa-taxonomia.md` before assigning official topics or allowed types.
+2. Load `references/programa-taxonomia.md` before assigning official topics or allowed types. If `AGENTS.md` has a newer `# Programa oficial`, treat it as authoritative.
 3. Classify each question by `tema`, `subtema`, `tipo`, and `dificultad`.
 4. Write normalized records to `02_preguntas_extraidas/preguntas_normalizadas.json`.
 5. Update `03_clasificacion/temas.json`, `subtemas.json`, and `psicotecnicos.json` when the user requests classification artifacts.

@@ -1,6 +1,6 @@
 ---
 name: cam-c2-extract-questions
-description: Extract official CAM C2 Auxiliar Administrativo exam questions from PDFs, OCR text, Word exports, or manually pasted questionnaires into the project's canonical JSON and CSV schema. Use when Codex is asked to import exams, parse answer keys, build `02_preguntas_extraidas/preguntas.json`, or preserve traceability from historical exam sources.
+description: Extract official CAM C2 Auxiliar Administrativo Comunidad de Madrid exam questions from PDFs, OCR text, Word exports, or pasted questionnaires into the project's canonical JSON and CSV schema. Use when Codex is asked in Spanish or English to extraer preguntas, importar exámenes, parse answer keys, build `02_preguntas_extraidas/preguntas.json`, build `preguntas.csv`, or preserve traceability from historical exam sources.
 ---
 
 # CAM C2 Extract Questions
@@ -13,6 +13,7 @@ description: Extract official CAM C2 Auxiliar Administrativo exam questions from
 4. Assign stable ids: `<anyo>-E<ejercicio>-<numero padded 3>`, for example `2025-E1-034`. Use `R01` suffix only if the official numbering separates reserve questions from ordinary numbering.
 5. Preserve original wording. Correct only OCR artifacts that are clearly not part of the question.
 6. Write or update `02_preguntas_extraidas/preguntas.json` and `preguntas.csv`. Keep JSON as an array of objects and CSV headers aligned to the schema.
+7. Use the official 2026 program in `AGENTS.md` only for traceability context; do not classify unless the user requests it.
 
 ## Extraction Rules
 

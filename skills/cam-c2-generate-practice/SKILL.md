@@ -1,6 +1,6 @@
 ---
 name: cam-c2-generate-practice
-description: "Create CAM C2 Auxiliar Administrativo practice materials: topic tests, block tests, Anki CSV flashcards, and official-style mock exams with answer keys and 1/3 penalty scoring. Use when Codex is asked to generate files under `07_tests/`, `08_flashcards/`, or `09_simulacros/`."
+description: "Create CAM C2 Auxiliar Administrativo Comunidad de Madrid practice materials: topic tests, block tests, Anki CSV flashcards, and official-style mock exams with answer keys and 1/3 penalty scoring. Use when Codex is asked in Spanish or English to generar tests, crear preguntas tipo test, tarjetas Anki, simulacros, ejercicios psicotécnicos, or files under `07_tests/`, `08_flashcards/`, or `09_simulacros/`."
 ---
 
 # CAM C2 Generate Practice

@@ -1,6 +1,6 @@
 ---
 name: cam-c2-statistics
-description: Generate recurrence statistics and trend analysis for CAM C2 Auxiliar Administrativo historical exams from normalized question data. Use when Codex is asked to create frequency tables, topic/subtopic counts, trends, yearly comparisons, or files under `04_estadisticas/`.
+description: Generate recurrence statistics and trend analysis for CAM C2 Auxiliar Administrativo Comunidad de Madrid historical exams from normalized question data. Use when Codex is asked in Spanish or English to generar estadísticas, frecuencias, recurrencias, tendencias, comparativas por año, topic/subtopic counts, or files under `04_estadisticas/`.
 ---
 
 # CAM C2 Statistics
@@ -15,6 +15,7 @@ description: Generate recurrence statistics and trend analysis for CAM C2 Auxili
    - `04_estadisticas/tendencias.md`
 4. Prefer Markdown tables sorted by descending frequency, then topic number or subtopic name.
 5. Mention missing years, missing answer keys, or unclassified questions before interpreting trends.
+6. Use the official 2026 topic names from `AGENTS.md` or `skills/cam-c2-classify-questions/references/programa-taxonomia.md` in output tables.
 
 ## Required Analyses
 
