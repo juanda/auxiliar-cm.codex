@@ -8,7 +8,7 @@ Excel es una hoja de cálculo. Sirve para organizar datos en tablas, hacer cálc
 
 En esta oposición no interesa estudiar Excel como usuario avanzado, sino dominar los conceptos que se convierten fácilmente en pregunta tipo test: qué es un libro, qué es una hoja, qué es una celda, cómo se inicia una fórmula, dónde se ve el contenido de la celda activa, para qué sirve una tabla dinámica y qué significan elementos visuales concretos.
 
-La convocatoria 2026 no concreta una versión exacta de Excel. El programa oficial habla de `Excel` y de sus funciones principales. Sin embargo, las preguntas históricas disponibles mencionan expresamente Excel 2016 y la versión de escritorio de Excel 365. Por tanto, el enfoque más rentable es estudiar funciones comunes de la interfaz moderna de Excel, prestando atención a las rutas y términos que ya han sido preguntados.
+La versión oficial para este tema es `Microsoft 365 versión escritorio`, conforme al Anexo I, apartado Primero.2.2 de la convocatoria 2026. Las preguntas históricas disponibles mencionan Excel 2016 y Excel 365; las de 2016 se usan como referencia de recurrencia cuando tratan funciones que siguen existiendo, pero el desarrollo del tema debe estudiarse sobre Excel de Microsoft 365 de escritorio.
 
 La estadística histórica del proyecto muestra 12 preguntas de Excel:
 
@@ -31,6 +31,8 @@ Los puntos de mayor rendimiento son:
 - Organización de ventanas.
 - Tablas dinámicas.
 
+Además de esos puntos históricos, el enunciado oficial exige cubrir configuración, introducción y edición de datos, gestión de datos, gráficos y personalización del entorno. Esos apartados deben estudiarse aunque hayan aparecido menos en los exámenes disponibles.
+
 Idea clave: Excel organiza la información en libros. Cada libro contiene hojas. Cada hoja se divide en filas y columnas. La intersección entre una fila y una columna es una celda. Las fórmulas empiezan por el signo igual `=`.
 
 ## 2. Desarrollo
@@ -38,6 +40,18 @@ Idea clave: Excel organiza la información en libros. Cada libro contiene hojas.
 ### 2.1. Qué es Excel
 
 Excel es una aplicación de hoja de cálculo. Permite introducir datos, realizar cálculos, ordenar y filtrar información, representar datos mediante gráficos y resumir información con tablas dinámicas.
+
+Sus funciones principales son:
+
+| Función | Utilidad |
+| --- | --- |
+| Introducir datos | Escribir texto, números, fechas, porcentajes y fórmulas. |
+| Calcular | Usar fórmulas, funciones y referencias de celda. |
+| Organizar | Ordenar, filtrar, validar y estructurar datos. |
+| Analizar | Usar tablas, subtotales y tablas dinámicas. |
+| Representar | Crear gráficos para visualizar información. |
+| Gestionar libros | Crear, guardar, abrir, imprimir, proteger e importar/exportar datos. |
+| Personalizar | Ajustar cinta, barra de acceso rápido, vistas y opciones. |
 
 En el examen se debe distinguir entre:
 
@@ -56,13 +70,13 @@ En el examen se debe distinguir entre:
 
 #### Libro
 
-Un libro es el archivo de Excel. Puede contener una o varias hojas de cálculo. En los exámenes se ha preguntado tanto en Excel 2016 como en Excel 365 que el conjunto de hojas almacenadas en un archivo Excel se denomina `libro`.
+Un libro es el archivo de Excel. Puede contener una o varias hojas de cálculo. En los exámenes se ha preguntado tanto en convocatorias con Excel 2016 como con Excel 365 que el conjunto de hojas almacenadas en un archivo Excel se denomina `libro`.
 
 Preguntas históricas: `2023-E2-026` y `2025-E2-012`.
 
 #### Hoja
 
-La hoja es el espacio de trabajo formado por filas y columnas. Un libro puede contener varias hojas. En Excel moderno no hay un número fijo universal de hojas por libro: depende principalmente de la memoria disponible del sistema.
+La hoja es el espacio de trabajo formado por filas y columnas. Un libro puede contener varias hojas. En Excel de Microsoft 365 escritorio no hay un número fijo universal de hojas por libro: depende principalmente de la memoria disponible del sistema.
 
 Pregunta histórica: `2025-E2-014`.
 
@@ -84,6 +98,17 @@ La celda activa es la celda seleccionada. El contenido de la celda activa puede 
 
 Pregunta histórica: `2025-E2-013`.
 
+#### Filas, columnas y rangos
+
+Las filas se identifican con números y las columnas con letras. Un rango es un conjunto de celdas y se expresa normalmente con dos referencias separadas por dos puntos.
+
+| Elemento | Ejemplo | Significado |
+| --- | --- | --- |
+| Celda | `B3` | Columna B, fila 3. |
+| Rango vertical | `A1:A10` | Celdas A1 a A10. |
+| Rango horizontal | `A1:D1` | Celdas A1 a D1. |
+| Rango rectangular | `A1:D10` | Bloque desde A1 hasta D10. |
+
 ### 2.3. Introducción y edición de datos
 
 En una celda pueden introducirse:
@@ -95,7 +120,21 @@ En una celda pueden introducirse:
 - Funciones.
 - Hipervínculos.
 
-Para editar una celda se puede escribir directamente sobre ella, usar la barra de fórmulas o entrar en modo edición. El examen suele preguntar definiciones y usos básicos, no procedimientos avanzados.
+Para editar una celda se puede escribir directamente sobre ella, usar la barra de fórmulas o entrar en modo edición. El examen suele preguntar definiciones y usos básicos, pero conviene dominar estas operaciones:
+
+| Operación | Qué hace |
+| --- | --- |
+| Escribir en una celda | Introduce un valor, texto o fórmula. |
+| Modificar desde la barra de fórmulas | Edita el contenido real de la celda activa. |
+| Copiar y pegar | Reutiliza datos o fórmulas en otras celdas. |
+| Relleno automático | Extiende series, valores o fórmulas. |
+| Borrar contenido | Elimina el contenido sin necesariamente borrar formato. |
+| Borrar formato | Mantiene el dato pero elimina formato aplicado. |
+| Formato de número | Cambia cómo se muestra el dato: moneda, porcentaje, fecha, decimal. |
+| Ajustar texto | Muestra varias líneas dentro de una celda. |
+| Combinar celdas | Une varias celdas visualmente. |
+
+Trampa importante: el formato puede cambiar cómo se ve un dato, pero no siempre cambia el valor real almacenado. Una fecha, un porcentaje o una moneda pueden mostrarse con formatos distintos.
 
 ### 2.4. Fórmulas y funciones
 
@@ -113,6 +152,19 @@ Ejemplos:
 
 Pregunta histórica: `2025-E2-011`.
 
+#### Referencias relativas, absolutas y mixtas
+
+Las referencias indican qué celdas usa una fórmula.
+
+| Tipo | Ejemplo | Comportamiento |
+| --- | --- | --- |
+| Relativa | `A1` | Cambia al copiar la fórmula. |
+| Absoluta | `$A$1` | Fija columna y fila. |
+| Mixta | `$A1` | Fija columna. |
+| Mixta | `A$1` | Fija fila. |
+
+Es un punto clásico de hojas de cálculo aunque no haya aparecido aún en las preguntas históricas clasificadas.
+
 #### Funciones
 
 Una función es una fórmula predefinida. Tiene un nombre y unos argumentos entre paréntesis.
@@ -126,6 +178,10 @@ Una función es una fórmula predefinida. Tiene un nombre y unos argumentos entr
 | `SI` | Devuelve un resultado si se cumple una condición y otro si no. |
 | `Y` | Comprueba si varias condiciones son verdaderas. |
 | `DERECHA` | Devuelve caracteres desde el final de una cadena de texto. |
+| `CONTAR` | Cuenta celdas con números. |
+| `CONTARA` | Cuenta celdas no vacías. |
+| `BUSCARX` | Busca valores en un rango o matriz. |
+| `SI.ERROR` | Devuelve un valor alternativo si una fórmula da error. |
 
 #### Función DERECHA
 
@@ -159,6 +215,16 @@ En Excel en español es habitual usar punto y coma `;` como separador de argumen
 
 Pregunta histórica: `2023-E2-018`.
 
+#### Errores de fórmula
+
+| Error | Significado orientativo |
+| --- | --- |
+| `#DIV/0!` | División entre cero o celda vacía usada como divisor. |
+| `#N/A` | Valor no disponible, frecuente en búsquedas. |
+| `#¿NOMBRE?` | Nombre de función o rango no reconocido. |
+| `#¡VALOR!` | Tipo de dato incorrecto en la fórmula. |
+| `#¡REF!` | Referencia de celda no válida. |
+
 ### 2.5. Configuración y personalización
 
 La configuración de Excel permite adaptar el entorno de trabajo. Son zonas preguntables:
@@ -170,6 +236,18 @@ La configuración de Excel permite adaptar el entorno de trabajo. Son zonas preg
 | Barra de fórmulas | Muestra y permite editar el contenido de la celda activa. |
 | Opciones de Excel | Configuración general del programa. |
 | Vistas | Cambian la forma de visualizar el libro. |
+
+La configuración del libro y de la hoja incluye:
+
+| Configuración | Utilidad |
+| --- | --- |
+| Ancho de columna y alto de fila | Ajustar el espacio visible. |
+| Formato de número | Fecha, moneda, porcentaje, decimales. |
+| Alineación | Posición del contenido en la celda. |
+| Bordes y relleno | Presentación visual de tablas. |
+| Inmovilizar paneles | Mantener filas o columnas visibles al desplazarse. |
+| Diseño de página | Márgenes, orientación, tamaño y área de impresión. |
+| Protección de hoja/libro | Limitar cambios accidentales o no autorizados. |
 
 ### 2.6. Gestión de datos
 
@@ -185,9 +263,38 @@ Excel permite gestionar datos mediante operaciones como:
 
 Para el nivel C2, lo más importante es entender qué hace cada herramienta. Un filtro muestra sólo los registros que cumplen una condición, pero no borra los datos. Ordenar cambia el orden visible de los registros.
 
+| Herramienta | Función | Trampa |
+| --- | --- | --- |
+| Ordenar | Reorganiza registros por uno o varios criterios. | No oculta datos. |
+| Filtrar | Muestra sólo registros que cumplen condiciones. | No borra los no visibles. |
+| Quitar duplicados | Elimina registros repetidos según columnas elegidas. | Sí modifica los datos si se confirma. |
+| Validación de datos | Limita qué valores se pueden introducir. | No resume datos. |
+| Texto en columnas | Divide contenido de una columna en varias. | No es una fórmula. |
+| Formato como tabla | Convierte un rango en tabla con filtros y formato. | No es tabla dinámica. |
+| Importar datos | Trae datos externos al libro. | No equivale a exportar. |
+| Exportar | Genera salida hacia otro formato o destino. | No siempre modifica el origen. |
+
 ### 2.7. Tablas dinámicas
 
 Una tabla dinámica permite resumir, analizar y reorganizar grandes conjuntos de datos de manera interactiva. Es útil para obtener totales, recuentos, promedios y agrupaciones sin modificar los datos originales.
+
+Elementos básicos:
+
+| Elemento | Función |
+| --- | --- |
+| Filas | Agrupan datos verticalmente. |
+| Columnas | Agrupan datos horizontalmente. |
+| Valores | Contienen cálculos como suma, recuento o promedio. |
+| Filtros | Permiten limitar la información mostrada. |
+| Segmentaciones | Botones visuales para filtrar. |
+
+Pasos generales:
+
+1. Tener datos con encabezados.
+2. Seleccionar el rango o tabla.
+3. Insertar tabla dinámica.
+4. Colocar campos en filas, columnas, valores y filtros.
+5. Actualizar si cambian los datos de origen.
 
 No debe confundirse con:
 
@@ -210,8 +317,23 @@ Los gráficos representan datos visualmente. Son útiles para comparar valores, 
 | Líneas | Mostrar evolución temporal. |
 | Circular | Mostrar proporciones de un total. |
 | Barras | Comparar categorías en horizontal. |
+| Dispersión | Relacionar dos series numéricas. |
+| Área | Mostrar evolución acumulada. |
 
 Aunque en las preguntas históricas actuales del proyecto no aparece un gráfico concreto de Excel, el programa oficial lo menciona expresamente, así que debe estudiarse a nivel funcional.
+
+Elementos de gráfico preguntables:
+
+| Elemento | Qué representa |
+| --- | --- |
+| Título | Nombre descriptivo del gráfico. |
+| Eje horizontal | Categorías o valores del eje X. |
+| Eje vertical | Valores del eje Y. |
+| Leyenda | Identifica series de datos. |
+| Serie de datos | Conjunto de valores representados. |
+| Etiquetas de datos | Valores mostrados junto a puntos, columnas o sectores. |
+
+Trampa: cambiar el tipo de gráfico no cambia necesariamente los datos de origen; cambia la forma de representarlos.
 
 ### 2.9. Hipervínculos
 
@@ -227,15 +349,15 @@ Pregunta histórica: `2023-E2-029`.
 
 ### 2.10. Comentarios, notas e indicadores visuales
 
-En Excel 2016 se ha preguntado por el pequeño triángulo rojo en la esquina superior derecha de una celda. Ese indicador se asocia a la existencia de un comentario en la celda.
+En una pregunta histórica de Excel 2016 se preguntó por el pequeño triángulo rojo en la esquina superior derecha de una celda. Ese indicador se asociaba a la existencia de un comentario en la celda.
 
 Pregunta histórica: `2023-E2-035`.
 
-En versiones modernas pueden distinguirse comentarios y notas, pero para examen hay que reconocer la idea principal: un indicador en la esquina de la celda avisa de información asociada a esa celda.
+En Excel de Microsoft 365 escritorio conviene distinguir comentarios y notas. Para examen, la idea principal es que un indicador en la esquina de la celda avisa de información asociada a esa celda.
 
 ### 2.11. Ventanas y vistas
 
-Excel permite organizar ventanas abiertas desde la pestaña `Vista`, grupo `Ventana`. En Excel 2016 se preguntó por la organización `Horizontal`, que organiza en horizontal las ventanas de Excel abiertas.
+Excel de Microsoft 365 escritorio permite organizar ventanas abiertas desde la pestaña `Vista`, grupo `Ventana`. En una pregunta histórica de Excel 2016 se preguntó por la organización `Horizontal`, que organiza en horizontal las ventanas de Excel abiertas.
 
 Pregunta histórica: `2023-E2-004`.
 
@@ -249,18 +371,26 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Hoja | Área de trabajo con filas y columnas | Alto |
 | Celda | Intersección fila-columna | Muy alto |
 | Celda activa | Celda seleccionada | Alto |
+| Rango | Conjunto de celdas | Alto |
 | Barra de fórmulas | Muestra contenido de la celda activa | Muy alto |
 | Fórmula | Expresión de cálculo iniciada por `=` | Muy alto |
 | Función | Fórmula predefinida | Muy alto |
+| Referencia relativa | Cambia al copiar fórmula | Medio |
+| Referencia absoluta | Fija fila y columna con `$` | Medio |
 | `DERECHA` | Extrae caracteres desde la derecha | Alto |
 | `SI` | Función condicional | Alto |
 | `Y` | Comprueba varias condiciones | Medio |
+| Error de fórmula | Aviso como `#DIV/0!`, `#N/A` o `#¡REF!` | Medio |
 | Tabla dinámica | Resume y analiza datos interactivamente | Muy alto |
+| Campos de tabla dinámica | Filas, columnas, valores y filtros | Alto |
 | Hipervínculo | Salto a otra ubicación o recurso | Alto |
 | Comentario | Información asociada a una celda | Medio |
 | Gráfico | Representación visual de datos | Medio |
+| Serie de datos | Conjunto representado en un gráfico | Medio |
 | Filtro | Muestra datos según criterios | Medio |
 | Ordenación | Reorganiza el orden de los datos | Medio |
+| Validación de datos | Limita valores permitidos | Medio |
+| Formato de número | Controla cómo se muestra un dato | Medio |
 
 ## 4. Articulos importantes
 
@@ -275,6 +405,9 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | `Datos` | Ordenar, filtrar, obtener y transformar datos. |
 | `Vista` | Vistas del libro, mostrar elementos y organizar ventanas. |
 | Barra de fórmulas | Ver y editar el contenido real de la celda activa. |
+| Diseño de página | Márgenes, orientación, tamaño y área de impresión. |
+| Tabla dinámica | Insertar, colocar campos, actualizar y filtrar. |
+| Gráficos | Tipo de gráfico, ejes, leyenda, series y etiquetas. |
 
 ## 5. Errores tipicos
 
@@ -282,15 +415,20 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | --- | --- |
 | Confundir libro y hoja | El libro es el archivo; la hoja está dentro del libro. |
 | Confundir celda con hoja | La celda es la intersección entre fila y columna. |
+| Confundir rango con celda | El rango agrupa varias celdas. |
 | Pensar que una fórmula puede empezar sin `=` | En Excel las fórmulas empiezan por `=`. |
+| No distinguir referencia relativa y absoluta | `$A$1` fija columna y fila al copiar. |
 | Confundir barra de fórmulas con barra de estado | La barra de fórmulas muestra el contenido de la celda activa. |
+| Pensar que el formato cambia siempre el valor real | Muchas veces sólo cambia la visualización. |
 | Pensar que una tabla dinámica modifica los datos originales | Resume y analiza datos; no necesita reescribir el origen. |
+| Confundir tabla normal con tabla dinámica | La tabla normal organiza; la dinámica resume y reorganiza. |
 | Confundir ordenar con filtrar | Ordenar cambia el orden; filtrar muestra sólo datos que cumplen criterios. |
 | Confundir gráfico con tabla dinámica | El gráfico representa; la tabla dinámica resume y reorganiza. |
+| Pensar que cambiar el gráfico cambia los datos | Cambia la representación, no necesariamente el origen. |
 | Confundir comentario con hipervínculo | El comentario añade información; el hipervínculo salta a otra ubicación. |
-| Interpretar el triángulo rojo como error de fórmula | En Excel 2016 se asocia a comentario. |
+| Interpretar un indicador de esquina como error de fórmula | En Excel puede avisar de información asociada a la celda, como comentario o nota según versión. |
 | Confundir organizar ventanas con dividir hoja | Organizar ventanas afecta a ventanas abiertas; dividir afecta a la vista de la hoja. |
-| Pensar que el número de hojas es siempre 255 | En Excel moderno depende de la memoria disponible. |
+| Pensar que el número de hojas es siempre 255 | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
 | Usar coma en fórmulas españolas de examen cuando la opción correcta usa punto y coma | En Excel español suele usarse `;` como separador. |
 
 ## 6. Preguntas historicas
@@ -360,7 +498,7 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
    C. Ocultar todas las hojas
    D. Cambiar el tipo de letra
 
-9. En Excel moderno, el número de hojas que puede contener un libro:
+9. En Excel de Microsoft 365 escritorio, el número de hojas que puede contener un libro:
    A. Es siempre 1
    B. Es siempre 16
    C. Es siempre 255
@@ -378,7 +516,7 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     C. Convertir fórmulas en texto
     D. Crear una hoja nueva
 
-12. En Excel 2016, la organización horizontal de ventanas:
+12. En Excel de Microsoft 365 escritorio, la organización horizontal de ventanas:
     A. Organiza en horizontal las ventanas de Excel abiertas
     B. Ordena las hojas del libro alfabéticamente
     C. Divide una hoja en dos partes
@@ -432,6 +570,66 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     C. `SUMA=A1:A10`
     D. `#SUMA(A1:A10)`
 
+21. ¿Qué referencia queda fija en columna y fila al copiar una fórmula?
+    A. `A1`
+    B. `$A$1`
+    C. `A$1:B2`
+    D. `A1$`
+
+22. ¿Qué herramienta limita los valores que se pueden introducir en una celda?
+    A. Validación de datos
+    B. Gráfico circular
+    C. Zoom
+    D. Comentario
+
+23. En una tabla dinámica, el área `Valores` contiene normalmente:
+    A. Cálculos como suma, recuento o promedio
+    B. Sólo nombres de hojas
+    C. Comentarios del libro
+    D. Hipervínculos externos
+
+24. Un gráfico de columnas se usa principalmente para:
+    A. Comparar categorías
+    B. Editar fórmulas
+    C. Proteger una hoja
+    D. Cambiar el nombre del libro
+
+25. El error `#DIV/0!` aparece normalmente cuando:
+    A. Se divide entre cero
+    B. Falta una hoja
+    C. Hay demasiados gráficos
+    D. Se usa un hipervínculo
+
+26. `Quitar duplicados`:
+    A. Elimina registros repetidos según columnas elegidas
+    B. Sólo cambia el color de las celdas
+    C. Crea una tabla dinámica
+    D. Inserta una hoja nueva
+
+27. Inmovilizar paneles sirve para:
+    A. Mantener filas o columnas visibles al desplazarse
+    B. Bloquear todas las fórmulas para siempre
+    C. Cerrar el libro
+    D. Cambiar el separador decimal
+
+28. El formato de número permite:
+    A. Cambiar cómo se muestra un valor, por ejemplo como fecha o porcentaje
+    B. Cambiar siempre el valor real almacenado
+    C. Crear un hipervínculo
+    D. Eliminar una hoja
+
+29. Una leyenda en un gráfico sirve para:
+    A. Identificar series de datos
+    B. Validar entradas
+    C. Dividir texto en columnas
+    D. Contar celdas vacías
+
+30. `Texto en columnas` permite:
+    A. Dividir contenido de una columna en varias
+    B. Crear encabezados de página
+    C. Cambiar la orientación de impresión
+    D. Borrar todos los gráficos
+
 ### Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -444,7 +642,7 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | 6 | B | `DERECHA` extrae caracteres desde el final del texto. |
 | 7 | A | La tabla dinámica resume y analiza datos. |
 | 8 | A | Un hipervínculo permite saltar a otro destino. |
-| 9 | D | En Excel moderno depende de la memoria disponible. |
+| 9 | D | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
 | 10 | A | Ordenar cambia el orden de los datos. |
 | 11 | B | Filtrar muestra sólo registros que cumplen criterios. |
 | 12 | A | La organización horizontal afecta a ventanas abiertas. |
@@ -456,6 +654,16 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | 18 | A | La celda activa es la seleccionada. |
 | 19 | A | `Datos` agrupa herramientas como ordenar y filtrar. |
 | 20 | B | Una fórmula empieza por `=` y usa función con paréntesis. |
+| 21 | B | `$A$1` fija columna y fila. |
+| 22 | A | La validación limita entradas permitidas. |
+| 23 | A | `Valores` contiene cálculos resumidos. |
+| 24 | A | Columnas compara categorías. |
+| 25 | A | `#DIV/0!` indica división entre cero. |
+| 26 | A | Quitar duplicados elimina repetidos si se confirma. |
+| 27 | A | Inmovilizar mantiene filas o columnas visibles. |
+| 28 | A | El formato cambia la visualización del valor. |
+| 29 | A | La leyenda identifica series. |
+| 30 | A | Texto en columnas separa contenido en varias columnas. |
 
 ## 8. Esquema final
 

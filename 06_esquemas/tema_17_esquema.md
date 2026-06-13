@@ -1,5 +1,9 @@
 # Tema 17. Word - Esquema rápido
 
+## Versión oficial
+
+La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Office. Word debe estudiarse sobre Word de Microsoft 365 escritorio. Las preguntas históricas de Word 2016 se conservan como referencia de recurrencia, no como versión oficial.
+
 ## Prioridad histórica
 
 | Subtema | Preguntas |
@@ -17,7 +21,11 @@
 | Propiedades personalizadas | `Archivo` -> `Información` -> `Propiedades` -> `Propiedades avanzadas` |
 | Insertar otro documento | `Insertar` -> `Texto` -> `Objeto` |
 | Buscar texto | `Buscar` |
+| Reemplazar texto | `Reemplazar` |
 | Ver aspecto impreso | `Diseño de impresión` |
+| Imprimir | `Archivo` -> `Imprimir` |
+| Exportar a PDF | `Archivo` -> `Exportar` o `Guardar como` PDF |
+| Opciones de Word | `Archivo` -> `Opciones` |
 
 ## Conceptos que caen
 
@@ -26,9 +34,15 @@
 | Interlineado | Espacio vertical entre líneas de un párrafo |
 | Sangría izquierda | Desplazamiento del párrafo hacia la derecha respecto al margen izquierdo |
 | Sección | Parte del documento con formato propio |
+| Estilo | Formato guardado para aplicar de forma uniforme |
+| Salto de página | Fuerza inicio en otra página |
+| Salto de sección | Permite configuración propia desde un punto |
+| Encabezado y pie | Zonas repetibles de parte superior e inferior |
 | Lista con viñetas | Cada párrafo empieza con símbolo o imagen |
 | Lista numerada | Cada párrafo empieza con número, letra o esquema |
 | Propiedades | Metadatos del archivo |
+| Formato de fuente | Negrita, cursiva, tamaño, color |
+| Formato de párrafo | Alineación, sangría, interlineado, espaciado |
 
 ## Trampas
 
@@ -36,6 +50,9 @@
 - Interlineado no es margen.
 - Sangría no es margen de página.
 - Sección no es salto de página.
+- Diseño de impresión no es imprimir.
+- Zoom no cambia el documento.
+- Exportar a PDF no equivale a editar el documento original.
 - Para insertar otro documento: `Objeto`, no `Cuadro de texto`.
 - Para propiedades personalizadas: `Propiedades avanzadas`, no `Inspeccionar documento`.
 - `Diseño de impresión` es la vista preguntada para aspecto impreso.

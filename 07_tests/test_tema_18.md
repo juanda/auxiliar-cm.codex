@@ -44,13 +44,13 @@
    C. Una celda bloqueada
    D. Un tipo de gráfico
 
-8. En Excel moderno, el número de hojas de un libro:
+8. En Excel de Microsoft 365 escritorio, el número de hojas de un libro:
    A. Depende de la memoria disponible
    B. Es siempre 1
    C. Es siempre 16
    D. Es siempre 255
 
-9. En Excel 2016, la organización horizontal de ventanas:
+9. En Excel de Microsoft 365 escritorio, la organización horizontal de ventanas:
    A. Divide una hoja en dos paneles
    B. Organiza en horizontal las ventanas de Excel abiertas
    C. Borra las ventanas ocultas

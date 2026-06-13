@@ -6,6 +6,8 @@ Procesadores de texto: Word. Principales funciones y utilidades. Creación y est
 
 Word es un procesador de textos: sirve para crear, editar, estructurar, revisar, guardar e imprimir documentos. En esta oposición no interesa aprender Word como usuario experto, sino dominar los comandos y conceptos que suelen convertirse en preguntas tipo test.
 
+La versión oficial para este tema es `Microsoft 365 versión escritorio`, conforme al Anexo I, apartado Primero.2.2 de la convocatoria 2026. Las preguntas históricas de Word 2016 se usan sólo como referencia de recurrencia, porque muchas funciones básicas se mantienen, pero el desarrollo del tema debe estudiarse sobre Word de Microsoft 365 de escritorio.
+
 La estadística histórica disponible muestra que Word aparece sobre todo en el segundo ejercicio de ofimática. Los subtemas con más rendimiento son:
 
 | Subtema | Preguntas históricas |
@@ -28,6 +30,8 @@ Las preguntas reales se centran en:
 - Vista Diseño de impresión.
 - Comodines de búsqueda.
 
+Además de esos puntos históricos, el enunciado oficial obliga a cubrir todo el ciclo de trabajo con documentos: crear y estructurar, editar, guardar, recuperar, imprimir y adaptar el entorno de Word.
+
 Para aprobar este tema conviene memorizar rutas de menú frecuentes, pero entendiendo la función. El examen suele usar distractores muy parecidos: confunde `Guardar` con `Guardar como`, `Diseño de impresión` con `Vista preliminar`, `Objeto` con `Cuadro de texto`, o `Propiedades avanzadas` con `Inspeccionar documento`.
 
 Idea clave: Word organiza casi todo alrededor de la cinta de opciones y la vista Backstage, accesible desde `Archivo`. La cinta contiene comandos de edición y formato; `Archivo` concentra información, guardado, impresión, exportación y opciones generales.
@@ -37,6 +41,18 @@ Idea clave: Word organiza casi todo alrededor de la cinta de opciones y la vista
 ### 2.1. Qué es Word
 
 Word permite trabajar con documentos de texto enriquecido. Un documento puede contener texto, tablas, imágenes, encabezados, pies de página, estilos, referencias, secciones, comentarios y metadatos.
+
+Sus funciones principales son:
+
+| Función | Utilidad |
+| --- | --- |
+| Crear documentos | Partir de documento en blanco o plantilla. |
+| Editar texto | Escribir, seleccionar, copiar, cortar, pegar, buscar y reemplazar. |
+| Dar formato | Aplicar formato de fuente, párrafo, listas, estilos y diseño de página. |
+| Estructurar | Usar títulos, estilos, secciones, encabezados, pies e índices. |
+| Revisar | Ortografía, gramática, comentarios y control de cambios. |
+| Gestionar archivos | Guardar, guardar como, abrir, recuperar, exportar e imprimir. |
+| Personalizar | Ajustar cinta, barra de acceso rápido, opciones y vista de trabajo. |
 
 En el examen se debe distinguir entre:
 
@@ -62,6 +78,18 @@ Un párrafo en Word no equivale necesariamente a una línea. Es la unidad que te
 - Interlineado.
 - Espaciado anterior y posterior.
 - Viñetas y numeración.
+
+#### Formato de fuente y formato de párrafo
+
+| Formato de fuente | Formato de párrafo |
+| --- | --- |
+| Tipo de letra | Alineación |
+| Tamaño | Sangrías |
+| Negrita, cursiva, subrayado | Interlineado |
+| Color de fuente | Espaciado anterior y posterior |
+| Resaltado | Viñetas y numeración |
+
+Trampa típica: el examen puede mezclar opciones de fuente y de párrafo. El interlineado, la sangría y la alineación son formato de párrafo; negrita, tamaño y color son formato de fuente.
 
 #### Interlineado
 
@@ -102,6 +130,38 @@ Una sección es una parte del documento que puede tener configuración propia, p
 
 Pregunta histórica: `2023-E2-031`.
 
+#### Estilos y estructura del documento
+
+Los estilos son conjuntos de formato guardados. Permiten aplicar de forma uniforme títulos, subtítulos, texto normal y otros elementos. En Word de Microsoft 365 escritorio son relevantes porque:
+
+- Mantienen coherencia visual.
+- Facilitan modificar el documento completo cambiando un estilo.
+- Permiten generar estructura mediante títulos.
+- Ayudan a crear tablas de contenido.
+- Mejoran la navegación por el documento.
+
+| Elemento | Para qué sirve |
+| --- | --- |
+| Título 1, Título 2, Título 3 | Crear jerarquía del documento. |
+| Panel de navegación | Moverse por los títulos del documento. |
+| Tabla de contenido | Crear un índice basado en estilos de título. |
+| Saltos de página | Empezar contenido en una página nueva. |
+| Saltos de sección | Cambiar configuración en una parte del documento. |
+
+No confundir salto de página y salto de sección: el salto de página sólo fuerza el inicio en otra página; el salto de sección permite cambiar configuración como orientación, márgenes, columnas o encabezados.
+
+#### Encabezados, pies y numeración
+
+Los encabezados y pies de página son zonas repetibles en la parte superior e inferior de las páginas. Pueden incluir:
+
+- Número de página.
+- Fecha.
+- Nombre del documento.
+- Logotipo.
+- Texto fijo.
+
+Son especialmente preguntables cuando se combinan con secciones, porque cada sección puede tener encabezados, pies o numeración propios.
+
 ### 2.3. Gestión, grabación y recuperación de ficheros
 
 #### Guardar y Guardar como
@@ -115,9 +175,26 @@ Si el documento ya está abierto y se quiere guardarlo con nombre distinto, la r
 
 Pregunta histórica: `2025-E2-008`.
 
-#### Recuperación de versiones de Autoguardado
+#### Formatos de archivo y exportación
 
-En Word 2016 se ha preguntado por la recuperación de una versión de Autoguardado. La ruta examinada fue:
+Word de Microsoft 365 escritorio trabaja normalmente con documentos `.docx`. También puede abrir o guardar en otros formatos.
+
+| Formato | Uso |
+| --- | --- |
+| `.docx` | Documento moderno de Word. |
+| `.docm` | Documento de Word con macros. |
+| `.dotx` | Plantilla de Word. |
+| `.pdf` | Formato para distribuir o imprimir sin editar fácilmente. |
+| `.rtf` | Texto enriquecido compatible con distintos programas. |
+| `.txt` | Texto sin formato. |
+
+No confundir `Guardar como` con `Exportar`: ambos pueden crear una copia en otro formato, pero `Exportar` se asocia especialmente a PDF/XPS y a generar una versión para distribución.
+
+#### Recuperación de versiones y Autoguardado
+
+En Word de Microsoft 365 escritorio debe conocerse la lógica de recuperación, Autoguardado, Autorrecuperación e historial de versiones. Las opciones concretas pueden variar según si el archivo está guardado localmente o en OneDrive/SharePoint, pero la zona clave sigue siendo `Archivo`.
+
+En una pregunta histórica de Word 2016 se preguntó por la recuperación de una versión de Autoguardado mediante:
 
 `Archivo` -> `Información` -> `Administrar documento`.
 
@@ -140,7 +217,7 @@ Las propiedades del documento son datos descriptivos del archivo. Pueden incluir
 - Categoría.
 - Comentarios.
 
-Para añadir propiedades personalizadas en Word 2016, la ruta preguntada fue:
+En Word de Microsoft 365 escritorio, las propiedades del documento se consultan desde `Archivo` -> `Información`. También conviene reconocer la ruta histórica preguntada para propiedades personalizadas:
 
 `Archivo` -> `Información` -> `Propiedades` -> `Propiedades avanzadas`.
 
@@ -160,11 +237,26 @@ No confundir con:
 - `Referencia cruzada`: enlaza con elementos internos.
 - `Vínculos`: no es la ruta principal para insertar un documento completo.
 
+#### Abrir, cerrar y gestionar documentos recientes
+
+Desde `Archivo` se accede a documentos recientes, apertura de archivos, guardado, impresión, uso compartido y opciones. Esta zona se conoce habitualmente como vista Backstage.
+
+| Acción | Zona habitual |
+| --- | --- |
+| Abrir documento | `Archivo` -> `Abrir` |
+| Ver documentos recientes | `Archivo` -> `Abrir` -> recientes |
+| Guardar cambios | `Archivo` -> `Guardar` o botón Guardar |
+| Guardar copia | `Archivo` -> `Guardar como` |
+| Exportar a PDF | `Archivo` -> `Exportar` o `Guardar como` PDF |
+| Imprimir | `Archivo` -> `Imprimir` |
+
 ### 2.4. Búsqueda en Word
 
 La función `Buscar` permite localizar palabras o fragmentos dentro de un documento abierto.
 
 Pregunta histórica: `2025-E2-006`.
+
+La función `Reemplazar` permite sustituir un texto por otro. Es distinta de `Buscar`: buscar localiza; reemplazar modifica el contenido si se confirma la sustitución.
 
 También pueden aparecer búsquedas avanzadas con comodines. En Word, dentro de los comodines, el signo de admiración de cierre `!` dentro de corchetes se usa para excluir caracteres incluidos en el conjunto.
 
@@ -183,8 +275,27 @@ Word permite ver el documento de distintas formas. La vista clave para examen es
 | Diseño de impresión | Muestra el aspecto del documento como se imprimirá. |
 | Modo lectura | Facilita la lectura en pantalla. |
 | Esquema | Muestra la estructura jerárquica del documento. |
+| Borrador | Vista simplificada para edición rápida. |
+| Diseño web | Muestra el documento como página web. |
 
 Pregunta histórica: `2025-E2-032`.
+
+#### Impresión
+
+La impresión se gestiona desde `Archivo` -> `Imprimir`. Ahí se pueden revisar opciones frecuentes:
+
+| Opción | Qué permite |
+| --- | --- |
+| Impresora | Elegir dispositivo de impresión. |
+| Copias | Indicar número de copias. |
+| Intervalo de páginas | Imprimir todo, página actual o páginas concretas. |
+| Intercalado | Ordenar copias completas cuando hay varias copias. |
+| Orientación | Vertical u horizontal. |
+| Tamaño de papel | A4 u otros tamaños. |
+| Márgenes | Normal, estrecho, moderado o personalizado. |
+| Páginas por hoja | Imprimir varias páginas reducidas en una hoja. |
+
+Trampa típica: `Diseño de impresión` es una vista de trabajo; `Archivo` -> `Imprimir` es la zona de impresión y vista previa.
 
 ### 2.6. Personalización del entorno de trabajo
 
@@ -197,20 +308,40 @@ Aunque las preguntas históricas se han centrado más en gestión documental, co
 | Opciones de Word | Configurar comportamiento general, revisión, guardado y personalización. |
 | Vistas | Cambiar la forma de trabajar con el documento. |
 
+La personalización preguntable se concentra en:
+
+| Zona | Posibles ajustes |
+| --- | --- |
+| Cinta de opciones | Mostrar, ocultar o personalizar pestañas y grupos. |
+| Barra de acceso rápido | Añadir comandos frecuentes como Guardar, Deshacer o Imprimir. |
+| Opciones de revisión | Ortografía, gramática y autocorrección. |
+| Opciones de guardado | Formato predeterminado y autorrecuperación. |
+| Opciones avanzadas | Edición, visualización, impresión y compatibilidad. |
+| Zoom y vistas | Adaptar la visualización sin cambiar el documento. |
+
+No confundir personalizar el entorno con modificar el documento: cambiar el zoom, la cinta o la barra de acceso rápido afecta a la forma de trabajar; cambiar márgenes, estilos o interlineado afecta al documento.
+
 ## 3. Conceptos clave
 
 | Concepto | Definición preguntable | Trampa habitual |
 | --- | --- | --- |
 | Guardar | Actualiza el archivo abierto | Confundirlo con guardar con otro nombre |
 | Guardar como | Guarda con nombre, ubicación o formato distinto | Elegir `Guardar` |
+| Formato de fuente | Tamaño, color, negrita, cursiva y subrayado | Confundirlo con formato de párrafo |
+| Formato de párrafo | Alineación, sangría, interlineado y espaciado | Confundirlo con formato de fuente |
 | Interlineado | Espacio vertical entre líneas de un párrafo | Confundirlo con margen superior |
 | Sangría izquierda | Desplaza el párrafo respecto al margen izquierdo | Confundir con estilo o subrayado |
+| Estilo | Conjunto guardado de formatos | Pensar que sólo cambia el tamaño |
 | Sección | Parte del documento con configuración propia | Confundir con salto de página |
+| Encabezado y pie | Zonas repetibles superior e inferior | Confundir con margen |
 | Propiedades | Metadatos del archivo | Confundir con Inspeccionar documento |
 | Objeto | Permite insertar un documento en otro | Confundir con Cuadro de texto |
 | Buscar | Localiza texto en un documento | Confundir con Formato o Disposición |
+| Reemplazar | Sustituye texto localizado por otro | Confundir con Buscar |
 | Comodín `!` | Excluye caracteres dentro de corchetes | Confundir con `?` o `*` |
 | Diseño de impresión | Muestra cómo quedará impreso | Confundir con Vista preliminar |
+| Imprimir | Gestiona impresora, copias, páginas y márgenes | Confundir con Diseño de impresión |
+| Personalización | Ajusta cinta, acceso rápido, opciones, zoom y vistas | Confundir con modificar el contenido |
 
 ## 4. Artículos importantes
 
@@ -224,6 +355,9 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Inserción | `Insertar` -> `Texto` -> `Objeto` |
 | Búsqueda | `Inicio` -> `Buscar`, o cuadro de búsqueda |
 | Vista de impresión | `Vista` -> `Diseño de impresión` |
+| Impresión | `Archivo` -> `Imprimir`: impresora, copias, páginas, orientación, márgenes |
+| Formatos | `.docx`, `.docm`, `.dotx`, `.pdf`, `.rtf`, `.txt` |
+| Personalización | `Archivo` -> `Opciones`: cinta, acceso rápido, revisión, guardado |
 
 ## 5. Errores típicos
 
@@ -233,10 +367,15 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Confundir interlineado con margen | El interlineado afecta al espacio entre líneas del párrafo |
 | Confundir sangría con margen | La sangría mueve el párrafo; el margen afecta a la página |
 | Pensar que una sección es una página | Una sección puede ocupar una o muchas páginas |
+| Confundir salto de página con salto de sección | El salto de sección permite configuración propia |
+| Confundir formato de fuente con formato de párrafo | Fuente afecta a caracteres; párrafo afecta al bloque |
 | Elegir `Cuadro de texto` para insertar otro documento | La ruta preguntada es `Objeto` |
 | Confundir `Inspeccionar documento` con propiedades personalizadas | Las propiedades avanzadas cuelgan de `Propiedades` |
 | Pensar que Diseño de impresión es Vista preliminar | En el test se preguntó por el comando `Diseño de impresión` |
-| Olvidar que Word 2016 y Word 365 comparten muchas funciones básicas | El examen mezcla versiones, pero pregunta funciones estables |
+| Pensar que exportar a PDF equivale a editar el documento | Genera una versión de salida, normalmente no editable |
+| Pensar que el zoom cambia el documento | Cambia la visualización, no el contenido |
+| Estudiar Word 2016 como versión base | La convocatoria 2026 fija Microsoft 365 versión escritorio |
+| Descartar preguntas históricas de Word 2016 | Sirven como referencia de recurrencia si tratan funciones que siguen existiendo |
 
 ## 6. Preguntas históricas
 
@@ -298,7 +437,7 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
    C. Las fuentes instaladas
    D. Las vistas disponibles
 
-8. Para añadir propiedades personalizadas en Word 2016 se preguntó por:
+8. En Word de Microsoft 365 escritorio, ¿qué zona permite consultar información y propiedades del documento?
    A. Archivo -> Información -> Propiedades -> Propiedades avanzadas
    B. Vista -> Mostrar -> Propiedades
    C. Revisar -> Comentarios -> Propiedades
@@ -376,6 +515,66 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
     C. Pensar que cambia el idioma
     D. Pensar que borra el documento
 
+21. ¿Qué diferencia principal hay entre un salto de página y un salto de sección?
+    A. El salto de página permite configuración propia y el de sección no
+    B. El salto de página fuerza una nueva página; el de sección permite configuración propia
+    C. Son exactamente iguales
+    D. El salto de sección sólo sirve para insertar imágenes
+
+22. ¿Qué elemento permite aplicar de forma uniforme un conjunto de formatos?
+    A. Estilo
+    B. Comentario
+    C. Zoom
+    D. Vista preliminar
+
+23. ¿Qué opción pertenece al formato de fuente?
+    A. Interlineado
+    B. Sangría
+    C. Tamaño de letra
+    D. Espaciado posterior
+
+24. ¿Qué opción se gestiona desde `Archivo -> Imprimir`?
+    A. Número de copias
+    B. Color de fuente
+    C. Comentarios
+    D. Estilos rápidos
+
+25. Exportar un documento a PDF sirve principalmente para:
+    A. Generar una versión de salida para distribuir o imprimir
+    B. Crear una sección nueva
+    C. Activar el panel de navegación
+    D. Cambiar el interlineado
+
+26. El zoom en Word:
+    A. Cambia el tamaño real de la fuente
+    B. Cambia la visualización en pantalla
+    C. Cambia los márgenes del documento
+    D. Inserta saltos de página
+
+27. Los encabezados y pies de página son:
+    A. Zonas repetibles en la parte superior e inferior de las páginas
+    B. Tipos de hipervínculo
+    C. Fórmulas de Word
+    D. Propiedades ocultas
+
+28. El panel de navegación resulta especialmente útil cuando el documento usa:
+    A. Estilos de título
+    B. Sólo texto sin formato
+    C. Imágenes sin texto
+    D. Contraseñas
+
+29. La función `Reemplazar` se diferencia de `Buscar` porque:
+    A. Sólo localiza texto
+    B. Sustituye texto por otro si se confirma
+    C. Cambia la impresora
+    D. Crea un archivo PDF
+
+30. La barra de herramientas de acceso rápido permite:
+    A. Tener comandos frecuentes siempre visibles
+    B. Modificar el contenido de todas las páginas
+    C. Crear tablas dinámicas
+    D. Cambiar el tamaño del papel automáticamente
+
 ### Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -400,6 +599,16 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | 18 | A | `Información` concentra propiedades y administración. |
 | 19 | A | Es la vista clave para aspecto impreso. |
 | 20 | A | Sangría no equivale a margen de página. |
+| 21 | B | El salto de sección permite configuración propia. |
+| 22 | A | Los estilos guardan conjuntos de formato. |
+| 23 | C | El tamaño de letra es formato de fuente. |
+| 24 | A | Las copias se ajustan en impresión. |
+| 25 | A | PDF es una versión de salida para distribución o impresión. |
+| 26 | B | El zoom cambia la visualización, no el documento. |
+| 27 | A | Encabezado y pie son zonas repetibles. |
+| 28 | A | El panel usa la estructura de títulos. |
+| 29 | B | Reemplazar sustituye texto, no sólo lo localiza. |
+| 30 | A | La barra de acceso rápido muestra comandos frecuentes. |
 
 ## 8. Esquema final
 

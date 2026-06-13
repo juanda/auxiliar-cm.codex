@@ -98,6 +98,9 @@ La referencia principal será la convocatoria 2026.
 * Bloque II (Ofimática).
 * Tiempo: 35 minutos.
 * Penalización: 1/3 por error.
+* Versiones oficiales indicadas en el Anexo I, apartado Primero.2.2:
+  * Windows: Windows 10.
+  * Microsoft Office: Microsoft 365 versión escritorio.
 
 ---
 
@@ -168,6 +171,8 @@ Los documentos administrativos: Concepto, funciones, clasificación y caracterí
 ---
 
 ## BLOQUE II
+
+Nota de versión para todo el Bloque II: según el Anexo I, apartado Primero.2.2 de la convocatoria 2026, las preguntas sobre Windows y Microsoft Office estarán referidas a `Windows 10` y `Microsoft 365 versión escritorio`. Por tanto, los temas de Word, Excel, Access, Outlook y herramientas Microsoft 365 deben desarrollarse con Microsoft 365 de escritorio como versión base. Las preguntas históricas de Excel/Word 2016 sirven como referencia de recurrencia, pero no como versión oficial de la convocatoria 2026.
 
 ### Tema 16
 
