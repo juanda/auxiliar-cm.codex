@@ -47,5 +47,101 @@
         "rapidez perceptiva"
       ]
     }
-  ]
+  ],
+  "recuento_examenes_oficiales": {
+    "total": 105,
+    "por_tipo": {
+      "psicotecnico_atencion": 27,
+      "psicotecnico_logico": 22,
+      "psicotecnico_numerico": 24,
+      "psicotecnico_verbal": 32
+    },
+    "por_subtema": [
+      {
+        "subtema": "Cálculo numérico",
+        "tipo": "psicotecnico_numerico",
+        "preguntas": 14
+      },
+      {
+        "subtema": "Ortografía",
+        "tipo": "psicotecnico_verbal",
+        "preguntas": 12
+      },
+      {
+        "subtema": "Razonamiento verbal",
+        "tipo": "psicotecnico_verbal",
+        "preguntas": 11
+      },
+      {
+        "subtema": "Tablas de datos",
+        "tipo": "psicotecnico_atencion",
+        "preguntas": 9
+      },
+      {
+        "subtema": "Series de letras",
+        "tipo": "psicotecnico_logico",
+        "preguntas": 8
+      },
+      {
+        "subtema": "Razonamiento numérico",
+        "tipo": "psicotecnico_numerico",
+        "preguntas": 8
+      },
+      {
+        "subtema": "Búsqueda visual",
+        "tipo": "psicotecnico_atencion",
+        "preguntas": 6
+      },
+      {
+        "subtema": "Sinónimos y analogías",
+        "tipo": "psicotecnico_verbal",
+        "preguntas": 6
+      },
+      {
+        "subtema": "Búsqueda de secuencias",
+        "tipo": "psicotecnico_atencion",
+        "preguntas": 5
+      },
+      {
+        "subtema": "Tablas de datos y cálculo administrativo",
+        "tipo": "psicotecnico_atencion",
+        "preguntas": 5
+      },
+      {
+        "subtema": "Razonamiento abstracto",
+        "tipo": "psicotecnico_logico",
+        "preguntas": 5
+      },
+      {
+        "subtema": "Razonamiento verbal lógico",
+        "tipo": "psicotecnico_logico",
+        "preguntas": 5
+      },
+      {
+        "subtema": "Aplicación de criterios",
+        "tipo": "psicotecnico_logico",
+        "preguntas": 4
+      },
+      {
+        "subtema": "Analogías verbales",
+        "tipo": "psicotecnico_verbal",
+        "preguntas": 3
+      },
+      {
+        "subtema": "Comparación de matrices",
+        "tipo": "psicotecnico_atencion",
+        "preguntas": 2
+      },
+      {
+        "subtema": "Fracciones",
+        "tipo": "psicotecnico_numerico",
+        "preguntas": 1
+      },
+      {
+        "subtema": "Porcentajes",
+        "tipo": "psicotecnico_numerico",
+        "preguntas": 1
+      }
+    ]
+  }
 }

@@ -1,0 +1,506 @@
+[
+  {
+    "tema": null,
+    "subtema": "Cálculo numérico",
+    "tipo": "psicotecnico_numerico",
+    "preguntas": 14
+  },
+  {
+    "tema": 6,
+    "subtema": "Procedimiento administrativo",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 13
+  },
+  {
+    "tema": null,
+    "subtema": "Ortografía",
+    "tipo": "psicotecnico_verbal",
+    "preguntas": 12
+  },
+  {
+    "tema": null,
+    "subtema": "Razonamiento verbal",
+    "tipo": "psicotecnico_verbal",
+    "preguntas": 11
+  },
+  {
+    "tema": 16,
+    "subtema": "Explorador de archivos",
+    "tipo": "ofimatica",
+    "preguntas": 10
+  },
+  {
+    "tema": 20,
+    "subtema": "Correo electrónico",
+    "tipo": "ofimatica",
+    "preguntas": 9
+  },
+  {
+    "tema": null,
+    "subtema": "Tablas de datos",
+    "tipo": "psicotecnico_atencion",
+    "preguntas": 9
+  },
+  {
+    "tema": 2,
+    "subtema": "Asamblea de Madrid",
+    "tipo": "comunidad_madrid",
+    "preguntas": 8
+  },
+  {
+    "tema": 8,
+    "subtema": "Derecho de acceso a la información pública",
+    "tipo": "transparencia",
+    "preguntas": 8
+  },
+  {
+    "tema": 10,
+    "subtema": "Personal al servicio de las Administraciones Públicas",
+    "tipo": "funcion_publica",
+    "preguntas": 8
+  },
+  {
+    "tema": 17,
+    "subtema": "Gestión de documentos Word",
+    "tipo": "ofimatica",
+    "preguntas": 8
+  },
+  {
+    "tema": 18,
+    "subtema": "Libros, hojas y celdas",
+    "tipo": "ofimatica",
+    "preguntas": 8
+  },
+  {
+    "tema": null,
+    "subtema": "Razonamiento numérico",
+    "tipo": "psicotecnico_numerico",
+    "preguntas": 8
+  },
+  {
+    "tema": null,
+    "subtema": "Series de letras",
+    "tipo": "psicotecnico_logico",
+    "preguntas": 8
+  },
+  {
+    "tema": 7,
+    "subtema": "Jurisdicción contencioso-administrativa",
+    "tipo": "legislacion",
+    "preguntas": 7
+  },
+  {
+    "tema": 9,
+    "subtema": "Contratos del sector público",
+    "tipo": "contratos",
+    "preguntas": 7
+  },
+  {
+    "tema": 13,
+    "subtema": "Igualdad entre mujeres y hombres",
+    "tipo": "igualdad",
+    "preguntas": 7
+  },
+  {
+    "tema": 19,
+    "subtema": "Tablas Access",
+    "tipo": "ofimatica",
+    "preguntas": 7
+  },
+  {
+    "tema": 21,
+    "subtema": "Navegación web y protocolos",
+    "tipo": "ofimatica",
+    "preguntas": 7
+  },
+  {
+    "tema": 3,
+    "subtema": "Consejo de Gobierno",
+    "tipo": "comunidad_madrid",
+    "preguntas": 6
+  },
+  {
+    "tema": 14,
+    "subtema": "Atención al ciudadano",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 6
+  },
+  {
+    "tema": null,
+    "subtema": "Búsqueda visual",
+    "tipo": "psicotecnico_atencion",
+    "preguntas": 6
+  },
+  {
+    "tema": null,
+    "subtema": "Sinónimos y analogías",
+    "tipo": "psicotecnico_verbal",
+    "preguntas": 6
+  },
+  {
+    "tema": 8,
+    "subtema": "Transparencia",
+    "tipo": "transparencia",
+    "preguntas": 5
+  },
+  {
+    "tema": 14,
+    "subtema": "Administración electrónica",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 5
+  },
+  {
+    "tema": null,
+    "subtema": "Búsqueda de secuencias",
+    "tipo": "psicotecnico_atencion",
+    "preguntas": 5
+  },
+  {
+    "tema": null,
+    "subtema": "Razonamiento abstracto",
+    "tipo": "psicotecnico_logico",
+    "preguntas": 5
+  },
+  {
+    "tema": null,
+    "subtema": "Razonamiento verbal lógico",
+    "tipo": "psicotecnico_logico",
+    "preguntas": 5
+  },
+  {
+    "tema": null,
+    "subtema": "Tablas de datos y cálculo administrativo",
+    "tipo": "psicotecnico_atencion",
+    "preguntas": 5
+  },
+  {
+    "tema": 1,
+    "subtema": "Valores superiores",
+    "tipo": "constitucion",
+    "preguntas": 4
+  },
+  {
+    "tema": 11,
+    "subtema": "Seguridad Social",
+    "tipo": "seguridad_social",
+    "preguntas": 4
+  },
+  {
+    "tema": 12,
+    "subtema": "Presupuestos",
+    "tipo": "hacienda_publica",
+    "preguntas": 4
+  },
+  {
+    "tema": 15,
+    "subtema": "Registro de documentos",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 4
+  },
+  {
+    "tema": null,
+    "subtema": "Aplicación de criterios",
+    "tipo": "psicotecnico_logico",
+    "preguntas": 4
+  },
+  {
+    "tema": 1,
+    "subtema": "Derechos y deberes fundamentales",
+    "tipo": "constitucion",
+    "preguntas": 3
+  },
+  {
+    "tema": 4,
+    "subtema": "Leyes orgánicas",
+    "tipo": "legislacion",
+    "preguntas": 3
+  },
+  {
+    "tema": 6,
+    "subtema": "Notificaciones",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 3
+  },
+  {
+    "tema": 8,
+    "subtema": "Protección de datos",
+    "tipo": "transparencia",
+    "preguntas": 3
+  },
+  {
+    "tema": 13,
+    "subtema": "Personas LGTBI",
+    "tipo": "igualdad",
+    "preguntas": 3
+  },
+  {
+    "tema": 13,
+    "subtema": "Violencia de género",
+    "tipo": "igualdad",
+    "preguntas": 3
+  },
+  {
+    "tema": 18,
+    "subtema": "Fórmulas y funciones Excel",
+    "tipo": "ofimatica",
+    "preguntas": 3
+  },
+  {
+    "tema": 19,
+    "subtema": "Access y Power BI",
+    "tipo": "ofimatica",
+    "preguntas": 3
+  },
+  {
+    "tema": 21,
+    "subtema": "Teams y videoconferencias",
+    "tipo": "ofimatica",
+    "preguntas": 3
+  },
+  {
+    "tema": null,
+    "subtema": "Analogías verbales",
+    "tipo": "psicotecnico_verbal",
+    "preguntas": 3
+  },
+  {
+    "tema": 1,
+    "subtema": "Constitución",
+    "tipo": "constitucion",
+    "preguntas": 2
+  },
+  {
+    "tema": 2,
+    "subtema": "Competencias",
+    "tipo": "comunidad_madrid",
+    "preguntas": 2
+  },
+  {
+    "tema": 2,
+    "subtema": "Estatuto de Autonomía",
+    "tipo": "comunidad_madrid",
+    "preguntas": 2
+  },
+  {
+    "tema": 3,
+    "subtema": "Consejerías",
+    "tipo": "comunidad_madrid",
+    "preguntas": 2
+  },
+  {
+    "tema": 4,
+    "subtema": "Ordenamiento jurídico",
+    "tipo": "legislacion",
+    "preguntas": 2
+  },
+  {
+    "tema": 6,
+    "subtema": "Ley 39/2015",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 2
+  },
+  {
+    "tema": 8,
+    "subtema": "Portal de transparencia",
+    "tipo": "transparencia",
+    "preguntas": 2
+  },
+  {
+    "tema": 10,
+    "subtema": "Régimen disciplinario",
+    "tipo": "funcion_publica",
+    "preguntas": 2
+  },
+  {
+    "tema": 11,
+    "subtema": "Acción protectora",
+    "tipo": "seguridad_social",
+    "preguntas": 2
+  },
+  {
+    "tema": 11,
+    "subtema": "Cotización",
+    "tipo": "seguridad_social",
+    "preguntas": 2
+  },
+  {
+    "tema": 12,
+    "subtema": "Hacienda Pública",
+    "tipo": "hacienda_publica",
+    "preguntas": 2
+  },
+  {
+    "tema": 14,
+    "subtema": "Información administrativa",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 2
+  },
+  {
+    "tema": 15,
+    "subtema": "Documentos administrativos",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 2
+  },
+  {
+    "tema": 16,
+    "subtema": "Herramientas del sistema",
+    "tipo": "ofimatica",
+    "preguntas": 2
+  },
+  {
+    "tema": 17,
+    "subtema": "Búsqueda Word",
+    "tipo": "ofimatica",
+    "preguntas": 2
+  },
+  {
+    "tema": 21,
+    "subtema": "SharePoint",
+    "tipo": "ofimatica",
+    "preguntas": 2
+  },
+  {
+    "tema": null,
+    "subtema": "Comparación de matrices",
+    "tipo": "psicotecnico_atencion",
+    "preguntas": 2
+  },
+  {
+    "tema": 1,
+    "subtema": "Reforma constitucional",
+    "tipo": "constitucion",
+    "preguntas": 1
+  },
+  {
+    "tema": 3,
+    "subtema": "Administración institucional",
+    "tipo": "comunidad_madrid",
+    "preguntas": 1
+  },
+  {
+    "tema": 3,
+    "subtema": "Gobierno y Administración",
+    "tipo": "comunidad_madrid",
+    "preguntas": 1
+  },
+  {
+    "tema": 3,
+    "subtema": "Presidente de la Comunidad",
+    "tipo": "comunidad_madrid",
+    "preguntas": 1
+  },
+  {
+    "tema": 4,
+    "subtema": "Fuentes del derecho",
+    "tipo": "legislacion",
+    "preguntas": 1
+  },
+  {
+    "tema": 4,
+    "subtema": "Normas con rango de ley",
+    "tipo": "legislacion",
+    "preguntas": 1
+  },
+  {
+    "tema": 5,
+    "subtema": "Actos nulos y anulables",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 1
+  },
+  {
+    "tema": 5,
+    "subtema": "Responsabilidad administrativa",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 1
+  },
+  {
+    "tema": 6,
+    "subtema": "Alegaciones",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 1
+  },
+  {
+    "tema": 10,
+    "subtema": "Incompatibilidades",
+    "tipo": "funcion_publica",
+    "preguntas": 1
+  },
+  {
+    "tema": 10,
+    "subtema": "Retribuciones",
+    "tipo": "funcion_publica",
+    "preguntas": 1
+  },
+  {
+    "tema": 10,
+    "subtema": "Situaciones administrativas",
+    "tipo": "funcion_publica",
+    "preguntas": 1
+  },
+  {
+    "tema": 11,
+    "subtema": "Afiliación",
+    "tipo": "seguridad_social",
+    "preguntas": 1
+  },
+  {
+    "tema": 12,
+    "subtema": "Tesorería",
+    "tipo": "hacienda_publica",
+    "preguntas": 1
+  },
+  {
+    "tema": 15,
+    "subtema": "Archivo de documentos",
+    "tipo": "procedimiento_administrativo",
+    "preguntas": 1
+  },
+  {
+    "tema": 17,
+    "subtema": "Formato y estilos Word",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": 18,
+    "subtema": "Tablas dinámicas",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": 19,
+    "subtema": "Importación y exportación",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": 20,
+    "subtema": "Agenda",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": 20,
+    "subtema": "Outlook",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": 20,
+    "subtema": "Reglas de mensaje",
+    "tipo": "ofimatica",
+    "preguntas": 1
+  },
+  {
+    "tema": null,
+    "subtema": "Fracciones",
+    "tipo": "psicotecnico_numerico",
+    "preguntas": 1
+  },
+  {
+    "tema": null,
+    "subtema": "Porcentajes",
+    "tipo": "psicotecnico_numerico",
+    "preguntas": 1
+  }
+]

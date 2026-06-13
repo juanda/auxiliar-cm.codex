@@ -1,0 +1,794 @@
+id,anyo,ejercicio,numero,tema,subtema,tipo,dificultad,pregunta,opcion_A,opcion_B,opcion_C,opcion_D,respuesta_correcta,fuente
+2017-E1-001,2017,1,1,,Ortografía,psicotecnico_verbal,baja,"lividez, captor, rábano, lacayo, esaltamiento, tesela,
+hibisco, urogayo, bacuo, reptar",2,3,1,4,B,2017_Cuestionario1.CAM.pdf
+2017-E1-002,2017,1,2,,Ortografía,psicotecnico_verbal,baja,"astracto, hignoto, zarcillo, tuvería, besamanos,
+bosquejo, humo, excabeche, plebeyo, vadeable",3,2,4,5,C,2017_Cuestionario1.CAM.pdf
+2017-E1-003,2017,1,3,,Ortografía,psicotecnico_verbal,baja,"quirurgico, fraccion, brío, caridád, lapislázuli, aldába,
+tandem, mitologia, almibar, encefálica",6,5,4,7,D,2017_Cuestionario1.CAM.pdf
+2017-E1-004,2017,1,4,,Ortografía,psicotecnico_verbal,baja,"realidad, inclito, pómez, chimpance, colibrí, cinéfilo,
+huracán, véga, superávit, riesgo",3,2,5,4,A,2017_Cuestionario1.CAM.pdf
+2017-E1-005,2017,1,5,,Cálculo numérico,psicotecnico_numerico,media,"Una vez realizadas las operaciones numéricas de las series siguientes. ¿Cuál es el
+resultado de sumar los 3 totales?
+5 8 7 5 2 6 4
+7 5 8 9:3 8 3 5
+8 4 8:4 9 5 4",76,78,77,"75 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2017_Cuestionario1.CAM.pdf
+2017-E1-006,2017,1,6,,Cálculo numérico,psicotecnico_numerico,media,"Una vez realizadas las operaciones numéricas de las series siguientes. ¿Cuál es el
+resultado de sumar los 3 totales?
+8 13 12 6 9 15 11 18
+5 2 8 10 7 16 8 9
+6 2 9 7 3 5 8 2",19,21,20,18,A,2017_Cuestionario1.CAM.pdf
+2017-E1-007,2017,1,7,,Cálculo numérico,psicotecnico_numerico,media,"Observe las siguientes igualdades:
+R a b c
+S a b c
+T a b c
+En dichas igualdades se establece: a = 10, b = 1/4, c = 2.
+¿Cuál es el resultado de R S T?",29,19,25,15,D,2017_Cuestionario1.CAM.pdf
+2017-E1-008,2017,1,8,,Cálculo numérico,psicotecnico_numerico,media,"Una vez realizadas las operaciones numéricas de las series siguientes. ¿Cuál es el
+resultado de sumar los 2 totales?
+0,23 1,49 0,07 1,13
+3,49 1,03 0,16 4,01","1,77","0,77","1,87","0,87 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto. Observe el siguiente cuadro: pNMeqbFYGhmLBNcepNMeqbYFpNMbqeFYpNMqebFYpMNqebFYpNMbeqFYpMNqebFY CDKzhAprCKDhzArppNMqedFYpMNedqFYCKDhzApwpMNeqbFYpNMeqdYFCKDhzArp pNMeqbFypNMqedFYpNMbqeFYpNMeqbYFpNMeqbFYpMNeqbYFGhmBNLcepMNeqbFy GhmBNLcepMNeqbFyGhmLBNcePnMEbqFYpMNeqbFYCDKzhAprpNMbqeFYCDKzhApr pNMbqeFYpNMqedFYPnMEbqFYpMNeqbFypNMeqdFypNMqedFYCKDhzArpGhmBNLce pNMeqdYFpNMebqYFpNMbqeFYpMNedqFYpNMbqeFYGhmLBNcepNMeqbFYPnMEbqFY",D,2017_Cuestionario1.CAM.pdf
+2017-E1-009,2017,1,9,,Búsqueda de secuencias,psicotecnico_atencion,media,"Indique cuántas veces se encuentra incluida exactamente y en la misma secuencia la
+siguiente serie pNMeqbFY:",5,3,4,2,B,2017_Cuestionario1.CAM.pdf
+2017-E1-010,2017,1,10,,Búsqueda de secuencias,psicotecnico_atencion,media,"Indique cuántas veces se encuentra incluida exactamente y en la misma secuencia la
+siguiente serie pMNeqbFy:",3,4,5,6,A,2017_Cuestionario1.CAM.pdf
+2017-E1-011,2017,1,11,,Búsqueda de secuencias,psicotecnico_atencion,media,"Indique cuántas veces se encuentra incluida exactamente y en la misma secuencia la
+siguiente serie pMNebqFY:",1,Ninguna,2,3,B,2017_Cuestionario1.CAM.pdf
+2017-E1-012,2017,1,12,,Búsqueda de secuencias,psicotecnico_atencion,media,"Indique cuántas veces se encuentra incluida exactamente y en la misma secuencia la
+siguiente serie pNMbqeFY :",5,8,7,6,D,2017_Cuestionario1.CAM.pdf
+2017-E1-013,2017,1,13,,Búsqueda de secuencias,psicotecnico_atencion,media,"Indique cuántas veces se encuentra incluida exactamente y en la misma secuencia la
+siguiente serie pNMeqdYF:",4,3,2,"5 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",C,2017_Cuestionario1.CAM.pdf
+2017-E1-014,2017,1,14,,Series de letras,psicotecnico_logico,baja,b a z y d c x,w,v,y,u,A,2017_Cuestionario1.CAM.pdf
+2017-E1-015,2017,1,15,,Series de letras,psicotecnico_logico,baja,a b f g k l o,q,p,ñ,r,B,2017_Cuestionario1.CAM.pdf
+2017-E1-016,2017,1,16,,Series de letras,psicotecnico_logico,baja,"ñ m q j u f z . . . . . .
+A) n b x B) a C) D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2017_Cuestionario1.CAM.pdf
+2017-E1-017,2017,1,17,,Series de letras,psicotecnico_logico,baja,z y c d v u g,f i h,t,,"difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2017_Cuestionario1.CAM.pdf
+2017-E1-018,2017,1,18,,Razonamiento verbal,psicotecnico_verbal,baja,"Observe el siguiente grupo de palabras:
+estío - estrépito - cesión - desprecio - lustre
+Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras
+del grupo observado",confluencia / desdén / renuncia / esplendor / verano,renuncia / esplendor / verano / ostentación / desdén,ostentación / verano / extensión / renuncia / desdén,esplendor / desdén / ostentación / lentitud / verano,B,2017_Cuestionario1.CAM.pdf
+2017-E1-019,2017,1,19,,Razonamiento verbal,psicotecnico_verbal,baja,"Observe el siguiente grupo de palabras:
+ropero - pócima - garganta - doblez - rastrillo
+Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras
+del grupo observado",mercadillo / estrechura / malicia / cocimiento / efigie,armario / fuste / mercadillo / estrechura / cocimiento,cocimiento / malicia / armario / advertencia / mercadillo,malicia / mercadillo / armario / cocimiento / estrechura,D,2017_Cuestionario1.CAM.pdf
+2017-E1-020,2017,1,20,,Razonamiento verbal,psicotecnico_verbal,baja,"La velocidad de escaneado de un escáner es de 35 páginas por minuto para documentos
+en tamaño A4 y 20 páginas por minuto para documentos en tamaño A3. Hay que
+escanear 308 expedientes con 60 páginas cada uno en tamaño A4 y 400 expedientes
+con 38 páginas cada uno en tamaño A3. ¿Cuánto tiempo se tarda en total?",15 horas y 28 minutos,15 horas y 47 minutos,"7 horas, 41 minutos y 22 segundos",12 horas y 8 minutos,ANULADA,2017_Cuestionario1.CAM.pdf
+2017-E1-021,2017,1,21,,Razonamiento verbal,psicotecnico_verbal,baja,"Se hace un pedido de 3 conceptos: 430 bolígrafos al precio unitario de 1,20 euros (IVA no
+incluido) cada bolígrafo; 45 paquetes de papel de A4 a 7,26 euros (IVA incluido) cada
+paquete; 2.800 carpetas a 6,06 euros (IVA no incluido) cada carpeta. Si el IVA de todos
+los conceptos es del 21%, ¿cuál es el importe de la factura, IVA no incluido?","21.425,64 euros","17.810,70 euros","17.754,00 euros","21.482,34 euros difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2017_Cuestionario1.CAM.pdf
+2017-E1-022,2017,1,22,,Razonamiento verbal,psicotecnico_verbal,baja,"Observe el siguiente grupo de palabras:
+recalcitrar - frasear - arremeter - iterar - solapar
+Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras
+del grupo observado",enunciar / localizar / ocultar / acometer / resistir,enunciar / ocultar / acaparar / resistir / acometer,repetir / enunciar / acometer / ocultar / licuar,acometer / resistir / repetir / enunciar / ocultar,D,2017_Cuestionario1.CAM.pdf
+2017-E1-023,2017,1,23,,Razonamiento verbal,psicotecnico_verbal,baja,"Observe el siguiente grupo de palabras:
+extremado - primoroso - flamante - apacible - bonancible
+Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras
+del grupo observado",sereno / excesivo / delicado / rugoso / agradable,lúcido / delicado / agradable / excesivo / sereno,agradable / estepario / lúcido / sereno / delicado,noctámbulo / delicado / agradable / excesivo / sereno,B,2017_Cuestionario1.CAM.pdf
+2017-E1-024,2017,1,24,,Porcentajes,psicotecnico_numerico,media,"¿Cuál es el valor del 3,1% del 82,5% de 3.840?","98,208","1,443","9.820,800","1.021,935",A,2017_Cuestionario1.CAM.pdf
+2017-E1-025,2017,1,25,,Fracciones,psicotecnico_numerico,media,"Del presupuesto disponible en un departamento para material fungible, se gastan 4/13 del
+mismo. Más tarde se recibe la aportación de 81,00 euros. Posteriormente se gastan 2/9
+de la cantidad disponible en ese momento. Quedan 2.604,00 euros. ¿Cuál era el
+presupuesto inicial? Tenga en cuenta que el cálculo se ha realizado redondeando a dos
+decimales","5.367,11 euros","4.253,11 euros","4.685,57 euros","4.719,00 euros difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto. En una base de datos, tenemos una lista de personas empleadas en un centro, registradas mediante un código de identificación, con su fecha de ingreso en el centro, número de horas dedicadas a formación y teléfono móvil: CÓDIGO DE NÚMERO DE HORAS FECHA DE INGRESO IDENTIFICACIÓN DE DEDICADAS A TELÉFONO MÓVIL EN EL CENTRO LA PERSONA FORMACIÓN 884ABD 02/02/2012 234 638 256 323 562GGA 18/04/2012 123 699 320 415 190LKU 05/06/2012 67 605 503 488 562TYN 06/04/2012 226 638 541 724 484FEH 07/09/2012 301 653 281 455 526ABR 03/05/2012 78 699 234 441 448VRW 09/04/2012 93 699 101 214 327BFA 09/08/2012 98 649 702 542 901ARC 14/04/2012 234 628 254 393 884UQP 07/05/2012 127 617 231 346 562YGF 14/04/2012 125 653 923 870 109BDR 23/04/2012 116 659 131 405 723EAY 20/04/2012 291 653 120 903 190HLN 09/06/2012 312 632 587 624 256PGK 08/03/2012 145 638 207 129 448NMD 08/05/2012 254 659 452 790 723KMZ 10/04/2012 241 605 924 215 562PTS 01/07/2012 182 649 576 820 901GTU 11/03/2012 158 699 324 782 526TTB 11/04/2012 320 653 871 291 273FTV 11/05/2012 196 632 100 211 910DBL 30/03/2012 156 649 102 453 488EER 08/07/2012 252 659 776 810 526HIH 03/08/2012 299 638 309 254 723YET 18/04/2012 310 617 402 435 448DWG 22/05/2012 174 628 432 781 848BCM 11/06/2012 213 605 078 955 562GKU 10/02/2012 113 628 500 326 448VNN 22/04/2012 131 649 408 900 723SSC 09/02/2012 218 632 411 475 Las personas pertenecen a distintos departamentos, según los tres dígitos iniciales de su Código de identificación: DEPARTAMENTOS PERSONAS CUYOS CÓDIGOS EMPIECEN POR ESTOS DÍGITOS Contabilidad 190 / 848 / 526 / 327 Recursos Humanos 723 / 910 / 884 Informática 562 / 448 Publicidad 488 / 901 Producción 256 / 273 / 109 / 484 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto. A su vez, el expediente de las personas se encuentra archivado según su fecha de ingreso en el centro: ARCHIVADOR FECHA DE INGRESO EN EL CENTRO EZF/4 Entre el 01/02/2012 y el 07/04/2012 ZZF/4 Entre el 08/04/2012 y el 01/05/2012 EPP/3 Entre el 02/05/2012 y el 07/06/2012 PEP/3 Entre el 08/06/2012 y el 01/08/2012 ZPE/4 Entre el 02/08/2012 y el 08/09/2012",D,2017_Cuestionario1.CAM.pdf
+2017-E1-026,2017,1,26,,Tablas de datos,psicotecnico_atencion,media,"Indique cuántas personas que hayan ingresado antes del 10/05/2012 tienen un teléfono
+que acabe en 5 y, a la vez, contenga un 3:",5,4,6,7,B,2017_Cuestionario1.CAM.pdf
+2017-E1-027,2017,1,27,,Tablas de datos,psicotecnico_atencion,alta,"Indique cuántas personas del departamento de Recursos Humanos, con más de 120
+horas de formación, tienen sus expedientes guardados en el archivador EPP/3:",2,Ninguna,1,3,C,2017_Cuestionario1.CAM.pdf
+2017-E1-028,2017,1,28,,Tablas de datos,psicotecnico_atencion,media,"Indique cuántas personas con más de 132 horas dedicadas a la formación tienen un
+teléfono que empieza por 638 y, a la vez, contiene un 7 en el número de teléfono:",3,5,4,2,D,2017_Cuestionario1.CAM.pdf
+2017-E1-029,2017,1,29,,Tablas de datos,psicotecnico_atencion,media,Indique cuántas personas pertenecen al departamento de Informática:,9,10,8,7,A,2017_Cuestionario1.CAM.pdf
+2017-E1-030,2017,1,30,,Tablas de datos,psicotecnico_atencion,alta,Indique cuántos expedientes están guardados en el archivador PEP/3:,4,6,7,5,A,2017_Cuestionario1.CAM.pdf
+2017-E1-031,2017,1,31,,Tablas de datos,psicotecnico_atencion,alta,"Indique cuántas personas del departamento de Contabilidad con más de 90 horas de
+formación, tienen sus expedientes guardados en el archivador ZZF/4:",3,1,2,4,B,2017_Cuestionario1.CAM.pdf
+2017-E1-032,2017,1,32,,Tablas de datos,psicotecnico_atencion,media,"Indique cuántas personas han ingresado en el centro entre el 20/06/2012 y el
+05/09/2012:",2,3,4,1,C,2017_Cuestionario1.CAM.pdf
+2017-E1-033,2017,1,33,,Tablas de datos,psicotecnico_atencion,alta,Indique cuántos expedientes están guardados en el archivador EZF/4 :,10,8,9,7,D,2017_Cuestionario1.CAM.pdf
+2017-E1-034,2017,1,34,,Tablas de datos,psicotecnico_atencion,alta,"Indique cuántas personas del departamento de Publicidad tienen sus expedientes
+guardados en el archivador ZPE/4:",1,Ninguna,2,"3 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",B,2017_Cuestionario1.CAM.pdf
+2017-E1-035,2017,1,35,,Series de letras,psicotecnico_logico,baja,z y v u r q ñ,n,o,m,p,A,2017_Cuestionario1.CAM.pdf
+2017-E1-036,2017,1,36,,Series de letras,psicotecnico_logico,baja,b a a h g g n,o,n,ñ,m,D,2017_Cuestionario1.CAM.pdf
+2017-E1-037,2017,1,37,,Series de letras,psicotecnico_logico,baja,"g i a o q b x . . . . . .
+A) c d z B) y C) D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2017_Cuestionario1.CAM.pdf
+2017-E1-038,2017,1,38,,Series de letras,psicotecnico_logico,baja,z x t r ñ m i,h g f,e,,Indique cuántas palabras contienen algún error ortográfico en cada uno de los siguientes grupos de palabras:,B,2017_Cuestionario1.CAM.pdf
+2017-E1-039,2017,1,39,,Ortografía,psicotecnico_verbal,baja,"exacerbar, habilidad, yelmo, ehuforia, selladura,
+ventisca, tracción, probocador, abadejo, asiológico",3,4,5,2,A,2017_Cuestionario1.CAM.pdf
+2017-E1-040,2017,1,40,,Ortografía,psicotecnico_verbal,baja,"bayena, auecado, ebullición, baladí, oyente,oxidante,
+devacle, tayudo, activo, orda",4,7,6,"5 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",D,2017_Cuestionario1.CAM.pdf
+2017-E1-041,2017,1,41,,Ortografía,psicotecnico_verbal,baja,"específicamente, lápiz, algodón, cesped, pértiga,
+aguarrás, árido, artífice, absorbér, reiterádamente",3,4,5,2,A,2017_Cuestionario1.CAM.pdf
+2017-E1-042,2017,1,42,,Ortografía,psicotecnico_verbal,baja,"ámbos, inquietud, cuadrúpedo, contrarrelój, datil,
+aquí, torax, epica, adiós, verosímil",4,6,7,5,D,2017_Cuestionario1.CAM.pdf
+2017-E1-043,2017,1,43,,Analogías verbales,psicotecnico_verbal,media,Recto es a torcido como afable es a ___________:,Enflautado,Grave,Desagradable,Nato,C,2017_Cuestionario1.CAM.pdf
+2017-E1-044,2017,1,44,,Analogías verbales,psicotecnico_verbal,media,Mesura es a desmesura como inmediatez es a ___________:,Tardanza,Irrealidad,Prominencia,Distracción,A,2017_Cuestionario1.CAM.pdf
+2017-E1-045,2017,1,45,,Analogías verbales,psicotecnico_verbal,media,Encontrar es a perder como estorbar es a ___________:,Distraer,Facilitar,Limpiar,"Injertar difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",B,2017_Cuestionario1.CAM.pdf
+2017-E1-046,2017,1,46,1,Constitución,constitucion,baja,Los ciudadanos y los poderes públicos están sujetos a:,La Constitución y a la ley,La Constitución y al resto del ordenamiento jurídico,La ley y al resto del ordenamiento jurídico,"La Constitución, la ley y al resto del ordenamiento jurídico",B,2017_Cuestionario1.CAM.pdf
+2017-E1-047,2017,1,47,1,Valores superiores,constitucion,media,"Conforme a lo establecido en la Constitución Española de 1978 cualquier
+ciudadano podrá recabar ante los Tribunales ordinarios por un procedimiento
+basado en los principios de preferencia y sumariedad y, en su caso, a través del
+recurso de amparo ante el Tribunal Constitucional, la tutela de:",Las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo II del Título I,Las libertades y derechos reconocidos en el artículo 14 y la Sección segunda del Capítulo II del Título I,Los principios rectores reconocidos en el Capítulo III del Título I,La respuesta b) es correcta y además el recurso de amparo será aplicable a la objeción de conciencia reconocida en el artículo 30,A,2017_Cuestionario1.CAM.pdf
+2017-E1-048,2017,1,48,1,Reforma constitucional,constitucion,baja,Cuando se propusiere la revisión total de la Constitución se requiere:,Aprobación del principio por mayoría de dos tercios de cada Cámara,Aprobación del proyecto por mayoría de dos tercios de cada Cámara,El proyecto por mayoría de ambas Cámaras después del referéndum,La disolución de las Cámaras después de aprobado el proyecto de reforma,A,2017_Cuestionario1.CAM.pdf
+2017-E1-049,2017,1,49,2,Asamblea de Madrid,comunidad_madrid,baja,"Para la distribución de escaños en la Asamblea de Madrid, sólo serán tenidas en
+cuenta las listas que hayan obtenido:","Al menos, el 1 por 100 de los sufragios válidamente emitidos","Al menos, el 5 por 100 de los sufragios válidamente emitidos",Más del 2 por 100 de los sufragios válidamente emitidos,Más del 0.5 por 100 de los sufragios válidamente emitidos,B,2017_Cuestionario1.CAM.pdf
+2017-E1-050,2017,1,50,2,Competencias,comunidad_madrid,baja,La Comunidad de Madrid no tiene competencia exclusiva en materia de:,Pesca fluvial,Espectáculos públicos,Helipuertos deportivos,Aeropuertos que desarrollen actividades comerciales,D,2017_Cuestionario1.CAM.pdf
+2017-E1-051,2017,1,51,2,Estatuto de Autonomía,comunidad_madrid,media,Según el Estatuto de Autonomía de la Comunidad de Madrid,"La Comunidad de Madrid podrá establecer acuerdos de cooperación con otras Comunidades Autónomas, previa autorización de las Cortes Generales",La Comunidad de Madrid no podrá establecer acuerdos de cooperación con otras Comunidades Autónomas,"La Comunidad de Madrid podrá establecer acuerdos de cooperación con otras Comunidades Autónomas, sin autorización de las Cortes Generales",Ninguna respuesta es correcta,A,2017_Cuestionario1.CAM.pdf
+2017-E1-052,2017,1,52,2,Asamblea de Madrid,comunidad_madrid,baja,"Ordenar la publicación en el “Boletín Oficial de la Comunidad de Madrid” del
+nombramiento de Presidente del Tribunal Superior de Justicia de Madrid, es
+competencia de:",Consejero de Justicia,Presidente de la Asamblea de la Comunidad de Madrid,El Rey,Presidente de la Comunidad de Madrid,D,2017_Cuestionario1.CAM.pdf
+2017-E1-053,2017,1,53,3,Consejo de Gobierno,comunidad_madrid,baja,"Las normas con rango de ley emanadas del Consejo de Gobierno son
+denominadas:",Decretos,Reales Decretos,Decretos Legislativos,Decretos Leyes,C,2017_Cuestionario1.CAM.pdf
+2017-E1-054,2017,1,54,3,Consejo de Gobierno,comunidad_madrid,baja,La situación de interinidad en la Presidencia de la Comunidad de Madrid:,"No podrá ser superior a dos meses, ampliables en otros dos",Tendrá duración indefinida hasta que cese la causa que produjo la interinidad,"No podrá ser superior a cuatro meses, ampliable en uno más",Tendrá duración indefinida hasta que el Consejo de Gobierno comunique la desaparición de las circunstancias que motivaron la interinidad,A,2017_Cuestionario1.CAM.pdf
+2017-E1-055,2017,1,55,4,Ordenamiento jurídico,legislacion,media,"Según el artículo 94 de la Constitución Española, los tratados internacionales de
+carácter político:","Deben ser inmediatamente informados, una vez concluidos, al Congreso y al Senado",Requieren previa autorización de las Cortes Generales,Exigen una revisión constitucional previa,No son vinculantes,B,2017_Cuestionario1.CAM.pdf
+2017-E1-056,2017,1,56,4,Leyes orgánicas,legislacion,baja,"Las formas de ejercicio y requisitos de la iniciativa popular para la presentación
+de proposiciones de ley está regulado por:",Un reglamento,Una ley ordinaria,Una ley orgánica,La Constitución Española,C,2017_Cuestionario1.CAM.pdf
+2017-E1-057,2017,1,57,4,Fuentes del derecho,legislacion,media,"Conforme a lo establecido en el artículo 1 del Código Civil, son fuentes del
+ordenamiento jurídico español:","La ley, la costumbre y la jurisprudencia","La ley, la costumbre y los principios generales del derecho y la jurisprudencia","La ley, la costumbre y los principios generales del derecho",La constitución y la ley,C,2017_Cuestionario1.CAM.pdf
+2017-E1-058,2017,1,58,6,Procedimiento administrativo,procedimiento_administrativo,media,"Conforme al artículo 51 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, cuando un órgano declare
+la nulidad o anule las actuaciones y disponga la conservación de aquel acto cuyo
+contenido se hubiera mantenido igual de no haberse cometido la infracción, se
+produce respecto de dicho acto:",Su conversión,Su ratificación,Su convalidación,Su conservación,D,2017_Cuestionario1.CAM.pdf
+2017-E1-059,2017,1,59,6,Ley 39/2015,procedimiento_administrativo,media,"Según la ley 39/2015, se entenderá desestimado un recurso extraordinario de
+revisión si desde su interposición han trascurrido sin haberse dictado y notificado
+la resolución más de:",1 mes,2 meses,3 meses,6 meses,C,2017_Cuestionario1.CAM.pdf
+2017-E1-060,2017,1,60,6,Ley 39/2015,procedimiento_administrativo,baja,"Supone una alteración de la titularidad de la competencia de un órgano
+administrativo:",La encomienda de gestión,La delegación de firma y la suplencia,"La encomienda de gestión, la delegación de firma y la suplencia",Ninguna respuesta es correcta,D,2017_Cuestionario1.CAM.pdf
+2017-E1-061,2017,1,61,6,Procedimiento administrativo,procedimiento_administrativo,baja,"El ámbito subjetivo de aplicación de la ley 39/2015 del Procedimiento
+Administrativo Común de las Administraciones Públicas no incluye a:",Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas,Las Universidades privadas en el territorio de la Comunidad de Madrid,La Administración General del Estado,Las Entidades que integran la Administración Local,B,2017_Cuestionario1.CAM.pdf
+2017-E1-062,2017,1,62,6,Procedimiento administrativo,procedimiento_administrativo,baja,"Cuando un procedimiento se inicia por denuncia, se entiende que se ha
+iniciado:",A instancia de parte,Como consecuencia de orden superior,De oficio,No puede iniciarse por denuncia,C,2017_Cuestionario1.CAM.pdf
+2017-E1-063,2017,1,63,6,Procedimiento administrativo,procedimiento_administrativo,baja,"¿En qué momento pueden los interesados en un procedimiento administrativo
+alegar defectos de tramitación?",Antes del trámite de audiencia,Antes de que se redacte la propuesta de resolución,En cualquier momento,En el período de prueba,C,2017_Cuestionario1.CAM.pdf
+2017-E1-064,2017,1,64,7,Jurisdicción contencioso-administrativa,legislacion,baja,"El plazo para interponer el recurso contencioso-administrativo contra un acto
+expreso es de:",Tres meses,Seis meses,Un mes,Dos meses,D,2017_Cuestionario1.CAM.pdf
+2017-E1-065,2017,1,65,7,Jurisdicción contencioso-administrativa,legislacion,baja,Quedan excluidas del ámbito contencioso-administrativo:,La responsabilidad patrimonial de las Administraciones Públicas,El recurso contencioso disciplinario militar,Los actos y disposiciones del Consejo General del Poder Judicial,La protección jurisdiccional de los derechos fundamentales,B,2017_Cuestionario1.CAM.pdf
+2017-E1-066,2017,1,66,7,Jurisdicción contencioso-administrativa,legislacion,media,"Según Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-
+administrativa desde que el pleito haya sido declarado concluso, la sentencia se
+dictará en un plazo de:",Siete días,Diez días,Quince días,Veinte días,B,2017_Cuestionario1.CAM.pdf
+2017-E1-067,2017,1,67,8,Transparencia,transparencia,baja,"El Presidente del Consejo de Transparencia y Buen Gobierno cesará en su
+cargo","Mediante Real Decreto, a propuesta del titular del Ministerio de Hacienda y Administraciones Públicas",Por la expiración de su mandato anual,A petición propia o por separación acordada por el Gobierno,Incapacidad sobrevenida,C,2017_Cuestionario1.CAM.pdf
+2017-E1-068,2017,1,68,8,Derecho de acceso a la información pública,transparencia,media,"Las disposiciones del Título I “Transparencia de la actividad pública” de la Ley
+19/2013 de transparencia, acceso a la información pública y buen gobierno, se
+aplicarán a:","Las corporaciones de Derecho Público, en lo relativo a todas sus actividades","Entre otros, a la Casa de su Majestad el Rey, el Congreso de los Diputados, el Senado, el Tribunal Constitucional y el Consejo General del Poder Judicial, así como el Banco de España, el Consejo de Estado, el Defensor del Pueblo, el Tribunal de Cuentas, el Consejo Económico y Social y las instituciones autonómicas análogas, en relación con sus actividades sujetas a Derecho Civil","Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las entidades previstas en este artículo sea inferior al 50 por 100",Las fundaciones del sector público previstas en la legislación en materia de fundaciones,D,2017_Cuestionario1.CAM.pdf
+2017-E1-069,2017,1,69,8,Portal de transparencia,transparencia,baja,"El Plan de Gobierno recogido en el Portal de transparencia de la Comunidad de
+Madrid facilita información acerca de:","El organigrama con identificación de los responsables de las unidades, su perfil y trayectoria profesional","La información sobre altos cargos: retribuciones, declaraciones de bienes y de renta",El conjunto de compromisos adquiridos por la Comunidad de Madrid,Las memorias e Informes incluidos en los expedientes de elaboración de textos normativos,C,2017_Cuestionario1.CAM.pdf
+2017-E1-070,2017,1,70,9,Contratos del sector público,contratos,media,"Según la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público en toda
+contratación pública se incorporarán de manera transversal y preceptiva:",Los mecanismos necesarios para una mejor relación calidad-precio,Criterios ambientales y profesionales siempre que guarden relación con el objeto del contrato,Mecanismos sociales y de análisis de impacto ambiental que permitan una buena relacion calidad-precio,Criterios sociales y medioambientales siempre que guarde relación con el objeto del contrato,D,2017_Cuestionario1.CAM.pdf
+2017-E1-071,2017,1,71,9,Contratos del sector público,contratos,media,"Según la ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, los
+contratos de obras se consideran menores cuando el valor estimado es inferior a:",15.000 euros,20.000 euros,40.000 euros,100.000 euros,C,2017_Cuestionario1.CAM.pdf
+2017-E1-072,2017,1,72,9,Contratos del sector público,contratos,baja,Son contratos de suministros:,"Los que tienen por objeto la adquisición, el arrendamiento financiero, o el arrendamiento, con o sin opción a compra, de productos o bienes muebles",Los relativos a propiedades incorporales o valores negociables,a y b son correctas,Ninguna respuesta es correcta,A,2017_Cuestionario1.CAM.pdf
+2017-E1-073,2017,1,73,10,Personal al servicio de las Administraciones Públicas,funcion_publica,baja,Son empleados públicos:,Los Funcionarios interinos,Personal eventual,Personal laboral temporal,Todas son correctas,D,2017_Cuestionario1.CAM.pdf
+2017-E1-074,2017,1,74,10,Personal al servicio de las Administraciones Públicas,funcion_publica,media,"De acuerdo con la Ley de la Función Pública de la Comunidad de Madrid, el
+puesto asignado con carácter provisional a un funcionario que no tenga derecho a
+reserva de puesto de trabajo, se convocará para su provisión definitiva:",En el plazo máximo de dieciocho meses,En el plazo de dieciocho meses,En el plazo máximo de un año,En el plazo de un año,C,2017_Cuestionario1.CAM.pdf
+2017-E1-075,2017,1,75,10,Situaciones administrativas,funcion_publica,baja,"Cuando un funcionario de carrera es autorizado para realizar una misión por
+período superior a 6 meses en un organismo internacional pasará a ser declarado
+en situación de:",Servicios en otras Administraciones Públicas,"Servicio activo, pues su situación no cambia",Excedencia forzosa,Servicios especiales,D,2017_Cuestionario1.CAM.pdf
+2017-E1-076,2017,1,76,11,Acción protectora,seguridad_social,baja,"Dentro de las actividades que tienen atribuidas las Mutuas colaboradoras con la
+Seguridad Social, seleccione la respuesta correcta","La gestión de las prestaciones económicas no sanitaria, comprendidas en la protección de las contingencias de accidentes de trabajo y enfermedades profesionales de la Seguridad Social sin incluir aquellas actividades de prevención de las mismas",La gestión de la prestación por cuidado de menores de naturaleza no sanitaria,La gestión de la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave,La gestión de la prestación económica por incapacidad total derivada de contingencias exclusivamente de naturaleza profesional,C,2017_Cuestionario1.CAM.pdf
+2017-E1-077,2017,1,77,11,Seguridad Social,seguridad_social,baja,La Ley General de Seguridad Social viene regulada en:,"Real Decreto Ley 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social","Ley 8/2015, de 30 de octubre, General de la Seguridad Social","Real Decreto 8/2015, de 10 de octubre por el que se aprueba el texto refundido de la Ley General de la Seguridad Social","Real Decreto Legislativo 8/2015, de 30 de octubre por el que se aprueba el texto refundido de la Ley General de Seguridad Social",D,2017_Cuestionario1.CAM.pdf
+2017-E1-078,2017,1,78,11,Acción protectora,seguridad_social,baja,Señale la respuesta correcta:,Prescribirá a los cinco años la acción para imponer sanciones por incumplimiento de las normas de Seguridad Social,"El derecho al percibo de las prestaciones a tanto alzado y por una sola vez caducará a los tres años, a contar desde el día siguiente al de haber sido notificada en forma al interesado su reconocimiento",Prescribirá a los cuatro años el derecho de la Administración de la Seguridad Social para determinar las deudas por cuotas y por conceptos de recaudación conjunta mediante las oportunas liquidaciones,Caducará a los tres años la acción para exigir el pago de las deudas por cuotas de la Seguridad Social y conceptos de recaudación conjunta,C,2017_Cuestionario1.CAM.pdf
+2017-E1-079,2017,1,79,12,Hacienda Pública,hacienda_publica,baja,"Son principios de actuación de la Comunidad de Madrid en materia de Hacienda
+Pública:","Legalidad, eficiencia, control, universalidad, solidaridad intrarregional y coordinación entre sus órganos y Entidades","Legalidad, eficacia, control, universalidad, solidaridad intrarregional y coordinación entre sus órganos y Entidades","Legalidad, eficiencia, control, universalidad, solidaridad interregional y coordinación entre sus órganos y Entidades","Legalidad, eficacia, control, universalidad, solidaridad interregional y coordinación entre sus órganos y Entidades",B,2017_Cuestionario1.CAM.pdf
+2017-E1-080,2017,1,80,12,Presupuestos,hacienda_publica,media,"De acuerdo con la Ley reguladora de la Hacienda de la Comunidad de Madrid, sí
+estarán sometidos a intervención previa:",Las subvenciones con asignación nominativa en los Presupuestos Generales de la Comunidad de Madrid,"Los gastos de carácter periódico y demás de tracto sucesivo, una vez intervenido el gasto correspondiente al período inicial del acto o contrato del que deriven o sus modificaciones",Los contratos menores,"Gastos mayores de 5.000 euros que, de acuerdo con la normativa vigente, se hagan efectivos a través del sistema de anticipos de caja fija",D,2017_Cuestionario1.CAM.pdf
+2017-E1-081,2017,1,81,12,Presupuestos,hacienda_publica,baja,La administración de la Hacienda de la Comunidad de Madrid está sometida:,"Al régimen de presupuesto anual aprobado por Consejo de Gobierno. El presupuesto de la Comunidad será único, por programas con indicación de objetivos de actuación, e incluirá la totalidad de los ingresos y gastos del sector público de la Comunidad de Madrid excluyendo el presupuesto de sus Organismos Autónomos y demás Entes Públicos","Al régimen de presupuesto anual aprobado por la Asamblea. El presupuesto de la Comunidad será único, por programas con indicación de objetivos de actuación, e incluirá la totalidad de los ingresos y gastos del sector público de la Comunidad de Madrid excluyendo el presupuesto de sus Organismos Autónomos y demás Entes Públicos","Al régimen de presupuesto anual aprobado por Consejo de Gobierno. El presupuesto de la Comunidad será único, por programas con indicación de objetivos de actuación, e incluirá la totalidad de los ingresos y gastos del sector público de la Comunidad de Madrid","Al régimen de presupuesto anual aprobado por la Asamblea. El presupuesto de la Comunidad será único, por programas con indicación de objetivos de actuación, e incluirá la totalidad de los ingresos y gastos del sector público de la Comunidad de Madrid",D,2017_Cuestionario1.CAM.pdf
+2017-E1-082,2017,1,82,13,Violencia de género,igualdad,baja,Los Juzgados de Violencia sobre la Mujer se crean por:,La Ley 30/2003 de 13 de octubre sobre medidas para incorporar la valoración de impacto de género en las disposiciones normativas que elabore el gobierno,La Ley orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género,La Ley de Enjuiciamiento Criminal,La Ley de Planta y Demarcación Judicial,B,2017_Cuestionario1.CAM.pdf
+2017-E1-083,2017,1,83,13,Igualdad entre mujeres y hombres,igualdad,baja,"Las medidas de igualdad de trato y oportunidades han de plasmarse en un Plan
+de igualdad que han de elaborar todas las empresas de más de:",25 trabajadores,100 trabajadores,250 trabajadores,300 trabajadores,C,2017_Cuestionario1.CAM.pdf
+2017-E1-084,2017,1,84,13,Igualdad entre mujeres y hombres,igualdad,baja,"La no discriminación por motivos de identidad de género, expresión de género o
+características sexuales se encuentra regulada en:","La Ley 2/2016, de 29 de marzo, de Identidad y Expresión de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid","La Ley 3/2016, de 29 de marzo, de Identidad de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid","La Ley 3/2017, de 29 de marzo, de Reconocimiento de Identidad de Género e Igualdad y no Discriminación de la Comunidad de Madrid","La Ley 6/2016, de 29 de marzo, de Identidad de Género e Igualdad Social y no Discriminación de la Comunidad de Madrid",A,2017_Cuestionario1.CAM.pdf
+2017-E1-085,2017,1,85,14,Administración electrónica,procedimiento_administrativo,baja,"Cuando la notificación por medios electrónicos sea de carácter obligatorio, o
+haya sido expresamente elegida por el interesado, se entenderá rechazada:",Cuando hayan transcurrido diez días desde la puesta a disposición de la notificación sin que se acceda a su contenido,Cuando hayan transcurrido quince días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido,Cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido,Cuando hayan transcurrido quince días desde la puesta a disposición de la notificación sin que se acceda a su contenido,C,2017_Cuestionario1.CAM.pdf
+2017-E1-086,2017,1,86,14,Atención al ciudadano,procedimiento_administrativo,media,"Según el Decreto de Atención al Ciudadano ¿Que órgano actúa como
+administrador del Sistema de Atención al Ciudadano?",Cada Unidad Administrativa actuará de administrador sobre la información que emita,Los Coordinadores de Atención al Ciudadano de cada Consejería,La Oficina de Atención al Ciudadano,El Consejero de Presidencia,C,2017_Cuestionario1.CAM.pdf
+2017-E1-087,2017,1,87,14,Atención al ciudadano,procedimiento_administrativo,baja,"¿Cómo se denomina la capacidad de los sistemas de información y de los
+procedimientos, de compartir datos y posibilitar el intercambio de información y
+conocimiento entre ellos?:",Interoperabilidad,Interacción,Intercambiabilidad,Intercooperación,A,2017_Cuestionario1.CAM.pdf
+2017-E1-088,2017,1,88,14,Información administrativa,procedimiento_administrativo,media,"En base al artículo 53 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común a las Administraciones Públicas, los interesados en un
+procedimiento administrativo no tienen obligación de presentar documentos",No exigidos por las normas aplicables al procedimiento de que se trata,Que ya se encuentren en poder de las Administraciones Públicas,Que hayan sido elaborados por las Administraciones Públicas,Todas las respuestas anteriores son correctas,D,2017_Cuestionario1.CAM.pdf
+2017-E1-089,2017,1,89,15,Registro de documentos,procedimiento_administrativo,baja,"Los documentos presentados de manera presencial ante las Administraciones
+Públicas, ¿deberán ser digitalizados?:","Sí, por la oficina de asistencia en materia de registros en la que hayan sido presentados","Sí, por el interesado y, en su defecto, por la oficina de asistencia en materia de registros en la que hayan sido presentados","Sí, por cualquier dependencia administrativa de la Administración responsable del registro",No,A,2017_Cuestionario1.CAM.pdf
+2017-E1-090,2017,1,90,15,Registro de documentos,procedimiento_administrativo,baja,"Los interesados podrán solicitar, en cualquier momento, la expedición de copias
+auténticas de los documentos públicos administrativos que hayan sido válidamente
+emitidos por las Administraciones Públicas. La solicitud se dirigirá al órgano que
+emitió el documento original, debiendo expedirse:",En el plazo de diez días a contar desde el día siguiente al de la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente,En el plazo de quince días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente,En el plazo de diez días a contar desde la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente,En el plazo de quince días a contar desde el día siguiente al de la recepción de la solicitud en el registro electrónico de la Administración u Organismo competente,B,2017_Cuestionario1.CAM.pdf
+2021-E1-001,2021,1,1,1,Valores superiores,constitucion,baja,"¿Cuáles son los valores superiores del ordenamiento jurídico en nuestra
+Constitución Española?","Libertad, nacionalidad, pluralismo político e igualdad","Libertad, la justicia, la igualdad y el pluralismo político","Justicia, respeto, igualdad y libertad",,B,2021_Cuestionario.CAM.pdf
+2021-E1-002,2021,1,2,1,Derechos y deberes fundamentales,constitucion,media,"¿Qué artículo de la Constitución Española regula la suspensión de los
+derechos y libertades?",El artículo 53,El artículo 54,El artículo 55,,C,2021_Cuestionario.CAM.pdf
+2021-E1-003,2021,1,3,2,Competencias,comunidad_madrid,baja,"Las Comunidades Autónomas no podrán asumir competencias en las
+siguientes materias:","Ordenación del territorio, urbanismo y vivienda",Administración de Justicia,Asistencia social,,B,2021_Cuestionario.CAM.pdf
+2021-E1-004,2021,1,4,2,Asamblea de Madrid,comunidad_madrid,baja,"Señala a través de qué instituciones de autogobierno se ejercen los
+poderes de la Comunidad de Madrid:","La Asamblea Legislativa, el Gobierno y el Presidente del Estado","La Asamblea, el Gobierno y el Presidente de la Comunidad","La Asamblea Legislativa, las Comisiones Delegadas y el Presidente de la Comunidad",,B,2021_Cuestionario.CAM.pdf
+2021-E1-005,2021,1,5,2,Asamblea de Madrid,comunidad_madrid,media,"Señala la respuesta correcta respecto de la constitución de la Asamblea
+de la Comunidad de Madrid:","La Asamblea es elegida por cinco años mediante sufragio universal, libre, igual, directo y secreto, atendiendo a criterios de representación proporcional","La Asamblea estará compuesta por un Diputado por cada 50.000 habitantes o fracción superior a 25.000, de acuerdo con los datos actualizados del censo de población. El mandato de los Diputados termina cuatro años después de su elección o el día de la disolución de la Cámara en los supuestos previstos en este Estatuto",Los Diputados estarán ligados por mandato imperativo,,B,2021_Cuestionario.CAM.pdf
+2021-E1-006,2021,1,6,3,Consejo de Gobierno,comunidad_madrid,media,"Según el artículo 1 de la Ley de Gobierno y Administración de la
+Comunidad de Madrid, son órganos superiores:",La Asamblea y el Consejo de Gobierno,El Consejo de Gobierno y los Consejeros,"El Presidente, el Consejo de Gobierno y los Consejeros",,C,2021_Cuestionario.CAM.pdf
+2021-E1-007,2021,1,7,3,Consejo de Gobierno,comunidad_madrid,media,"El Presidente de la Comunidad de Madrid es elegido de entre sus
+miembros:","Por la Asamblea y nombrado por el Rey, mediante Real Decreto, que será publicado en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Comunidad de Madrid», todo ello de acuerdo con el procedimiento señalado en el capítulo II, título I, del Estatuto de Autonomía","Por la Asamblea y nombrado por el Rey, mediante Real Decreto, que será publicado exclusivamente en el «Boletín Oficial del Estado» todo ello de acuerdo con el procedimiento señalado en el capítulo II, título I, del Estatuto de Autonomía","Por el consejo de gobierno y nombrado por el Rey, mediante Real Decreto, que será publicado en el «Boletín Oficial del Estado» y en el «Boletín Oficial de la Comunidad de Madrid», todo ello de acuerdo con el procedimiento señalado en el capítulo II, título I, del Estatuto de Autonomía",,A,2021_Cuestionario.CAM.pdf
+2021-E1-008,2021,1,8,3,Gobierno y Administración,comunidad_madrid,media,"Según el artículo 37 de la Ley 1/1983, de 13 de diciembre, la
+Administración de la Comunidad de Madrid, constituida por órganos
+jerárquicamente ordenados, actúa para el cumplimiento de sus fines con
+personalidad jurídica única. Su actuación, al servicio de los intereses
+generales de la Comunidad de Madrid, se atendrá a los principios de:","Objetividad, transparencia, celeridad, eficacia, economía, descentralización, desconcentración, coordinación y participación","Objetividad, publicidad, celeridad, eficiencia, economía, descentralización, desconcentración, coordinación y transparencia","Objetividad, publicidad, celeridad, eficacia, economía, descentralización, desconcentración, coordinación y participación",,C,2021_Cuestionario.CAM.pdf
+2021-E1-009,2021,1,9,3,Consejerías,comunidad_madrid,baja,Los Consejeros tienen derecho a recibir el tratamiento de:,Ilustrísima,Excelencia,Señoría,,B,2021_Cuestionario.CAM.pdf
+2021-E1-010,2021,1,10,3,Presidente de la Comunidad,comunidad_madrid,baja,"El Gabinete del Presidente, tendrá un número de asesores determinado
+por éste, y:",Podrá tener cuántos asesores determine el presidente,Podrán ocupar puestos de trabajo reservados a funcionarios,No podrá ser superior a seis,,C,2021_Cuestionario.CAM.pdf
+2021-E1-011,2021,1,11,6,Procedimiento administrativo,procedimiento_administrativo,media,"Señala la respuesta correcta, según la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas:",Los procedimientos se iniciarán de oficio siempre,Los procedimientos se iniciarán de oficio por acuerdo del órgano competente,Los procedimientos se iniciarán de oficio por acuerdo del órgano instructor,,B,2021_Cuestionario.CAM.pdf
+2021-E1-012,2021,1,12,6,Alegaciones,procedimiento_administrativo,media,"Cuándo podrán presentar alegaciones los interesados en el
+procedimiento según el artículo 76 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas:",Sólo al inicio de procedimiento y siempre antes de la finalización,Únicamente en el momento de la presentación de la solicitud,En cualquier momento del procedimiento anterior al trámite de audiencia,,C,2021_Cuestionario.CAM.pdf
+2021-E1-013,2021,1,13,6,Procedimiento administrativo,procedimiento_administrativo,media,"Teniendo en cuenta el artículo 36 de la Ley 39/2015, de 1 de octubre,
+del Procedimiento Administrativo Común de las Administraciones
+Públicas. Los actos administrativos se producirán:",Se producirán exclusivamente por escrito,"Se producirán por escrito siempre que sea posible por medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia","Se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija otra forma más adecuada de expresión y constancia",,C,2021_Cuestionario.CAM.pdf
+2021-E1-014,2021,1,14,6,Notificaciones,procedimiento_administrativo,media,"¿Cuándo se hará la notificación por medio de un anuncio publicado
+en el «Boletín Oficial del Estado?, según establece el artículo 44 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas: SEÑALE LA INCORRECTA",Cuando la notificación haya sido rechazada por su destinatario,Cuando los interesados en un procedimiento sean desconocidos,Cuando se ignore el lugar de la notificación,,A,2021_Cuestionario.CAM.pdf
+2021-E1-015,2021,1,15,6,Procedimiento administrativo,procedimiento_administrativo,media,"Respecto al recurso potestativo de reposición del artículo 123 de la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas","Si el acto no fuera expreso, el plazo para interponerlo es de un mes","Si el acto fuera expreso, el plazo para interponerlo es de un mes",Ambas son correctas,,B,2021_Cuestionario.CAM.pdf
+2021-E1-016,2021,1,16,8,Derecho de acceso a la información pública,transparencia,media,"Conforme a lo dispuesto en la Ley 19/2013, de 9 de diciembre, de
+transparencia, acceso a la información y buen gobierno, la solicitud de
+acceso a la información pública:",Ha de estar motivada en todo caso,No precisa constancia de la identidad del solicitante,"Puede exponer los motivos, en cuyo caso se tendrá en cuenta cuando se dicte resolución",,C,2021_Cuestionario.CAM.pdf
+2021-E1-017,2021,1,17,8,Protección de datos,transparencia,baja,"El Consejo de Transparencia y Buen Gobierno estará compuesto por
+los siguientes órganos:","La Comisión de Transparencia y Buen Gobierno, el Presidente del Consejo de Transparencia y Buen Gobierno y un representante de la Agencia Española de Protección de Datos",La Comisión de Transparencia y Buen Gobierno y el Presidente del Consejo de Transparencia y Buen Gobierno que lo será también de su Comisión,"La Comisión de Transparencia y Buen Gobierno, el Presidente del Consejo de Transparencia y Buen Gobierno que lo será también de su Comisión y un representante de la Agencia Española de Protección de Datos",,B,2021_Cuestionario.CAM.pdf
+2021-E1-018,2021,1,18,8,Derecho de acceso a la información pública,transparencia,baja,"¿Cómo se denomina el Titulo III de la Ley 19/2013 de Transparencia,
+acceso a la información y buen gobierno?",Buen Gobierno,Consejo de Transparencia y Buen Gobierno,"Consejo de Transparencia, Acceso a la Información Pública y Buen Gobierno",,B,2021_Cuestionario.CAM.pdf
+2021-E1-019,2021,1,19,8,Portal de transparencia,transparencia,baja,"¿A qué órgano le corresponde la gestión del portal de transparencia
+de la Comunidad de Madrid?",A la Consejería competente en materia de información pública,A la Oficina de Coordinación de la Transparencia,Al Consejo de Transparencia y Buen Gobierno de la Comunidad de Madrid,,B,2021_Cuestionario.CAM.pdf
+2021-E1-020,2021,1,20,8,Transparencia,transparencia,baja,"De los siguientes, ¿qué instrumentos específicos de participación
+ciudadana no contempla la Ley de Transparencia de la Comunidad de
+Madrid?",Consultas públicas,Foros de debate inclusivos,Grupos colaborativos de trabajos sectoriales,,B,2021_Cuestionario.CAM.pdf
+2021-E1-021,2021,1,21,13,Igualdad entre mujeres y hombres,igualdad,media,"El principio de igualdad de trato entre mujeres y hombres del artículo
+3 de la Ley Orgánica 3/2007, de 22 de marzo, supone:","La ausencia de toda discriminación, directa o indirecta, por razón de sexo, y, especialmente, las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil",La asunción de obligaciones familiares,Ninguna es correcta,,A,2021_Cuestionario.CAM.pdf
+2021-E1-022,2021,1,22,13,Igualdad entre mujeres y hombres,igualdad,media,"Según el artículo 4 de la Ley Orgánica 3/2007, de 22 de marzo, la
+igualdad de trato y de oportunidades entre mujeres y hombres es un
+principio:",Legislativo y requerirá siempre elaborar leyes que serán aprobadas en la Institución que corresponda,"Informador del ordenamiento jurídico y, como tal, se integrará y observará en la interpretación y aplicación de las normas jurídicas",Básico que está recogido en el decálogo de los derechos de los trabajadores,,B,2021_Cuestionario.CAM.pdf
+2021-E1-023,2021,1,23,13,Personas LGTBI,igualdad,media,"Según la Ley 3/2016, de 22 de julio, todas las personas LGTBI tendrán
+derecho a ser tratadas en condiciones de igualdad en cualquier ámbito de
+la vida, en particular:","En las esferas civil, laboral, social, sanitaria, educativa, económica y cultural","Una protección efectiva por parte de la Administración de la Comunidad de Madrid en aquellos supuestos que sean víctimas de discriminación y delitos de odio, o sufran trato discriminatorio, vejatorio o degradante por orientación sexual, identidad de género o expresión de género",Las respuestas a y la b son correctas,,C,2021_Cuestionario.CAM.pdf
+2021-E1-024,2021,1,24,13,Violencia de género,igualdad,media,"En uno de los artículos de la Ley Orgánica 1/2004, la funcionaria víctima
+de violencia de género tendrá derecho a:",A la reducción o a la reordenación de su tiempo de trabajo,A la movilidad geográfica de centro de trabajo y a la excedencia en los términos que se determinen en su legislación específica,Las respuestas a y b son correctas,,C,2021_Cuestionario.CAM.pdf
+2021-E1-025,2021,1,25,13,Personas LGTBI,igualdad,media,"En el artículo 9 de la Ley 4/2023, de 28 de febrero, menciona que el
+Consejo de Participación de las Personas LGTBI se constituye como
+órgano colegiado de los previstos en el artículo 22.3 de la Ley 40/2015, de
+1 de octubre, de Régimen Jurídico del Sector Público, de que organismo
+depende:",El Consejo dependerá directamente de la Secretaría contra la Violencia de Género,El Consejo dependerá de la Secretaría General de Presidencia del Gobierno,El Consejo dependerá del Ministerio de Igualdad a través de la Secretaría de Estado de Igualdad y contra la Violencia de Género,,C,2021_Cuestionario.CAM.pdf
+2021-E1-026,2021,1,26,14,Administración electrónica,procedimiento_administrativo,media,"Según el Artículo 39 del Real Decreto 203/2021 de 30 de marzo por el
+que se aprueba el Reglamento de actuación y funcionamiento del sector
+público por medios electrónicos, cuando se presenten documentos
+originales o copias auténticas en soporte no electrónico, desde el momento
+en que sean digitalizados conforme a lo dispuesto en las correspondientes
+técnicas de interoperabilidad, tendrán la consideración de:",Copia electrónica auténtica de documentos en soporte papel con la misma validez para su tramitación que los documentos aportados en formato papel,Copia electrónica compulsada de documentos en soporte papel con la misma validez para su tramitación que los documentos aportados en el soporte papel,Copia electrónica auténtica en soporte papel con una validez inferior para su tramitación que los documentos aportados en soporte papel,,A,2021_Cuestionario.CAM.pdf
+2021-E1-027,2021,1,27,14,Administración electrónica,procedimiento_administrativo,media,"¿Cómo se podrán practicar las notificaciones por medios electrónicos,
+según el artículo 42 del Real Decreto 203/2021 de 30 de marzo por el que se
+aprueba el Reglamento de actuación y funcionamiento del sector público
+por medios electrónicos?",A través de la Dirección Electrónica Habilitada Única,Mediante comparecencia en la sede electrónica asociada de la administración,Las opciones a y b son correctas,,C,2021_Cuestionario.CAM.pdf
+2021-E1-028,2021,1,28,14,Atención al ciudadano,procedimiento_administrativo,media,"Según el artículo 6 del Decreto 21/2002, de 24 de enero por el que se
+regula la atención al ciudadano de la Comunidad de Madrid, para el
+cumplimiento de sus objetivos la información contenida en el sistema de
+información al Ciudadano de la Comunidad de Madrid no se clasificará en
+información:",General,Especializada,Concreta,,C,2021_Cuestionario.CAM.pdf
+2021-E1-029,2021,1,29,14,Atención al ciudadano,procedimiento_administrativo,media,"La información especializada según el Decreto 21/2002 de 24 de enero
+por el que se regula la Atención al Ciudadano de la Comunidad de Madrid,
+es",Aquella que se facilita a los interesados sobre el estado de tramitación en que se encuentra un expediente administrativo,Aquella que por sus características específicas requiere una mayor profundización en la respuesta o sea preciso efectuar consultas complementarias,"Aquella que versa sobre los fines, competencias y funciones de los diferentes órganos y servicios de la Comunidad de Madrid",,B,2021_Cuestionario.CAM.pdf
+2021-E1-030,2021,1,30,14,Administración electrónica,procedimiento_administrativo,media,"Según el Artículo 56 del Real Decreto 203/2021 y, de acuerdo con lo
+previsto en el artículo 3.2 de la Ley 40/2015, de 1 de octubre,",Las administraciones públicas en el ejercicio de sus competencias pueden relacionarse a través de medios electrónicos entre sí,Las administraciones públicas en el ejercicio de sus competencias estarán obligadas a relacionarse a través de medios electrónicos entre sí,"Las entidades de derecho privado vinculadas o dependientes de las administraciones públicas cuando actúen en el ejercicio de potestades administrativas, no estarán obligadas a relacionarse a través de medios electrónicos",,B,2021_Cuestionario.CAM.pdf
+2021-E1-031,2021,1,31,10,Personal al servicio de las Administraciones Públicas,funcion_publica,baja,Son empleados públicos:,Quienes desempeñan funciones retribuidas en las Administraciones Públicas o Privadas al servicio de los intereses generales,Quienes desempeñan funciones retribuidas o no en las Administraciones Públicas al servicio de los intereses públicos,Quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales,,C,2021_Cuestionario.CAM.pdf
+2021-E1-032,2021,1,32,10,Personal al servicio de las Administraciones Públicas,funcion_publica,baja,Los sistemas selectivos de funcionarios de carrera serán los de:,Oposición y concurso,Concurso y libre designación,Oposición y concurso-oposición,,C,2021_Cuestionario.CAM.pdf
+2021-E1-033,2021,1,33,10,Personal al servicio de las Administraciones Públicas,funcion_publica,media,"Según el Estatuto Básico del Empleado Público, es un derecho
+individual de los empleados públicos que se ejerce de forma colectiva:",El planteamiento de conflictos colectivos de trabajo,"La adopción de medidas que favorezcan la conciliación de la vida personal, familiar y laboral",La libre asociación profesional,,A,2021_Cuestionario.CAM.pdf
+2021-E1-034,2021,1,34,10,Personal al servicio de las Administraciones Públicas,funcion_publica,media,"Según el Estatuto Básico del Empleado Público, por ser preciso
+atender el cuidado de un familiar de primer grado, el funcionario tendrá
+derecho a solicitar una reducción de:","Hasta el 50% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un año","Hasta el 60% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes","Hasta el 50% de la jornada laboral, con carácter retribuido, por razones de enfermedad muy grave y por el plazo máximo de un mes",,C,2021_Cuestionario.CAM.pdf
+2021-E1-035,2021,1,35,10,Incompatibilidades,funcion_publica,baja,"Será requisito necesario para autorizar la compatibilidad de
+actividades públicas el que la cantidad total percibida por ambos puestos
+o actividades no supere la remuneración prevista en los Presupuestos
+Generales del Estado para el cargo de Director General, ni supere la
+correspondiente al principal, estimada en régimen de dedicación ordinaria,
+incrementada en:",Un 30% para los funcionarios del grupo A o equivalente,Un 40% para los funcionarios del grupo B o equivalente,Un 45% para los funcionarios del grupo C o equivalente,,A,2021_Cuestionario.CAM.pdf
+2021-E1-036,2021,1,36,8,Transparencia,transparencia,baja,"Las personas que pretendan formular solicitar información podrán
+dirigirse a las administraciones públicas,","Necesariamente en castellano, por ser la única lengua oficial",En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión,En cualquiera de las lenguas oficiales de los países que integran la Unión Europea sin necesidad de traducción,,B,2021_Cuestionario.CAM.pdf
+2021-E1-037,2021,1,37,8,Derecho de acceso a la información pública,transparencia,media,"El artículo 12 de la Ley 19/2013, de 9 de diciembre, de transparencia,
+acceso a la información pública y buen gobierno determina que,","Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley","Todas las personas tienen derecho a acceder a la información pública, en los términos previstos en el artículo 158 de la Constitución Española, desarrollados por esta Ley","Únicamente los funcionarios públicos tienen derecho a acceder a la información pública, en los términos previstos en el artículo 105.b) de la Constitución Española, desarrollados por esta Ley",,A,2021_Cuestionario.CAM.pdf
+2021-E1-038,2021,1,38,8,Transparencia,transparencia,baja,"El derecho a la información podrá ser limitado cuando acceder a la
+información suponga un perjuicio para,",La seguridad nacional,"La prevención, investigación y sanción de los ilícitos penales, administrativos o disciplinarios",Todas son correctas,,C,2021_Cuestionario.CAM.pdf
+2021-E1-039,2021,1,39,8,Derecho de acceso a la información pública,transparencia,baja,"En qué plazo debe notificarse la resolución que conceda o deniegue el
+acceso a la información:","En el plazo máximo de 15 días desde la recepción de la solicitud por el órgano competente para resolver, con posibilidad de ampliarlo otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante","En el plazo máximo de dos meses desde la recepción de la solicitud por el órgano competente para resolver, con posibilidad de ampliarlo otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante","En el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver, con posibilidad de ampliarlo otro mes en el caso de que el volumen o la complejidad de la información que se solicita así lo hagan necesario y previa notificación al solicitante",,C,2021_Cuestionario.CAM.pdf
+2021-E1-040,2021,1,40,15,Registro de documentos,procedimiento_administrativo,baja,"Entre las funciones que integran la actividad de un registro está la
+compulsa de documentos que se llevará a cabo,",Cuando las normas reguladoras de un procedimiento o actividad administrativa así lo requieran y se acompañen los originales,"Cuando las normas reguladoras de un procedimiento o actividad administrativa así lo requieran, aunque no se acompañen los originales",Siempre que se presenten documentos en un registro,,A,2021_Cuestionario.CAM.pdf
+2023-E1-001,2023,1,1,,Sinónimos y analogías,psicotecnico_verbal,media,"“Raro, extravagante o fuera de lo común” es:",bizarro,lerdo,bizco,zarrapastroso Observe el siguiente grupo de palabras: socavado / lívido / dicotomía / timorato / emanar,A,2023_Cuestionario1.CAM.pdf
+2023-E1-002,2023,1,2,,Sinónimos y analogías,psicotecnico_verbal,media,"Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras del
+grupo observado:",debilitado / lento / nimiedad / tímido / departir,suscrito / amoratado / nimiedad / tembloroso / departir,debilitado / amoratado / división / tímido / proceder,suscrito / lento / concentración / atrevido / proceder,C,2023_Cuestionario1.CAM.pdf
+2023-E1-003,2023,1,3,,Sinónimos y analogías,psicotecnico_verbal,media,Cordialidad es a falsedad como esplendor es a ______:,ventisca,lucha,principio,decadencia,D,2023_Cuestionario1.CAM.pdf
+2023-E1-004,2023,1,4,,Sinónimos y analogías,psicotecnico_verbal,media,“Que no admite duda” es:,inefable,vituperado,indubitado,inmarcesible Observe el siguiente grupo de palabras: prolijo / dogmático / expeler / loa / refutar,C,2023_Cuestionario1.CAM.pdf
+2023-E1-005,2023,1,5,,Sinónimos y analogías,psicotecnico_verbal,media,"Indique la respuesta A, B, C o D que contenga un sinónimo para cada una de las palabras del
+grupo observado:",cuidadoso / práctico / expulsar / tela / contradecir,cuidadoso / inflexible / expulsar / alabanza / contradecir,consustancial / práctico / absorber / limpieza / aprisionar,consustancial / inflexible / absorber / alabanza / aprisionar,B,2023_Cuestionario1.CAM.pdf
+2023-E1-006,2023,1,6,,Sinónimos y analogías,psicotecnico_verbal,media,Egresar es a ingresar como escindir es a ______:,cohesionar,advenir,dilucidar,"cimbrear su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",A,2023_Cuestionario1.CAM.pdf
+2023-E1-007,2023,1,7,,Ortografía,psicotecnico_verbal,baja,"fuselaje, atribullendo, hipotenso, groseya, viodegradable, espresión,
+yoviznoso, uelga, flojear, ozcilar",6,4,5,7,D,2023_Cuestionario1.CAM.pdf
+2023-E1-008,2023,1,8,,Ortografía,psicotecnico_verbal,baja,"subyugar, vinajera, silografía, reuido, meditavundo, hipoxia, inadvertido,
+exhumar, fayido, forcejear",4,5,3,6,A,2023_Cuestionario1.CAM.pdf
+2023-E1-009,2023,1,9,,Ortografía,psicotecnico_verbal,baja,"bién, fanático, fémur, descortes, sucedáneo, mes, efervescéncia,
+explicacion, conyuges, biceps",7,6,8,5,B,2023_Cuestionario1.CAM.pdf
+2023-E1-010,2023,1,10,,Ortografía,psicotecnico_verbal,baja,"veintidos, diário, balompie, lucíernaga, trágicamente, terminología,
+encubiérto, laud, pisapapéles, facilmente",10,7,9,8,D,2023_Cuestionario1.CAM.pdf
+2023-E1-011,2023,1,11,,Cálculo numérico,psicotecnico_numerico,media,"Una vez realizadas las operaciones numéricas de las series siguientes, ¿cuál es el resultado de
+sumar los 2 totales?
+1,56 + 0,28 – 0,73 + 0,86 = _____
+2,35 – 0,97 – 0,33 + 1,84 = _____","4,86","4,85","4,87","4,88 su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",A,2023_Cuestionario1.CAM.pdf
+2023-E1-012,2023,1,12,,Cálculo numérico,psicotecnico_numerico,media,"Una vez realizadas las operaciones numéricas de las series siguientes, ¿cuál es el resultado de
+sumar los 3 totales?
+7 x 3 – 6 + 12 : 3 x 2 – 17 = _____
+6 – 4 + 3 x 7 – 18 : 6 + 5 = _____
+2 + 24 : 6 – 4 + 6 + 48 : 4 = _____",54,53,51,52,C,2023_Cuestionario1.CAM.pdf
+2023-E1-013,2023,1,13,,Cálculo numérico,psicotecnico_numerico,media,"Indique qué operación: suma, resta, multiplicación o división, debe sustituir a la interrogante del
+recuadro para que la suma de los dos totales de las dos series dé como resultado 41:
+12 – 3 ? 9 + 10 = _____
+10 + 6 x 5 – 9 = _____",división,resta,suma,multiplicación,B,2023_Cuestionario1.CAM.pdf
+2023-E1-014,2023,1,14,,Cálculo numérico,psicotecnico_numerico,media,"Indique qué operación: suma, resta, multiplicación o división, debe sustituir a la interrogante del
+recuadro para que la suma de los dos totales de las dos series dé como resultado 94:
+27 ? 8 x 3 : 4 = _____
+110 : 5 + 33 + 18 = _____",resta,suma,división,multiplicación,A,2023_Cuestionario1.CAM.pdf
+2023-E1-015,2023,1,15,,Cálculo numérico,psicotecnico_numerico,media,"Para la compra de un determinado producto un proveedor ofrece cuatro posibilidades de
+adquisición:
+Lote 1: 300 paquetes, conteniendo 15 unidades cada paquete, a un precio total de 5.850,00 euros.
+Lote 2: 10% más de paquetes que el Lote 1, conteniendo 20 unidades cada paquete, a un precio del
+15% más que el total del Lote 1.
+Lote 3: mismo número de paquetes que el Lote 1, conteniendo 10 unidades cada paquete, a un
+precio del 15% menos que el total del Lote 1.
+Lote 4: 10% menos de paquetes que el Lote 1, conteniendo 20 unidades cada paquete, al mismo
+precio que el total del Lote 1.
+¿En cuál de los Lotes anteriores el precio unitario del producto es más económico?",Lote 1,Lote 2,Lote 3,Lote 4,B,2023_Cuestionario1.CAM.pdf
+2023-E1-016,2023,1,16,,Cálculo numérico,psicotecnico_numerico,media,¿Cuál es el valor del 15% de los 7/9 de 11.475? (Si es necesario redondee a dos decimales),"1.721,25","2.213,04","1.338,75","133.875 su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2023_Cuestionario1.CAM.pdf
+2023-E1-017,2023,1,17,,Cálculo numérico,psicotecnico_numerico,media,"Tenemos que distribuir 775 personas en aulas de dos tipos: Aulas A, con 32 puestos cada una y
+Aulas B, con 45 puestos cada una. ¿Cuál de las siguientes afirmaciones es correcta?",Con 4 Aulas A y 14 Aulas B nos sobran 17 puestos,Con 6 Aulas A y 13 Aulas B nos sobran 2 puestos,Con 8 Aulas A y 12 Aulas B nos faltan 21 puestos,Con 10 Aulas A y 11 Aulas B nos faltan 40 puestos,B,2023_Cuestionario1.CAM.pdf
+2023-E1-018,2023,1,18,,Cálculo numérico,psicotecnico_numerico,media,"Necesitamos imprimir 57.000 documentos en A4. Cada cartucho de tóner tiene tóner para
+imprimir 4.540 documentos en A4 en calidad normal. Sabemos que la impresora tiene 3
+calidades de impresión: calidad normal, calidad eco (consume la mitad de tóner) y calidad
+supereco (consume el 10% de tóner). Si solo disponemos de 3 cartuchos de tóner, ¿con cuál de
+las siguientes opciones de impresión tenemos tóner suficiente?","10% de los documentos en calidad normal, 40% de los documentos en calidad eco y 50% de los documentos en calidad supereco","1.200 documentos en calidad normal, 20.000 en calidad eco y 35.800 en calidad supereco","2.500 documentos en calidad normal, 13.650 en calidad eco y 40.850 en calidad supereco",Mitad de los documentos en calidad eco y mitad de los documentos en calidad supereco,C,2023_Cuestionario1.CAM.pdf
+2023-E1-019,2023,1,19,,Cálculo numérico,psicotecnico_numerico,media,"En la realización de una determinada tarea se han registrado los siguientes tiempos: 1 persona ha
+tardado 3 horas, 13 minutos y 10 segundos; 2 personas han tardado 2 horas, 25 minutos y 10
+segundos cada una de ellas; 3 personas han tardado 3 horas, 35 minutos y 38 segundos cada una
+de ellas. ¿Cuál es el tiempo medio en realizar la tarea?","1 horas, 32 minutos y 19 segundos","3 horas, 4 minutos y 19 segundos","3 horas, 8 minutos y 24 segundos","6 horas, 16 minutos y 48 segundos",C,2023_Cuestionario1.CAM.pdf
+2023-E1-020,2023,1,20,,Cálculo numérico,psicotecnico_numerico,media,¿Cuál de las siguientes parejas de pesos (están separadas por un “;”) no son equivalentes?,"42 hg 8 gr ; 4,2 kg 80 dg","8,3 dag 2 gr ; 8.500 cg","0,52 kg 3 dg ; 520,3 gr","25 kg 40 gr ; 250,04 hc su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto. Observe el siguiente CUADRO-BASE que contiene una serie de letras: CUADRO-BASE dtfxrthdyobhtdroxrtbrthsydxfdrthfhtbowfd rtsdrxostsowfydfhtbfxostrrthydbroxfdydox",D,2023_Cuestionario1.CAM.pdf
+2023-E1-021,2023,1,21,,Búsqueda visual,psicotecnico_atencion,media,"Indique cuántas veces aparecen en total las letras x y o sin tener en cuenta la x situada
+inmediatamente después de una o ni la o situada inmediatamente antes de una w:",9,10,7,8,B,2023_Cuestionario1.CAM.pdf
+2023-E1-022,2023,1,22,,Búsqueda visual,psicotecnico_atencion,media,"Indique cuántas veces aparecen en total las letras t y d sin tener en cuenta la t situada
+inmediatamente antes de una h ni la d situada inmediatamente después de una y:",18,17,15,16 Observe el siguiente CUADRO-BASE que contiene una serie de letras y números: CUADRO-BASE HG179L7JZJ6J7L9Q6JLLZGH7L16QJL7GS6HG7GZ1 7J16QRLJ7J16QGHZRZ97LSQ61J7J1S679L761L6Q,C,2023_Cuestionario1.CAM.pdf
+2023-E1-023,2023,1,23,,Búsqueda visual,psicotecnico_atencion,media,"Indique cuántas veces aparecen en total los números 7, 6 y 1 sin contar el 6 situado
+inmediatamente antes de una Q:",24,25,23,26,D,2023_Cuestionario1.CAM.pdf
+2023-E1-024,2023,1,24,,Búsqueda visual,psicotecnico_atencion,media,"Indique cuántas veces aparecen en total las letras G, L y H sin contar la G inmediatamente antes
+de una H:",21,18,19,"20 su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",B,2023_Cuestionario1.CAM.pdf
+2023-E1-025,2023,1,25,,Búsqueda visual,psicotecnico_atencion,alta,Indique cuántos de esos 3 pares de tablas son exactamente iguales entre sí:,2,3,1,ninguno,C,2023_Cuestionario1.CAM.pdf
+2023-E1-026,2023,1,26,,Búsqueda visual,psicotecnico_atencion,alta,Indique cuántos de esos 3 pares de tablas son exactamente iguales entre sí:,ninguno,2,3,"1 su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",C,2023_Cuestionario1.CAM.pdf
+2023-E1-027,2023,1,27,,Aplicación de criterios,psicotecnico_logico,media,¿Cómo quedaría la LISTA-BASE después de aplicar el CRITERIO Y a la PERSONA Nº 6?,"Virhuez Combarros, F","Virhuez Combarros, F Virgili Combes, D Virgili Combes, D Virlan Combala, A Virlan Combala, A Virgil Combaz, F Virgil Combaz, F Virtus Comba, L Virtus Comba, L Combellas Combel, M Combellas Combel, M Viribay Virginio, T Viribay Combellas, T","Virhuez Combarros, F","Virhuez Combarros, F Virgili Combes, D Virgili Combes, D Virlan Combala, A Virlan Combala, A Virgil Combaz, F Virgil Combaz, F Virtus Comba, L Combellas Comba, L Viribay Combel, M Virginio Combel, M Viribay Combellas, T Viribay Combellas, T su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",B,2023_Cuestionario1.CAM.pdf
+2023-E1-028,2023,1,28,,Aplicación de criterios,psicotecnico_logico,media,¿Cómo quedaría la LISTA-BASE después de ordenarla alfabéticamente en orden inverso?,"Virtus Comba, L","Virtus Comba, L Virlan Combala, A Virlan Combala, A Viribay Combellas, T Virhuez Combarros, F Virhuez Combarros, F Viribay Combellas, T Virginio Combel, M Virginio Combel, M Virgili Combes, D Virgili Combes, D Virgil Combaz, F Virgil Combaz, F","Virtus Comba, L","Virtus Comba, L Virlan Combala, A Viribay Combellas, T Viribay Combellas, T Virhuez Combarros, F Virhuez Combarros, F Virlan Combala, A Virgili Combes, D Virginio Combel, M Virginio Combel, M Virgili Combes, D Virgil Combaz, F Virgil Combaz, F",A,2023_Cuestionario1.CAM.pdf
+2023-E1-029,2023,1,29,,Aplicación de criterios,psicotecnico_logico,media,"¿Cómo quedaría la LISTA-BASE después de aplicar el CRITERIO W y el CRITERIO V a la
+PERSONA Nº 6, el CRITERIO X a la PERSONA Nº 4 y el CRITERIO Z a la PERSONA Nº 2
+de la lista?","Virhuez Combarros, F","Virhuez Combarros, F Combes Vigili, D Combes Combes, D Virlan Combala, A Virlan Combala, A Virgil Virlan, F Virgil Virtus, F Virtus Comba, L Virtus Comba, L Combarros Viribay, M Combarros Viribay, M Viribay Combellas, T Viribay Combellas, T","Virhuez Combarros, F","Virhuez Combarros, F Combes Combes, D Combes Combes, D Virlan Combala, A Virlan Combala, A Virgil Virlan, F Virgil Virlan, F Virtus Comba, L Virtus Comba, L Combellas Virhuez, M Combarros Viribay, M Viribay Combellas, T Viribay Combellas, T su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",D,2023_Cuestionario1.CAM.pdf
+2023-E1-030,2023,1,30,,Aplicación de criterios,psicotecnico_logico,media,"¿Cómo quedaría la LISTA-BASE después de aplicar el CRITERIO X a la PERSONA Nº 2, el
+CRITERIO V a la PERSONA Nº 6 y el CRITERIO Y a la PERSONA Nº 4 de la lista?","Virhuez Combarros, F","Virhuez Combarros, F Virgili Virhuez, D Virgili Virhuez, D Virlan Combala, A Virlan Combala, A Comba Combaz, F Comba Combaz, F Virtus Virgil, L Virtus Comba, L Virginio Viribay, M Combellas Combel, M Viribay Combellas, T Viribay Combellas, T","Virhuez Combarros, F","Virhuez Combarros, F Virgili Virhuez, D Virgili Virhuez, D Virlan Combala, A Virlan Combala, A Comba Combaz, F Combaz Comba, F Virtus Comba, L Virtus Comba, L Virginio Viribay, M Virginio Viribay, M Viribay Combellas, T Viribay Combellas, T su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2023_Cuestionario1.CAM.pdf
+2023-E1-031,2023,1,31,1,Constitución,constitucion,media,"De acuerdo con su Preámbulo, ¿quién ratifica la Constitución Española de 1978?",El Rey,El pueblo español,Las Cortes Generales,El Gobierno,B,2023_Cuestionario1.CAM.pdf
+2023-E1-032,2023,1,32,1,Derechos y deberes fundamentales,constitucion,baja,"Respecto al derecho a la libertad y a la seguridad, el art. 17 de la Constitución Española
+establece:","La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de cuarenta y ocho horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial","Toda persona detenida deber ser informada antes de que se cumplan tres horas de la detención, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar",La ley regulará un procedimiento de “habeas corpus” para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente,Ninguna de las anteriores es correcta,C,2023_Cuestionario1.CAM.pdf
+2023-E1-033,2023,1,33,2,Asamblea de Madrid,comunidad_madrid,media,NO Corresponde a la Asamblea de la Comunidad de Madrid:,Acordar operaciones de crédito y deuda pública,La potestad de establecer y exigir tributos,"La resolución del recurso de inconstitucionalidad y la personación ante el Tribunal Constitucional, en los supuestos y términos previstos en la Constitución y en la Ley Orgánica del Tribunal Constitucional",El conocimiento y control de los planes económicos,C,2023_Cuestionario1.CAM.pdf
+2023-E1-034,2023,1,34,2,Estatuto de Autonomía,comunidad_madrid,baja,"La Ley Orgánica 3/1983, de 25 de febrero, es:",La Ley Orgánica del Poder Judicial,El Estatuto de Autonomía de la Comunidad de Madrid,La Ley Orgánica del Defensor del Pueblo,El Estatuto del Ministerio Fiscal,B,2023_Cuestionario1.CAM.pdf
+2023-E1-035,2023,1,35,3,Consejo de Gobierno,comunidad_madrid,media,Según el artículo 18 de la Ley del Gobierno y la Administración de la Comunidad de Madrid:,"El Consejo de Gobierno es el órgano colegiado que dirige la política y la Administración de la Comunidad de Madrid. Ejerce la función legislativa, la potestad ejecutiva y la iniciativa reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley","El Consejo de Gobierno es el órgano colegiado que dirige la política y la Administración de la Comunidad de Madrid. A tal fin, ejerce la iniciativa legislativa, la función ejecutiva y la función reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley","El Consejo de Gobierno es el órgano colegiado que dirige la política y la Administración de la Comunidad de Madrid. Ejerce la potestad legislativa, la función ejecutiva y la iniciativa reglamentaria","El Consejo de Gobierno es el órgano colegiado que dirige la política y la administración de la Comunidad de Madrid. A tal fin, ejerce la iniciativa legislativa, la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley",D,2023_Cuestionario1.CAM.pdf
+2023-E1-036,2023,1,36,3,Consejo de Gobierno,comunidad_madrid,media,"Según el Art. 21 de la Ley de Gobierno y la Administración de la Comunidad de Madrid.
+Corresponde al Consejo de Gobierno:","Nombrar y separar de su cargo a los Consejeros, y, en su caso, al Vicepresidente o Vicepresidentes","Ejecutar el Presupuesto de la Comunidad, tras su aprobación por la Asamblea","Aprobar, a propuesta del Consejero respectivo, previo dictamen preceptivo de la Consejería de Presidencia, la estructura orgánica y plantilla orgánica de las diferentes Consejerías y la creación, modificación o supresión de las Subdirecciones Generales","Decidir el nombramiento y cese de los cargos de la Administración autonómica con categoría igual o superior a Director General, previa propuesta del Presidente",B,2023_Cuestionario1.CAM.pdf
+2023-E1-037,2023,1,37,4,Normas con rango de ley,legislacion,media,"De acuerdo con el artículo 86 de la Constitución, ¿cuánto tiempo tiene el Congreso de los
+Diputados debatir y votar un Decreto-Ley desde su promulgación?",Dentro de los treinta días siguientes a su promulgación,Dentro de los veinte días siguientes a su promulgación,Dentro de los quince días siguientes a su promulgación,Dentro de los cuarenta días siguientes a su promulgación,A,2023_Cuestionario1.CAM.pdf
+2023-E1-038,2023,1,38,4,Leyes orgánicas,legislacion,baja,Indique cuál de las siguientes materias está reservada a Ley Orgánica:,El derecho de protección de la salud,El derecho a la propiedad privada,El derecho de asociación,El derecho a la negociación colectiva,C,2023_Cuestionario1.CAM.pdf
+2023-E1-039,2023,1,39,5,Actos nulos y anulables,procedimiento_administrativo,media,"En qué artículo de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas viene regulado la declaración de lesividad de actos anulables
+favorables al interesado:",Artículo 106,Artículo 107,Artículo 108,Artículo 112,B,2023_Cuestionario1.CAM.pdf
+2023-E1-040,2023,1,40,5,Responsabilidad administrativa,procedimiento_administrativo,media,"En el procedimiento para la exigencia de la responsabilidad patrimonial de las autoridades y
+personal al servicio de las Administraciones Públicas, conforme se estipula en el artículo 36 de la
+Ley 40/2015, del Régimen Jurídico del Sector Público, el plazo para la resolución por el órgano
+competente será de:",20 días,15 días,10 días,5 días,D,2023_Cuestionario1.CAM.pdf
+2023-E1-041,2023,1,41,6,Procedimiento administrativo,procedimiento_administrativo,media,"A tenor del artículo 2 de la Ley 39/2015, del Procedimiento Administrativo Común de las
+Administraciones Públicas, las Corporaciones de Derecho Público se regirán:","Por su normativa específica y exclusivamente cuando se especifique en la ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas",Por lo establecido en la normativa específica,Por lo establecido en la Ley del Procedimiento Administrativo Común de las Administraciones Públicas,Por su normativa específica en el ejercicio de las funciones públicas que les hayan sido atribuidas por Ley o delegadas y supletoriamente por la presente Ley,D,2023_Cuestionario1.CAM.pdf
+2023-E1-042,2023,1,42,6,Notificaciones,procedimiento_administrativo,media,"¿Cuál es el plazo que se establece, en el artículo 76 de la Ley 39/2015, del Procedimiento
+Administrativo Común de las Administraciones Públicas, en el que los interesados podrán
+presentar alegaciones y aportar documentos u otros elementos de juicio?:",En el plazo de quince días desde su notificación,En el plazo de diez días desde su conocimiento,En cualquier momento anterior al trámite de audiencia,En todo momento,C,2023_Cuestionario1.CAM.pdf
+2023-E1-043,2023,1,43,7,Jurisdicción contencioso-administrativa,legislacion,media,"No corresponden al orden jurisdiccional contencioso-administrativo, señale la respuesta
+incorrecta:","Las cuestiones expresamente atribuidas a los órdenes jurisdiccionales civil, penal y social, aunque estén relacionadas con la actividad de la Administración pública",El recurso contencioso-disciplinario militar,Los conflictos de jurisdicción entre los Juzgados y Tribunales y la Administración pública y los conflictos de atribuciones entre órganos de una misma Administración,"Los recursos directos o indirectos que se interpongan contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya, que corresponderán, en exclusiva, al Tribunal Constitucional en los términos establecidos por la disposición adicional quinta de su Ley Orgánica”",D,2023_Cuestionario1.CAM.pdf
+2023-E1-044,2023,1,44,7,Jurisdicción contencioso-administrativa,legislacion,baja,"El emplazamiento a la Administración en el procedimiento de la Ley de Jurisdicción Contencioso
+administrativa se entenderá efectuado:",Con la remisión del expediente por la Administración,Con la reclamación del expediente,Con la notificación a la administración del recurso,Con la admisión del recurso,B,2023_Cuestionario1.CAM.pdf
+2023-E1-045,2023,1,45,8,Derecho de acceso a la información pública,transparencia,media,"De acuerdo con el artículo 11 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la
+información pública y buen gobierno, ¿cuál de los siguientes Principios técnicos a los que debe
+adecuarse el Portal de la Transparencia desarrollado por la Administración del Estado es
+incorrecto?:",Accesibilidad,Reutilización,Usabilidad,Interoperabilidad,C,2023_Cuestionario1.CAM.pdf
+2023-E1-046,2023,1,46,8,Protección de datos,transparencia,media,"Según dispone el artículo 34 de la Ley Orgánica 3/2018, de 5 de diciembre, los responsables y
+encargados del tratamiento deberán designar un delegado de protección de datos en los
+supuestos previstos en el artículo 37.1 del Reglamento (UE) 2016/679 y, en todo caso, cuando se
+trate de las siguientes entidades (señale la falsa):",Los establecimientos financieros de crédito,Las federaciones deportivas cuando traten datos de menores de edad,Las empresas de seguridad pública,Los colegios profesionales y sus consejos generales,C,2023_Cuestionario1.CAM.pdf
+2023-E1-047,2023,1,47,9,Contratos del sector público,contratos,media,"¿Cuál de los siguientes tipos de contratos están excluidos del ámbito de la Ley 9/2017, de
+contratos del sector público?",Contrato concesión de obras,Contrato de suministros,Contrato de servicios,Contrato relativo a servicios de arbitraje y conciliación,D,2023_Cuestionario1.CAM.pdf
+2023-E1-048,2023,1,48,9,Contratos del sector público,contratos,baja,"La Ley 9/2017, de contratos del Sector Público, tiene por objeto regular la contratación del sector
+público, a fin de garantizar que la misma se ajusta a los principios de:","Publicidad, transparencia, eficacia y eficiencia en la contratación pública",Eficacia y eficiencia en la contratación,No discriminación e igualdad de trato entre los licitadores y coordinación entre las Administraciones Públicas,"Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores",D,2023_Cuestionario1.CAM.pdf
+2023-E1-049,2023,1,49,10,Régimen disciplinario,funcion_publica,media,"Según el Art. 94 del TREBEP: La potestad disciplinaria se ejercerá de acuerdo con los siguientes
+principios: (señale la incorrecta)",Principio de irretroactividad de las disposiciones sancionadoras favorables y de la retroactividad de las no favorables al presunto infractor,Principio de culpabilidad,Principio de presunción de inocencia,"Principio de legalidad y tipicidad de las faltas y sanciones, a través de la predeterminación normativa o, en el caso del personal laboral, de los convenios colectivos",A,2023_Cuestionario1.CAM.pdf
+2023-E1-050,2023,1,50,10,Personal al servicio de las Administraciones Públicas,funcion_publica,media,"Según el Art. 5 de la Ley 1/1986, de 10 de abril de la Función Pública de la Comunidad de Madrid.
+El personal de la Comunidad de Madrid se integra por: (señale la incorrecta)",Los funcionarios de carrera,El personal laboral,Los funcionarios interinos,El personal al servicio de la Asamblea de Madrid,D,2023_Cuestionario1.CAM.pdf
+2023-E1-051,2023,1,51,11,Seguridad Social,seguridad_social,media,"Según el artículo 213.4 del Real Decreto Legislativo 8/2015, de 30 de octubre: El percibo de la
+pensión de jubilación será compatible con la realización de trabajos por cuenta propia cuyos
+ingresos anuales totales:","Siempre que no superen el 75% del salario mínimo interprofesional, en cómputo anual","Siempre que no superen el salario mínimo interprofesional, en cómputo anual",No es compatible en ningún caso,Ninguna es correcta,B,2023_Cuestionario1.CAM.pdf
+2023-E1-052,2023,1,52,11,Afiliación,seguridad_social,media,"Respecto a la afiliación de la Seguridad Social, señale la afirmación correcta:",Es obligatoria y deberá renovarse cada vez que la persona cambie de régimen,No puede practicarse de oficio,El obligatoria y única para toda la vida de las personas y para todo el sistema,Deberá renovarse cuando el trabajador pase de prestación por cuenta ajena a cuenta propia,C,2023_Cuestionario1.CAM.pdf
+2023-E1-053,2023,1,53,12,Presupuestos,hacienda_publica,media,"Señala la afirmación correcta según la Ley 9/1990, de 8 de noviembre en su artículo 9:",La Consejería de Hacienda es el órgano superior de la Administración de la Comunidad en materias objeto de esta Ley,"La concesión de créditos extraordinarios y suplementos de crédito, se regirá por lo establecido en el artículo 12 de la Ley Orgánica de Financiación de las Comunidades Autónomas",Velar por la elaboración del anteproyecto de Ley de Presupuestos de la Comunidad para su aprobación,"Las sociedades mercantiles, las entidades de derecho público con personalidad jurídica propia y las empresas públicas se coordinarán con la Administración de Hacienda de acuerdo con los términos previstos en esta Ley",A,2023_Cuestionario1.CAM.pdf
+2023-E1-054,2023,1,54,12,Tesorería,hacienda_publica,media,"Según el artículo 13 de Ley 9/1990, de 8 de noviembre, La Tesorería, gestionada bajo criterios de
+seguridad, rentabilidad y liquidez, se inspira en:",El principio de máximo rendimiento de sus propios ingresos,"En los principios de legalidad, solidaridad, universalidad y constitucionalidad",El principio de caja única,"Los principios de equidad, productividad y transparencia",C,2023_Cuestionario1.CAM.pdf
+2023-E1-055,2023,1,55,13,Violencia de género,igualdad,media,"Según la Ley Orgánica 1/2004, en el ámbito de la publicidad y de los medios de comunicación,
+indica la respuesta verdadera:","La Administración pública promoverá acuerdos de autorregulación que, contando con mecanismos de control preventivo y de resolución extrajudicial de controversias eficaces, contribuyan al cumplimiento de la legislación publicitaria","De acuerdo con lo establecido en la Ley General de Publicidad, se considerará ilícita la publicidad que utilice la imagen de la mujer","El Ente público le corresponda velar para que los medios audiovisuales cumplan sus obligaciones constitucionales, con respecto a la imagen de la mujer, sin perjuicio de las posibles actuaciones por parte de otras entidades","La Delegación Especial del Gobierno contra la Violencia sobre la Mujer, el instituto de la Mujer u órgano equivalente de cada Comunidad Autónoma, el Ministerio Fiscal y las Asociaciones tendrán como objetivo velar por la defensa de la imagen de las mujeres",A,2023_Cuestionario1.CAM.pdf
+2023-E1-056,2023,1,56,13,Personas LGTBI,igualdad,media,"La Ley 3/2016, de 22 de julio, según su artículo 4, señala uno de los principios fundamentales que
+regirán la actuación de las personas físicas o jurídicas, públicas o privadas incluidas en su ámbito
+de aplicación:",Se garantizará protección efectiva frente a cualquier acto de violencia o agresión contra la vida a las mujeres de los Cuerpos y Fuerzas de Seguridad del Estado,Todas las personas tienen derecho a la privacidad. Se adoptarán las medidas administrativas necesarias a fin de garantizar que las mencionadas personas puedan acceder a cualquier prestación privada,"Las Administraciones públicas de la Comunidad de Madrid, promoverán políticas para el fomento de la igualdad, la visibilidad y la no discriminación por motivos de orientación sexual de las mujeres","Derecho a recursos y resarcimientos efectivos: se garantizará a las personas LGTBI, la reparación de sus derechos violados por motivo de orientación sexual o identidad de género",D,2023_Cuestionario1.CAM.pdf
+2023-E1-057,2023,1,57,14,Atención al ciudadano,procedimiento_administrativo,media,"De acuerdo con el artículo 9 del Decreto 21/2002, de 24 enero, por el que se regula la atención al
+ciudadano en la Comunidad de Madrid: La información particular:",Es la que se refiere al estado o contenido de los procedimientos en tramitación,"Es la relativa a la identificación, fines, competencia y estructura, funcionamiento y localización de organismos y unidades administrativas",Es la que se facilitará obligatoriamente a los ciudadanos sin exigir para ello la acreditación de legitimación,Es la información de carácter general que deberá ofrecerse a los grupos sociales o instituciones que estén interesadas en su conocimiento,A,2023_Cuestionario1.CAM.pdf
+2023-E1-058,2023,1,58,14,Atención al ciudadano,procedimiento_administrativo,media,"De acuerdo con el art. 16 del Decreto 21/2002 de 24 de enero, por el que se regula la atención al
+ciudadano de la Comunidad de Madrid, los ciudadanos pueden presentar solicitudes, escritos y
+comunicaciones dirigidos a la Administración de la Comunidad de Madrid:",En los Registros de cualquier órgano administrativo perteneciente a la Administración del Estado y las demás Comunidades autónomas,"En las oficinas de correos, en la forma establecida reglamentariamente",En las representaciones diplomática u oficinas consulares de España en el extranjero,Todas las opciones son correctas,D,2023_Cuestionario1.CAM.pdf
+2023-E1-059,2023,1,59,15,Documentos administrativos,procedimiento_administrativo,baja,"Documentos presentados por los ciudadanos en los que éstos impugnan un acto administrativo
+que afecta a sus derechos o intereses legítimos, solicitando su anulación por considerar que
+incurre en algún defecto que lo hace objeto de nulidad o anulabilidad, es la definición de:",Recurso,Petición,Alegaciones,Solicitud,A,2023_Cuestionario1.CAM.pdf
+2023-E1-060,2023,1,60,15,Documentos administrativos,procedimiento_administrativo,media,"Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, el acto por el que cualquier persona, en cumplimiento o no de una
+obligación legal, pone en conocimiento de un órgano administrativo la existencia de un
+determinado hecho que pudiera justificar la iniciación de oficio de un procedimiento
+administrativo, es la definición de:",Queja,Denuncia,Reclamación,Solicitud PREGUNTAS RESERVA,B,2023_Cuestionario1.CAM.pdf
+2023-E1-061,2023,1,61,2,Asamblea de Madrid,comunidad_madrid,baja,Señala la respuesta incorrecta. La Asamblea legislativa de la Comunidad de Madrid:,Representa al pueblo de Madrid,Ejerce la potestad ejecutiva de la Comunidad,"Aprueba y controla el Presupuesto de la Comunidad, impulsa, orienta y controla la acción del Gobierno","Ejerce las demás competencias que le atribuyen la Constitución, el presente Estatuto y el resto del ordenamiento jurídico",B,2023_Cuestionario1.CAM.pdf
+2023-E1-062,2023,1,62,6,Procedimiento administrativo,procedimiento_administrativo,baja,"Si el informe debiera ser emitido por una Administración Pública distinta de la que tramita el
+procedimiento en orden a expresar el punto de vista correspondiente a sus competencias
+respectivas, y transcurriera el plazo sin que se hubiera emitido dicho informe:",Se podrán proseguir las actuaciones,Se suspenderá el procedimiento,Se podrá proseguir con las actuaciones cuando el informe sea preceptivo,Se podrá ampliar el plazo para emitir el informe hasta 5 días más,A,2023_Cuestionario1.CAM.pdf
+2023-E1-063,2023,1,63,11,Cotización,seguridad_social,media,"Conforme al art. 19.2 del Real Decreto Legislativo 8/2015, de 30 de octubre, las bases de
+cotización a la Seguridad Social, en cada uno de sus regímenes, tendrán los siguientes topes:",Como tope mínimo las cuantías fijadas para cada año por la correspondiente Ley de Presupuesto Generales del Estado,"Como tope máximo las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto","Tendrán como tope máximo las cuantías fijadas para cada año por la correspondiente Ley de Presupuestos General del Estado y como tope mínimo las cuantías del salario mínimo interprofesional vigente en cada momento, incrementadas en un sexto, salvo disposición expresa en contrario",Ninguna es correcta,C,2023_Cuestionario1.CAM.pdf
+2023-E1-064,2023,1,64,13,Igualdad entre mujeres y hombres,igualdad,media,"La Ley 3/2016, de 22 de julio, según su artículo 11 nos habla de acción positiva y nos dice que:","La Comunidad de Madrid promoverá acciones formativas, divulgativas y, en general, acciones positivas que posibiliten la plena inclusión y participación de todos los ámbitos de la sociedad civil. Todo ello sin perjuicio de que otras normas de rango autonómico establezcan condiciones más favorables","Las Administraciones públicas madrileñas, en todos y cada uno de los casos en que participen, obrarán teniendo en cuenta que las personas deben ser tratadas de acuerdo con la identidad de género sentida",La Comunidad de Madrid adoptará medidas de acción positiva e impulsarán políticas de fomento de la igualdad de trato en las relaciones entre las personas,"Al objeto de hacer efectivas las disposiciones contenidas en esta Ley, la Comunidad de Madrid elaborará los indicadores que permitan el conocimiento de las causas y efectos de la discriminación",B,2023_Cuestionario1.CAM.pdf
+2023-E1-065,2023,1,65,8,Derecho de acceso a la información pública,transparencia,baja,"¿Cómo se denomina el Título II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a
+la información pública y buen gobierno?",Régimen general,Consejo de Transparencia y Buen Gobierno,Buen Gobierno,Transparencia de la actividad pública,C,2023_Cuestionario1.CAM.pdf
+2023-E2-001,2023,2,1,20,Correo electrónico,ofimatica,baja,"En Outlook 2016, ¿en qué Pestaña de la Cinta de opciones se encuentra el comando Nuevo
+mensaje de correo electrónico?",Enviar y recibir,Inicio,Carpeta,Vista,B,2023_Cuestionario2.CAM.pdf
+2023-E2-002,2023,2,2,17,Gestión de documentos Word,ofimatica,baja,"En Word 2016, ¿es posible recuperar la versión de Autoguardado del documento?","Sí, desde los comandos del grupo Cambios en la pestaña Revisar de la cinta de opciones","Sí, desde Administrar documento en pestaña Archivo y opción Información","Sí, desde Inspeccionar documento en pestaña Archivo y opción Información","Sí, desde los comandos del grupo Mostrar en la pestaña Vista de la cinta de opciones",B,2023_Cuestionario2.CAM.pdf
+2023-E2-003,2023,2,3,16,Explorador de archivos,ofimatica,baja,¿Cómo se llama la carpeta que Windows 10 crea para cada usuario del ordenador?,Descargas,Documentos,Carpeta personal,Imágenes,C,2023_Cuestionario2.CAM.pdf
+2023-E2-004,2023,2,4,18,"Libros, hojas y celdas",ofimatica,baja,"La organización Horizontal del cuadro de diálogo Organizar ventanas del grupo Ventanas en la
+pestaña Vista de Excel 2016, ¿qué organización genera?",Organiza en horizontal las ventanas de Excel abiertas,Organiza en horizontal las Hojas del Libro abierto,Esa organización no existe en Excel 2016,Divide en dos y en horizontal la Hoja del Libro abierto,A,2023_Cuestionario2.CAM.pdf
+2023-E2-005,2023,2,5,20,Correo electrónico,ofimatica,baja,¿Qué se entiende por Conversación en Outlook 2016?,Una Conversación es la agrupación de los mensajes que tienen el mismo remitente,Una Conversación es la agrupación de los mensajes que tienen el mismo destinatario,Una Conversación es la agrupación de los mensajes que tienen la misma fecha de envío,Una Conversación es la agrupación de los mensajes que tienen el mismo asunto,D,2023_Cuestionario2.CAM.pdf
+2023-E2-006,2023,2,6,20,Correo electrónico,ofimatica,baja,¿Qué es un Campo en una Tabla de Access 2016?,Un Campo es una Consulta a una Base de Datos,Un Campo es un metadato con la información del creador de la Base de datos,"Un Campo representa una información específica de la tabla como nombre, apellidos o dirección de correo electrónico",Los Campos no existen en las Tablas de Access,C,2023_Cuestionario2.CAM.pdf
+2023-E2-007,2023,2,7,17,Búsqueda Word,ofimatica,baja,"En Word 2016, ¿qué carácter comodín, de los siguientes, excluye los caracteres incluidos entre
+los corchetes?","Signo de admiración de cierre ""!""","Signo de interrogante de cierre ""?""","Asterisco ""*""","Guión medio ""-""",A,2023_Cuestionario2.CAM.pdf
+2023-E2-008,2023,2,8,21,Navegación web y protocolos,ofimatica,baja,"En un navegador web, ¿qué se entiende por Marcadores?",Es el historial de navegación donde se registran los sitios web que se han visitado,Es la utilidad del navegador que nos permite guardar aquellas direcciones de páginas web que consideramos de interés para que podamos acceder a ellas de forma rápida,Es un link que permite ir a otra página web o a otra zona dentro de la misma página web que se está visitando,"Es la utilidad del navegador que permite monitorizar las descargas, administrar los ficheros que se están descargando y los ya descargados",B,2023_Cuestionario2.CAM.pdf
+2023-E2-009,2023,2,9,21,Navegación web y protocolos,ofimatica,baja,¿Qué es ARPANET?,Un sistema operativo similar a MSDOS y anterior a Windows que utilizaba la consola de texto en lugar de un entorno gráfico,Es un tipo de red centrada en el usuario que cubre un espacio limitado y que utiliza el protocolo WIFI,Una red de carácter militar creada como medio de comunicación entre instituciones y uno de los orígenes del actual internet,Es un dispositivo de seguridad para redes informáticas similar a un Firewall,C,2023_Cuestionario2.CAM.pdf
+2023-E2-010,2023,2,10,19,Access y Power BI,ofimatica,baja,"¿Cuántas Bases de datos se pueden abrir, al mismo tiempo, en una única instancia de Access
+2016?",Tantas como soporte la memoria del ordenador,Una,Tres,Cuatro,B,2023_Cuestionario2.CAM.pdf
+2023-E2-011,2023,2,11,16,Explorador de archivos,ofimatica,baja,"En Windows 10, ¿por qué se recomienda quitar de forma segura una memoria usb externa
+conectada al ordenador?",En Windows 10 no existe tal recomendación,Para que el usuario no se olvide que tiene conectada una unidad externa en el ordenador,Para evitar la pérdida de datos,Para evitar que la unidad conectada se sobrecaliente,C,2023_Cuestionario2.CAM.pdf
+2023-E2-012,2023,2,12,18,Fórmulas y funciones Excel,ofimatica,baja,"¿Qué Función de Excel 2016 devuelve, de una cadena de texto, un número especificado de
+caracteres por la derecha?","strR(texto,[núm_de_caracteres])","strR(núm_de_caracteres,texto)","DERECHA(núm_de_caracteres,texto)","DERECHA(texto,[núm_de_caracteres])",D,2023_Cuestionario2.CAM.pdf
+2023-E2-013,2023,2,13,19,Tablas Access,ofimatica,baja,"En Access 2016, un Campo Autonumeración se usa:",Los Campos Autonumeración no existen en Access,Para proporcionar un valor único que asegure que cada registro sea único,Para dar formato a las fechas,Para crear números aleatorios con o sin repetición.,B,2023_Cuestionario2.CAM.pdf
+2023-E2-014,2023,2,14,21,Navegación web y protocolos,ofimatica,media,¿Cuál es la diferencia entre el protocolo FTP y SFTP?,Ninguna,La principal diferencia entre FTP y SFTP es que SFTP usa un canal seguro para transferir archivos mientras que el FTP no lo hace,"Fueron creados por distintos desarrolladores, pero son iguales","La única diferencia radica en que FTP necesita para la identificación un nombre de usuario y password, mientras que SFTP utiliza, además, un segundo factor de autenticación como un código enviado por sms o correo electrónico",B,2023_Cuestionario2.CAM.pdf
+2023-E2-015,2023,2,15,20,Correo electrónico,ofimatica,baja,"Las marcas de Seguimiento en Outlook 2026, ¿a qué mensajes de correo electrónico se
+pueden aplicar?",Tanto a los que se envían como a los que se reciben,Solo a los que se envían,Solo a los que se reciben,Solo a los que se reciben como copia,A,2023_Cuestionario2.CAM.pdf
+2023-E2-016,2023,2,16,19,Tablas Access,ofimatica,baja,"En Access 2016, Formato, Título, Máscara de entrada y Valor predeterminado, son:",Algunas de las Propiedades que definen el Campo de una Tabla,Dependencias de un objeto incrustado en una Tabla de una Base de datos,Esos conceptos no existen en Access,Algunas de las propiedades e información personal de un archivo de Access,A,2023_Cuestionario2.CAM.pdf
+2023-E2-017,2023,2,17,16,Explorador de archivos,ofimatica,baja,"En Windows 10, al trabajar con el explorador de archivos y solicitar una agrupación de los
+archivos de una carpeta, por ejemplo, por tipo, ¿qué significa el número entre paréntesis que
+aparece al lado del nombre de cada grupo?",Representa el número de orden del grupo,Representa el número de archivos del grupo,Representa el número de archivos del grupo que por su condición están en más de un grupo,Representa al número de aplicaciones que pueden abrir los archivos de cada grupo,B,2023_Cuestionario2.CAM.pdf
+2023-E2-018,2023,2,18,18,Fórmulas y funciones Excel,ofimatica,baja,Indique cuál de las siguientes Fórmulas de Excel 2016 es correcta en cuanto a su sintaxis:,=SI(A1=A2 Y A4=A3;C1+D1;C4-B4),"=SI(Y(A1=A2,A4=A3),C1+D1,C4-B4)",=SI(Y(A1=A2;A4=A3);C1+D1;C4-B4),"=SI(A1=A2 Y A4=A3,C1+D1,C4-B4)",C,2023_Cuestionario2.CAM.pdf
+2023-E2-019,2023,2,19,16,Explorador de archivos,ofimatica,baja,"En Windows 10, al trabajar con el explorador de archivos respecto a los nombres de archivos,
+¿qué se entiende por la extensión de un archivo?",Suelen ser tres o cuatro caracteres al final del nombre del archivo y después de un punto que indican qué aplicación ha creado el archivo o puede abrirlo,Suelen ser tres o cuatro caracteres al final del nombre del archivo y después de un punto que indican qué usuario ha creado el archivo,Suelen ser tres o cuatro caracteres al final del nombre del archivo y después de un punto que indican qué permisos debe tener un usuario para poder abrirlo,En Windows 10 no existe ese concepto.,A,2023_Cuestionario2.CAM.pdf
+2023-E2-020,2023,2,20,17,Gestión de documentos Word,ofimatica,baja,"En Word 2016, ¿cómo se añaden Propiedades o Metadatos personalizados al documento?","Las propiedades del documento ofrecen información detallada sobre un archivo como el título, el nombre del autor, el asunto, etc. pero no es posible añadir propiedades personalizadas más allá de las que ofrece Word",Añadir propiedades personalizadas solo es posible en otras versiones de Word,"Desde la pestaña Archivo, opción Información, desplegando Propiedades y seleccionando Propiedades avanzadas","Desde Archivo, opción Inspeccionar documento y seleccionando Propiedades personalizadas",C,2023_Cuestionario2.CAM.pdf
+2023-E2-021,2023,2,21,17,Gestión de documentos Word,ofimatica,baja,"En Word 2016, indique de las siguientes opciones, cuál permite Insertar un documento en otro:",Comando Cuadro de texto del grupo Texto en la pestaña Insertar,Comando Objeto del grupo Texto en la pestaña Insertar,Word 2016 no permite insertar un documento en otro,Comando Referencia cruzada del grupo Vínculos en la pestaña Insertar,B,2023_Cuestionario2.CAM.pdf
+2023-E2-022,2023,2,22,21,Navegación web y protocolos,ofimatica,baja,La navegación web en modo incógnito es:,"Un modo de visualización donde la página principal, la barra de herramientas, los ajustes y algunas otras páginas tendrán un tono oscuro",La forma de activar en el navegador las advertencias sobre sitios que no son seguros,La navegación segura que rastrea y analiza la web para descubrir sitios potencialmente dañinos,Una función de privacidad disponible en algunos navegadores web,D,2023_Cuestionario2.CAM.pdf
+2023-E2-023,2023,2,23,19,Access y Power BI,ofimatica,baja,¿Qué extensión tiene un archivo predeterminado de Access 2016?,xlsx,accdb,oddb,dbaccs,B,2023_Cuestionario2.CAM.pdf
+2023-E2-024,2023,2,24,21,Navegación web y protocolos,ofimatica,baja,"¿Qué sucede cuando se está redactando un mensaje y se utiliza el comando Adjuntar archivo
+en el Grupo Incluir en la Pestaña Mensaje de la Cinta de opciones de Outlook 2016?",Se abre el navegador web,Se abre un panel que pregunta si estamos seguros de querer adjuntar un archivo,Se abre el antivirus instalado en el equipo para analizar el archivo adjunto,Aparece una lista con los últimos documentos utilizados y la opción de abrir el Explorador de archivos,D,2023_Cuestionario2.CAM.pdf
+2023-E2-025,2023,2,25,16,Explorador de archivos,ofimatica,baja,"En Windows 10, ¿qué es compartir una carpeta?",Hacer que ocupe menos espacio,Hacer que su contenido sea accesible a otros usuarios de la red,Hacer que su contenido sea de solo lectura,Ocultar la carpeta a otros usuarios,B,2023_Cuestionario2.CAM.pdf
+2023-E2-026,2023,2,26,18,"Libros, hojas y celdas",ofimatica,baja,"En Excel 2016, ¿cómo se denomina al archivo que contiene una o más hojas de cálculo?",Una Celda,Una Fórmula,Un Libro,Una Vista.,C,2023_Cuestionario2.CAM.pdf
+2023-E2-027,2023,2,27,17,Gestión de documentos Word,ofimatica,media,"En Word 2016, ¿qué diferencia existe entre Lista con Viñeta y Lista Numerada?",Ninguna,"Las Listas con Viñetas se utilizan exclusivamente en la definición de Índices de temas, mientras que las Listas Numeradas pueden utilizarse a lo largo del documento para organizar la información de manera más clara","En las Listas con Viñetas, cada párrafo comienza con un símbolo o pequeña imagen como un punto, un cuadrado, etc.; en las Listas Numeradas, cada párrafo comienza con una expresión que puede incluir un número o letra","Las Listas con Viñetas no se pueden configurar, Word las tiene ya predefinidas para facilitar su uso. Las Listas Numeradas, sin embargo, permiten ser configuradas por el usuario y así definir sangrías, tipo de numeración, etc",C,2023_Cuestionario2.CAM.pdf
+2023-E2-028,2023,2,28,20,Correo electrónico,ofimatica,media,"¿Qué diferencia hay entre Responder y Reenviar un mensaje de correo electrónico en Outlook
+2016?",Responder no incluye los datos adjuntos y Reenviar sí,Reenviar no incluye los datos adjuntos y Responder sí,No hay diferencia entre Responder y Reenviar,Reenviar no permite incluir nuevo texto en el cuerpo del mensaje y Responder sí,A,2023_Cuestionario2.CAM.pdf
+2023-E2-029,2023,2,29,18,"Libros, hojas y celdas",ofimatica,baja,¿Qué es un Hipervínculo en Excel 2016?,No existen Hipervínculos en Excel 2016,"Es un acceso directo que salta, por ejemplo, a otra ubicación del libro actual, a un documento almacenado en un servidor de red, un intranet o Internet",Es una celda que contiene una fórmula,Se llama Hipervínculo a las celdas ocultas de una Hoja,B,2023_Cuestionario2.CAM.pdf
+2023-E2-030,2023,2,30,21,Navegación web y protocolos,ofimatica,baja,¿Cuál de los siguientes no es un navegador Web?,Opera,Browzar,Brave,Rust,D,2023_Cuestionario2.CAM.pdf
+2023-E2-031,2023,2,31,17,Gestión de documentos Word,ofimatica,baja,"En Word 2016, ¿cómo se denominan las partes del documento que poseen un formato
+específico, por ejemplo, un distinto formato de página, un distinto encabezado o pie de página,
+etc.?",Secciones,Salto de página,Encolumnado,Orientación de página,A,2023_Cuestionario2.CAM.pdf
+2023-E2-032,2023,2,32,21,Navegación web y protocolos,ofimatica,baja,"Sobre el protocolo HTTPS, indique cuál de las siguientes afirmaciones es falsa:",El protocolo de transferencia de hipertexto seguro (HTTPS) es la versión segura de HTTP,HTTPS asegura las comunicaciones mediante el cifrado de las mismas,El protocolo HTTPS sólo es reconocido por el navegador Firefox o Chrome,"Para preparar un servidor web que acepte conexiones HTTPS, el administrador debe crear un certificado de clave pública para el servidor web.",C,2023_Cuestionario2.CAM.pdf
+2023-E2-033,2023,2,33,16,Explorador de archivos,ofimatica,baja,"En Windows 10, ¿qué ocurre al intentar abrir un archivo que no está asociado a ninguna
+aplicación?",Esa situación no puede darse en Windows 10 dado que todo archivo debe tener asociada una aplicación con la que poder abrirse o crearse,Por defecto el archivo se abriría en el bloc de notas de Windows,"Windows muestra el cuadro de diálogo ¿Cómo quieres abrir este archivo?, para seleccionar la aplicación con la que abrir el archivo","No pasaría nada, simplemente el archivo no se abre",C,2023_Cuestionario2.CAM.pdf
+2023-E2-034,2023,2,34,20,Correo electrónico,ofimatica,baja,"En Outlook 2016, ¿qué significa CCO en un correo electrónico?",Con copia,Con copia oculta,Con conversación asociada,Envío sin copia,B,2023_Cuestionario2.CAM.pdf
+2023-E2-035,2023,2,35,18,"Libros, hojas y celdas",ofimatica,baja,"En Excel 2016, ¿qué significa un pequeño triángulo rojo en la esquina superior derecha de la
+Celda?",Alerta que la Celda contiene una Fórmula incorrectamente definida,Avisa de la existencia de un Comentario o Nota en la Celda,Indica que la Celda contiene un Vínculo,Alerta de un error gramatical en la Celda.,B,2023_Cuestionario2.CAM.pdf
+2025-E1-001,2025,1,1,,Comparación de matrices,psicotecnico_atencion,alta,"AT_3102_1
+¿Cuántos grupos de 3 números son diferentes entre la Matriz A y la
+Matriz B?",8,10,6,7,A,2025_Cuestionario1.CAM.pdf
+2025-E1-002,2025,1,2,,Comparación de matrices,psicotecnico_atencion,alta,"AT_3102_2
+¿Cuántos grupos de tres números en la Matriz A empiezan por un
+número par?",34,31,29,27,B,2025_Cuestionario1.CAM.pdf
+2025-E1-003,2025,1,3,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_1
+¿Qué proveedor tiene los precios más bajos?",Alfa,Beta,Gamma,Delta,D,2025_Cuestionario1.CAM.pdf
+2025-E1-004,2025,1,4,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_2
+¿Qué proveedor tiene el plazo de entrega más corto?",Alfa,Beta,Gamma,Delta,D,2025_Cuestionario1.CAM.pdf
+2025-E1-005,2025,1,5,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_3
+¿Qué proveedor puede suministrar mayor volumen mensual?",Alfa,Beta,Gamma,Delta,C,2025_Cuestionario1.CAM.pdf
+2025-E1-006,2025,1,6,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_4
+¿Qué proveedor tiene precios más altos que Alfa pero más bajos que Gamma?
+A B C D
+Alfa Beta Gamma No se puede determinar",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],B,2025_Cuestionario1.CAM.pdf
+2025-E1-007,2025,1,7,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_5
+¿Qué proveedor cumple que tiene mayor capacidad de suministro que Beta pero menor que
+Gamma?",Alfa,Beta,Gamma,Delta,A,2025_Cuestionario1.CAM.pdf
+2025-E1-008,2025,1,8,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2006
+En un archivo se digitalizan expedientes. El equipo A digitaliza 180 expedientes/día y el equipo B
+digitaliza 120 expedientes/día. Si A trabaja 3 días y B trabaja 5 días, ¿cuántos expedientes se digitalizan
+en total?",900,960,1.140,1.200,C,2025_Cuestionario1.CAM.pdf
+2025-E1-009,2025,1,9,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2003
+Doce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto recaudarán
+3 gestores en 2 meses?
+A B C D
+102.000 € 122.400 € 153.000 € Ninguna es correcta",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],A,2025_Cuestionario1.CAM.pdf
+2025-E1-010,2025,1,10,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2005
+El departamento de compras necesita repartir 1.250 unidades en paquetes iguales. Si se quiere que
+el número de paquetes sea el doble del número de unidades por paquete, ¿cuántas unidades
+contiene cada paquete?",18,25,30,42,B,2025_Cuestionario1.CAM.pdf
+2025-E1-011,2025,1,11,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2009
+Un ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min
+gracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?
+A B C D
+12 horas 15 horas 18 horas 20 horas
+como su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.
+A continuación encontrarás una serie de preguntas relacionadas con números y operaciones
+matemáticas. Cada pregunta plantea un problema o una relación numérica que debes analizar para
+encontrar la respuesta correcta.
+Lee cada enunciado con atención y selecciona la alternativa que consideres correcta entre las
+opciones propuestas (A, B, C o D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],B,2025_Cuestionario1.CAM.pdf
+2025-E1-012,2025,1,12,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1003 A B C D
+Si 5 cuadernos cuestan 12 €, ¿cuánto costarán 8
+cuadernos al mismo precio unitario? 16 € 18 € 19,2 € 21 €",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-013,2025,1,13,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1007 A B C D
+Un coche recorre 180 km en 3 horas.
+¿Cuántos kilómetros recorrerá en 5 horas manteniendo
+250 km 270 km 300 km 320 km
+la misma velocidad?",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-014,2025,1,14,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1011
+¿Qué número continúa la serie?
+4  6 12 14 28 30 ",32,56,58,60,D,2025_Cuestionario1.CAM.pdf
+2025-E1-015,2025,1,15,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1014
+¿Qué número falta?
+25 28 30 32
+(4, 16) → 20
+(5, 25) →","(3,",9),→,12,C,2025_Cuestionario1.CAM.pdf
+2025-E1-016,2025,1,16,,Razonamiento abstracto,psicotecnico_logico,alta,RZ_1112 A B C D,[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],A,2025_Cuestionario1.CAM.pdf
+2025-E1-017,2025,1,17,,Razonamiento abstracto,psicotecnico_logico,alta,RZ_1005 A B C D,[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2025_Cuestionario1.CAM.pdf
+2025-E1-018,2025,1,18,,Razonamiento abstracto,psicotecnico_logico,alta,RZ_1107 A B C D,[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2025_Cuestionario1.CAM.pdf
+2025-E1-019,2025,1,19,,Razonamiento abstracto,psicotecnico_logico,alta,RZ_1109 A B C D,[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],B,2025_Cuestionario1.CAM.pdf
+2025-E1-020,2025,1,20,,Razonamiento abstracto,psicotecnico_logico,alta,"RZ_1113 A B C D
+como su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.
+A continuación se presenta una relación de personas y los servicios municipales que han solicitado durante el
+año. La información aparece distribuida en dos listados. Cada fila indica una persona y uno de los servicios que
+ha solicitado, por lo que una misma persona puede aparecer varias veces si ha solicitado más de un servicio.
+Utilizando la información de ambos listados, deberá calcular el importe que debe abonar de acuerdo con las
+tablas de tarifas anuales y descuentos aplicables según el número total de servicios.
+Tenga en cuenta que:
+• El importe base depende del número total de servicios solicitados por cada persona.
+• El descuento correspondiente se aplica sobre el importe total indicado en la tabla.
+• Para responder a las preguntas deberá localizar la información en los listados, agrupar las solicitudes
+por persona y realizar los cálculos necesarios.
+A partir de estos datos, responda a las preguntas siguientes seleccionando la alternativa correcta (A, B, C o D)
+en cada caso.
+Solicitudes de servicios I Solicitudes de servicios II
+Apellidos, nombre a Servicio Apellidos, nombre a Servicio
+García López, Marta Escuela de música Ruiz Pérez, Antonio Escuela de música
+Ruiz Pérez, Antonio Piscina municipal Torres Sánchez, Laura Piscina municipal
+Torres Sánchez, Laura Biblioteca premium Martín Díaz, Carlos Escuela de idiomas
+Martín Díaz, Carlos Gimnasio municipal García López, Marta Taller de empleo
+García López, Marta Piscina municipal Pérez Molina, Raúl Gimnasio municipal
+Pérez Molina, Raúl Escuela de música Sánchez Romero, Eva Biblioteca premium
+Sánchez Romero, Eva Taller de empleo López Gómez, Ana Piscina municipal
+Ruiz Pérez, Antonio Gimnasio municipal Ruiz Pérez, Antonio Taller de empleo
+Torres Sánchez, Laura Escuela de idiomas Torres Sánchez, Laura Gimnasio municipal
+Martín Díaz, Carlos Piscina municipal Martín Díaz, Carlos Biblioteca premium
+López Gómez, Ana Biblioteca premium Pérez Molina, Raúl Escuela de idiomas
+Pérez Molina, Raúl Piscina municipal Sánchez Romero, Eva Piscina municipal
+Sánchez Romero, Eva Escuela de música López Gómez, Ana Gimnasio municipal
+García López, Marta Gimnasio municipal Ruiz Pérez, Antonio Escuela de música
+López Gómez, Ana Escuela de idiomas Torres Sánchez, Laura Piscina municipal
+a Nota: Los nombres y apellidos que aparecen en los listados han sido generados de forma aleatoria con fines exclusivamente
+ilustrativos para la elaboración de este ejercicio. Cualquier coincidencia con personas reales es puramente casual y no implica
+referencia alguna a individuos concretos.
+Tarifas anuales Descuentos aplicables
+Número de servicios Importe Número de servicios Descuento b
+1 servicio 120 € 2 servicios 10 €
+2 servicios 210 € 3 servicios 20 €
+3 servicios 300 € 4 servicios 35 €
+4 servicios 380 € 5 servicios 60 €
+b Nota: El descuento se aplica sobre el importe
+5 servicios 450 €
+total correspondiente al número de servicios
+contratados",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-021,2025,1,21,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.1
+¿Cuántos servicios ha solicitado en total García López, Marta?",3,4,5,6,B,2025_Cuestionario1.CAM.pdf
+2025-E1-022,2025,1,22,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.2
+¿Cuál es el importe final que debe abonar Ruiz Pérez, Antonio?
+A B C D
+280 € 290 € 300 € 390 €",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2025_Cuestionario1.CAM.pdf
+2025-E1-023,2025,1,23,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.3
+¿Qué ciudadano/a debe abonar exactamente 280 € tras aplicar el descuento correspondiente?
+A B C D
+Martín Díaz, Carlos Torres Sánchez, Laura Ningún ciudadano Sánchez Romero, Eva",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-024,2025,1,24,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.4
+¿Cuántos ciudadanos han solicitado exactamente cuatro servicios?",1,2,5,8,C,2025_Cuestionario1.CAM.pdf
+2025-E1-025,2025,1,25,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.5
+¿Cuál es la diferencia entre el importe final abonado por López Gómez, Ana y Pérez Molina, Raúl?
+A B C D
+0€ 10 € 20 € 35 €
+A continuación se presentan varios grupos de cuatro palabras. En cada grupo, tres de ellas guardan
+una relación entre sí (por ejemplo, pertenecen a la misma categoría, tienen un significado similar o
+comparten alguna característica común), mientras que una palabra no guarda esa misma relación.
+Su tarea consiste en identificar la palabra (A, B, C o D) que no pertenece al grupo o que no comparte
+la relación principal con las demás.
+Lea atentamente las cuatro palabras de cada pregunta antes de responder. En algunos casos, varias
+palabras pueden parecer relacionadas, pero solo una de ellas se diferencia claramente de las otras
+tres",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],A,2025_Cuestionario1.CAM.pdf
+2025-E1-026,2025,1,26,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1101,Prudente,Cauto,Sensato,Temerario,D,2025_Cuestionario1.CAM.pdf
+2025-E1-027,2025,1,27,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1108,Clarinete,Trompeta,Violín,Saxofón,C,2025_Cuestionario1.CAM.pdf
+2025-E1-028,2025,1,28,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1103,Novela,Ensayo,Diccionario,Poema,C,2025_Cuestionario1.CAM.pdf
+2025-E1-029,2025,1,29,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1104,Democracia,Monarquía,República,Parlamento,D,2025_Cuestionario1.CAM.pdf
+2025-E1-030,2025,1,30,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1114,Brújula,Sextante,Telescopio,"Astrolabio como su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2025_Cuestionario1.CAM.pdf
+2025-E1-031,2025,1,31,1,Valores superiores,constitucion,media,"De conformidad con lo dispuesto en el artículo 1 de la Constitución Española, son valores
+superiores del ordenamiento jurídico:","La libertad, la justicia, la solidaridad y el pluralismo político","La libertad, la igualdad, la solidaridad y el pluralismo político","La libertad, la justicia, la igualdad y el pluralismo político","la libertad, la justicia, la igualdad y la unidad",C,2025_Cuestionario1.CAM.pdf
+2025-E1-032,2025,1,32,1,Derechos y deberes fundamentales,constitucion,baja,Los derechos fundamentales y libertades públicas se regulan en:,"La Sección segunda, Capítulo II, Título III de la Constitución Española","La Sección primera, Capítulo I, Título IV de la Constitución Española","La Sección segunda, Capítulo II, Título II de la Constitución Española","La Sección primera, Capítulo II, Título I de la Constitución Española",D,2025_Cuestionario1.CAM.pdf
+2025-E1-033,2025,1,33,2,Asamblea de Madrid,comunidad_madrid,media,"Según lo dispuesto en el artículo 9 del Estatuto de Autonomía de la Comunidad de Madrid,
+aprobado mediante Ley Orgánica 3/1983, de 25 de febrero:",La Asamblea ejerce la potestad ejecutiva de la Comunidad,La Asamblea ejecuta el presupuesto de la Comunidad,"La Asamblea impulsa, orienta y controla la acción del Gobierno",La Asamblea designa a los Vicepresidentes y Consejeros,C,2025_Cuestionario1.CAM.pdf
+2025-E1-034,2025,1,34,2,Asamblea de Madrid,comunidad_madrid,media,"De acuerdo con lo establecido en el artículo 13 del Estatuto de Autonomía de la Comunidad de
+Madrid, aprobado mediante Ley Orgánica 3/1983, de 25 de febrero:",La Asamblea funcionará en Pleno y por Secciones,"Los Diputados de la Asamblea se constituirán en Grupos Parlamentarios, cuyos portavoces integrarán la Junta de Portavoces",La Asamblea funcionará solo por Comisiones,"La Diputados de la Asamblea se constituirán en Grupos Parlamentarios, cuyos portavoces integrarán la Junta Administrativa",B,2025_Cuestionario1.CAM.pdf
+2025-E1-035,2025,1,35,3,Consejerías,comunidad_madrid,media,"De acuerdo con lo dispuesto en el Decreto 38/2023, de 23 de junio, de la Presidenta de la
+Comunidad de Madrid, por el que se establece el número y denominación de las Consejerías de
+la Comunidad de Madrid, forma parte de la Administración de la Comunidad de Madrid:",La Consejería de Transportes y Medio Ambiente,La Consejería de Digitalización,La Consejería de Empleo,La Consejería de Servicios Sociales,B,2025_Cuestionario1.CAM.pdf
+2025-E1-036,2025,1,36,3,Administración institucional,comunidad_madrid,baja,"De conformidad con lo dispuesto en la Ley 1/1984, de 19 de enero, reguladora de la
+Administración institucional de la Comunidad de Madrid, los organismos autónomos se crearán
+por:",Ley,Real Decreto,Decreto,Orden,A,2025_Cuestionario1.CAM.pdf
+2025-E1-037,2025,1,37,4,Leyes orgánicas,legislacion,media,"Las Cortes Generales podrán delegar en el Gobierno la potestad de dictar normas con rango de
+ley sobre materias determinadas. De conformidad con lo dispuesto en el artículo 82 de la
+Constitución Española, la delegación legislativa deberá otorgarse mediante:",Una ley orgánica cuando su objeto sea la formación de textos articulados o por una ley de bases cuando se trate de refundir varios textos legales en uno solo,Una ley ordinaria cuando su objeto sea la formación de textos articulados o por una ley orgánica cuando se trate de refundir varios textos legales en uno solo,Una ley de bases cuando su objeto sea la formación de textos articulados y una ley orgánica cuando se trate de refundir varios textos legales en uno solo,Una ley de bases cuando su objeto sea la formación de textos articulados o por una ley ordinaria cuando se trate de refundir varios textos legales en uno solo,D,2025_Cuestionario1.CAM.pdf
+2025-E1-038,2025,1,38,4,Ordenamiento jurídico,legislacion,media,"Con respecto a la potestad reglamentaria, el artículo 97 de la Constitución Española establece lo
+siguiente:",El Congreso de los Diputados ejerce la potestad reglamentaria,El Presidente ejerce la potestad reglamentaria,El Gobierno ejerce la potestad reglamentaria,El Senado ejerce la potestad reglamentaria,C,2025_Cuestionario1.CAM.pdf
+2025-E1-039,2025,1,39,6,Procedimiento administrativo,procedimiento_administrativo,media,"Según lo establecido en el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, los actos que se separen del criterio
+seguido en actuaciones precedentes:","Serán motivados, con sucinta referencia de hechos y fundamentos de derecho","Sólo serán motivados, con sucinta referencia de hechos y fundamentos de derecho, si son dictados por un órgano incompetente","Serán motivados, pero no se exige exponer los fundamentos de derecho",No necesitan ser motivados,A,2025_Cuestionario1.CAM.pdf
+2025-E1-040,2025,1,40,6,Procedimiento administrativo,procedimiento_administrativo,media,"Conforme a lo dispuesto en el artículo 39 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas
+sujetos al Derecho Administrativo se presumirán válidos y producirán efectos, salvo que en ellos
+se disponga otra cosa, desde:",El día después de la fecha en que se dicten,La fecha en que se dicten,Que el interesado lo reciba,Que se publiquen,B,2025_Cuestionario1.CAM.pdf
+2025-E1-041,2025,1,41,6,Procedimiento administrativo,procedimiento_administrativo,media,"Según lo establecido en el artículo 71 de la Ley 39/2015, 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, el procedimiento sometido al principio
+de celeridad, se impulsará de oficio en los siguientes trámites:",Solo en la fase de instrucción,Solo en la fase de finalización,En todos sus trámites,"En todos sus trámites, menos en la fase de ordenación",C,2025_Cuestionario1.CAM.pdf
+2025-E1-042,2025,1,42,6,Notificaciones,procedimiento_administrativo,media,"De acuerdo con lo dispuesto en el artículo 73 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, los trámites que deban
+ser cumplimentados por los interesados deberán realizarse en el plazo de:","Diez días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto","Quince días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto","Veinte días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto","Cinco días a partir del siguiente al de la notificación del correspondiente acto, salvo en el caso de que en la norma correspondiente se fije plazo distinto",A,2025_Cuestionario1.CAM.pdf
+2025-E1-043,2025,1,43,7,Jurisdicción contencioso-administrativa,legislacion,media,"Según lo establecido en el artículo 12 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, conocerá de los recursos de casación en cualquiera de
+sus modalidades:",La Sala de lo Contencioso-administrativo de la Audiencia Nacional,La Sala de lo Contencioso-administrativo de los Tribunales Superiores de Justicia,La Sala de lo Contencioso-administrativo del Tribunal Supremo,El Tribunal Constitucional,C,2025_Cuestionario1.CAM.pdf
+2025-E1-044,2025,1,44,7,Jurisdicción contencioso-administrativa,legislacion,media,"En virtud de lo establecido en el artículo 46 de la Ley 29/1998, de 13 de julio, reguladora de la
+Jurisdicción Contencioso-administrativa, el plazo para interponer el recurso contencioso-
+administrativo, contado desde el día siguiente al de la publicación de la disposición impugnada o
+al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso,
+será de:",10 días,15 días,2 meses,6 meses,C,2025_Cuestionario1.CAM.pdf
+2025-E1-045,2025,1,45,8,Derecho de acceso a la información pública,transparencia,media,"Según el artículo 12 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la
+información pública y buen gobierno, tienen derecho al acceso a la información pública:",Únicamente los ciudadanos españoles autorizados,Exclusivamente las personas mayores de 21 años,Solo los ciudadanos españoles mayores de 21 años,"Todas las personas, en los términos previstos en artículo 105.b) de la Constitución Española",D,2025_Cuestionario1.CAM.pdf
+2025-E1-046,2025,1,46,8,Transparencia,transparencia,media,"De acuerdo con el artículo 9 del Decreto 229/2023, de 6 de septiembre, del Consejo de Gobierno,
+por el que se establece la estructura orgánica de la Consejería de Presidencia, Justicia y
+Administración Local, la Dirección General que tiene atribuidas las competencias en materia de
+Atención al Ciudadano y Transparencia es:","Dirección General de Coordinación de la Transparencia, dependiente de la Consejería de Presidencia, Justicia y Administración Local","Dirección General de Atención al Ciudadano y Transparencia, dependiente de la Consejería de Economía, Hacienda y Empleo","Dirección General de Atención al Ciudadano y Transparencia, dependiente de la Consejería de Presidencia, Justicia y Administración Local","Dirección General de Coordinación de la Transparencia, dependiente de la Consejería de Digitalización",C,2025_Cuestionario1.CAM.pdf
+2025-E1-047,2025,1,47,9,Contratos del sector público,contratos,media,"De conformidad con lo establecido en el artículo 34 de la Ley 9/2017, de 8 de noviembre, de
+Contratos del Sector Público, en los contratos del sector público podrán incluirse cualesquiera
+pactos, cláusulas y condiciones:",Siempre que no sean contrarios a la constitución española y a la buena fe,"Siempre que no sean contrarios al interés público, al ordenamiento jurídico y a los principios de buena administración","Siempre que no sean contrarios al interés público, al ordenamiento jurídico y a la buena fe",Siempre que no sean contrarios al interés privado y al ordenamiento jurídico,B,2025_Cuestionario1.CAM.pdf
+2025-E1-048,2025,1,48,9,Contratos del sector público,contratos,media,"Según lo indicado en el artículo 37 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector
+Público, las entidades del Sector Público no podrán contratar verbalmente, salvo:",Que lo autorice el Consejo de Ministros,Que el contrato tenga carácter de excepcionalidad,Que el contrato tenga carácter de emergencia,Que se establezca de forma reglamentaria,C,2025_Cuestionario1.CAM.pdf
+2025-E1-049,2025,1,49,10,Personal al servicio de las Administraciones Públicas,funcion_publica,media,"Si atendemos a lo dispuesto en el artículo 8 del Real Decreto Legislativo 5/2015, de 30 de octubre,
+por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los
+empleados públicos se clasifican en:","Funcionarios de carrera; funcionarios de empleo; estatutarios; personal laboral, ya sea fijo, por tiempo indefinido o temporal y personal eventual",Funcionarios de carrera; funcionarios interinos; personal laboral temporal y personal eventual por circunstancias de la producción,"Funcionarios de carrera; funcionarios interinos; personal laboral, ya sea fijo, por tiempo indefinido o temporal y personal eventual",Funcionarios de carrera; funcionarios interinos; personal laboral contratado por circunstancias de la producción y personal directivo profesional,C,2025_Cuestionario1.CAM.pdf
+2025-E1-050,2025,1,50,10,Régimen disciplinario,funcion_publica,media,"La condición de funcionario de la Comunidad de Madrid se perderá, según lo establecido en el
+artículo 29 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por
+alguna de las causas siguientes:",Renuncia escrita del interesado,Pérdida de la nacionalidad española,"Imposición de sanción disciplinaria que suponga la separación del servicio, cuando aquélla adquiera firmeza",Todas las respuestas anteriores son correctas,D,2025_Cuestionario1.CAM.pdf
+2025-E1-051,2025,1,51,11,Seguridad Social,seguridad_social,media,"Según el artículo 2 apartado 1 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que
+se aprueba el texto refundido de la Ley General de la Seguridad Social, NO es un principio
+fundamental del sistema de la Seguridad Social:",Universalidad,Subsidiariedad,Unidad,Solidaridad,B,2025_Cuestionario1.CAM.pdf
+2025-E1-052,2025,1,52,11,Seguridad Social,seguridad_social,media,"De acuerdo al artículo 9 apartado 1 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el
+que se aprueba el texto refundido de la Ley General de la Seguridad Social, el sistema de la
+Seguridad Social está integrado por los siguientes regímenes:",Régimen Único y Régimen Complementario,Régimen Contributivo y Régimen Asistencial,Régimen General y regímenes especiales,"Régimen General, los Servicios Comunes y las Entidades Gestoras",C,2025_Cuestionario1.CAM.pdf
+2025-E1-053,2025,1,53,12,Presupuestos,hacienda_publica,baja,"Si la Ley de Presupuestos Generales de la Comunidad no se aprobara antes del primer día del
+ejercicio económico correspondiente:",Se considerarán automáticamente prorrogados los presupuestos del ejercicio anterior hasta la publicación de los nuevos en el «Boletín Oficial de la Comunidad de Madrid» y su entrada en vigor,Se considerarán automáticamente prorrogados los presupuestos del ejercicio anterior hasta la publicación de los nuevos en el «Boletín Oficial del Estado»,Se considerarán automáticamente prorrogados los presupuestos del ejercicio anterior hasta la aprobación de los nuevos en el Pleno de la Asamblea,Se considerarán automáticamente prorrogados los presupuestos del ejercicio anterior hasta la aprobación de los nuevos en la Mesa de la Asamblea,A,2025_Cuestionario1.CAM.pdf
+2025-E1-054,2025,1,54,12,Hacienda Pública,hacienda_publica,baja,De conformidad con lo dispuesto en la Constitución Española:,El Estado tiene competencia exclusiva en materia de Hacienda general y Deuda del Estado,El Estado solo tiene competencia para dictar la legislación básica en materia de Hacienda general y Deuda del Estado,La Hacienda general será competencia exclusiva de las Comunidades Autónomas,La Hacienda general será competencia compartida entre Comunidades Autónomas y las Haciendas Locales,A,2025_Cuestionario1.CAM.pdf
+2025-E1-055,2025,1,55,13,Igualdad entre mujeres y hombres,igualdad,media,"De acuerdo a lo dispuesto en la Constitución Española, el principio de igualdad entre hombres y
+mujeres está recogido en:",El artículo 8,El artículo 7.2,El artículo 14,El artículo 15,C,2025_Cuestionario1.CAM.pdf
+2025-E1-056,2025,1,56,13,Igualdad entre mujeres y hombres,igualdad,media,"Según el artículo 3 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres
+y hombres, el principio de igualdad de trato entre mujeres y hombres supone:","Ausencia de toda discriminación, directa o indirecta, por razones de sexo, especialmente las derivadas de la maternidad, la asunción de obligaciones familiares y el estado civil",Ausencia de represalias laborales,Ausencia de igualdad de oportunidades,Ausencia de Indemnidad frente a represalias,A,2025_Cuestionario1.CAM.pdf
+2025-E1-057,2025,1,57,15,Registro de documentos,procedimiento_administrativo,media,"De acuerdo con el artículo 6 apartado 2 del Decreto 127/2022, de 7 de diciembre, del Consejo de
+Gobierno, por el que se regulan aspectos relativos a los servicios electrónicos y a la comisión de
+redacción, coordinación y seguimiento del portal de internet de la Comunidad de Madrid, la
+disponibilidad del Registro Electrónico General de la Comunidad de Madrid para cualquier
+ciudadano es:","De lunes a viernes, en horario ininterrumpido",Coincidiendo con el horario de apertura de las oficinas de registro presenciales,"Todos los días laborables del año, durante 12 horas",Todos los días del año durante las veinticuatro horas,D,2025_Cuestionario1.CAM.pdf
+2025-E1-058,2025,1,58,14,Información administrativa,procedimiento_administrativo,media,"Conforme al artículo 43 apartado 2 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, cuando la notificación por medios
+electrónicos haya sido expresamente elegida por el interesado se entenderá rechazada cuando:",Hayan transcurrido 15 días hábiles desde la puesta a disposición de la notificación sin que se acceda a su contenido,Hayan transcurrido 10 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido,Hayan transcurrido 15 días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido,Hayan transcurrido 10 días hábiles desde disposición de la notificación sin que se acceda a su contenido,B,2025_Cuestionario1.CAM.pdf
+2025-E1-059,2025,1,59,14,Administración electrónica,procedimiento_administrativo,media,"Conforme al artículo 31 de la de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, a efectos de cómputo de plazos en los
+registros electrónicos el calendario de días inhábiles que se aplica es:",El calendario laboral general de la Organización Internacional del Trabajo (OIT),Exclusivamente el calendario del Municipio donde resida el interesado,"El determinado por la sede electrónica del registro de cada Administración Pública u Organismo, atendiendo al ámbito territorial en el que ejerza sus competencias y al calendario previsto en el artículo 30.7 del la citada Ley",El calendario administrativo establecido por la Unión Europea,C,2025_Cuestionario1.CAM.pdf
+2025-E1-060,2025,1,60,15,Archivo de documentos,procedimiento_administrativo,media,"Conforme al artículo 16 de la de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, cuando los documentos se presenten de
+manera presencial ante las Administraciones Públicas, la oficina de asistencia en materia de
+registros debe:",Devolver el original al interesado y digitalizarlo para su incorporación al expediente administrativo electrónico,Conservar el original en soporte papel para su custodia permanente,Remitir copia compulsada al Archivo intermedio,Remitir el documento original al Archivo Central para su posterior digitalización.,A,2025_Cuestionario1.CAM.pdf
+2025-E1-061,2025,1,61,1,Valores superiores,constitucion,media,"De acuerdo con lo establecido en el artículo 10 de la Constitución española, son fundamentos del
+orden político y de la paz social (Señale la respuesta INCORRECTA):",La dignidad de la persona,El libre desarrollo de la empresa privada,El respeto a la ley,El respeto a los derechos de los demás,B,2025_Cuestionario1.CAM.pdf
+2025-E1-062,2025,1,62,6,Procedimiento administrativo,procedimiento_administrativo,media,"Según lo establecido en el artículo 47 de la Ley 39/2015, del Procedimiento Administrativo Común
+de las Administraciones Públicas, serán nulos de pleno derecho, entre otros:",Los actos con defecto de forma,Los actos dictados por órgano manifiestamente incompetente por razón de la materia o del territorio,La realización de actuaciones fuera de plazo,Los actos con defecto de forma y tiempo,B,2025_Cuestionario1.CAM.pdf
+2025-E1-063,2025,1,63,10,Retribuciones,funcion_publica,baja,"De conformidad con lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el
+que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las
+retribuciones básicas, que se fijan en la Ley de Presupuestos Generales del Estado, estarán
+integradas única y exclusivamente por:",El salario y los trienios,"El salario, los trienios y la productividad",El salario y el complemento específico,El salario y el complemento de destino,A,2025_Cuestionario1.CAM.pdf
+2025-E1-064,2025,1,64,11,Cotización,seguridad_social,media,"Conforme al artículo 19 del Real Decreto 8/2015, de 30 de octubre, por el que se aprueba el texto
+refundido de la Ley General de la Seguridad Social, las bases de cotización:",Tienen un tope máximo fijado cada año por la Ley de Presupuestos Generales del estado y como tope mínimo las cuantías del salario mínimo interprofesional,Tienen un tope inferior equivalente al 15% del salario mínimo interprofesional,No tienen ningún tope inferior ni superior,Tienen un tope superior equivalente al 80% del salario mínimo interprofesional,A,2025_Cuestionario1.CAM.pdf
+2025-E1-065,2025,1,65,8,Protección de datos,transparencia,baja,"El tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su
+consentimiento cuando sea mayor de:",Catorce años,Doce años,Diez años,Tres años,A,2025_Cuestionario1.CAM.pdf
+2025-E2-001,2025,2,1,16,Explorador de archivos,ofimatica,baja,"En Windows 10, ¿qué combinación de teclas abre el Explorador de archivos?",Alt+Tab,Alt+E,Windows+E,Ctrl+E,C,2025.Cuestionario2.CAM.pdf
+2025-E2-002,2025,2,2,16,Herramientas del sistema,ofimatica,baja,"En Windows 10, ¿hay alguna manera de ver en tiempo real los procesos activos?","No, Windows 10 solo permite generar informes de los procesos una vez que ya han terminado de ejecutarse","Sí, desde el Administrador tareas","Sí, con el comando taskserviceswin.msc","No, Windows 10 no tiene la posibilidad de ver los procesos activos",B,2025.Cuestionario2.CAM.pdf
+2025-E2-003,2025,2,3,16,Explorador de archivos,ofimatica,baja,"En Windows 10, ¿cuál de los siguientes métodos permite ver el espacio libre de una unidad de
+disco?","Desde el Explorador de archivos, colocando el ratón sobre un archivo que cuelgue de la unidad y con el botón derecho hacer clic en Propiedades","Desde el Explorador de archivos, colocando el ratón sobre una carpeta que cuelgue de la unidad y con el botón derecho hacer clic en Propiedades","En el desplegable ""Este equipo"", colocando el ratón sobre la unidad y con el botón derecho hacer clic en Propiedades",Windows 10 no permite ver el espacio libre de una unidad en concreto. Muestra la suma del espacio libre de todas las unidades existentes en el sistema,C,2025.Cuestionario2.CAM.pdf
+2025-E2-004,2025,2,4,16,Explorador de archivos,ofimatica,baja,"En el Explorador de archivos de Windows 10, en la vista del contenido de una carpeta, ¿dónde
+se puede ver la ruta completa a la citada carpeta?",Barra de direcciones,Panel de vista previa,Cinta de opciones,Barra de estado,A,2025.Cuestionario2.CAM.pdf
+2025-E2-005,2025,2,5,16,Explorador de archivos,ofimatica,baja,"En Windows 10, de aquellos archivos que lo permitan y aunque sea de forma parcial, ¿se puede
+ver su contenido sin abrirlo?","Sí, desde el Panel de vista previa","Sí, pero únicamente se puede hacer con archivos de imagen jpg y png","Sí, desde Propiedades del archivo","No, Windows 10 no tiene una funcialidad parecida a esa",A,2025.Cuestionario2.CAM.pdf
+2025-E2-006,2025,2,6,17,Búsqueda Word,ofimatica,baja,"En la versión de escritorio de Word 365, ¿qué función permite localizar palabras dentro de un
+documento abierto?",Imprimir,Formato,Disposición,Buscar,D,2025.Cuestionario2.CAM.pdf
+2025-E2-007,2025,2,7,17,Gestión de documentos Word,ofimatica,baja,"En la versión de escritorio de Word 365, ¿qué es el interlineado?",Es el color del texto,Es el espacio vertical entre las líneas de un párrafo,Es el encabezado del documento,El interlineado establece la dimensión del margen superior del documento.,B,2025.Cuestionario2.CAM.pdf
+2025-E2-008,2025,2,8,17,Gestión de documentos Word,ofimatica,baja,"En la versión de escritorio de Word 365, con un documento ya abierto, ¿qué opción, de las
+siguientes, permite guardarlo con un nombre distinto al actual?",Cerrar,Compartir,Guardar como,Guardar,C,2025.Cuestionario2.CAM.pdf
+2025-E2-009,2025,2,9,19,Access y Power BI,ofimatica,baja,"Sobre Microsoft 365, ¿cuál de los siguientes programas se utiliza principalmente para crear,
+editar y dar formato a documentos de texto?",Excel,Word,PowerPoint,Access,B,2025.Cuestionario2.CAM.pdf
+2025-E2-010,2025,2,10,17,Formato y estilos Word,ofimatica,baja,"En la versión de escritorio de Word 365, ¿qué se entiende por una sangría izquierda?",Es el desplazamiento del párrafo hacia la derecha respecto al margen izquierdo,Es un tipo de subrayado especial,Es un estilo de título,Es un efecto de fuente de texto,A,2025.Cuestionario2.CAM.pdf
+2025-E2-011,2025,2,11,18,Fórmulas y funciones Excel,ofimatica,baja,"En la versión de escritorio de Excel 365, ¿qué símbolo se utiliza para iniciar una fórmula?",= (Igual),# (almohadilla),@ (Arroba),$ (Dólar),A,2025.Cuestionario2.CAM.pdf
+2025-E2-012,2025,2,12,18,"Libros, hojas y celdas",ofimatica,baja,"En la versión de escritorio de Excel 365, ¿cómo se denomina al conjunto de Hojas almacenadas
+en un archivo Excel?",Celdas,Libro,Filas,Tabla,B,2025.Cuestionario2.CAM.pdf
+2025-E2-013,2025,2,13,18,"Libros, hojas y celdas",ofimatica,baja,"En la versión de escritorio de Excel 365, de las siguientes opciones, ¿dónde se visualiza el
+contenido de la celda activa?",En la Barra de herramientas,En el desplegable de Estilos,En el Cuadro de nombres,En la Barra de fórmulas,D,2025.Cuestionario2.CAM.pdf
+2025-E2-014,2025,2,14,18,"Libros, hojas y celdas",ofimatica,baja,"En la versión de escritorio de Excel 365, ¿cuántas Hojas puede contener un Libro de Excel?",1,255,"Sin límite definido, salvo lo que dicte la memoria del sistema donde se ejecuta el Excel",16,C,2025.Cuestionario2.CAM.pdf
+2025-E2-015,2025,2,15,18,Tablas dinámicas,ofimatica,baja,"En la versión de escritorio de Excel 365, ¿qué misión tiene una Tabla dinámica?",Una tabla dinámica convierte automáticamente los datos en gráficos actualizados en tiempo real,"Una tabla dinámica permite resumir, analizar y reorganizar grandes conjuntos de datos de manera interactiva",Una tabla dinámica es una tabla que edita y reescribe los datos del origen para mantenerlos siempre ordenados,"Una tabla dinámica solo puede mostrar datos tal cual están, sin permitir agrupar, filtrar ni cambiar campos",B,2025.Cuestionario2.CAM.pdf
+2025-E2-016,2025,2,16,19,Importación y exportación,ofimatica,baja,"En la versión de escritorio de Access 365, ¿qué se entiende por Importar datos?",En Access ese término no tiene significado alguno,"Es la opción que permite guardar los datos de Access en formato texto, Excel, etc",Hace referencia a un tipo de datos de cierta importancia que deben ser protegidos contra escritura,Es la opción que permite traer datos externos e incorporarlos a Access,D,2025.Cuestionario2.CAM.pdf
+2025-E2-017,2025,2,17,19,Tablas Access,ofimatica,baja,"En la versión de escritorio de Access 365, ¿qué permite hacer una Consulta?",Es un formulario que sirve para introducir datos en las tablas mediante un diseño más visual,"Es un objeto de Access que permite obtener, filtrar, combinar o calcular datos almacenados en una o varias tablas",Es un objeto que almacena directamente los registros que coinciden con un criterio específico,Es un tipo de campo para almacenar dígitos y números indistintamente,B,2025.Cuestionario2.CAM.pdf
+2025-E2-018,2025,2,18,19,Tablas Access,ofimatica,baja,"En la versión de escritorio de Access 365, ¿cuál es la Vista que permite crear y definir los campos
+que conforman una Tabla?",Vista Administración,Vista Hoja edición,Vista Diseño,Vista Preimpresión,C,2025.Cuestionario2.CAM.pdf
+2025-E2-019,2025,2,19,19,Tablas Access,ofimatica,baja,"En la versión de escritorio de Access 365, ¿qué identifica de forma única e inequívoca a un
+Registro?",El campo numérico,El campo de texto,Un campo de Clave Principal,Un campo que recordemos y no se nos olvide que existe,C,2025.Cuestionario2.CAM.pdf
+2025-E2-020,2025,2,20,19,Tablas Access,ofimatica,baja,"En la versión de escritorio de Access 365, ¿qué es una Tabla?",Es un informe que muestra los datos de forma resumida sin permitir la edición directa,"Es un objeto de la base de datos que permite diseñar consultas y establecer relaciones, pero no almacena datos propios",Es un objeto de la base de datos que almacena datos en un formato estructurado compuesto por filas y columnas,"El concepto Tabla no existe en Access, es un elemento utilizado en bases de datos estructuradas.",C,2025.Cuestionario2.CAM.pdf
+2025-E2-021,2025,2,21,20,Agenda,ofimatica,baja,"En la versión de escritorio de Outlook 365, y considerando únicamente las acciones propias del
+módulo Calendario sin abandonar dicho módulo, de las siguientes acciones, ¿cuál NO puede
+realizarse?",Gestionar contactos o crear listas de distribución,Crear citas o reuniones,Enviar invitaciones y gestionar respuestas,Eliminar citas o reuniones,A,2025.Cuestionario2.CAM.pdf
+2025-E2-022,2025,2,22,20,Reglas de mensaje,ofimatica,media,"En la versión de escritorio de Outlook 365, ¿qué es una Regla?",En Outlook no existen las Reglas,Es un programa externo que se instala en Outlook para automatizar el envío de mensajes,Es un formato de mensaje predefinido que Outlook aplica automáticamente a los correos nuevos,Es una acción automática configurada por el usuario que permite procesar correos entrantes o salientes según condiciones establecidas,D,2025.Cuestionario2.CAM.pdf
+2025-E2-023,2025,2,23,20,Correo electrónico,ofimatica,baja,"En la versión de escritorio de Outlook 365, ¿en qué campo se pueden incluir direcciones a las
+que enviar una copia visible del correo electrónico?",Asunto,Para,CC,CCO,C,2025.Cuestionario2.CAM.pdf
+2025-E2-024,2025,2,24,20,Correo electrónico,ofimatica,baja,"En la versión de escritorio de Outlook 365, ¿qué prefijo añade Outlook al Asunto para indicar que
+el correo recibido es en realidad un Reenvío?",REE:,FW:,RE:,REV:,B,2025.Cuestionario2.CAM.pdf
+2025-E2-025,2025,2,25,20,Outlook,ofimatica,baja,"En la versión de escritorio de Outlook 365, ¿en qué campo se escribe el destinatario o
+destinatarios principales?",Para,CC,CCO,Outlook solo permite un destinatario principal no admite destinatarios,A,2025.Cuestionario2.CAM.pdf
+2025-E2-026,2025,2,26,21,SharePoint,ofimatica,baja,"¿Cómo se llama a la plataforma de Microsoft que permite organizar, compartir y colaborar con
+información y documentos de forma segura dentro de una organización?",SharePoint,Visual Studio,PowerPoint,Publisher.,A,2025.Cuestionario2.CAM.pdf
+2025-E2-027,2025,2,27,21,Teams y videoconferencias,ofimatica,baja,¿Qué es un Equipo en Microsoft Teams?,Es una carpeta de archivos compartidos que no admite conversaciones ni reuniones,"Es un conjunto de personas, contenido y herramientas que se organizan para colaborar de forma conjunta",Es una lista de contactos que permite enviar mensajes masivos sin necesidad de crear canales,Es un chat grupal temporal que se elimina automáticamente cuando finaliza una conversación para facilitar la colaboración entre contactos,B,2025.Cuestionario2.CAM.pdf
+2025-E2-028,2025,2,28,21,SharePoint,ofimatica,baja,"En relación con los archivos almacenados en SharePoint, ¿qué permite la sincronización de
+archivos mediante OneDrive?",OneDrive no permite la sincronización de Archivos,Permite trabajar con los archivos únicamente desde el navegador web,Impide que los archivos se modifiquen cuando no hay conexión a Internet,"Permite acceder y trabajar con los archivos desde el equipo local, sincronizando automáticamente los cambios con SharePoint",D,2025.Cuestionario2.CAM.pdf
+2025-E2-029,2025,2,29,21,Teams y videoconferencias,ofimatica,baja,"De las siguientes afirmaciones sobre Reuniones en Microsoft Teams, ¿cuál de ellas es falsa?","Las reuniones de Teams permiten audio, vídeo y uso compartido de pantalla",Es posible programar reuniones de Teams o iniciarlas de forma inmediata mediante “Reunirse ahora”,Las reuniones de Teams solo pueden celebrarse si todos los participantes pertenecen a la misma organización,"Las reuniones de Teams pueden grabarse para su posterior visualización, incluyendo audio y vídeo",C,2025.Cuestionario2.CAM.pdf
+2025-E2-030,2025,2,30,21,Teams y videoconferencias,ofimatica,baja,"En una reunión de Microsoft Teams, ¿qué Rol es el que tiene el mayor nivel de control sobre la
+reunión, incluida la configuración y la gestión de los participantes?",Organizador,Invitado,Asistente,Presentador.,A,2025.Cuestionario2.CAM.pdf
+2025-E2-031,2025,2,31,16,Herramientas del sistema,ofimatica,baja,"En Windows 10 disponiendo de privilegios suficientes, ¿qué comando directo, de los siguentes,
+abre el Administrador de discos del sistema?",taskschd.msc,services.msc,devmgmt.msc,diskmgmt.msc,D,2025.Cuestionario2.CAM.pdf
+2025-E2-032,2025,2,32,17,Gestión de documentos Word,ofimatica,baja,"En la versión de escritorio de Word 365, ¿qué Comando, de los presentados en el Grupo Vistas,
+permite ver el aspecto que tendrá un documento cuando se imprima?",Modo lectura,Esquema,Diseño de impresión,Vista preimpresión.,C,2025.Cuestionario2.CAM.pdf
+2025-E2-033,2025,2,33,18,"Libros, hojas y celdas",ofimatica,baja,¿A qué se llama Celda en la versión de escritorio de Excel 365?,A un archivo,A un formato,La intersección entre fila y columna,A una hoja,C,2025.Cuestionario2.CAM.pdf
+2025-E2-034,2025,2,34,19,Tablas Access,ofimatica,baja,"En la versión de escritorio de Access 365, ¿qué nombre recibe la asociación lógica que se
+establece entre campos comunes de dos tablas para vincular sus datos?",Relación,Informe,Registro,Formulario,A,2025.Cuestionario2.CAM.pdf
+2025-E2-035,2025,2,35,20,Correo electrónico,ofimatica,baja,¿Qué aplicación de Microsoft 365 se utiliza para gestionar el correo electrónico?,Word,Excel,Outlook,Access.,C,2025.Cuestionario2.CAM.pdf

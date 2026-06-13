@@ -1,0 +1,112 @@
+[
+  {
+    "tema": null,
+    "materia": "Psicotécnicos",
+    "preguntas": 105
+  },
+  {
+    "tema": 6,
+    "materia": "Ley 39/2015",
+    "preguntas": 19
+  },
+  {
+    "tema": 8,
+    "materia": "Transparencia y protección de datos",
+    "preguntas": 18
+  },
+  {
+    "tema": 10,
+    "materia": "EBEP y función pública",
+    "preguntas": 13
+  },
+  {
+    "tema": 13,
+    "materia": "Igualdad y violencia de género",
+    "preguntas": 13
+  },
+  {
+    "tema": 14,
+    "materia": "Atención al ciudadano y administración electrónica",
+    "preguntas": 13
+  },
+  {
+    "tema": 2,
+    "materia": "Estatuto de Autonomía de la Comunidad de Madrid",
+    "preguntas": 12
+  },
+  {
+    "tema": 16,
+    "materia": "Windows",
+    "preguntas": 12
+  },
+  {
+    "tema": 18,
+    "materia": "Excel",
+    "preguntas": 12
+  },
+  {
+    "tema": 20,
+    "materia": "Outlook",
+    "preguntas": 12
+  },
+  {
+    "tema": 21,
+    "materia": "Microsoft 365",
+    "preguntas": 12
+  },
+  {
+    "tema": 3,
+    "materia": "Ley de Gobierno y Administración de la Comunidad de Madrid",
+    "preguntas": 11
+  },
+  {
+    "tema": 17,
+    "materia": "Word",
+    "preguntas": 11
+  },
+  {
+    "tema": 19,
+    "materia": "Access y Power BI",
+    "preguntas": 11
+  },
+  {
+    "tema": 1,
+    "materia": "Constitución Española de 1978",
+    "preguntas": 10
+  },
+  {
+    "tema": 11,
+    "materia": "Seguridad Social",
+    "preguntas": 9
+  },
+  {
+    "tema": 4,
+    "materia": "Fuentes del ordenamiento jurídico",
+    "preguntas": 7
+  },
+  {
+    "tema": 7,
+    "materia": "Jurisdicción contencioso-administrativa",
+    "preguntas": 7
+  },
+  {
+    "tema": 9,
+    "materia": "Contratos del sector público",
+    "preguntas": 7
+  },
+  {
+    "tema": 12,
+    "materia": "Hacienda Pública y Presupuestos",
+    "preguntas": 7
+  },
+  {
+    "tema": 15,
+    "materia": "Documentos, registros y archivos",
+    "preguntas": 7
+  },
+  {
+    "tema": 5,
+    "materia": "Acto administrativo",
+    "preguntas": 2
+  }
+]
