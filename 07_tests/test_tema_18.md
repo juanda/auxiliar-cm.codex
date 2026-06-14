@@ -1,5 +1,7 @@
 # Test Tema 18. Excel
 
+Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
+
 ## Preguntas
 
 1. ¿Cómo se denomina el archivo de Excel que contiene una o varias hojas?
@@ -92,6 +94,126 @@
     C. `$`
     D. `@`
 
+16. ¿Qué referencia queda fija en columna y fila al copiar una fórmula?
+    A. `A1`
+    B. `$A$1`
+    C. `A$`
+    D. `1A`
+
+17. ¿Qué referencia fija sólo la fila 1?
+    A. `A$1`
+    B. `$A1`
+    C. `$A$1`
+    D. `A1`
+
+18. El error `#DIV/0!` suele indicar:
+    A. Libro sin hojas
+    B. Comentario oculto
+    C. División entre cero
+    D. Gráfico sin leyenda
+
+19. ¿Qué herramienta limita los valores que pueden introducirse en una celda?
+    A. Diseño de impresión
+    B. Tabla dinámica
+    C. Leyenda
+    D. Validación de datos
+
+20. `Quitar duplicados` sirve para:
+    A. Cambiar el color de las celdas repetidas sin eliminarlas nunca
+    B. Eliminar registros repetidos según columnas elegidas
+    C. Crear una tabla dinámica
+    D. Insertar un gráfico circular
+
+21. ¿Qué herramienta permite mantener visible una fila o columna al desplazarse por la hoja?
+    A. Texto en columnas
+    B. Validación de datos
+    C. Inmovilizar paneles
+    D. Guardar como
+
+22. En una tabla dinámica, el área `Valores` se usa para:
+    A. Cálculos como suma, recuento o promedio
+    B. Cambiar el nombre del libro
+    C. Escribir comentarios
+    D. Crear hipervínculos
+
+23. En una tabla dinámica, las segmentaciones sirven para:
+    A. Eliminar fórmulas
+    B. Filtrar visualmente los datos
+    C. Cambiar el tipo de archivo
+    D. Crear notas al pie
+
+24. ¿Qué tipo de gráfico es especialmente adecuado para mostrar evolución temporal?
+    A. Circular
+    B. Columnas apiladas
+    C. Líneas
+    D. Validación
+
+25. La leyenda de un gráfico sirve para:
+    A. Bloquear celdas
+    B. Inmovilizar paneles
+    C. Iniciar fórmulas
+    D. Identificar series de datos
+
+26. Cambiar el tipo de gráfico:
+    A. Cambia la representación visual, no necesariamente los datos de origen
+    B. Borra siempre los datos de origen
+    C. Convierte el libro en PDF
+    D. Inserta una nueva hoja obligatoriamente
+
+27. `Texto en columnas` permite:
+    A. Crear una fórmula `SI`
+    B. Dividir el contenido de una columna en varias
+    C. Inmovilizar la primera fila
+    D. Insertar una nota
+
+28. El formato de número permite:
+    A. Crear una hoja nueva
+    B. Cambiar siempre el valor real almacenado
+    C. Mostrar un valor como fecha, moneda, porcentaje o decimal
+    D. Eliminar filas ocultas
+
+29. ¿Qué función cuenta celdas que contienen números?
+    A. `CONTAR`
+    B. `DERECHA`
+    C. `SI`
+    D. `Y`
+
+30. ¿Qué función permite devolver un valor alternativo si una fórmula produce error?
+    A. `PROMEDIO`
+    B. `MIN`
+    C. `MAX`
+    D. `SI.ERROR`
+
+31. ¿Qué hace `BUSCARX`?
+    A. Cambia el zoom de la hoja
+    B. Busca valores en un rango o matriz
+    C. Crea gráficos automáticamente
+    D. Elimina comentarios
+
+32. ¿Qué pestaña se asocia especialmente con ordenar, filtrar y obtener datos?
+    A. Vista
+    B. Insertar
+    C. Datos
+    D. Archivo
+
+33. ¿Qué opción se asocia al área de impresión, márgenes y orientación?
+    A. Diseño de página
+    B. Fórmulas
+    C. Comentarios
+    D. Hipervínculos
+
+34. ¿Qué es una serie de datos en un gráfico?
+    A. Una contraseña del libro
+    B. Una hoja vacía
+    C. Una función de texto
+    D. Un conjunto de valores representados
+
+35. ¿Qué afirmación sobre filtros es correcta?
+    A. Borran siempre los datos no visibles
+    B. Muestran sólo registros que cumplen criterios, sin borrar los demás
+    C. Cambian el formato de archivo
+    D. Sólo existen en Word
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -111,3 +233,23 @@
 | 13 | A | `SI` permite devolver resultados según una condición. |
 | 14 | B | `Y` exige que todas las condiciones sean verdaderas. |
 | 15 | A | En Excel español es habitual el punto y coma. |
+| 16 | B | `$A$1` fija columna y fila. |
+| 17 | A | `A$1` fija la fila. |
+| 18 | C | `#DIV/0!` indica división entre cero. |
+| 19 | D | La validación limita entradas permitidas. |
+| 20 | B | Quitar duplicados elimina repetidos si se confirma. |
+| 21 | C | Inmovilizar mantiene filas o columnas visibles. |
+| 22 | A | `Valores` contiene cálculos resumidos. |
+| 23 | B | Las segmentaciones filtran visualmente. |
+| 24 | C | Las líneas muestran evolución temporal. |
+| 25 | D | La leyenda identifica series. |
+| 26 | A | Cambia la representación, no necesariamente el origen. |
+| 27 | B | Texto en columnas separa contenido. |
+| 28 | C | El formato cambia la visualización. |
+| 29 | A | `CONTAR` cuenta celdas numéricas. |
+| 30 | D | `SI.ERROR` gestiona errores de fórmula. |
+| 31 | B | `BUSCARX` busca valores en rangos o matrices. |
+| 32 | C | `Datos` agrupa ordenar, filtrar y obtener datos. |
+| 33 | A | Diseño de página incluye impresión, márgenes y orientación. |
+| 34 | D | Una serie es un conjunto de valores representados. |
+| 35 | B | Filtrar oculta los que no cumplen criterios sin borrarlos. |
