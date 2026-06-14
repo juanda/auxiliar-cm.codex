@@ -310,6 +310,14 @@ Identificar:
 
 Para cada tema generar:
 
+Reglas obligatorias de elaboración:
+
+* Cubrir todos los puntos concretos que la convocatoria pide para ese tema. La referencia exacta de esos puntos está en la sección `# Programa oficial` de este `AGENTS.md`.
+* El desarrollo del tema debe ser suficiente para contestar todas las preguntas históricas clasificadas que correspondan a ese tema, sin necesidad de haber hecho previamente los tests históricos.
+* Las preguntas históricas deben usarse como verificación de cobertura: si una pregunta real no puede responderse con el tema, hay que ampliar el contenido.
+* Además de las preguntas históricas, deben generarse preguntas nuevas de entrenamiento intentando predecir qué puede preguntarse en la próxima convocatoria, especialmente sobre puntos oficiales poco preguntados o no preguntados todavía.
+* Las preguntas predictivas deben respetar la versión oficial aplicable y evitar dependencias de versiones obsoletas salvo como referencia histórica expresa.
+
 ## 1. Resumen ejecutivo
 
 Máximo 2 páginas.
@@ -402,6 +410,9 @@ Orden de redacción:
 * Explicar con lenguaje sencillo.
 * Priorizar lo preguntado históricamente.
 * Mantener trazabilidad con la convocatoria.
+* Cubrir literalmente todos los puntos del epígrafe oficial de cada tema.
+* Verificar que el tema permite responder las preguntas históricas del tema.
+* Añadir preguntas predictivas sobre contenidos probables de la próxima convocatoria.
 * Incluir siempre preguntas tipo test.
 * Indicar referencias normativas.
 * Favorecer esquemas y tablas frente a texto extenso.
