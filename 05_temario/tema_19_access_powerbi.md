@@ -67,6 +67,31 @@ Access guarda normalmente sus bases de datos modernas en archivos con extensión
 
 Pregunta histórica: `2023-E2-023`.
 
+#### Objetos principales de Access
+
+Access no es sólo un archivo con tablas. Una base de datos de Access agrupa objetos que trabajan juntos.
+
+| Objeto | Función | Clave de examen |
+| --- | --- | --- |
+| Tabla | Almacena los datos. | Es el origen principal de registros. |
+| Consulta | Recupera, filtra, combina, calcula o modifica datos. | No es la tabla. |
+| Formulario | Facilita introducir o consultar datos. | Interfaz de usuario. |
+| Informe | Presenta datos para imprimir o distribuir. | Salida ordenada. |
+| Macro | Automatiza acciones sin programar código complejo. | No es una tabla. |
+| Módulo | Contiene código VBA. | Nivel avanzado, menos probable. |
+
+#### Lógica relacional
+
+Access trabaja con tablas relacionadas para evitar duplicar datos. En una base de datos administrativa, por ejemplo, puede haber una tabla de personas y otra de expedientes; cada expediente se vincula con una persona mediante un identificador.
+
+| Mala práctica | Diseño más correcto |
+| --- | --- |
+| Repetir todos los datos de una persona en cada expediente. | Guardar la persona una vez y relacionar expedientes por clave. |
+| Usar nombres como identificador único. | Usar una clave principal estable. |
+| Guardar varios valores en un solo campo. | Separar datos en campos o tablas relacionadas. |
+
+Idea de examen: Excel organiza datos en hojas; Access organiza datos en tablas relacionadas con claves, consultas, formularios e informes.
+
 #### Access frente a otras aplicaciones de Microsoft 365
 
 | Aplicación | Uso principal |
@@ -126,6 +151,10 @@ Los campos deben definirse con un tipo de datos adecuado.
 | Autonumeración | Identificador automático único. |
 | Hipervínculo | Direcciones o vínculos. |
 | Datos adjuntos | Archivos vinculados a un registro. |
+| Calculado | Resultado derivado de otros campos, con uso limitado. |
+| Búsqueda | Permite elegir valores de una lista o tabla relacionada. |
+
+Trampa: un teléfono, un DNI o un código postal no siempre deben ser de tipo Número. Si no se van a calcular aritméticamente y pueden contener ceros iniciales, letras o formatos, suele tratarse como texto.
 
 #### Campo Autonumeración
 
@@ -160,6 +189,21 @@ Pregunta histórica: `2023-E2-016`.
 | Texto de validación | Mensaje si no se cumple la regla. |
 | Requerido | Obliga o no a introducir dato. |
 | Indexado | Ayuda a búsquedas y evita duplicados si se configura así. |
+
+#### Validación e índices
+
+La calidad de una base de datos depende mucho de sus reglas.
+
+| Recurso | Utilidad |
+| --- | --- |
+| Regla de validación | Impide valores que no cumplen una condición. |
+| Texto de validación | Mensaje que aparece si el dato no cumple la regla. |
+| Valor predeterminado | Propone un valor inicial para nuevos registros. |
+| Requerido | Evita dejar el campo vacío. |
+| Índice con duplicados | Acelera búsquedas en campos repetibles. |
+| Índice sin duplicados | Evita repetir valores en ese campo. |
+
+Trampa: que un campo esté indexado no significa necesariamente que sea clave principal; la clave principal identifica de forma única el registro.
 
 ### 2.3. Clave principal
 
@@ -213,6 +257,30 @@ Las consultas pueden usar criterios para filtrar datos.
 
 También pueden calcular campos, por ejemplo un importe total a partir de precio y cantidad.
 
+#### Consultas de acción
+
+Las consultas de acción son más delicadas porque modifican datos. Aunque el examen C2 suele quedarse en el concepto, conviene reconocerlas.
+
+| Consulta de acción | Qué hace |
+| --- | --- |
+| Actualización | Cambia valores existentes. |
+| Anexar | Añade registros a una tabla. |
+| Eliminación | Borra registros que cumplen criterios. |
+| Creación de tabla | Crea una tabla nueva a partir de resultados. |
+
+Trampa: una consulta de selección muestra datos; una consulta de acción puede cambiarlos. Si el enunciado habla de borrar, anexar o actualizar registros, no es una simple consulta de selección.
+
+#### Consultas con varias tablas
+
+Las consultas pueden combinar tablas relacionadas. Para que el resultado sea correcto hay que unir campos compatibles, normalmente una clave principal con una clave externa.
+
+| Concepto | Significado |
+| --- | --- |
+| Clave principal | Identifica el registro en la tabla principal. |
+| Clave externa | Campo en otra tabla que referencia la clave principal. |
+| Combinación interna | Muestra registros relacionados en ambas tablas. |
+| Combinación externa | Puede incluir registros sin correspondencia en una de las tablas. |
+
 ### 2.5. Formularios
 
 Los formularios son objetos que ofrecen una interfaz visual para introducir, modificar o consultar datos. Suelen basarse en tablas o consultas.
@@ -233,8 +301,22 @@ Utilidades:
 - Mostrar sólo campos necesarios.
 - Guiar al usuario.
 - Crear formularios con datos relacionados.
+- Validar y controlar mejor la introducción de datos.
+- Incorporar botones o acciones frecuentes.
 
 Trampa: el formulario no es lo mismo que la tabla. La tabla almacena datos; el formulario es una interfaz para trabajar con ellos.
+
+#### Vistas y origen de datos de formularios
+
+| Elemento | Idea clave |
+| --- | --- |
+| Origen del registro | Tabla o consulta de donde salen los datos. |
+| Vista Formulario | Uso normal para introducir o consultar registros. |
+| Vista Diseño | Modifica estructura, controles y propiedades. |
+| Vista Presentación | Ajusta diseño viendo datos. |
+| Subformulario | Muestra registros relacionados, por ejemplo pedidos de un cliente. |
+
+Trampa: cambiar el diseño del formulario no equivale a cambiar necesariamente la estructura de la tabla.
 
 ### 2.6. Informes
 
@@ -256,8 +338,24 @@ Utilidades:
 - Etiquetas.
 - Documentos impresos.
 - Exportación a PDF u otros formatos.
+- Agrupar datos por categorías.
+- Calcular totales por grupo o generales.
 
 Trampa: el informe presenta datos; no es la herramienta principal para introducirlos.
+
+#### Secciones y controles de informes
+
+| Elemento | Función |
+| --- | --- |
+| Encabezado de informe | Aparece al inicio del informe completo. |
+| Encabezado de página | Se repite en cada página. |
+| Encabezado de grupo | Se muestra al cambiar de grupo. |
+| Detalle | Contiene los registros. |
+| Pie de grupo | Totales o resúmenes del grupo. |
+| Pie de página | Numeración, fecha u otros datos repetidos. |
+| Pie de informe | Totales finales o cierre. |
+
+Trampa: un informe puede basarse en una consulta. Eso no lo convierte en consulta; sigue siendo un objeto de presentación.
 
 ### 2.7. Relaciones
 
@@ -292,6 +390,16 @@ Opciones asociadas:
 | Eliminar en cascada | Borrar registros relacionados si se borra el principal, con riesgo. |
 
 Trampa: una relación no es un informe ni un formulario; vincula datos entre tablas.
+
+#### Tipos de relación con ejemplo
+
+| Relación | Ejemplo administrativo | Pista de examen |
+| --- | --- | --- |
+| Uno a uno | Una persona y una ficha complementaria única. | Menos frecuente. |
+| Uno a varios | Una unidad administrativa con muchos expedientes. | La más común. |
+| Varios a varios | Cursos y alumnos. | Requiere tabla intermedia. |
+
+En una relación uno a varios, la clave principal está en la tabla del lado "uno" y la clave externa en la tabla del lado "varios".
 
 ### 2.8. Importación, vinculación y exportación de datos
 
@@ -355,6 +463,18 @@ Power BI es una herramienta de inteligencia de negocio para conectar datos, tran
 | Informe | Conjunto de páginas visuales interactivas. |
 | Panel/dashboard | Vista resumida de indicadores, especialmente en servicio Power BI. |
 
+#### Flujo básico de trabajo en Power BI
+
+| Fase | Qué se hace |
+| --- | --- |
+| Conectar | Elegir origen de datos: Excel, base de datos, web, etc. |
+| Transformar | Limpiar, cambiar tipos, quitar columnas o combinar datos. |
+| Modelar | Crear relaciones, medidas y estructura analítica. |
+| Visualizar | Crear gráficos, tablas, tarjetas y segmentadores. |
+| Publicar/compartir | Distribuir informes o paneles según permisos. |
+
+Power BI Desktop crea normalmente archivos `.pbix`. En el nivel de esta oposición basta con reconocerlo como herramienta de informes visuales y análisis, no como sustituto directo de una base de datos relacional.
+
 #### Access frente a Power BI
 
 | Access | Power BI |
@@ -365,6 +485,14 @@ Power BI es una herramienta de inteligencia de negocio para conectar datos, tran
 | Útil para pequeñas aplicaciones de datos. | Útil para análisis y cuadros de mando. |
 
 Trampa: Power BI no sustituye exactamente a Access. Access gestiona bases de datos; Power BI analiza y presenta datos.
+
+#### Diferencia con Excel
+
+| Excel | Access | Power BI |
+| --- | --- | --- |
+| Hoja de cálculo y análisis tabular. | Base de datos relacional de escritorio. | Inteligencia de negocio y visualización. |
+| Fórmulas en celdas. | Tablas, claves, relaciones y consultas. | Modelos, medidas y visuales. |
+| Muy flexible para cálculos rápidos. | Mejor para datos estructurados relacionados. | Mejor para cuadros de mando e informes interactivos. |
 
 ### 2.10. Cobertura de la convocatoria
 
@@ -388,17 +516,24 @@ Trampa: Power BI no sustituye exactamente a Access. Access gestiona bases de dat
 | Registro | Fila de una tabla | Confundir con campo |
 | Campo | Columna de una tabla | Confundir con registro |
 | Clave principal | Identifica de forma única un registro | Pensar que cualquier campo sirve |
+| Clave externa | Campo que referencia una clave principal de otra tabla | Confundir con clave principal |
 | Autonumeración | Valor único automático | Pensar que da formato a fechas |
 | Vista Diseño | Define campos de una tabla | Confundir con Vista Hoja de datos |
 | Propiedades de campo | Formato, título, máscara, valor predeterminado | Confundir con propiedades personales del archivo |
+| Regla de validación | Condición que debe cumplir un dato | Confundir con formato visual |
+| Índice | Ayuda a buscar u ordenar y puede impedir duplicados | Pensar que siempre es clave principal |
 | Consulta | Obtiene, filtra, combina o calcula datos | Pensar que siempre almacena datos |
+| Consulta de acción | Actualiza, anexa, elimina o crea tabla | Confundir con consulta de selección |
 | Formulario | Interfaz para introducir o consultar datos | Confundir con informe |
+| Subformulario | Muestra datos relacionados dentro de un formulario | Confundir con informe |
 | Informe | Presenta datos para imprimir/exportar | Confundir con formulario |
 | Relación | Asociación entre campos comunes | Confundir con registro |
+| Integridad referencial | Mantiene coherencia entre tablas relacionadas | Confundir con validación de campo |
 | Importar | Traer datos externos a Access | Confundir con exportar |
 | Vincular | Conectar con origen externo | Confundir con copiar datos |
 | Exportar | Sacar datos hacia otro formato | Confundir con importar |
 | Power BI | Análisis y visualización de datos | Confundir con base de datos Access |
+| `.pbix` | Archivo de Power BI Desktop | Confundir con `.accdb` |
 
 ## 4. Articulos importantes
 
@@ -425,12 +560,16 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir campo y registro | Campo = columna; registro = fila. |
 | Confundir formulario e informe | Formulario introduce/consulta; informe presenta/imprime. |
 | Pensar que la consulta almacena directamente registros propios | Normalmente trabaja sobre tablas. |
+| Confundir consulta de selección con consulta de acción | La de acción puede modificar datos. |
 | Confundir importar y exportar | Importar trae; exportar saca. |
 | Confundir importar y vincular | Importar copia; vincular conecta con origen externo. |
 | Pensar que Power BI es una base de datos Access | Power BI analiza y visualiza datos. |
+| Pensar que Power BI almacena y gestiona datos como Access | Su función principal es modelar, analizar y visualizar. |
 | Confundir `.accdb` con `.xlsx` | `.accdb` es Access; `.xlsx` es Excel. |
+| Confundir `.pbix` con `.accdb` | `.pbix` es Power BI Desktop; `.accdb` es Access. |
 | Pensar que Autonumeración genera números aleatorios de negocio | Sirve como identificador automático. |
 | Confundir clave principal con campo numérico cualquiera | La clave identifica inequívocamente. |
+| Confundir clave principal con clave externa | La externa referencia a la principal en otra tabla. |
 | Confundir Vista Diseño con Vista Hoja de datos | Diseño define estructura; hoja muestra datos. |
 | Confundir relación con informe | La relación vincula tablas; el informe presenta datos. |
 

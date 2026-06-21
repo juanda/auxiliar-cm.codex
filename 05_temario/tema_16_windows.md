@@ -124,6 +124,24 @@ No debe confundirse `Documentos` con la carpeta personal: `Documentos` es una ca
 | Restaurar | Recupera un elemento de la Papelera. |
 | Propiedades | Muestra información y opciones del elemento. |
 
+#### Selección, portapapeles y arrastre
+
+Antes de copiar, mover o eliminar hay que seleccionar elementos. Windows permite seleccionar un archivo, varios archivos contiguos o varios archivos no contiguos.
+
+| Acción | Resultado |
+| --- | --- |
+| Clic sobre un elemento | Selecciona ese elemento. |
+| `Ctrl` + clic | Añade o quita elementos concretos de la selección. |
+| `Mayús` + clic | Selecciona un bloque contiguo entre dos elementos. |
+| `Ctrl + A` | Selecciona todos los elementos de la carpeta. |
+| `Ctrl + C` | Copia al portapapeles. |
+| `Ctrl + X` | Corta para mover. |
+| `Ctrl + V` | Pega en la ubicación actual. |
+| `Supr` | Envía a la Papelera, salvo excepciones. |
+| `Mayús + Supr` | Elimina sin pasar por la Papelera, si se confirma. |
+
+Trampa: copiar conserva el original; cortar y pegar lo desplaza. Arrastrar dentro de la misma unidad suele mover; arrastrar entre unidades puede copiar. Si el examen pregunta con seguridad, hay que fijarse en el verbo: copiar, mover, eliminar, restaurar o crear acceso directo.
+
 #### Nombres y extensiones
 
 La extensión suele aparecer al final del nombre de archivo, después de un punto. Normalmente son tres o cuatro caracteres e indican el tipo de archivo o la aplicación que puede abrirlo.
@@ -160,6 +178,33 @@ Pregunta histórica: `2023-E2-025`.
 | Compartir en red | Permitir acceso desde otros equipos o usuarios. |
 
 No confundir compartir con comprimir: compartir facilita acceso; comprimir reduce tamaño o agrupa archivos.
+
+#### Propiedades, atributos y permisos
+
+El cuadro `Propiedades` de un archivo, carpeta o unidad es una zona muy preguntable porque concentra información que el usuario administrativo consulta con frecuencia.
+
+| Pestaña o dato | Utilidad |
+| --- | --- |
+| General | Tipo, ubicación, tamaño, fechas, atributos y aplicación asociada. |
+| Seguridad | Permisos NTFS de usuarios y grupos, si procede. |
+| Detalles | Metadatos como autor, título, etiquetas o dimensiones. |
+| Versiones anteriores | Recuperación si está configurada por el sistema. |
+| Compartir | Opciones de uso compartido en red. |
+| Atributo `Solo lectura` | Dificulta modificar el archivo, pero no equivale siempre a protección absoluta. |
+| Atributo `Oculto` | Puede ocultar el elemento si el Explorador no muestra ocultos. |
+
+Permisos y uso compartido no son lo mismo. Los permisos de seguridad controlan lo que un usuario puede hacer sobre el archivo o carpeta; compartir determina si se ofrece acceso por red. En carpetas compartidas pueden intervenir ambos niveles.
+
+#### Papelera y eliminación
+
+La Papelera almacena elementos eliminados de ubicaciones habituales del disco local para que puedan restaurarse. No todo pasa necesariamente por la Papelera: unidades de red, dispositivos extraíbles, archivos muy grandes o eliminación con `Mayús + Supr` pueden no quedar recuperables desde ella.
+
+| Acción | Efecto |
+| --- | --- |
+| Eliminar | Envía a Papelera si la ubicación y configuración lo permiten. |
+| Restaurar | Devuelve el elemento a su ubicación original. |
+| Vaciar Papelera | Elimina definitivamente los elementos que contiene. |
+| Eliminar permanentemente | Omite Papelera tras confirmación. |
 
 #### Unidades USB y extracción segura
 
@@ -241,6 +286,25 @@ Ejemplos:
 
 La indexación permite acelerar búsquedas en ubicaciones habituales. Si una ubicación no está indexada, la búsqueda puede ser más lenta o menos completa para contenido interno.
 
+#### Búsqueda afinada y filtros
+
+En el Explorador, al buscar dentro de una carpeta pueden combinarse texto, extensiones y filtros. Lo importante para el examen es comprender el alcance de la búsqueda y la diferencia entre nombre, tipo, fecha, tamaño y contenido.
+
+| Búsqueda | Ejemplo | Qué localiza |
+| --- | --- | --- |
+| Nombre parcial | `contrato` | Archivos o carpetas cuyo nombre contiene ese texto. |
+| Extensión | `*.xlsx` | Libros de Excel. |
+| Tipo | `tipo:=documento` | Documentos según clasificación de Windows. |
+| Fecha | `fecha:esta semana` | Elementos modificados en un periodo. |
+| Tamaño | `tamaño:grande` | Elementos de cierto intervalo de tamaño. |
+| Contenido | Palabra dentro del archivo | Depende del tipo de archivo y de la indexación. |
+
+Trampas:
+
+- Buscar desde `Este equipo` tiene un alcance mayor que buscar dentro de una carpeta concreta.
+- El filtro por extensión (`*.pdf`) no busca necesariamente texto dentro del PDF; busca el tipo de nombre.
+- Si la indexación no cubre una ubicación, Windows puede tardar más y no encontrar contenido interno con la misma precisión.
+
 ### 2.5. Accesorios de Windows
 
 Los accesorios son aplicaciones básicas incluidas en Windows 10. Pueden aparecer en preguntas de identificación funcional.
@@ -305,17 +369,32 @@ No confundir comandos:
 | Restaurar sistema | Volver a un punto anterior si está configurado. |
 | Seguridad de Windows | Antivirus, firewall y protección del sistema. |
 
+#### Herramientas de mantenimiento y administración
+
+Además de reconocer el nombre de la herramienta, conviene saber cuándo usarla:
+
+| Necesidad | Herramienta más propia |
+| --- | --- |
+| Ver consumo de CPU o memoria de una aplicación | Administrador de tareas. |
+| Deshabilitar programas de inicio | Administrador de tareas, pestaña Inicio. |
+| Comprobar particiones, letras de unidad o volúmenes | Administrador de discos. |
+| Revisar hardware instalado y controladores | Administrador de dispositivos. |
+| Consultar errores del sistema o aplicaciones | Visor de eventos. |
+| Automatizar una tarea en una fecha u hora | Programador de tareas. |
+| Liberar espacio de archivos temporales | Liberador de espacio o Sensor de almacenamiento. |
+| Comprobar protección antivirus y firewall | Seguridad de Windows. |
+
 ### 2.7. Cobertura de la convocatoria
 
 | Punto oficial | Dónde se trabaja |
 | --- | --- |
-| Explorador de Windows | Partes del Explorador, vistas, paneles, rutas, unidades. |
-| Gestión de carpetas y archivos | Crear, copiar, mover, eliminar, propiedades, extensiones, asociaciones. |
-| Operaciones de búsqueda | Cuadro de búsqueda, filtros, comodines, indexación. |
+| Explorador de Windows | Partes del Explorador, vistas, paneles, rutas, unidades, barra de direcciones y paneles. |
+| Gestión de carpetas y archivos | Selección, copiar, mover, eliminar, Papelera, propiedades, atributos, permisos, extensiones, asociaciones y uso compartido. |
+| Operaciones de búsqueda | Cuadro de búsqueda, alcance, filtros, comodines, extensión, contenido e indexación. |
 | Este equipo | Unidades, propiedades, espacio libre, carpetas principales. |
 | Acceso rápido | Carpetas frecuentes, ancladas y archivos recientes. |
 | Accesorios | Bloc de notas, WordPad, Paint, Recortes, Calculadora, etc. |
-| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas. |
+| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas, eventos, seguridad y mantenimiento. |
 
 ## 3. Conceptos clave
 
@@ -325,13 +404,19 @@ No confundir comandos:
 | Barra de direcciones | Muestra la ruta actual | Confundir con barra de estado |
 | Panel de vista previa | Permite ver contenido sin abrir | Confundir con propiedades |
 | Carpeta personal | Carpeta propia de cada usuario | Confundir con Documentos |
+| `Ctrl + C` / `Ctrl + X` | Copiar o cortar | Pensar que ambas acciones mueven |
+| Papelera | Recuperación de eliminados habituales | Creer que todo eliminado pasa por ella |
+| `Mayús + Supr` | Eliminación sin Papelera | Confundir con restaurar |
 | Extensión | Caracteres tras punto al final del nombre | Pensar que indica permisos |
 | Compartir carpeta | Hacerla accesible a usuarios de red | Confundir con comprimir |
+| Permisos | Controlan lectura, escritura o modificación | Confundir con compartir |
+| Atributo oculto | Oculta si no se muestran elementos ocultos | Pensar que cifra el archivo |
 | Quitar USB con seguridad | Evitar pérdida de datos | Pensar que es por temperatura |
 | Agrupar archivos | Separar por categorías | Confundir con ordenar |
 | Número entre paréntesis | Cantidad de archivos del grupo | Confundir con número de orden |
 | Este equipo | Unidades, dispositivos y carpetas principales | Confundir con Acceso rápido |
 | Acceso rápido | Carpetas frecuentes o ancladas | Pensar que borrar de ahí borra del disco |
+| Indexación | Acelera y mejora búsquedas en ubicaciones incluidas | Creer que crea copias de archivos |
 | Administrador de tareas | Procesos y rendimiento en tiempo real | Confundir con servicios |
 | `diskmgmt.msc` | Administrador de discos | Confundir con `devmgmt.msc` |
 
@@ -361,6 +446,10 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir extensión con nombre completo | La extensión es la parte tras el punto final. |
 | Cambiar extensión creyendo que convierte el archivo | Puede impedir abrirlo correctamente. |
 | Confundir compartir con comprimir | Compartir da acceso; comprimir reduce o agrupa. |
+| Confundir compartir con permisos NTFS | Pueden intervenir ambos, pero no son lo mismo. |
+| Pensar que un archivo oculto está cifrado | Oculto sólo afecta a la visualización si no se muestran ocultos. |
+| Creer que todos los borrados pasan por la Papelera | Algunas eliminaciones son permanentes o dependen de la ubicación. |
+| Confundir copiar con mover | Copiar duplica; mover cambia la ubicación. |
 | Quitar un USB sin seguridad durante escritura | Puede producir pérdida de datos. |
 | Confundir ordenar y agrupar | Ordenar reordena; agrupar crea bloques por categoría. |
 | Confundir Administrador de tareas con Administrador de discos | Tareas muestra procesos; discos gestiona volúmenes. |

@@ -16,6 +16,9 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Panel de vista previa | Permite ver ciertos archivos sin abrirlos. |
 | Extensión | Caracteres tras el punto final del nombre. |
 | Carpeta personal | Carpeta propia de cada usuario. |
+| Papelera | Recupera eliminados habituales si la ubicacion lo permite. |
+| Permisos | Lectura, escritura o modificacion sobre archivos/carpetas. |
+| Indexacion | Acelera busquedas en ubicaciones incluidas. |
 
 ## Preguntas historicas clave
 
@@ -45,6 +48,7 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Administrador de tareas | Procesos y rendimiento. |
 | Visor de eventos | Registros del sistema. |
 | Sensor de almacenamiento | Liberar espacio. |
+| Seguridad de Windows | Antivirus, firewall y proteccion del sistema. |
 
 ## Búsqueda
 
@@ -64,6 +68,10 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Desanclar vs borrar | Desanclar no borra la carpeta. |
 | Este equipo vs Acceso rápido | Este equipo muestra unidades/dispositivos. |
 | Vista previa vs abrir | Vista previa no abre con la aplicación principal. |
+| Copiar vs mover | Copiar duplica; mover cambia ubicacion. |
+| Papelera universal | No todo borrado pasa por Papelera. |
+| Oculto vs cifrado | Oculto afecta a visualizacion; no cifra. |
+| Compartir vs permisos | Compartir da acceso de red; permisos controlan acciones. |
 | Compartir vs comprimir | Compartir da acceso; comprimir reduce/agrupa. |
 | Ordenar vs agrupar | Ordenar reordena; agrupar separa por categorías. |
 | `diskmgmt.msc` vs `devmgmt.msc` | Discos frente a dispositivos. |
@@ -77,9 +85,13 @@ Prioridad alta:
 - Contenido sin abrir: panel de vista previa.
 - Espacio libre: `Este equipo` -> unidad -> `Propiedades`.
 - Extensión: caracteres tras el punto final.
+- Copiar, cortar, pegar: `Ctrl + C`, `Ctrl + X`, `Ctrl + V`.
+- `Mayús + Supr`: eliminacion sin Papelera si se confirma.
 - Carpeta personal: perfil de cada usuario.
 - Compartir carpeta: acceso a otros usuarios de red.
+- Propiedades: tipo, ubicacion, tamano, atributos, permisos y detalles.
 - USB: quitar de forma segura para evitar pérdida de datos.
+- Busqueda: `*` cadena, `?` un caracter, filtros por tipo/fecha/tamano.
 - Agrupación: número entre paréntesis = archivos del grupo.
 - Procesos activos: Administrador de tareas.
 - Administrador de discos: `diskmgmt.msc`.

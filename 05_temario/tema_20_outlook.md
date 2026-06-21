@@ -70,6 +70,36 @@ Pregunta historica: `2025-E2-035`.
 
 Trampa habitual: Outlook puede integrarse con Teams, OneDrive o SharePoint, pero su funcion basica examinable en el Tema 20 es correo y agenda. La colaboracion con Teams, SharePoint y OneDrive pertenece sobre todo al Tema 21.
 
+#### Conceptos elementales de correo electronico
+
+El programa oficial incluye "conceptos elementales y funcionamiento". No se exige administrar servidores, pero si entender el flujo basico.
+
+| Concepto | Significado para examen |
+| --- | --- |
+| Cuenta de correo | Identidad configurada para enviar y recibir mensajes. |
+| Buzon | Espacio donde se almacenan mensajes, carpetas y calendario asociado. |
+| Remitente | Persona o cuenta que envia el mensaje. |
+| Destinatario | Persona o cuenta que recibe el mensaje. |
+| Servidor de correo | Sistema que gestiona envio, recepcion y almacenamiento. |
+| Sincronizacion | Actualizacion entre Outlook y el buzon. |
+| Encabezado del mensaje | Datos tecnicos como remitente, destinatarios, fecha y asunto. |
+| Cuerpo del mensaje | Contenido redactado por el usuario. |
+
+En entornos Microsoft 365 suele intervenir Exchange Online, pero el examen se centra en que Outlook es el cliente de escritorio usado para trabajar con correo, calendario y contactos.
+
+#### Flujo basico de un mensaje
+
+| Fase | Que ocurre |
+| --- | --- |
+| Redaccion | Se completan destinatarios, asunto, cuerpo y adjuntos si procede. |
+| Envio | Outlook remite el mensaje a traves de la cuenta configurada. |
+| Bandeja de salida | Puede retener mensajes pendientes si no se han enviado aun. |
+| Entrega | El mensaje llega al buzon de destino si no hay errores. |
+| Recepcion | El destinatario lo ve en la Bandeja de entrada u otra carpeta por reglas. |
+| Respuesta o reenvio | Se mantiene o se deriva la comunicacion. |
+
+Trampa: `Elementos enviados` contiene mensajes ya remitidos; `Bandeja de salida` contiene mensajes pendientes de envio.
+
 ### 2.2. Interfaz basica de Outlook
 
 Outlook de escritorio se organiza en modulos o vistas. Los nombres exactos pueden variar ligeramente segun si se usa Outlook clasico o el nuevo Outlook, pero para oposicion conviene reconocer las funciones.
@@ -101,6 +131,19 @@ Las carpetas permiten organizar los mensajes.
 | Archivo | Mensajes conservados fuera de la bandeja de entrada. |
 
 No debe confundirse `Borradores` con `Elementos enviados`: un borrador todavia no ha salido; un elemento enviado ya ha sido remitido.
+
+#### Estados y organizacion de mensajes
+
+| Estado o marca | Significado |
+| --- | --- |
+| Leido / no leido | Indica si el mensaje se ha abierto o marcado como leido. |
+| Marcado para seguimiento | Senala accion pendiente. |
+| Categoria | Etiqueta visual para clasificar. |
+| Importancia alta/baja | Prioridad comunicada por el remitente. |
+| Con adjunto | El mensaje incluye archivo o elemento. |
+| Archivado | Se conserva fuera de la bandeja de entrada. |
+
+Trampa: marcar como no leido no reenvia ni recupera un mensaje; solo cambia el estado visual.
 
 ### 2.4. Creacion de mensajes
 
@@ -145,6 +188,20 @@ Buenas practicas:
 - Evitar asuntos vacios.
 - No cambiar el asunto de una conversacion salvo que cambie realmente el tema.
 
+#### Opciones habituales al crear mensajes
+
+| Opcion | Funcion |
+| --- | --- |
+| Firma | Inserta datos del remitente de forma automatica. |
+| Importancia alta/baja | Marca prioridad informativa. |
+| Solicitar confirmacion de lectura | Pide aviso de lectura, si el sistema y destinatario lo permiten. |
+| Solicitar confirmacion de entrega | Pide aviso de entrega al buzon, si esta disponible. |
+| Revisar ortografia | Comprueba el texto antes de enviar. |
+| Guardar borrador | Conserva mensaje no enviado. |
+| Formato HTML/texto | Controla presentacion del cuerpo del mensaje. |
+
+Trampa: una confirmacion de lectura no garantiza que el destinatario haya entendido o tramitado el contenido; solo indica lectura si se emite.
+
 ### 2.5. Adjuntar archivos
 
 Adjuntar un archivo consiste en incorporar al correo un documento u objeto. En Outlook de escritorio puede hacerse desde la pestana o grupo correspondiente de insercion/inclusion, segun la version y ventana activa.
@@ -163,6 +220,17 @@ Trampas:
 - Un vinculo compartido no es exactamente lo mismo que un archivo adjunto tradicional.
 - Responder a un mensaje recibido normalmente no vuelve a incluir los adjuntos originales.
 
+#### Adjuntos frente a vinculos compartidos
+
+| Archivo adjunto | Vinculo de OneDrive/SharePoint |
+| --- | --- |
+| Se envia una copia del archivo. | Se comparte acceso al archivo centralizado. |
+| Puede generar versiones duplicadas. | Facilita trabajar sobre una version comun. |
+| El destinatario conserva la copia recibida. | El acceso depende de permisos del enlace. |
+| Adecuado para envio puntual. | Adecuado para colaboracion y archivos grandes. |
+
+Idea de examen: si el enunciado habla de adjuntar en la ventana de mensaje de Outlook, se incorpora un archivo o elemento al correo. Si habla de colaborar en Microsoft 365, puede ser mas correcto compartir un vinculo.
+
 ### 2.6. Enviar y recibir mensajes
 
 Outlook permite enviar y recibir correo mediante una cuenta configurada. En entornos corporativos suele conectarse a Exchange Online o Microsoft 365, aunque el examen se centra en el uso funcional, no en la administracion tecnica del servidor.
@@ -176,6 +244,18 @@ Outlook permite enviar y recibir correo mediante una cuenta configurada. En ento
 | Elementos enviados | Lugar donde quedan los mensajes ya enviados. |
 
 Si no existe cuenta configurada o hay problemas de conexion, Outlook puede no enviar el mensaje hasta que se resuelva.
+
+#### Errores y confirmaciones de envio
+
+| Situacion | Consecuencia |
+| --- | --- |
+| Direccion incorrecta | Puede producir mensaje de error o no entrega. |
+| Archivo demasiado grande | Puede impedir el envio o requerir vinculo. |
+| Sin conexion | El mensaje puede quedar pendiente en Bandeja de salida. |
+| Regla saliente | Puede aplicarse al enviar si esta configurada. |
+| Recuperar mensaje | Solo funciona en escenarios concretos de organizacion; no es garantia general. |
+
+Trampa: que un mensaje aparezca en `Elementos enviados` indica que Outlook lo envio desde la cuenta, no necesariamente que el destinatario lo haya leido.
 
 ### 2.7. Responder, responder a todos y reenviar
 
@@ -256,6 +336,18 @@ Ejemplos de reglas:
 
 En Outlook clasico pueden existir reglas que solo se ejecutan cuando Outlook esta abierto y otras que se procesan en el servidor. Para examen C2 basta con saber que algunas reglas dependen de Outlook y otras pueden ejecutarse desde el buzon, pero no suele pedirse administracion avanzada.
 
+#### Orden y alcance de las reglas
+
+| Aspecto | Idea clave |
+| --- | --- |
+| Condiciones | Determinan a que mensajes se aplica. |
+| Acciones | Mover, copiar, reenviar, categorizar, marcar o eliminar. |
+| Excepciones | Impiden aplicar la regla en casos concretos. |
+| Orden | Si hay varias reglas, el orden puede influir en el resultado. |
+| Reglas existentes | Pueden ejecutarse sobre mensajes ya recibidos si se indica. |
+
+Trampa: una regla automatiza acciones; no es una alerta manual ni una carpeta por si sola.
+
 #### Reglas frente a pasos rapidos
 
 | Herramienta | Diferencia |
@@ -277,6 +369,18 @@ La libreta de direcciones permite seleccionar destinatarios al crear mensajes o 
 | Autocompletar | Sugerencia de direcciones usadas anteriormente. |
 
 Al redactar un correo, los botones `Para`, `CC` y `CCO` permiten seleccionar direcciones desde la libreta o contactos disponibles.
+
+#### Contactos, libreta y listas
+
+| Elemento | Diferencia importante |
+| --- | --- |
+| Contacto personal | Registro guardado por el usuario. |
+| Libreta de direcciones | Repositorio consultable de direcciones. |
+| Lista de contactos | Grupo de destinatarios gestionado como conjunto. |
+| Autocompletar | Sugerencias basadas en uso previo, no necesariamente contacto guardado. |
+| Directorio corporativo | Direcciones de la organizacion, si existe. |
+
+Trampa: que Outlook sugiera una direccion por autocompletar no significa que sea un contacto guardado en la libreta.
 
 No debe confundirse:
 
@@ -304,6 +408,19 @@ El modulo Calendario de Outlook sirve para organizar el tiempo mediante citas, r
 Pregunta historica: `2025-E2-021`.
 
 En el Calendario se pueden crear citas o reuniones, enviar invitaciones, gestionar respuestas y eliminar eventos. No es el lugar propio para gestionar contactos o crear listas de distribucion.
+
+#### Vistas y disponibilidad del calendario
+
+| Elemento | Utilidad |
+| --- | --- |
+| Vista dia/semana/mes | Cambia la forma de ver la agenda. |
+| Mostrar como libre | No bloquea disponibilidad. |
+| Mostrar como ocupado | Bloquea disponibilidad para otras personas. |
+| Provisional | Reserva tentativa. |
+| Fuera de la oficina | Indica ausencia. |
+| Asistente de programacion | Ayuda a buscar huecos segun disponibilidad, si hay datos. |
+
+Trampa: cambiar la vista del calendario no modifica las citas; solo cambia como se muestran.
 
 ### 2.13. Citas
 
@@ -345,6 +462,20 @@ Una reunion es un evento de calendario con asistentes. Al crearla, Outlook envia
 #### Convocatoria
 
 La convocatoria es la invitacion de reunion enviada a los asistentes. Los asistentes pueden aceptar, rechazar o responder como provisional. Outlook puede registrar esas respuestas para el organizador.
+
+#### Gestion de convocatorias
+
+| Accion | Resultado |
+| --- | --- |
+| Enviar convocatoria | Invita a asistentes y crea evento de reunion. |
+| Aceptar | Confirma asistencia y actualiza calendario. |
+| Provisional | Indica posible asistencia. |
+| Rechazar | Declina la reunion. |
+| Proponer nueva hora | Sugiere otro horario, si esta permitido. |
+| Actualizar reunion | Cambia datos y notifica a asistentes. |
+| Cancelar reunion | Anula la convocatoria y avisa a invitados. |
+
+Trampa: una cita personal no envia convocatoria; una reunion con asistentes si.
 
 ### 2.15. Busqueda, filtros y vistas
 
@@ -394,6 +525,7 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Outlook | Aplicacion de Microsoft 365 para correo, calendario y contactos. | Identificar aplicacion de correo. |
 | Correo electronico | Servicio para enviar y recibir mensajes digitales. | Concepto basico. |
 | Bandeja de entrada | Carpeta de mensajes recibidos. | Funcion de carpeta. |
+| Bandeja de salida | Mensajes pendientes de envio. | Confundir con enviados. |
 | Elementos enviados | Carpeta de mensajes remitidos. | Diferenciar de borradores. |
 | Borrador | Mensaje guardado sin enviar. | Estado del mensaje. |
 | Para | Destinatario principal. | Campo destinatario. |
@@ -401,6 +533,7 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | CCO | Copia oculta. | Significado de CCO. |
 | Asunto | Titulo del mensaje. | Conversaciones y busqueda. |
 | Adjuntar archivo | Incluir archivo en un mensaje. | Grupo/comando o efecto. |
+| Vinculo compartido | Acceso a archivo de OneDrive/SharePoint. | Confundir con adjunto tradicional. |
 | Responder | Contestar al remitente. | Diferencia con reenviar. |
 | Responder a todos | Contestar a remitente y destinatarios visibles. | Uso correcto. |
 | Reenviar | Enviar un mensaje recibido a nuevos destinatarios. | Prefijo y adjuntos. |
@@ -411,15 +544,18 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Regla | Accion automatica segun condiciones. | Definicion de regla. |
 | Condicion | Criterio que activa la regla. | De, asunto, destinatario, etc. |
 | Accion | Lo que hace la regla. | Mover, marcar, reenviar, eliminar. |
+| Excepcion | Caso en que no se aplica la regla. | Confundir con condicion. |
 | Contacto | Registro de datos de una persona o entidad. | Libreta de direcciones. |
 | Libreta de direcciones | Repositorio para seleccionar destinatarios. | Para, CC, CCO. |
 | Lista de contactos | Grupo de destinatarios. | No es accion de calendario. |
+| Autocompletar | Sugerencia de direcciones usadas. | No siempre es contacto guardado. |
 | Calendario | Modulo de agenda de Outlook. | Citas y reuniones. |
 | Cita | Reserva de tiempo sin asistentes obligatorios. | Diferencia con reunion. |
 | Reunion | Evento con asistentes invitados. | Convocatoria. |
 | Convocatoria | Invitacion de reunion enviada a asistentes. | Respuestas aceptar/rechazar. |
 | Recordatorio | Aviso previo de evento. | Funcion de agenda. |
 | Disponibilidad | Estado libre/ocupado/provisional. | Organizacion de reuniones. |
+| Asistente de programacion | Ayuda a buscar huecos de reunion. | Confundir con libreta de direcciones. |
 
 ## 4. Articulos importantes
 
@@ -451,11 +587,16 @@ Referencias normativas transversales:
 | Decir que responder y reenviar son iguales | Responder contesta al remitente; reenviar envia a nuevos destinatarios. |
 | Pensar que responder incluye siempre adjuntos | Normalmente no incluye los adjuntos originales. |
 | Pensar que reenviar no incluye adjuntos | Normalmente los conserva, salvo configuracion o excepciones. |
+| Confundir Bandeja de salida con Elementos enviados | Salida tiene pendientes; enviados ya salieron. |
+| Pensar que autocompletar equivale a contacto guardado | Puede ser solo una sugerencia por uso anterior. |
+| Creer que una confirmacion de lectura garantiza tramitacion | Solo informa lectura si se emite. |
 | Agrupar conversaciones por remitente | La pregunta historica las vincula al mismo asunto. |
 | Creer que una regla es una plantilla de correo | Una regla automatiza acciones sobre mensajes. |
+| Confundir condicion y excepcion de una regla | La condicion activa; la excepcion impide aplicar en casos concretos. |
 | Gestionar contactos desde Calendario como funcion propia | Contactos/listas pertenecen a Personas/Contactos, no al modulo Calendario. |
 | Confundir cita y reunion | La reunion tiene asistentes; la cita puede ser solo personal. |
 | Creer que convocatoria y cita son sinonimos | La convocatoria es invitacion de reunion; la cita reserva tiempo. |
+| Pensar que cambiar la vista del calendario cambia los eventos | Solo cambia la visualizacion. |
 | Estudiar Outlook 2016 como version base | La convocatoria 2026 fija Microsoft 365 version escritorio. |
 | Meter Teams y SharePoint dentro del Tema 20 | La integracion colaborativa corresponde principalmente al Tema 21. |
 

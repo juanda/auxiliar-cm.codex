@@ -15,6 +15,8 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Microsoft Offi
 | Regla | Automatizacion que procesa mensajes segun condiciones. |
 | Conversacion | Agrupacion de mensajes relacionados por asunto o hilo. |
 | Marca de seguimiento | Senal para controlar mensajes pendientes. |
+| Buzon | Espacio de mensajes, carpetas y calendario asociado. |
+| Sincronizacion | Actualizacion entre Outlook y el buzon. |
 
 ## Preguntas historicas clave
 
@@ -44,6 +46,8 @@ Nota: `2023-E2-006` aparece clasificada como Tema 20, pero pregunta por campos d
 | `Asunto` | Identifica el mensaje y ayuda a agrupar conversaciones. |
 | Cuerpo | Texto del mensaje. |
 | Adjuntos | Archivos incorporados o vinculados. |
+| Firma | Texto automatico con datos del remitente. |
+| Confirmacion de lectura | Aviso posible de lectura, no garantia de tramitacion. |
 
 ## Acciones de correo
 
@@ -54,6 +58,17 @@ Nota: `2023-E2-006` aparece clasificada como Tema 20, pero pregunta por campos d
 | Responder | Contesta al remitente original. |
 | Responder a todos | Contesta al remitente y destinatarios visibles. |
 | Reenviar | Envia el mensaje recibido a nuevos destinatarios. |
+| Bandeja de salida | Mensajes pendientes de envio. |
+| Recuperar mensaje | Solo funciona en escenarios concretos; no es garantia general. |
+
+## Adjuntos y vinculos
+
+| Opcion | Idea |
+| --- | --- |
+| Archivo adjunto | Envia una copia del archivo. |
+| Vinculo OneDrive/SharePoint | Comparte acceso al archivo centralizado. |
+| Responder | Normalmente no incluye adjuntos originales. |
+| Reenviar | Normalmente conserva adjuntos originales. |
 
 ## Prefijos
 
@@ -82,6 +97,7 @@ Una regla automatiza acciones sobre mensajes.
 | Condicion | Remitente, asunto, destinatario, palabras, importancia. |
 | Accion | Mover, eliminar, marcar, categorizar, reenviar. |
 | Excepcion | No aplicar si contiene cierta palabra o remitente. |
+| Orden | Puede influir si hay varias reglas. |
 
 Regla no es plantilla de correo ni programa externo.
 
@@ -92,7 +108,8 @@ Regla no es plantilla de correo ni programa externo.
 | Contacto | Guarda datos de persona o entidad. |
 | Libreta de direcciones | Permite seleccionar destinatarios. |
 | Lista de contactos | Agrupa direcciones para enviar a varias personas. |
-| Autocompletar | Sugiere direcciones usadas antes. |
+| Autocompletar | Sugiere direcciones usadas antes; no siempre son contactos guardados. |
+| Directorio corporativo | Direcciones de la organizacion, si existe. |
 
 ## Agenda y calendario
 
@@ -104,6 +121,8 @@ Regla no es plantilla de correo ni programa externo.
 | Convocatoria | Invitacion de reunion enviada a asistentes. |
 | Recordatorio | Aviso previo. |
 | Disponibilidad | Libre, ocupado, provisional o fuera de oficina. |
+| Asistente de programacion | Ayuda a buscar huecos con disponibilidad. |
+| Proponer nueva hora | Respuesta posible a una convocatoria si se permite. |
 
 ## Trampas habituales
 
@@ -114,7 +133,11 @@ Regla no es plantilla de correo ni programa externo.
 | `FW:` como respuesta | `FW:` es reenvio; `RE:` es respuesta. |
 | Responder igual que reenviar | Responder contesta; reenviar manda a nuevos destinatarios. |
 | Conversacion por remitente | En la pregunta historica, por asunto. |
+| Bandeja de salida como enviados | Salida = pendiente; enviados = ya remitidos. |
+| Autocompletar como contacto | Puede ser sugerencia por uso anterior. |
+| Confirmacion de lectura como tramite | No prueba tramitacion administrativa. |
 | Regla como plantilla | Regla = automatizacion. |
+| Condicion como excepcion | Condicion activa; excepcion impide aplicar. |
 | Contactos dentro del Calendario | Contactos/listas son de Personas/Contactos. |
 | Cita igual que reunion | Reunion tiene asistentes; cita puede ser personal. |
 | Outlook 2016 como base | La base 2026 es Microsoft 365 escritorio. |
@@ -128,9 +151,12 @@ Prioridad alta:
 - `Para` = principal; `CC` = copia visible; `CCO` = copia oculta.
 - `RE:` = respuesta; `FW:` = reenvio.
 - Responder normalmente no incluye adjuntos; reenviar normalmente si.
+- Bandeja de salida = pendientes; Elementos enviados = ya enviados.
 - Conversacion = mensajes con mismo asunto o hilo.
 - Marca de seguimiento = control de pendientes; vale para enviados y recibidos.
-- Regla = accion automatica con condicion y accion.
+- Regla = accion automatica con condicion, accion y posible excepcion.
 - Libreta de direcciones = seleccionar destinatarios.
+- Autocompletar no siempre equivale a contacto guardado.
 - Calendario = citas, reuniones, convocatorias, respuestas y disponibilidad.
+- Asistente de programacion = buscar huecos disponibles.
 - Gestionar contactos/listas no es accion propia del Calendario.

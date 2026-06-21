@@ -25,6 +25,9 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Ver aspecto impreso | `Diseño de impresión` |
 | Imprimir | `Archivo` -> `Imprimir` |
 | Exportar a PDF | `Archivo` -> `Exportar` o `Guardar como` PDF |
+| Configurar pagina | `Disposición`: margenes, orientacion, tamano, saltos |
+| Revisar cambios | `Revisar`: comentarios, control de cambios, aceptar/rechazar |
+| Inspeccionar documento | `Archivo` -> `Información`: preparar antes de compartir |
 | Opciones de Word | `Archivo` -> `Opciones` |
 
 ## Conceptos que caen
@@ -35,9 +38,14 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Sangría izquierda | Desplazamiento del párrafo hacia la derecha respecto al margen izquierdo |
 | Sección | Parte del documento con formato propio |
 | Estilo | Formato guardado para aplicar de forma uniforme |
+| Plantilla | Modelo reutilizable para crear documentos |
 | Salto de página | Fuerza inicio en otra página |
 | Salto de sección | Permite configuración propia desde un punto |
 | Encabezado y pie | Zonas repetibles de parte superior e inferior |
+| Tabla | Organiza informacion en filas y columnas |
+| Objeto | Permite insertar o vincular contenido externo |
+| Comentario | Anotacion de revision |
+| Control de cambios | Registra modificaciones para aceptar o rechazar |
 | Lista con viñetas | Cada párrafo empieza con símbolo o imagen |
 | Lista numerada | Cada párrafo empieza con número, letra o esquema |
 | Propiedades | Metadatos del archivo |
@@ -50,7 +58,11 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 - Interlineado no es margen.
 - Sangría no es margen de página.
 - Sección no es salto de página.
+- Plantilla no es documento final.
+- Comentario no es control de cambios.
+- Historial de versiones no es control de cambios.
 - Diseño de impresión no es imprimir.
+- Configuracion de pagina no es elegir impresora.
 - Zoom no cambia el documento.
 - Exportar a PDF no equivale a editar el documento original.
 - Para insertar otro documento: `Objeto`, no `Cuadro de texto`.

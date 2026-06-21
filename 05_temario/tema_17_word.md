@@ -65,6 +65,21 @@ En el examen se debe distinguir entre:
 | Vista | Forma de mostrar el documento en pantalla. |
 | Propiedades | Metadatos del archivo: autor, título, asunto, etc. |
 
+#### Documento en blanco, plantillas y compatibilidad
+
+Word puede crear documentos desde cero o a partir de una plantilla. Una plantilla es un modelo reutilizable con estilos, diseño, texto base o elementos ya preparados.
+
+| Elemento | Uso |
+| --- | --- |
+| Documento en blanco | Empezar sin contenido predefinido. |
+| Plantilla | Crear documentos repetitivos con estructura común. |
+| `.docx` | Formato habitual de documento moderno. |
+| `.dotx` | Plantilla sin macros. |
+| `.docm` | Documento que puede contener macros. |
+| Modo de compatibilidad | Indica que el archivo procede de una versión o formato anterior. |
+
+Trampa: abrir una plantilla no debería servir para modificar siempre el modelo original, sino para crear un documento basado en ella, salvo que se abra la plantilla como archivo de plantilla.
+
 ### 2.2. Creación y estructuración del documento
 
 Un documento se estructura mediante párrafos, estilos, listas, tablas, encabezados, pies y secciones. La estructura no es sólo visual: ayuda a navegar, revisar e imprimir correctamente.
@@ -162,6 +177,35 @@ Los encabezados y pies de página son zonas repetibles en la parte superior e in
 
 Son especialmente preguntables cuando se combinan con secciones, porque cada sección puede tener encabezados, pies o numeración propios.
 
+#### Tablas, imágenes y objetos
+
+Aunque las preguntas históricas se han centrado en texto, el epígrafe oficial habla de principales funciones y utilidades. Por tanto, hay que reconocer los elementos que Word inserta en un documento administrativo.
+
+| Elemento | Utilidad | Trampa |
+| --- | --- | --- |
+| Tabla | Organizar información en filas y columnas. | No es una hoja de cálculo de Excel. |
+| Imagen | Incorporar contenido gráfico. | Puede ajustarse al texto. |
+| Cuadro de texto | Colocar texto en un contenedor independiente. | No inserta un documento entero. |
+| Objeto | Insertar o vincular contenido de otro archivo. | Es la ruta histórica para insertar otro documento. |
+| Hipervínculo | Saltar a web, archivo, correo o marcador. | No es comentario. |
+| Nota al pie | Aclaración al final de página. | No es pie de página. |
+| Comentario | Anotación de revisión. | No modifica necesariamente el texto principal. |
+
+#### Revisión, ortografía y control de cambios
+
+Word incluye herramientas de revisión que pueden aparecer como distractores frente a formato, búsqueda o impresión.
+
+| Herramienta | Función |
+| --- | --- |
+| Ortografía y gramática | Detecta posibles errores lingüísticos. |
+| Autocorrección | Sustituye automáticamente ciertos textos o errores frecuentes. |
+| Comentarios | Permiten anotar sin alterar directamente el texto principal. |
+| Control de cambios | Registra inserciones, eliminaciones y modificaciones. |
+| Aceptar/Rechazar cambios | Confirma o descarta modificaciones registradas. |
+| Comparar documentos | Contrasta versiones de documentos. |
+
+Trampa: el control de cambios no es lo mismo que el historial de versiones. El control de cambios registra modificaciones dentro del documento; el historial de versiones depende del archivo guardado, especialmente si está en OneDrive o SharePoint.
+
 ### 2.3. Gestión, grabación y recuperación de ficheros
 
 #### Guardar y Guardar como
@@ -223,6 +267,19 @@ En Word de Microsoft 365 escritorio, las propiedades del documento se consultan 
 
 Pregunta histórica: `2023-E2-020`.
 
+#### Inspeccionar, proteger y preparar el documento
+
+En `Archivo` -> `Información` pueden aparecer opciones relacionadas con preparar un documento antes de compartirlo. No se deben confundir con las propiedades.
+
+| Opción | Para qué sirve |
+| --- | --- |
+| Inspeccionar documento | Buscar metadatos ocultos, comentarios u otra información antes de compartir. |
+| Proteger documento | Restringir edición, marcar como final o usar protección disponible. |
+| Comprobar accesibilidad | Detectar problemas para usuarios con necesidades de accesibilidad. |
+| Comprobar compatibilidad | Avisar de funciones que podrían no verse igual en versiones anteriores. |
+
+Trampa histórica: si preguntan por añadir propiedades personalizadas, la ruta relevante es `Propiedades` -> `Propiedades avanzadas`, no `Inspeccionar documento`.
+
 #### Insertar un documento dentro de otro
 
 Word permite insertar contenido de otro archivo mediante:
@@ -266,6 +323,19 @@ Ejemplo conceptual:
 
 Pregunta histórica: `2023-E2-007`.
 
+#### Panel de navegación y reemplazo
+
+El panel de navegación permite moverse por resultados de búsqueda, páginas o títulos del documento cuando se usan estilos de encabezado. Es especialmente útil en documentos largos.
+
+| Herramienta | Uso |
+| --- | --- |
+| Buscar | Localiza texto. |
+| Reemplazar | Sustituye texto por otro. |
+| Ir a | Salta a página, sección, línea, marcador u otro elemento. |
+| Panel de navegación | Muestra resultados, páginas o estructura por títulos. |
+
+Trampa: `Reemplazar todo` modifica todas las coincidencias encontradas; no es una simple búsqueda.
+
 ### 2.5. Vistas e impresión
 
 Word permite ver el documento de distintas formas. La vista clave para examen es `Diseño de impresión`.
@@ -297,6 +367,22 @@ La impresión se gestiona desde `Archivo` -> `Imprimir`. Ahí se pueden revisar 
 
 Trampa típica: `Diseño de impresión` es una vista de trabajo; `Archivo` -> `Imprimir` es la zona de impresión y vista previa.
 
+#### Configuración de página
+
+La impresión depende de la configuración de página. Muchas preguntas mezclan opciones de vista, diseño e impresión.
+
+| Configuración | Qué controla |
+| --- | --- |
+| Márgenes | Espacio entre el borde de página y el texto. |
+| Orientación | Vertical u horizontal. |
+| Tamaño | A4 u otro formato de papel. |
+| Columnas | Distribución del texto en columnas. |
+| Saltos | Página, columna o sección. |
+| Encabezado y pie | Zonas superior e inferior repetibles. |
+| Numeración de página | Inserta números automáticos. |
+
+Idea de examen: los márgenes y la orientación pertenecen al diseño/configuración de página; elegir impresora y copias pertenece a `Archivo` -> `Imprimir`.
+
 ### 2.6. Personalización del entorno de trabajo
 
 Aunque las preguntas históricas se han centrado más en gestión documental, conviene conocer la lógica general:
@@ -321,10 +407,25 @@ La personalización preguntable se concentra en:
 
 No confundir personalizar el entorno con modificar el documento: cambiar el zoom, la cinta o la barra de acceso rápido afecta a la forma de trabajar; cambiar márgenes, estilos o interlineado afecta al documento.
 
+### 2.7. Cobertura de la convocatoria
+
+| Punto oficial | Cobertura en este tema |
+| --- | --- |
+| Procesadores de texto: Word | Concepto de procesador, documento, párrafo, estilos, revisión, inserción, guardado e impresión. |
+| Principales funciones y utilidades | Crear, editar, dar formato, insertar tablas/objetos, revisar, buscar, guardar, exportar, imprimir y personalizar. |
+| Creación del documento | Documento en blanco, plantillas, escritura, selección, párrafos, estilos y estructura. |
+| Estructuración del documento | Títulos, estilos, secciones, encabezados, pies, numeración, listas, tablas e índice mediante estilos. |
+| Gestión de ficheros | Abrir, cerrar, recientes, propiedades, formatos, exportación, inspección y protección. |
+| Grabación de ficheros | Guardar, Guardar como, formatos `.docx`, `.docm`, `.dotx`, PDF y ubicación. |
+| Recuperación de ficheros | Autoguardado, Autorrecuperación, historial de versiones y `Administrar documento`. |
+| Impresión de ficheros | Vista Diseño de impresión, `Archivo` -> `Imprimir`, impresora, copias, páginas, márgenes y orientación. |
+| Personalización del entorno | Cinta, barra de acceso rápido, opciones, revisión, guardado, zoom y vistas. |
+
 ## 3. Conceptos clave
 
 | Concepto | Definición preguntable | Trampa habitual |
 | --- | --- | --- |
+| Plantilla | Modelo reutilizable para crear documentos | Confundir con documento ordinario |
 | Guardar | Actualiza el archivo abierto | Confundirlo con guardar con otro nombre |
 | Guardar como | Guarda con nombre, ubicación o formato distinto | Elegir `Guardar` |
 | Formato de fuente | Tamaño, color, negrita, cursiva y subrayado | Confundirlo con formato de párrafo |
@@ -334,13 +435,18 @@ No confundir personalizar el entorno con modificar el documento: cambiar el zoom
 | Estilo | Conjunto guardado de formatos | Pensar que sólo cambia el tamaño |
 | Sección | Parte del documento con configuración propia | Confundir con salto de página |
 | Encabezado y pie | Zonas repetibles superior e inferior | Confundir con margen |
+| Control de cambios | Registra modificaciones para revisión | Confundir con historial de versiones |
+| Comentario | Anotación de revisión | Confundir con nota al pie |
 | Propiedades | Metadatos del archivo | Confundir con Inspeccionar documento |
+| Inspeccionar documento | Busca información oculta antes de compartir | Confundir con añadir propiedades |
 | Objeto | Permite insertar un documento en otro | Confundir con Cuadro de texto |
 | Buscar | Localiza texto en un documento | Confundir con Formato o Disposición |
 | Reemplazar | Sustituye texto localizado por otro | Confundir con Buscar |
+| Panel de navegación | Permite moverse por títulos, páginas o resultados | Confundir con panel de comentarios |
 | Comodín `!` | Excluye caracteres dentro de corchetes | Confundir con `?` o `*` |
 | Diseño de impresión | Muestra cómo quedará impreso | Confundir con Vista preliminar |
 | Imprimir | Gestiona impresora, copias, páginas y márgenes | Confundir con Diseño de impresión |
+| Configuración de página | Márgenes, orientación, tamaño y saltos | Confundir con selección de impresora |
 | Personalización | Ajusta cinta, acceso rápido, opciones, zoom y vistas | Confundir con modificar el contenido |
 
 ## 4. Artículos importantes
@@ -353,9 +459,11 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Recuperación | `Archivo` -> `Información` -> `Administrar documento` |
 | Metadatos | `Archivo` -> `Información` -> `Propiedades` -> `Propiedades avanzadas` |
 | Inserción | `Insertar` -> `Texto` -> `Objeto` |
+| Revisión | `Revisar`: ortografía, comentarios, control de cambios, comparar |
 | Búsqueda | `Inicio` -> `Buscar`, o cuadro de búsqueda |
 | Vista de impresión | `Vista` -> `Diseño de impresión` |
 | Impresión | `Archivo` -> `Imprimir`: impresora, copias, páginas, orientación, márgenes |
+| Configuración de página | `Disposición`: márgenes, orientación, tamaño, columnas y saltos |
 | Formatos | `.docx`, `.docm`, `.dotx`, `.pdf`, `.rtf`, `.txt` |
 | Personalización | `Archivo` -> `Opciones`: cinta, acceso rápido, revisión, guardado |
 
@@ -369,9 +477,13 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Pensar que una sección es una página | Una sección puede ocupar una o muchas páginas |
 | Confundir salto de página con salto de sección | El salto de sección permite configuración propia |
 | Confundir formato de fuente con formato de párrafo | Fuente afecta a caracteres; párrafo afecta al bloque |
+| Pensar que una plantilla es lo mismo que un documento final | La plantilla sirve de modelo para crear documentos. |
 | Elegir `Cuadro de texto` para insertar otro documento | La ruta preguntada es `Objeto` |
 | Confundir `Inspeccionar documento` con propiedades personalizadas | Las propiedades avanzadas cuelgan de `Propiedades` |
+| Confundir comentario con control de cambios | El comentario anota; el control de cambios registra modificaciones. |
+| Confundir historial de versiones con control de cambios | El historial pertenece al archivo; control de cambios al contenido revisado. |
 | Pensar que Diseño de impresión es Vista preliminar | En el test se preguntó por el comando `Diseño de impresión` |
+| Confundir márgenes con sangría | Los márgenes afectan a la página; la sangría al párrafo. |
 | Pensar que exportar a PDF equivale a editar el documento | Genera una versión de salida, normalmente no editable |
 | Pensar que el zoom cambia el documento | Cambia la visualización, no el contenido |
 | Estudiar Word 2016 como versión base | La convocatoria 2026 fija Microsoft 365 versión escritorio |

@@ -109,6 +109,21 @@ Las filas se identifican con números y las columnas con letras. Un rango es un 
 | Rango horizontal | `A1:D1` | Celdas A1 a D1. |
 | Rango rectangular | `A1:D10` | Bloque desde A1 hasta D10. |
 
+#### Hojas: gestión y estructura
+
+En un libro pueden crearse, eliminarse, cambiarse de nombre, moverse, copiarse, ocultarse y protegerse hojas. Estos comandos son básicos para entender la gestión de libros aunque no siempre aparezcan en preguntas históricas.
+
+| Acción | Resultado |
+| --- | --- |
+| Insertar hoja | Añade una nueva hoja al libro. |
+| Cambiar nombre | Modifica la etiqueta visible de la hoja. |
+| Mover o copiar | Reordena una hoja o crea una copia. |
+| Ocultar hoja | La hoja deja de verse, pero no se elimina. |
+| Color de etiqueta | Ayuda a identificar hojas visualmente. |
+| Proteger hoja | Limita cambios sobre celdas o estructura, según configuración. |
+
+Trampa: eliminar una hoja borra su contenido; ocultarla sólo la deja fuera de la vista.
+
 ### 2.3. Introducción y edición de datos
 
 En una celda pueden introducirse:
@@ -135,6 +150,22 @@ Para editar una celda se puede escribir directamente sobre ella, usar la barra d
 | Combinar celdas | Une varias celdas visualmente. |
 
 Trampa importante: el formato puede cambiar cómo se ve un dato, pero no siempre cambia el valor real almacenado. Una fecha, un porcentaje o una moneda pueden mostrarse con formatos distintos.
+
+#### Autorrelleno, pegado especial y series
+
+Excel permite acelerar la edición mediante el controlador de relleno y las opciones de pegado.
+
+| Herramienta | Función |
+| --- | --- |
+| Controlador de relleno | Copia valores, fórmulas o extiende series. |
+| Rellenar serie | Crea secuencias como días, meses o números. |
+| Pegado especial | Pega sólo valores, fórmulas, formatos, transposición u otras opciones. |
+| Transponer | Cambia filas por columnas o columnas por filas. |
+| Buscar y reemplazar | Localiza o sustituye texto, números o fórmulas. |
+| Borrar todo | Elimina contenido, formato, comentarios y vínculos según opción elegida. |
+| Borrar contenido | Elimina el dato o fórmula, pero puede conservar formato. |
+
+Trampa: copiar una fórmula puede cambiar sus referencias si son relativas; pegar valores pega el resultado, no la fórmula.
 
 ### 2.4. Fórmulas y funciones
 
@@ -225,6 +256,34 @@ Pregunta histórica: `2023-E2-018`.
 | `#¡VALOR!` | Tipo de dato incorrecto en la fórmula. |
 | `#¡REF!` | Referencia de celda no válida. |
 
+#### Operadores y prioridad de cálculo
+
+Excel calcula las fórmulas siguiendo una prioridad de operadores. No hace falta estudiarlo como matemáticas avanzadas, pero sí reconocer las trampas básicas.
+
+| Elemento | Ejemplo | Idea clave |
+| --- | --- | --- |
+| Paréntesis | `=(A1+B1)*C1` | Fuerzan el orden de cálculo. |
+| Potencia | `=A1^2` | Se calcula antes que multiplicación/suma. |
+| Multiplicación/división | `=A1*B1` | Tienen prioridad sobre suma/resta. |
+| Suma/resta | `=A1+B1` | Se aplican después si no hay paréntesis. |
+| Concatenación | `=A1&B1` | Une textos. |
+| Comparación | `=A1>B1` | Devuelve VERDADERO o FALSO. |
+
+#### Funciones de alta rentabilidad
+
+No todas han aparecido históricamente, pero son funciones básicas de Microsoft 365 escritorio y muy probables como distractores.
+
+| Familia | Funciones | Qué conviene saber |
+| --- | --- | --- |
+| Matemáticas | `SUMA`, `REDONDEAR`, `ABS` | Cálculo numérico. |
+| Estadísticas | `PROMEDIO`, `MAX`, `MIN`, `CONTAR`, `CONTARA` | Resumen de valores. |
+| Lógicas | `SI`, `Y`, `O`, `SI.ERROR` | Condiciones y tratamiento de errores. |
+| Texto | `DERECHA`, `IZQUIERDA`, `EXTRAE`, `LARGO`, `CONCAT` | Manipular cadenas. |
+| Fecha | `HOY`, `AHORA`, `DIA`, `MES`, `AÑO` | Trabajar con fechas. |
+| Búsqueda | `BUSCARX`, `BUSCARV` | Localizar datos por clave. |
+
+Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones.
+
 ### 2.5. Configuración y personalización
 
 La configuración de Excel permite adaptar el entorno de trabajo. Son zonas preguntables:
@@ -248,6 +307,24 @@ La configuración del libro y de la hoja incluye:
 | Inmovilizar paneles | Mantener filas o columnas visibles al desplazarse. |
 | Diseño de página | Márgenes, orientación, tamaño y área de impresión. |
 | Protección de hoja/libro | Limitar cambios accidentales o no autorizados. |
+
+#### Configuración de página e impresión
+
+El programa oficial menciona configuración, por lo que hay que dominar las opciones de salida aunque no sean las más históricas.
+
+| Opción | Función |
+| --- | --- |
+| Márgenes | Espacio de impresión respecto al borde del papel. |
+| Orientación | Vertical u horizontal. |
+| Tamaño | Papel A4 u otro tamaño. |
+| Área de impresión | Rango concreto que se imprimirá. |
+| Saltos de página | Controlan dónde empieza una nueva página impresa. |
+| Escala | Ajusta la hoja a una o varias páginas. |
+| Imprimir títulos | Repite filas o columnas como encabezados en páginas impresas. |
+| Encabezado y pie | Texto repetido en parte superior o inferior. |
+| Líneas de cuadrícula | Pueden mostrarse en pantalla y, si se configura, imprimirse. |
+
+No confundir ajustar el zoom de pantalla con escalar para impresión: el zoom sólo cambia la visualización; la escala afecta a la salida impresa.
 
 ### 2.6. Gestión de datos
 
@@ -273,6 +350,33 @@ Para el nivel C2, lo más importante es entender qué hace cada herramienta. Un 
 | Formato como tabla | Convierte un rango en tabla con filtros y formato. | No es tabla dinámica. |
 | Importar datos | Trae datos externos al libro. | No equivale a exportar. |
 | Exportar | Genera salida hacia otro formato o destino. | No siempre modifica el origen. |
+
+#### Ordenación, filtros y validación con criterio de examen
+
+| Herramienta | Punto fino preguntable |
+| --- | --- |
+| Ordenar de A a Z / Z a A | Cambia el orden visible por una columna. |
+| Ordenación personalizada | Permite varios niveles, por ejemplo fecha y después apellido. |
+| Filtro automático | Muestra flechas de filtro en encabezados. |
+| Filtros de texto | Contiene, empieza por, termina en, igual a. |
+| Filtros de número | Mayor que, menor que, entre, diez superiores. |
+| Filtros de fecha | Hoy, mañana, este mes, intervalo. |
+| Validación de datos | Evita o advierte entradas no válidas según reglas. |
+| Lista desplegable | Caso típico de validación para elegir valores permitidos. |
+| Quitar duplicados | Elimina filas duplicadas según columnas seleccionadas. |
+
+Trampa: filtrar no borra registros; quitar duplicados sí puede eliminarlos si se confirma.
+
+#### Tablas de Excel
+
+Una tabla de Excel no es una tabla dinámica. Es un rango estructurado con encabezados, formato, filtros y comportamiento especial.
+
+| Tabla de Excel | Tabla dinámica |
+| --- | --- |
+| Organiza y facilita trabajar con un rango de datos. | Resume y analiza datos. |
+| Mantiene filas y columnas de origen. | Crea un resumen interactivo. |
+| Puede usar filtros y fila de totales. | Usa campos en filas, columnas, valores y filtros. |
+| Sirve como origen cómodo para gráficos o tablas dinámicas. | Debe actualizarse si cambia el origen. |
 
 ### 2.7. Tablas dinámicas
 
@@ -335,6 +439,18 @@ Elementos de gráfico preguntables:
 
 Trampa: cambiar el tipo de gráfico no cambia necesariamente los datos de origen; cambia la forma de representarlos.
 
+#### Gráficos recomendables según dato
+
+| Necesidad | Gráfico apropiado |
+| --- | --- |
+| Comparar categorías | Columnas o barras. |
+| Ver evolución temporal | Líneas. |
+| Mostrar parte de un total | Circular, con pocas categorías. |
+| Relacionar dos variables numéricas | Dispersión. |
+| Mostrar composición acumulada | Área o columnas apiladas. |
+
+Trampa: un gráfico circular con demasiadas categorías pierde claridad y no sirve para comparar evoluciones temporales.
+
 ### 2.9. Hipervínculos
 
 Un hipervínculo es un acceso que permite saltar a otra ubicación. Puede apuntar, por ejemplo, a:
@@ -363,6 +479,21 @@ Pregunta histórica: `2023-E2-004`.
 
 No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro de un libro.
 
+### 2.12. Cobertura de la convocatoria
+
+| Punto oficial | Cobertura en este tema |
+| --- | --- |
+| Hojas de cálculo: Excel | Concepto de libro, hoja, celda, rango, fórmulas, datos, gráficos y análisis. |
+| Principales funciones y utilidades | Introducción, cálculo, organización, análisis, representación, gestión e impresión. |
+| Libros, hojas y celdas | Libro, hoja, celda, celda activa, rangos, hojas, ocultar, mover, copiar y proteger. |
+| Configuración | Cinta, opciones, formato, ancho/alto, diseño de página, impresión, protección y vistas. |
+| Introducción y edición de datos | Texto, números, fechas, fórmulas, relleno, pegado especial, búsqueda, borrar y formato. |
+| Fórmulas y funciones | `=`, referencias, operadores, errores, funciones matemáticas, lógicas, texto, fecha y búsqueda. |
+| Tablas dinámicas | Finalidad, origen, campos, valores, filtros, segmentaciones, actualización y diferencias. |
+| Gráficos | Tipos, ejes, leyenda, series, etiquetas y elección según dato. |
+| Gestión de datos | Ordenar, filtrar, validar, quitar duplicados, texto en columnas, tablas e importar/exportar. |
+| Personalización del entorno | Barra de acceso rápido, cinta, vistas, inmovilizar, organizar ventanas, zoom y opciones. |
+
 ## 3. Conceptos clave
 
 | Concepto | Qué hay que saber | Preguntable |
@@ -372,6 +503,7 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Celda | Intersección fila-columna | Muy alto |
 | Celda activa | Celda seleccionada | Alto |
 | Rango | Conjunto de celdas | Alto |
+| Hoja oculta | Hoja no visible pero existente | Medio |
 | Barra de fórmulas | Muestra contenido de la celda activa | Muy alto |
 | Fórmula | Expresión de cálculo iniciada por `=` | Muy alto |
 | Función | Fórmula predefinida | Muy alto |
@@ -380,7 +512,10 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | `DERECHA` | Extrae caracteres desde la derecha | Alto |
 | `SI` | Función condicional | Alto |
 | `Y` | Comprueba varias condiciones | Medio |
+| `BUSCARX` | Busca valores en rangos o matrices | Medio |
+| Pegado especial | Pega valores, formatos, fórmulas u opciones concretas | Medio |
 | Error de fórmula | Aviso como `#DIV/0!`, `#N/A` o `#¡REF!` | Medio |
+| Tabla de Excel | Rango estructurado con encabezados y filtros | Medio |
 | Tabla dinámica | Resume y analiza datos interactivamente | Muy alto |
 | Campos de tabla dinámica | Filas, columnas, valores y filtros | Alto |
 | Hipervínculo | Salto a otra ubicación o recurso | Alto |
@@ -391,6 +526,8 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Ordenación | Reorganiza el orden de los datos | Medio |
 | Validación de datos | Limita valores permitidos | Medio |
 | Formato de número | Controla cómo se muestra un dato | Medio |
+| Área de impresión | Rango que se imprimirá | Medio |
+| Escala de impresión | Ajusta salida a páginas | Medio |
 
 ## 4. Articulos importantes
 
@@ -420,11 +557,16 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | No distinguir referencia relativa y absoluta | `$A$1` fija columna y fila al copiar. |
 | Confundir barra de fórmulas con barra de estado | La barra de fórmulas muestra el contenido de la celda activa. |
 | Pensar que el formato cambia siempre el valor real | Muchas veces sólo cambia la visualización. |
+| Confundir borrar contenido con borrar formato | Puede eliminarse el dato conservando formato o al revés. |
+| Pensar que pegar valores conserva la fórmula | Pegar valores conserva el resultado, no la fórmula. |
+| Confundir hoja oculta con hoja eliminada | Ocultar no borra el contenido. |
 | Pensar que una tabla dinámica modifica los datos originales | Resume y analiza datos; no necesita reescribir el origen. |
 | Confundir tabla normal con tabla dinámica | La tabla normal organiza; la dinámica resume y reorganiza. |
 | Confundir ordenar con filtrar | Ordenar cambia el orden; filtrar muestra sólo datos que cumplen criterios. |
+| Pensar que quitar duplicados es sólo un filtro | Quitar duplicados puede eliminar registros. |
 | Confundir gráfico con tabla dinámica | El gráfico representa; la tabla dinámica resume y reorganiza. |
 | Pensar que cambiar el gráfico cambia los datos | Cambia la representación, no necesariamente el origen. |
+| Confundir zoom con escala de impresión | Zoom afecta a pantalla; escala afecta a papel/PDF. |
 | Confundir comentario con hipervínculo | El comentario añade información; el hipervínculo salta a otra ubicación. |
 | Interpretar un indicador de esquina como error de fórmula | En Excel puede avisar de información asociada a la celda, como comentario o nota según versión. |
 | Confundir organizar ventanas con dividir hoja | Organizar ventanas afecta a ventanas abiertas; dividir afecta a la vista de la hoja. |

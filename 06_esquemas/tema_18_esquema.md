@@ -13,8 +13,11 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Celda | Intersección entre fila y columna. |
 | Celda activa | Celda seleccionada. |
 | Rango | Conjunto de celdas. |
+| Hoja oculta | Existe en el libro, pero no se muestra. |
 | Fórmula | Expresión de cálculo que empieza por `=`. |
 | Función | Fórmula predefinida. |
+| Pegado especial | Pega valores, formulas, formatos u opciones concretas. |
+| Tabla de Excel | Rango estructurado con encabezados y filtros. |
 | Tabla dinámica | Resume y analiza datos interactivamente. |
 | Gráfico | Representa datos visualmente. |
 | Filtro | Muestra datos que cumplen criterios. |
@@ -54,6 +57,8 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | `CONTAR` | Contar celdas con números. |
 | `CONTARA` | Contar celdas no vacías. |
 | `SI.ERROR` | Controlar errores de fórmula. |
+| `BUSCARX` | Buscar valores en rangos o matrices. |
+| `IZQUIERDA` / `EXTRAE` | Extraer texto desde inicio o posicion intermedia. |
 
 ## Referencias y errores
 
@@ -75,6 +80,10 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Filtrar | Mostrar sólo registros que cumplen criterios. |
 | Quitar duplicados | Eliminar repetidos. |
 | Validación de datos | Limitar entradas permitidas. |
+| Pegado especial valores | Conservar resultado, no formula. |
+| Texto en columnas | Dividir una columna en varias. |
+| Area de impresion | Rango que se imprimira. |
+| Escala de impresion | Ajustar salida a paginas. |
 | Tabla dinámica | Resumir por filas, columnas, valores y filtros. |
 | Gráfico de columnas | Comparar categorías. |
 | Gráfico de líneas | Mostrar evolución temporal. |
@@ -91,6 +100,10 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Tabla normal vs tabla dinámica | Normal organiza; dinámica resume. |
 | Gráfico vs tabla dinámica | Gráfico representa; tabla dinámica resume. |
 | Formato vs valor | El formato puede cambiar sólo la visualización. |
+| Pegar valores vs formulas | Valores pega el resultado, no la formula. |
+| Hoja oculta vs eliminada | Ocultar no borra el contenido. |
+| Quitar duplicados vs filtrar | Quitar duplicados puede eliminar registros. |
+| Zoom vs escala | Zoom pantalla; escala impresion. |
 | Barra de fórmulas vs barra de estado | Fórmulas muestra contenido de celda activa. |
 | Hojas máximas | Dependen de la memoria disponible. |
 
@@ -103,13 +116,18 @@ Prioridad alta:
 - Fórmulas empiezan por `=`.
 - En español suele usarse `;` como separador de argumentos.
 - `DERECHA(texto;num_caracteres)` extrae caracteres desde el final.
+- Referencia absoluta: `$A$1`; mixta: `$A1` o `A$1`.
+- Parentesis fuerzan prioridad de calculo.
 - La celda activa es la seleccionada.
 - La barra de fórmulas muestra el contenido real de la celda activa.
 - Una tabla dinámica resume y analiza datos sin modificar el origen.
 - Sus campos básicos son filas, columnas, valores y filtros.
 - Los gráficos representan datos; no son tablas dinámicas.
 - Ordenar no filtra; filtrar no borra.
+- Quitar duplicados si puede modificar datos.
 - La validación limita entradas permitidas.
+- Tabla de Excel no es tabla dinamica.
+- Area de impresion y escala afectan a papel/PDF; zoom no.
 - Un hipervínculo permite saltar a otra ubicación.
 - Indicador en esquina de celda: información asociada, como comentario o nota según versión.
 - En `Vista`, `Organizar ventanas` -> `Horizontal`: organiza en horizontal ventanas abiertas.
