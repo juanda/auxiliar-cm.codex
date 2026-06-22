@@ -46,7 +46,7 @@ Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escri
    C. Reunion cancelada
    D. Regla eliminada
 
-8. En Outlook, `FW:` al comienzo del asunto suele indicar:
+8. En Outlook, `FW:` o `RV:` al comienzo del asunto suele indicar:
    A. Reenvio
    B. Respuesta
    C. Mensaje archivado
@@ -255,7 +255,7 @@ Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escri
 | 5 | D | `CCO` oculta el destinatario frente al resto. |
 | 6 | B | El asunto identifica el contenido. |
 | 7 | B | `RE:` indica respuesta. |
-| 8 | A | `FW:` indica reenvio. |
+| 8 | A | `FW:` o `RV:` indican reenvio segun idioma/configuracion. |
 | 9 | B | Responder contesta al remitente original. |
 | 10 | B | Responder a todos incluye remitente y destinatarios visibles. |
 | 11 | A | Reenviar manda el correo a nuevos destinatarios. |

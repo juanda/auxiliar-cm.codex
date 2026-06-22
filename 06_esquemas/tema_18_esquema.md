@@ -144,5 +144,5 @@ Prioridad alta:
 - Gráfico dinámico = gráfico asociado a tabla dinámica.
 - Consolidar, Buscar objetivo, Escenarios y Subtotales son gestión/análisis de datos.
 - Un hipervínculo permite saltar a otra ubicación.
-- Indicador en esquina de celda: información asociada, como comentario o nota según versión.
+- Indicador en esquina de celda: informacion asociada, como comentario o nota segun version; si la pregunta cita Excel 2016, aplicar la clave historica.
 - En `Vista`, `Organizar ventanas` -> `Horizontal`: organiza en horizontal ventanas abiertas.

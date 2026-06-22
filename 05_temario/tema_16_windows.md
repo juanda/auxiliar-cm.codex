@@ -370,7 +370,7 @@ Los accesorios son aplicaciones básicas incluidas en Windows 10. Pueden aparece
 | Grabadora de voz | Grabar audio. |
 | Conexión a Escritorio remoto | Conectarse a otro equipo si está permitido. |
 
-Trampa: Word y Excel no son accesorios de Windows; son aplicaciones de Microsoft Office/Microsoft 365.
+Trampa: Word y Excel no son accesorios de Windows; en la convocatoria 2026 deben tratarse como aplicaciones de Microsoft 365 version escritorio, no como utilidades propias de Windows 10.
 
 ### 2.6. Herramientas del sistema
 

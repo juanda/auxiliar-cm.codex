@@ -31,7 +31,7 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Microsoft Offi
 | `2025-E2-021` | Gestionar contactos/listas no es accion propia del Calendario. |
 | `2025-E2-022` | Regla = accion automatica segun condiciones. |
 | `2025-E2-023` | Copia visible = `CC`. |
-| `2025-E2-024` | Prefijo de reenvio = `FW:`. |
+| `2025-E2-024` | Prefijo de reenvio = `FW:` como clave historica; `RV:` puede verse en interfaz espanola. |
 | `2025-E2-025` | Destinatario principal = `Para`. |
 | `2025-E2-035` | Aplicacion de correo Microsoft 365 = Outlook. |
 
@@ -76,7 +76,7 @@ Nota: `2023-E2-006` aparece clasificada como Tema 20, pero pregunta por campos d
 | Prefijo | Significado |
 | --- | --- |
 | `RE:` | Respuesta. |
-| `FW:` | Reenvio. |
+| `FW:` / `RV:` | Reenvio. |
 
 ## Carpetas basicas
 
@@ -144,7 +144,7 @@ Regla no es plantilla de correo ni programa externo.
 | --- | --- |
 | `CC` como copia oculta | `CC` visible; `CCO` oculta. |
 | `Para` igual que `CC` | `Para` es destinatario principal; `CC` copia visible. |
-| `FW:` como respuesta | `FW:` es reenvio; `RE:` es respuesta. |
+| `FW:`/`RV:` como respuesta | `FW:`/`RV:` es reenvio; `RE:` es respuesta. |
 | Responder igual que reenviar | Responder contesta; reenviar manda a nuevos destinatarios. |
 | Conversacion por remitente | En la pregunta historica, por asunto. |
 | Bandeja de salida como enviados | Salida = pendiente; enviados = ya remitidos. |
@@ -166,7 +166,7 @@ Prioridad alta:
 - Outlook = correo electronico en Microsoft 365.
 - Version base = Microsoft 365 escritorio.
 - `Para` = principal; `CC` = copia visible; `CCO` = copia oculta.
-- `RE:` = respuesta; `FW:` = reenvio.
+- `RE:` = respuesta; `FW:`/`RV:` = reenvio.
 - Responder normalmente no incluye adjuntos; reenviar normalmente si.
 - Bandeja de salida = pendientes; Elementos enviados = ya enviados.
 - Conversacion = mensajes con mismo asunto o hilo.

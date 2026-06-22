@@ -539,11 +539,11 @@ Pregunta histórica: `2023-E2-029`.
 
 ### 2.10. Comentarios, notas e indicadores visuales
 
-En una pregunta histórica de Excel 2016 se preguntó por el pequeño triángulo rojo en la esquina superior derecha de una celda. Ese indicador se asociaba a la existencia de un comentario en la celda.
+En una pregunta historica de Excel 2016 se pregunto por el pequeno triangulo rojo en la esquina superior derecha de una celda. En esa version, la respuesta esperada se asociaba a la existencia de un comentario en la celda.
 
 Pregunta histórica: `2023-E2-035`.
 
-En Excel de Microsoft 365 escritorio conviene distinguir comentarios y notas. Para examen, la idea principal es que un indicador en la esquina de la celda avisa de información asociada a esa celda.
+En Excel de Microsoft 365 escritorio conviene distinguir comentarios y notas: los comentarios modernos estan pensados para conversaciones, mientras que las notas mantienen una logica mas parecida al comentario clasico. Para examen, la idea segura es que un indicador en la esquina de la celda avisa de informacion asociada a esa celda; si una pregunta menciona expresamente Excel 2016, se responde con la clave historica.
 
 ### 2.11. Ventanas y vistas
 
@@ -655,8 +655,8 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Confundir gráfico con tabla dinámica | El gráfico representa; la tabla dinámica resume y reorganiza. |
 | Pensar que cambiar el gráfico cambia los datos | Cambia la representación, no necesariamente el origen. |
 | Confundir zoom con escala de impresión | Zoom afecta a pantalla; escala afecta a papel/PDF. |
-| Confundir comentario con hipervínculo | El comentario añade información; el hipervínculo salta a otra ubicación. |
-| Interpretar un indicador de esquina como error de fórmula | En Excel puede avisar de información asociada a la celda, como comentario o nota según versión. |
+| Confundir comentario/nota con hipervinculo | El comentario o nota anade informacion; el hipervinculo salta a otra ubicacion. |
+| Interpretar un indicador de esquina como error de formula | En Excel puede avisar de informacion asociada a la celda, como comentario o nota segun version. |
 | Confundir organizar ventanas con dividir hoja | Organizar ventanas afecta a ventanas abiertas; dividir afecta a la vista de la hoja. |
 | Pensar que el número de hojas es siempre 255 | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
 | Usar coma en fórmulas españolas de examen cuando la opción correcta usa punto y coma | En Excel español suele usarse `;` como separador. |
@@ -670,7 +670,7 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | `2023-E2-018` | Fórmulas y funciones Excel | Sintaxis correcta de una fórmula con `SI` y `Y` | C |
 | `2023-E2-026` | Libros, hojas y celdas | Nombre del archivo que contiene una o más hojas | C |
 | `2023-E2-029` | Libros, hojas y celdas | Definición de hipervínculo | B |
-| `2023-E2-035` | Libros, hojas y celdas | Triángulo rojo en esquina superior derecha de celda | B |
+| `2023-E2-035` | Libros, hojas y celdas | Triangulo rojo en esquina superior derecha de celda en Excel 2016 | B |
 | `2025-E2-011` | Fórmulas y funciones Excel | Símbolo para iniciar una fórmula en Excel 365 | A |
 | `2025-E2-012` | Libros, hojas y celdas | Conjunto de hojas almacenadas en un archivo Excel | B |
 | `2025-E2-013` | Libros, hojas y celdas | Dónde se visualiza el contenido de la celda activa | D |

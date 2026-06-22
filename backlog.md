@@ -13,7 +13,7 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Extraccion de preguntas | Hecho con observaciones | 330 preguntas extraidas; 15 psicotecnicas visuales/tabulares requieren revision manual. |
 | Clasificacion | Hecho | Preguntas clasificadas por tema, subtema, tipo y dificultad. |
 | Estadisticas | Hecho basico | Frecuencias y tendencias generadas; faltan graficos. |
-| Temario | Hecho inicial completo | 21 temas redactados. Pendiente revision fina por cobertura y version oficial. |
+| Temario | Hecho inicial completo | 21 temas redactados. Revision de version oficial en ofimatica hecha; auditoria de cobertura pendiente. |
 | Esquemas | Hecho inicial completo | 21 esquemas generados. |
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
@@ -24,16 +24,16 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 
 ## Proxima tarea recomendada
 
-**Revision de version oficial en ofimatica.**
+**Auditoria de cobertura por tema.**
 
-Motivo: ya estan creados los simulacros y tests principales. El siguiente paso de mayor valor es revisar los temas 16 a 21 para asegurar que todo Bloque II queda alineado con Windows 10 y Microsoft 365 version escritorio, sin referencias obsoletas que puedan inducir error.
+Motivo: ya esta revisada la version oficial de ofimatica y existen tests, simulacros, esquemas y temario completo. El siguiente paso de mayor valor es comprobar que cada tema permite responder sus preguntas historicas y detectar lagunas concretas.
 
 Criterios de terminado:
 
-- Revisar `05_temario/tema_16_windows.md` a `tema_21_m365.md` o sus equivalentes.
-- Revisar tests de ofimatica relacionados.
-- Eliminar o matizar referencias a versiones obsoletas cuando puedan confundir.
-- Mantener como version base Windows 10 y Microsoft 365 version escritorio.
+- Revisar preguntas historicas por tema contra el desarrollo del temario.
+- Marcar lagunas de cobertura y ampliar el tema si falta contenido.
+- Priorizar temas con mas recurrencia o mas riesgo de confusion.
+- Dejar registro de ids historicos revisados.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -155,13 +155,14 @@ Criterios de terminado:
 
 ### 13. Revision de version oficial en ofimatica
 
-- Estado: Pendiente
+- Estado: Hecho
 - Prioridad: Alta
 - Temas: 16, 17, 18, 19, 20 y 21.
 - Resultado esperado: eliminar o matizar referencias obsoletas de Office 2016 cuando puedan inducir error.
 - Version base:
   - Windows 10.
   - Microsoft 365 version escritorio.
+- Resultado: matizadas referencias de Excel 2016 y Outlook 2016, y reforzada la version base en Windows/Office.
 
 ### 14. Normalizacion de secciones
 
@@ -233,7 +234,7 @@ Ids afectados:
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
 6. Tests psicotecnicos por tipo.
-7. Revision fina de ofimatica.
+7. Auditoria de cobertura por tema.
 8. README y graficos estadisticos.
 
 ## Registro de avance
@@ -252,3 +253,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_02.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_03.md` con mayor dificultad, dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/plantilla_correccion_simulacros.md` para puntuar y comparar simulacros. | Hecho |
+| 2026-06-22 | Revision de version oficial en ofimatica: Windows 10 y Microsoft 365 escritorio como base, con matices para referencias historicas 2016. | Hecho |

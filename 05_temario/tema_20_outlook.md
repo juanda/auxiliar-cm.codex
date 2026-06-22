@@ -23,7 +23,7 @@ Los puntos de mayor rendimiento son:
 - Pestana `Inicio` y comando `Nuevo mensaje de correo electronico` en Outlook clasico.
 - Campos `Para`, `CC` y `CCO`.
 - Diferencia entre destinatario principal, copia visible y copia oculta.
-- Prefijos `RE:` y `FW:`.
+- Prefijos `RE:` y `FW:`/`RV:` segun idioma o configuracion.
 - Diferencia entre responder y reenviar.
 - Conversaciones: agrupacion de mensajes por asunto.
 - Marcas de seguimiento.
@@ -288,11 +288,11 @@ Pregunta historica: `2023-E2-028`.
 | Prefijo | Significado |
 | --- | --- |
 | `RE:` | Respuesta. |
-| `FW:` | Reenvio. |
+| `FW:` / `RV:` | Reenvio. `FW:` aparece en preguntas historicas; `RV:` es habitual en interfaces en espanol. |
 
 Pregunta historica: `2025-E2-024`.
 
-Trampa: `RE:` no indica reenvio; el prefijo de reenvio es `FW:`.
+Trampa: `RE:` no indica reenvio. El prefijo de reenvio puede aparecer como `FW:` o `RV:` segun idioma/configuracion; si la pregunta reproduce la clave historica del proyecto, `FW:` es reenvio.
 
 ### 2.8. Conversaciones
 
@@ -575,7 +575,7 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Enviar mensajes | Creacion, destinatarios, asunto, adjuntos, envio. |
 | Recibir mensajes | Bandeja de entrada, sincronizacion, lectura, carpetas. |
 | Responder mensajes | Responder y responder a todos. |
-| Reenviar mensajes | Reenvio, prefijo `FW:`, adjuntos. |
+| Reenviar mensajes | Reenvio, prefijo `FW:`/`RV:`, adjuntos. |
 | Creacion de mensajes | Campos `Para`, `CC`, `CCO`, asunto, cuerpo y adjuntos. |
 | Reglas de mensaje | Condiciones, acciones, excepciones y ejemplos. |
 | Libreta de direcciones | Contactos, listas y seleccion de destinatarios. |
@@ -602,7 +602,7 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Responder a todos | Contestar a remitente y destinatarios visibles. | Uso correcto. |
 | Reenviar | Enviar un mensaje recibido a nuevos destinatarios. | Prefijo y adjuntos. |
 | `RE:` | Prefijo de respuesta. | No confundir con reenvio. |
-| `FW:` | Prefijo de reenvio. | Pregunta historica. |
+| `FW:` / `RV:` | Prefijo de reenvio. | `FW:` es pregunta historica; `RV:` puede aparecer en Outlook en espanol. |
 | Conversacion | Agrupacion de mensajes por asunto o hilo. | Criterio de agrupacion. |
 | Marca de seguimiento | Senal para controlar acciones pendientes. | Aplicable a enviados y recibidos. |
 | Regla | Accion automatica segun condiciones. | Definicion de regla. |
@@ -653,7 +653,7 @@ Referencias normativas transversales:
 | Pensar que `CC` es copia oculta | `CC` es visible; `CCO` es oculta. |
 | Confundir `Para` con `CC` | `Para` es destinatario principal; `CC` solo copia visible. |
 | Creer que Outlook solo permite un destinatario | Permite varios destinatarios. |
-| Asociar `FW:` a respuesta | `FW:` indica reenvio; `RE:` indica respuesta. |
+| Asociar `FW:` o `RV:` a respuesta | `FW:`/`RV:` indican reenvio; `RE:` indica respuesta. |
 | Decir que responder y reenviar son iguales | Responder contesta al remitente; reenviar envia a nuevos destinatarios. |
 | Pensar que responder incluye siempre adjuntos | Normalmente no incluye los adjuntos originales. |
 | Pensar que reenviar no incluye adjuntos | Normalmente los conserva, salvo configuracion o excepciones. |
@@ -688,7 +688,7 @@ Referencias normativas transversales:
 | `2025-E2-021` | 2025 | Agenda | Accion no propia del Calendario | Gestionar contactos o listas de distribucion |
 | `2025-E2-022` | 2025 | Reglas de mensaje | Definicion de regla | Accion automatica segun condiciones |
 | `2025-E2-023` | 2025 | Correo electronico | Campo de copia visible | `CC` |
-| `2025-E2-024` | 2025 | Correo electronico | Prefijo de reenvio | `FW:` |
+| `2025-E2-024` | 2025 | Correo electronico | Prefijo de reenvio | `FW:` como clave historica; `RV:` puede aparecer en interfaz espanola |
 | `2025-E2-025` | 2025 | Outlook | Destinatarios principales | `Para` |
 | `2025-E2-035` | 2025 | Correo electronico | Aplicacion Microsoft 365 de correo | Outlook |
 
@@ -707,7 +707,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 - Marcas de seguimiento.
 - Responder, responder a todos y reenviar.
 - `Para`, `CC`, `CCO`.
-- Prefijos `RE:` y `FW:`.
+- Prefijos `RE:` y `FW:`/`RV:`.
 - Reglas.
 - Calendario, citas, reuniones y contactos.
 - Outlook como aplicacion de correo de Microsoft 365.
@@ -758,7 +758,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
    C. Reunion cancelada
    D. Regla eliminada
 
-8. En Outlook, `FW:` al comienzo del asunto suele indicar:
+8. En Outlook, `FW:` o `RV:` al comienzo del asunto suele indicar:
    A. Reenvio
    B. Respuesta
    C. Mensaje archivado
@@ -967,7 +967,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 | 5 | D | `CCO` oculta el destinatario frente al resto. |
 | 6 | B | El asunto identifica el contenido. |
 | 7 | B | `RE:` indica respuesta. |
-| 8 | A | `FW:` indica reenvio. |
+| 8 | A | `FW:` o `RV:` indican reenvio segun idioma/configuracion. |
 | 9 | B | Responder contesta al remitente original. |
 | 10 | B | Responder a todos incluye remitente y destinatarios visibles. |
 | 11 | A | Reenviar manda el correo a nuevos destinatarios. |
@@ -1033,7 +1033,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 ### Prefijos
 
 - `RE:` = respuesta.
-- `FW:` = reenvio.
+- `FW:`/`RV:` = reenvio.
 
 ### Conversaciones y seguimiento
 
@@ -1076,7 +1076,7 @@ Ejemplos: mover a carpeta, marcar, asignar categoria, reenviar o eliminar.
 
 - `CC` visible; `CCO` oculta.
 - `Para` no es lo mismo que `CC`.
-- `FW:` reenvio; `RE:` respuesta.
+- `FW:`/`RV:` reenvio; `RE:` respuesta.
 - Responder no es reenviar.
 - Conversacion se asocia al asunto/hilo.
 - Regla no es plantilla ni programa externo.
