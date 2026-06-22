@@ -159,6 +159,19 @@ Pregunta histórica: `2023-E2-019`.
 
 Trampa: cambiar la extensión manualmente no convierte realmente el contenido del archivo.
 
+#### Restricciones de nombres
+
+Windows no permite cualquier carácter en nombres de archivos o carpetas. Es preguntable porque suele aparecer como opción concreta.
+
+| Restricción | Idea de examen |
+| --- | --- |
+| Caracteres no permitidos | `\ / : * ? " < > |` |
+| Misma carpeta | No puede haber dos elementos con el mismo nombre y extensión. |
+| Ruta muy larga | Puede generar problemas de compatibilidad o acceso. |
+| Extensión visible u oculta | Depende de las opciones del Explorador. |
+
+Trampa: `informe.docx` e `informe.pdf` pueden coexistir porque la extensión forma parte del nombre completo del archivo.
+
 #### Asociación de archivos
 
 Windows asocia tipos de archivo con aplicaciones. Si se intenta abrir un archivo sin aplicación asociada, Windows muestra el cuadro `¿Cómo quieres abrir este archivo?` para elegir una aplicación.
@@ -205,6 +218,31 @@ La Papelera almacena elementos eliminados de ubicaciones habituales del disco lo
 | Restaurar | Devuelve el elemento a su ubicación original. |
 | Vaciar Papelera | Elimina definitivamente los elementos que contiene. |
 | Eliminar permanentemente | Omite Papelera tras confirmación. |
+
+#### Comprimir y descomprimir
+
+Windows 10 permite trabajar con carpetas comprimidas `.zip` desde el Explorador.
+
+| Acción | Ruta habitual | Resultado |
+| --- | --- | --- |
+| Comprimir | Clic derecho -> `Enviar a` -> `Carpeta comprimida (en zip)` | Crea un archivo `.zip`. |
+| Descomprimir | Clic derecho sobre `.zip` -> `Extraer todo` | Extrae el contenido a una carpeta. |
+| Abrir `.zip` | Doble clic | Permite ver su contenido como carpeta comprimida. |
+
+No confundir comprimir con cifrar. Comprimir reduce tamaño o agrupa archivos; cifrar protege contenido mediante una clave o mecanismo de seguridad. Un `.zip` creado con las opciones básicas de Windows no queda protegido por contraseña.
+
+#### Bibliotecas de Windows
+
+Las bibliotecas son vistas virtuales que agrupan carpetas de distintas ubicaciones. Las clásicas son `Documentos`, `Imágenes`, `Música` y `Vídeos`.
+
+| Biblioteca | Idea clave |
+| --- | --- |
+| Vista virtual | Agrupa ubicaciones, no es necesariamente una carpeta física única. |
+| Carpetas incluidas | Pueden estar en distintas rutas. |
+| Ocultas por defecto | En Windows 10 pueden no aparecer en el panel de navegación hasta mostrarlas. |
+| Eliminación de biblioteca | No equivale necesariamente a borrar las carpetas originales. |
+
+Trampa: una biblioteca no es lo mismo que `Acceso rápido`. Acceso rápido muestra ubicaciones frecuentes o ancladas; una biblioteca agrupa contenidos de varias ubicaciones.
 
 #### Unidades USB y extracción segura
 
@@ -305,6 +343,18 @@ Trampas:
 - El filtro por extensión (`*.pdf`) no busca necesariamente texto dentro del PDF; busca el tipo de nombre.
 - Si la indexación no cubre una ubicación, Windows puede tardar más y no encontrar contenido interno con la misma precisión.
 
+#### Búsqueda de la barra de tareas
+
+La búsqueda del Explorador no es exactamente lo mismo que la búsqueda general de Windows 10.
+
+| Búsqueda | Alcance |
+| --- | --- |
+| Cuadro del Explorador | Carpeta o ubicación actual y, normalmente, subcarpetas. |
+| Búsqueda de la barra de tareas / menú Inicio | Aplicaciones, archivos, configuración y resultados del sistema. |
+| `Win` y escribir | Forma rápida de buscar aplicaciones o configuración. |
+
+Idea de examen: si el enunciado habla de buscar dentro de una carpeta abierta, la referencia es el Explorador; si habla de buscar programas o configuración del equipo, puede referirse a la búsqueda general de Windows.
+
 ### 2.5. Accesorios de Windows
 
 Los accesorios son aplicaciones básicas incluidas en Windows 10. Pueden aparecer en preguntas de identificación funcional.
@@ -384,17 +434,38 @@ Además de reconocer el nombre de la herramienta, conviene saber cuándo usarla:
 | Liberar espacio de archivos temporales | Liberador de espacio o Sensor de almacenamiento. |
 | Comprobar protección antivirus y firewall | Seguridad de Windows. |
 
+#### Configuración, Panel de control y sistemas de archivos
+
+Windows 10 mantiene dos zonas de configuración: `Configuración`, de diseño moderno, y `Panel de control`, interfaz clásica que sigue dando acceso a algunas herramientas.
+
+| Elemento | Acceso orientativo | Uso |
+| --- | --- | --- |
+| Configuración | `Win + I` | Sistema, dispositivos, red, aplicaciones, cuentas, privacidad, actualización y seguridad. |
+| Panel de control | `control.exe` o búsqueda | Herramientas clásicas como opciones de indización, programas, cuentas o sistema. |
+| Windows Update | Configuración -> Actualización y seguridad | Actualizaciones del sistema. |
+| Seguridad de Windows | Configuración -> Actualización y seguridad | Antivirus, firewall y protección. |
+
+Los sistemas de archivos aparecen al consultar o formatear unidades. No son el centro del epígrafe, pero sí una pregunta posible de Windows.
+
+| Sistema | Uso típico | Dato preguntable |
+| --- | --- | --- |
+| NTFS | Discos internos de Windows | Permisos, seguridad y archivos grandes. |
+| FAT32 | Compatibilidad con dispositivos antiguos | Límite de archivo de 4 GB. |
+| exFAT | Memorias USB o tarjetas grandes | Mejor para extraíbles grandes que FAT32. |
+
+Trampa: NTFS permite permisos de seguridad; FAT32 no ofrece esos permisos NTFS.
+
 ### 2.7. Cobertura de la convocatoria
 
 | Punto oficial | Dónde se trabaja |
 | --- | --- |
 | Explorador de Windows | Partes del Explorador, vistas, paneles, rutas, unidades, barra de direcciones y paneles. |
-| Gestión de carpetas y archivos | Selección, copiar, mover, eliminar, Papelera, propiedades, atributos, permisos, extensiones, asociaciones y uso compartido. |
-| Operaciones de búsqueda | Cuadro de búsqueda, alcance, filtros, comodines, extensión, contenido e indexación. |
+| Gestión de carpetas y archivos | Selección, copiar, mover, eliminar, Papelera, ZIP, bibliotecas, propiedades, atributos, permisos, extensiones, asociaciones, restricciones de nombres y uso compartido. |
+| Operaciones de búsqueda | Cuadro de búsqueda, alcance, filtros, comodines, extensión, contenido, barra de tareas e indexación. |
 | Este equipo | Unidades, propiedades, espacio libre, carpetas principales. |
 | Acceso rápido | Carpetas frecuentes, ancladas y archivos recientes. |
 | Accesorios | Bloc de notas, WordPad, Paint, Recortes, Calculadora, etc. |
-| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas, eventos, seguridad y mantenimiento. |
+| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas, eventos, configuración, Panel de control, seguridad, actualización y mantenimiento. |
 
 ## 3. Conceptos clave
 
@@ -408,6 +479,9 @@ Además de reconocer el nombre de la herramienta, conviene saber cuándo usarla:
 | Papelera | Recuperación de eliminados habituales | Creer que todo eliminado pasa por ella |
 | `Mayús + Supr` | Eliminación sin Papelera | Confundir con restaurar |
 | Extensión | Caracteres tras punto al final del nombre | Pensar que indica permisos |
+| Caracteres prohibidos | `\ / : * ? " < > |` | Pensar que cualquier símbolo vale |
+| ZIP | Archivo comprimido | Confundir con cifrado |
+| Biblioteca | Vista virtual de varias carpetas | Confundir con carpeta real o Acceso rápido |
 | Compartir carpeta | Hacerla accesible a usuarios de red | Confundir con comprimir |
 | Permisos | Controlan lectura, escritura o modificación | Confundir con compartir |
 | Atributo oculto | Oculta si no se muestran elementos ocultos | Pensar que cifra el archivo |
@@ -417,6 +491,9 @@ Además de reconocer el nombre de la herramienta, conviene saber cuándo usarla:
 | Este equipo | Unidades, dispositivos y carpetas principales | Confundir con Acceso rápido |
 | Acceso rápido | Carpetas frecuentes o ancladas | Pensar que borrar de ahí borra del disco |
 | Indexación | Acelera y mejora búsquedas en ubicaciones incluidas | Creer que crea copias de archivos |
+| Configuración | App moderna de ajustes de Windows | Confundir con Panel de control |
+| NTFS | Sistema con permisos de seguridad | Confundir con FAT32 |
+| FAT32 | Sistema compatible con límite de 4 GB por archivo | Pensar que admite archivos enormes |
 | Administrador de tareas | Procesos y rendimiento en tiempo real | Confundir con servicios |
 | `diskmgmt.msc` | Administrador de discos | Confundir con `devmgmt.msc` |
 
@@ -431,7 +508,10 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Acceso rápido | Carpetas ancladas, frecuentes y recientes. |
 | Búsqueda | Cuadro de búsqueda, comodines, filtros e indexación. |
 | Archivos | Extensiones, asociaciones, propiedades. |
+| ZIP y bibliotecas | Comprimir/extraer, vistas virtuales de carpetas. |
 | Sistema | Administrador de tareas, Administrador de discos, dispositivos, servicios. |
+| Configuración | `Win + I`, Panel de control, Windows Update, Seguridad de Windows. |
+| Sistemas de archivos | NTFS, FAT32, exFAT. |
 | Comandos `.msc` | `diskmgmt.msc`, `devmgmt.msc`, `services.msc`, `taskschd.msc`. |
 
 ## 5. Errores tipicos
@@ -446,6 +526,9 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir extensión con nombre completo | La extensión es la parte tras el punto final. |
 | Cambiar extensión creyendo que convierte el archivo | Puede impedir abrirlo correctamente. |
 | Confundir compartir con comprimir | Compartir da acceso; comprimir reduce o agrupa. |
+| Pensar que comprimir cifra | Comprimir no protege por contraseña con las opciones básicas de Windows. |
+| Confundir biblioteca con carpeta real | La biblioteca agrupa ubicaciones; no es necesariamente una carpeta física. |
+| Usar caracteres prohibidos en nombres | Windows no admite `\ / : * ? " < > |`. |
 | Confundir compartir con permisos NTFS | Pueden intervenir ambos, pero no son lo mismo. |
 | Pensar que un archivo oculto está cifrado | Oculto sólo afecta a la visualización si no se muestran ocultos. |
 | Creer que todos los borrados pasan por la Papelera | Algunas eliminaciones son permanentes o dependen de la ubicación. |
@@ -454,6 +537,7 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir ordenar y agrupar | Ordenar reordena; agrupar crea bloques por categoría. |
 | Confundir Administrador de tareas con Administrador de discos | Tareas muestra procesos; discos gestiona volúmenes. |
 | Confundir `diskmgmt.msc` con `devmgmt.msc` | `diskmgmt.msc` abre discos; `devmgmt.msc` dispositivos. |
+| Confundir FAT32 y NTFS | FAT32 limita archivos grandes; NTFS admite permisos de seguridad. |
 
 ## 6. Preguntas historicas
 

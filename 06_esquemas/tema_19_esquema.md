@@ -10,6 +10,10 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | --- | --- |
 | Access | Base de datos relacional de escritorio. |
 | `.accdb` | Extensión moderna de Access. |
+| `.accde` | Base distribuible sin edición directa de código VBA. |
+| `.accdt` | Plantilla de Access. |
+| `.mdb` | Formato antiguo Access 97-2003. |
+| Panel de navegación | Lista tablas, consultas, formularios, informes, macros y módulos. |
 | Tabla | Almacena datos. |
 | Registro | Fila. |
 | Campo | Columna. |
@@ -22,6 +26,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Informe | Presentación para imprimir/exportar. |
 | Relación | Asociación entre campos comunes de tablas. |
 | Integridad referencial | Mantiene coherencia entre tablas relacionadas. |
+| Ventana Relaciones | Muestra tablas, campos y líneas con `1` y `∞`. |
 | Power BI | Análisis y visualización de datos. |
 
 ## Preguntas historicas clave
@@ -49,6 +54,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Informe | Presentar, imprimir o exportar datos. |
 | Relación | Vincular tablas. |
 | Macro | Automatizar acciones. |
+| Modulo | Código VBA para automatización avanzada. |
 
 ## Tablas y campos
 
@@ -88,6 +94,8 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Visualizaciones | Gráficos, tablas, tarjetas, mapas. |
 | Segmentador | Filtro visual. |
 | `.pbix` | Archivo de Power BI Desktop. |
+| Power BI Service | Publicar, compartir y actualizar informes en la nube. |
+| Power BI Mobile | Consultar paneles desde móvil/tableta. |
 
 ## Trampas habituales
 
@@ -101,14 +109,21 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Importar vs vincular | Importar copia; vincular conecta. |
 | `.accdb` vs `.xlsx` | Access frente a Excel. |
 | `.accdb` vs `.pbix` | Access frente a Power BI Desktop. |
+| `.accdb` vs `.accdt` | Base normal frente a plantilla. |
+| `.mdb` actual | Es formato antiguo, no el predeterminado moderno. |
 | Clave principal vs externa | Principal identifica; externa referencia. |
 | Access vs Power BI | Access gestiona datos; Power BI visualiza y analiza. |
+| Desktop vs Service vs Mobile | Diseñar, publicar/compartir, consultar. |
 
 ## Repaso de una pagina
 
 Prioridad alta:
 
 - `.accdb` es Access.
+- `.accde` distribuible, `.accdt` plantilla, `.mdb` antiguo.
+- Panel de navegación = objetos de la base.
+- Compactar y reparar = mantenimiento interno.
+- Cifrar con contraseña = proteger apertura si se configura.
 - Tabla = filas y columnas.
 - Campo = columna; registro = fila.
 - Clave principal = identifica de forma única.
@@ -121,5 +136,6 @@ Prioridad alta:
 - Consulta de accion = puede actualizar, anexar, eliminar o crear tabla.
 - Formulario = entrada/consulta; informe = salida/impresion.
 - Relación = asociación entre campos comunes.
+- Ventana Relaciones: líneas entre tablas, símbolos `1` y `∞`.
 - Importar trae datos; exportar saca datos; vincular conecta.
-- Power BI = conectar, transformar, modelar y visualizar.
+- Power BI = Desktop diseña, Service publica/compartir, Mobile consulta.

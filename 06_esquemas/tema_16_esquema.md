@@ -19,6 +19,9 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Papelera | Recupera eliminados habituales si la ubicacion lo permite. |
 | Permisos | Lectura, escritura o modificacion sobre archivos/carpetas. |
 | Indexacion | Acelera busquedas en ubicaciones incluidas. |
+| ZIP | Archivo comprimido; agrupa/reduce, no cifra por si solo. |
+| Bibliotecas | Vistas virtuales que agrupan carpetas. |
+| NTFS/FAT32/exFAT | Sistemas de archivos de unidades. |
 
 ## Preguntas historicas clave
 
@@ -49,6 +52,8 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Visor de eventos | Registros del sistema. |
 | Sensor de almacenamiento | Liberar espacio. |
 | Seguridad de Windows | Antivirus, firewall y proteccion del sistema. |
+| `Win + I` | Abre Configuracion. |
+| `control.exe` | Abre Panel de control. |
 
 ## Búsqueda
 
@@ -71,6 +76,9 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Copiar vs mover | Copiar duplica; mover cambia ubicacion. |
 | Papelera universal | No todo borrado pasa por Papelera. |
 | Oculto vs cifrado | Oculto afecta a visualizacion; no cifra. |
+| ZIP vs cifrado | ZIP no implica contraseña ni cifrado. |
+| Biblioteca vs carpeta real | Biblioteca agrupa ubicaciones. |
+| FAT32 vs NTFS | FAT32 limita archivos de 4 GB; NTFS admite permisos. |
 | Compartir vs permisos | Compartir da acceso de red; permisos controlan acciones. |
 | Compartir vs comprimir | Compartir da acceso; comprimir reduce/agrupa. |
 | Ordenar vs agrupar | Ordenar reordena; agrupar separa por categorías. |
@@ -90,8 +98,14 @@ Prioridad alta:
 - Carpeta personal: perfil de cada usuario.
 - Compartir carpeta: acceso a otros usuarios de red.
 - Propiedades: tipo, ubicacion, tamano, atributos, permisos y detalles.
+- Nombres no pueden incluir `\ / : * ? " < > |`.
+- ZIP: comprimir/extraer; no equivale a cifrar.
+- Bibliotecas: vistas virtuales, no carpetas físicas únicas.
 - USB: quitar de forma segura para evitar pérdida de datos.
 - Busqueda: `*` cadena, `?` un caracter, filtros por tipo/fecha/tamano.
+- Busqueda del Explorador no es igual que busqueda general de la barra de tareas.
+- Configuracion (`Win + I`) y Panel de control (`control.exe`) coexisten.
+- NTFS = permisos; FAT32 = limite 4 GB por archivo; exFAT = extraibles grandes.
 - Agrupación: número entre paréntesis = archivos del grupo.
 - Procesos activos: Administrador de tareas.
 - Administrador de discos: `diskmgmt.msc`.

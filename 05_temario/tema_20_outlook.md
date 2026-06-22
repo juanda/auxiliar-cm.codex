@@ -117,6 +117,20 @@ En Outlook clasico, el comando `Nuevo mensaje de correo electronico` se encuentr
 
 Pregunta historica: `2023-E2-001`.
 
+#### Pestana Archivo o vista Backstage
+
+La pestana `Archivo` no sirve para redactar el mensaje, sino para configurar y administrar Outlook.
+
+| Opcion | Utilidad |
+| --- | --- |
+| Informacion de la cuenta | Ver cuenta configurada y datos generales. |
+| Configuracion de cuenta | Anadir, modificar o administrar cuentas y archivos de datos. |
+| Administrar reglas y alertas | Crear, editar, activar, desactivar o reordenar reglas. |
+| Administrar complementos | Revisar complementos de Outlook. |
+| Opciones | Configuracion de correo, calendario, contactos, idioma y personalizacion. |
+
+Trampa: `Nuevo mensaje` esta en `Inicio`; `Archivo` concentra configuracion, cuenta, opciones y reglas avanzadas.
+
 ### 2.3. Carpetas de correo
 
 Las carpetas permiten organizar los mensajes.
@@ -305,10 +319,25 @@ Las marcas de seguimiento permiten senalar mensajes que requieren accion posteri
 | Importancia alta/baja | Informa de prioridad percibida. |
 | No leido/leido | Estado de lectura del mensaje. |
 | Carpetas | Organizacion manual o automatizada. |
+| Carpetas de busqueda | Carpetas virtuales con mensajes que cumplen criterios. |
+| Limpieza de conversacion | Ayuda a eliminar mensajes redundantes de una conversacion. |
 
 Las marcas de seguimiento pueden aplicarse tanto a mensajes enviados como recibidos.
 
 Pregunta historica: `2023-E2-015`.
+
+#### Carpetas de busqueda, correo no deseado y limpieza
+
+Outlook incluye herramientas de organizacion que no deben confundirse con reglas.
+
+| Herramienta | Funcion |
+| --- | --- |
+| Carpeta de busqueda | Vista virtual de mensajes que cumplen un criterio, por ejemplo no leidos. |
+| Correo no deseado | Carpeta y filtros para spam o mensajes sospechosos. |
+| Limpieza | Elimina mensajes redundantes de una conversacion, si procede. |
+| Categorias por colores | Clasificacion visual de mensajes, citas o contactos. |
+
+Trampa: una carpeta de busqueda no mueve fisicamente los mensajes; los muestra reunidos por criterio.
 
 Trampa: una marca de seguimiento no envia automaticamente el mensaje ni crea por si sola una reunion. Es una ayuda de organizacion.
 
@@ -348,6 +377,15 @@ En Outlook clasico pueden existir reglas que solo se ejecutan cuando Outlook est
 
 Trampa: una regla automatiza acciones; no es una alerta manual ni una carpeta por si sola.
 
+#### Donde crear reglas
+
+| Ruta | Uso |
+| --- | --- |
+| `Inicio` -> `Reglas` -> `Crear regla` | Crear regla rapida a partir de un mensaje seleccionado. |
+| `Archivo` -> `Administrar reglas y alertas` | Gestion avanzada: asistente, activar/desactivar, editar, eliminar y reordenar. |
+
+Trampa: `Administrar reglas y alertas` esta en `Archivo`, no en Calendario ni en Personas.
+
 #### Reglas frente a pasos rapidos
 
 | Herramienta | Diferencia |
@@ -379,8 +417,21 @@ Al redactar un correo, los botones `Para`, `CC` y `CCO` permiten seleccionar dir
 | Lista de contactos | Grupo de destinatarios gestionado como conjunto. |
 | Autocompletar | Sugerencias basadas en uso previo, no necesariamente contacto guardado. |
 | Directorio corporativo | Direcciones de la organizacion, si existe. |
+| Lista de direcciones global | Directorio centralizado en entornos Exchange/Microsoft 365 corporativos. |
 
 Trampa: que Outlook sugiera una direccion por autocompletar no significa que sea un contacto guardado en la libreta.
+
+#### Crear contactos y grupos de contactos
+
+Desde el modulo `Personas` se pueden crear fichas de contacto y grupos de contactos.
+
+| Accion | Resultado |
+| --- | --- |
+| Nuevo contacto | Crea ficha con nombre, correo, telefono, empresa, direccion o notas. |
+| Nuevo grupo de contactos | Agrupa varias direcciones bajo un nombre. |
+| Guardar y cerrar | Guarda los cambios del contacto o grupo. |
+
+Trampa: un grupo de contactos o lista de distribucion sirve para enviar a varias direcciones; no es una reunion del calendario.
 
 No debe confundirse:
 
@@ -401,6 +452,7 @@ El modulo Calendario de Outlook sirve para organizar el tiempo mediante citas, r
 | Cita | Bloque de tiempo del propio calendario sin necesidad de asistentes. |
 | Reunion | Evento con asistentes invitados. |
 | Convocatoria | Invitacion enviada a asistentes para una reunion. |
+| Evento | Actividad de uno o varios dias completos. |
 | Cita periodica | Cita que se repite segun una pauta. |
 | Disponibilidad | Estado de tiempo: libre, ocupado, provisional, fuera de la oficina, etc. |
 | Recordatorio | Aviso antes del evento. |
@@ -436,6 +488,18 @@ Una cita es un elemento del calendario que reserva tiempo para el usuario. Puede
 | Periodicidad | Repeticion diaria, semanal, mensual, etc. |
 
 Ejemplo: `Revision de documentacion - lunes 10:00 a 10:30`.
+
+#### Eventos de dia completo
+
+Un evento ocupa uno o varios dias completos, por ejemplo vacaciones, una conferencia o una jornada institucional. Se muestra normalmente en la parte superior del dia y no tiene la misma logica de hora de inicio y fin que una cita ordinaria.
+
+| Cita | Evento |
+| --- | --- |
+| Tiene hora de inicio y fin. | Ocupa dia completo o varios dias. |
+| Puede ser personal. | Suele representar ausencia, jornada o hecho prolongado. |
+| Bloquea un tramo horario. | Aparece como banda o elemento de dia completo. |
+
+Trampa: evento no es sinonimo exacto de reunion. La reunion tiene asistentes convocados.
 
 ### 2.14. Reuniones y convocatorias
 
@@ -515,7 +579,7 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Creacion de mensajes | Campos `Para`, `CC`, `CCO`, asunto, cuerpo y adjuntos. |
 | Reglas de mensaje | Condiciones, acciones, excepciones y ejemplos. |
 | Libreta de direcciones | Contactos, listas y seleccion de destinatarios. |
-| Agenda | Calendario, citas, reuniones y disponibilidad. |
+| Agenda | Calendario, citas, eventos, reuniones y disponibilidad. |
 | Convocatorias y citas | Diferencia entre cita, reunion y convocatoria. |
 
 ## 3. Conceptos clave
@@ -545,12 +609,17 @@ Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrat
 | Condicion | Criterio que activa la regla. | De, asunto, destinatario, etc. |
 | Accion | Lo que hace la regla. | Mover, marcar, reenviar, eliminar. |
 | Excepcion | Caso en que no se aplica la regla. | Confundir con condicion. |
+| Administrar reglas y alertas | Gestion avanzada de reglas desde Archivo | Confundir con Calendario |
+| Carpeta de busqueda | Vista virtual por criterios | Pensar que mueve mensajes |
+| Limpieza | Elimina mensajes redundantes de conversaciones | Confundir con borrar carpeta |
 | Contacto | Registro de datos de una persona o entidad. | Libreta de direcciones. |
 | Libreta de direcciones | Repositorio para seleccionar destinatarios. | Para, CC, CCO. |
 | Lista de contactos | Grupo de destinatarios. | No es accion de calendario. |
 | Autocompletar | Sugerencia de direcciones usadas. | No siempre es contacto guardado. |
+| Lista global de direcciones | Directorio corporativo centralizado | Confundir con contacto personal |
 | Calendario | Modulo de agenda de Outlook. | Citas y reuniones. |
 | Cita | Reserva de tiempo sin asistentes obligatorios. | Diferencia con reunion. |
+| Evento | Elemento de dia completo | Confundir con reunion |
 | Reunion | Evento con asistentes invitados. | Convocatoria. |
 | Convocatoria | Invitacion de reunion enviada a asistentes. | Respuestas aceptar/rechazar. |
 | Recordatorio | Aviso previo de evento. | Funcion de agenda. |
@@ -568,6 +637,7 @@ No hay articulos legales propios de Outlook. En este tema las referencias son fu
 | Soporte de Microsoft: crear mensajes en Outlook | Confirma campos `Para`, `CC`, `CCO`, asunto, adjuntos y envio en Outlook de Microsoft 365. |
 | Soporte de Microsoft: reglas en Outlook | Confirma que las reglas realizan acciones automaticas sobre mensajes segun condiciones. |
 | Soporte de Microsoft: conversaciones en Outlook | Confirma la vista agrupada por conversaciones. |
+| Outlook `Archivo` -> `Administrar reglas y alertas` | Ruta funcional para reglas avanzadas. |
 
 Referencias normativas transversales:
 
@@ -593,8 +663,12 @@ Referencias normativas transversales:
 | Agrupar conversaciones por remitente | La pregunta historica las vincula al mismo asunto. |
 | Creer que una regla es una plantilla de correo | Una regla automatiza acciones sobre mensajes. |
 | Confundir condicion y excepcion de una regla | La condicion activa; la excepcion impide aplicar en casos concretos. |
+| Buscar reglas en el Calendario | La gestion avanzada esta en `Archivo` -> `Administrar reglas y alertas`. |
+| Pensar que una carpeta de busqueda mueve mensajes | Es virtual; muestra mensajes por criterio. |
+| Confundir limpieza con borrar toda una carpeta | Limpieza elimina redundancias de conversacion, segun configuracion. |
 | Gestionar contactos desde Calendario como funcion propia | Contactos/listas pertenecen a Personas/Contactos, no al modulo Calendario. |
 | Confundir cita y reunion | La reunion tiene asistentes; la cita puede ser solo personal. |
+| Confundir evento con reunion | Evento ocupa dia completo; reunion tiene asistentes convocados. |
 | Creer que convocatoria y cita son sinonimos | La convocatoria es invitacion de reunion; la cita reserva tiempo. |
 | Pensar que cambiar la vista del calendario cambia los eventos | Solo cambia la visualizacion. |
 | Estudiar Outlook 2016 como version base | La convocatoria 2026 fija Microsoft 365 version escritorio. |

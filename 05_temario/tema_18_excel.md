@@ -167,6 +167,29 @@ Excel permite acelerar la edición mediante el controlador de relleno y las opci
 
 Trampa: copiar una fórmula puede cambiar sus referencias si son relativas; pegar valores pega el resultado, no la fórmula.
 
+#### Formato de celdas y formato condicional
+
+El cuadro `Formato de celdas` permite ajustar cómo se muestran y presentan los datos. Puede abrirse desde el menú contextual o con `Ctrl + 1`.
+
+| Pestaña | Qué controla |
+| --- | --- |
+| Número | General, número, moneda, contabilidad, fecha, hora, porcentaje, texto, etc. |
+| Alineación | Horizontal, vertical, orientación, ajustar texto, combinar. |
+| Fuente | Tipo, tamaño, estilo, color y efectos. |
+| Bordes | Líneas alrededor de celdas. |
+| Relleno | Color de fondo. |
+| Proteger | Bloqueo u ocultación, eficaz cuando la hoja está protegida. |
+
+El `Formato condicional` aplica formatos automáticamente cuando se cumple una regla: valores mayores que una cifra, duplicados, escalas de color, barras de datos, conjuntos de iconos o fórmulas personalizadas.
+
+| Formato condicional | Validación de datos |
+| --- | --- |
+| Cambia el aspecto visual según el valor. | Limita qué valores se pueden introducir. |
+| No impide escribir un dato. | Puede advertir o rechazar entradas no válidas. |
+| Ejemplo: resaltar importes superiores a 1.000. | Ejemplo: lista desplegable de departamentos. |
+
+Trampa: formato condicional no es lo mismo que validación. Uno avisa visualmente; el otro controla la entrada de datos.
+
 ### 2.4. Fórmulas y funciones
 
 #### Fórmulas
@@ -284,6 +307,21 @@ No todas han aparecido históricamente, pero son funciones básicas de Microsoft
 
 Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones.
 
+#### Auditoría de fórmulas y nombres definidos
+
+Excel incluye herramientas para revisar fórmulas y hacer más legibles los rangos.
+
+| Herramienta | Uso |
+| --- | --- |
+| Rastrear precedentes | Muestra celdas que alimentan una fórmula. |
+| Rastrear dependientes | Muestra celdas que dependen de la celda seleccionada. |
+| Mostrar fórmulas | Muestra fórmulas en vez de resultados. |
+| Comprobación de errores | Ayuda a localizar errores de fórmula. |
+| Administrador de nombres | Crea, modifica o elimina nombres de rangos. |
+| Nombre definido | Permite usar un nombre como `Ventas2026` en lugar de `A1:A100`. |
+
+Trampa: un nombre definido no es una función; es una etiqueta asignada a una celda, rango, fórmula o constante.
+
 ### 2.5. Configuración y personalización
 
 La configuración de Excel permite adaptar el entorno de trabajo. Son zonas preguntables:
@@ -364,6 +402,10 @@ Para el nivel C2, lo más importante es entender qué hace cada herramienta. Un 
 | Validación de datos | Evita o advierte entradas no válidas según reglas. |
 | Lista desplegable | Caso típico de validación para elegir valores permitidos. |
 | Quitar duplicados | Elimina filas duplicadas según columnas seleccionadas. |
+| Filtro avanzado | Permite criterios complejos y copiar resultados a otra ubicación. |
+| Consolidar | Resume datos de varios rangos u hojas con funciones como suma o promedio. |
+| Subtotal | Inserta subtotales automáticos cuando los datos están agrupados u ordenados. |
+| Agrupar / desagrupar | Crea un esquema plegable de filas o columnas. |
 
 Trampa: filtrar no borra registros; quitar duplicados sí puede eliminarlos si se confirma.
 
@@ -377,6 +419,26 @@ Una tabla de Excel no es una tabla dinámica. Es un rango estructurado con encab
 | Mantiene filas y columnas de origen. | Crea un resumen interactivo. |
 | Puede usar filtros y fila de totales. | Usa campos en filas, columnas, valores y filtros. |
 | Sirve como origen cómodo para gráficos o tablas dinámicas. | Debe actualizarse si cambia el origen. |
+
+Las tablas de Excel pueden tener nombre propio (`Tabla1`, `Expedientes`, etc.) y usar referencias estructuradas.
+
+| Elemento | Ejemplo | Significado |
+| --- | --- | --- |
+| Nombre de tabla | `Tabla1` | Identificador de la tabla. |
+| Referencia estructurada | `Tabla1[Importe]` | Columna `Importe` de la tabla. |
+| Fila de totales | Suma, promedio, recuento, etc. | Resumen al final de la tabla. |
+
+Trampa: una referencia estructurada pertenece a una tabla de Excel; no es una referencia ordinaria tipo `A1:A10`.
+
+#### Análisis Y SI
+
+Excel incluye herramientas para estudiar escenarios, aunque en C2 basta con reconocer su finalidad.
+
+| Herramienta | Para qué sirve |
+| --- | --- |
+| Buscar objetivo | Ajusta una celda de entrada para alcanzar un resultado concreto. |
+| Tabla de datos | Muestra cómo cambia un resultado al variar uno o dos valores. |
+| Administrador de escenarios | Guarda y compara conjuntos de valores de entrada. |
 
 ### 2.7. Tablas dinámicas
 
@@ -410,6 +472,18 @@ No debe confundirse con:
 | Filtro | Filtrar oculta registros que no cumplen criterios. |
 
 Pregunta histórica: `2025-E2-015`.
+
+#### Gráficos dinámicos
+
+Un gráfico dinámico representa visualmente una tabla dinámica. Se actualiza al cambiar los campos, filtros o segmentaciones de la tabla dinámica.
+
+| Gráfico normal | Gráfico dinámico |
+| --- | --- |
+| Representa un rango o tabla de datos. | Se vincula a una tabla dinámica. |
+| Cambia si cambia el origen del gráfico. | Cambia al reorganizar campos de la tabla dinámica. |
+| No necesita áreas de tabla dinámica. | Depende de campos de tabla dinámica. |
+
+Trampa: gráfico dinámico no es sinónimo de animación. Es un gráfico asociado al análisis dinámico de datos.
 
 ### 2.8. Gráficos
 
@@ -491,7 +565,7 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Fórmulas y funciones | `=`, referencias, operadores, errores, funciones matemáticas, lógicas, texto, fecha y búsqueda. |
 | Tablas dinámicas | Finalidad, origen, campos, valores, filtros, segmentaciones, actualización y diferencias. |
 | Gráficos | Tipos, ejes, leyenda, series, etiquetas y elección según dato. |
-| Gestión de datos | Ordenar, filtrar, validar, quitar duplicados, texto en columnas, tablas e importar/exportar. |
+| Gestión de datos | Ordenar, filtrar, filtro avanzado, validar, quitar duplicados, texto en columnas, tablas, referencias estructuradas, consolidar, subtotales, esquemas e importar/exportar. |
 | Personalización del entorno | Barra de acceso rápido, cinta, vistas, inmovilizar, organizar ventanas, zoom y opciones. |
 
 ## 3. Conceptos clave
@@ -514,9 +588,15 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | `Y` | Comprueba varias condiciones | Medio |
 | `BUSCARX` | Busca valores en rangos o matrices | Medio |
 | Pegado especial | Pega valores, formatos, fórmulas u opciones concretas | Medio |
+| Formato condicional | Cambia aspecto según reglas | Medio |
+| `Ctrl + 1` | Abre Formato de celdas | Medio |
+| Nombre definido | Nombre asignado a rango o fórmula | Medio |
+| Auditoría de fórmulas | Rastrear precedentes/dependientes y errores | Medio |
 | Error de fórmula | Aviso como `#DIV/0!`, `#N/A` o `#¡REF!` | Medio |
 | Tabla de Excel | Rango estructurado con encabezados y filtros | Medio |
+| Referencia estructurada | Referencia a columnas de una tabla | Medio |
 | Tabla dinámica | Resume y analiza datos interactivamente | Muy alto |
+| Gráfico dinámico | Gráfico vinculado a tabla dinámica | Medio |
 | Campos de tabla dinámica | Filas, columnas, valores y filtros | Alto |
 | Hipervínculo | Salto a otra ubicación o recurso | Alto |
 | Comentario | Información asociada a una celda | Medio |
@@ -525,6 +605,9 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Filtro | Muestra datos según criterios | Medio |
 | Ordenación | Reorganiza el orden de los datos | Medio |
 | Validación de datos | Limita valores permitidos | Medio |
+| Filtro avanzado | Criterios complejos y copia de resultados | Medio |
+| Consolidar | Combina rangos u hojas con funciones resumen | Medio |
+| Subtotales | Inserta resúmenes por grupos | Medio |
 | Formato de número | Controla cómo se muestra un dato | Medio |
 | Área de impresión | Rango que se imprimirá | Medio |
 | Escala de impresión | Ajusta salida a páginas | Medio |
@@ -544,6 +627,7 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Barra de fórmulas | Ver y editar el contenido real de la celda activa. |
 | Diseño de página | Márgenes, orientación, tamaño y área de impresión. |
 | Tabla dinámica | Insertar, colocar campos, actualizar y filtrar. |
+| Gráfico dinámico | Representación visual vinculada a tabla dinámica. |
 | Gráficos | Tipo de gráfico, ejes, leyenda, series y etiquetas. |
 
 ## 5. Errores tipicos
@@ -564,6 +648,10 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Confundir tabla normal con tabla dinámica | La tabla normal organiza; la dinámica resume y reorganiza. |
 | Confundir ordenar con filtrar | Ordenar cambia el orden; filtrar muestra sólo datos que cumplen criterios. |
 | Pensar que quitar duplicados es sólo un filtro | Quitar duplicados puede eliminar registros. |
+| Confundir formato condicional con validación | Condicional cambia aspecto; validación limita entrada. |
+| Confundir referencia estructurada con celda normal | `Tabla1[Importe]` referencia una columna de tabla. |
+| Pensar que gráfico dinámico es un gráfico animado | Es un gráfico vinculado a tabla dinámica. |
+| Confundir subtotales con tabla dinámica | Subtotales inserta resúmenes en datos; tabla dinámica crea análisis aparte. |
 | Confundir gráfico con tabla dinámica | El gráfico representa; la tabla dinámica resume y reorganiza. |
 | Pensar que cambiar el gráfico cambia los datos | Cambia la representación, no necesariamente el origen. |
 | Confundir zoom con escala de impresión | Zoom afecta a pantalla; escala afecta a papel/PDF. |

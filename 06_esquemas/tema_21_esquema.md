@@ -22,6 +22,7 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Office. El Tem
 | Coautoria | Varias personas editan el mismo documento. |
 | Historial de versiones | Permite revisar o recuperar versiones. |
 | Trazabilidad | Comentarios, menciones y actividad. |
+| Superficies | Escritorio, web, movil y archivos sincronizados. |
 
 ## Preguntas historicas clave
 
@@ -47,9 +48,13 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Office. El Tem
 | Canal | Espacio dentro de un equipo para organizar trabajo. |
 | Chat | Conversacion directa o de grupo. |
 | Pestana | Acceso a archivo, app o recurso. |
+| OneNote | Notas compartidas. |
+| Planner / Tasks | Tareas y planificacion. |
+| Forms | Formularios y encuestas. |
 | Reunion | Audio, video, chat, pantalla y posible grabacion. |
 | Reunirse ahora | Inicio inmediato de reunion. |
 | Sala de espera | Control de entrada a la reunion. |
+| Sala de trabajo | Subgrupo temporal dentro de una reunion. |
 | Organizador | Rol con mayor control. |
 | Presentador | Puede compartir contenido y presentar. |
 | Asistente | Participa con permisos mas limitados. |
@@ -108,8 +113,10 @@ Frase de examen: sincronizar SharePoint con OneDrive permite trabajar desde el E
 | Trampa | Respuesta correcta |
 | --- | --- |
 | Teams = carpeta | Teams integra personas, conversaciones, archivos y reuniones. |
+| Microsoft 365 = solo web | Combina escritorio, web, movil y nube. |
 | Equipo = chat temporal | Equipo = espacio colaborativo estable. |
 | Canal = chat privado | Canal organiza trabajo dentro de un equipo. |
+| Pestana = canal | Pestana es acceso dentro del canal. |
 | Archivos de Teams solo en Teams | Los archivos de canales suelen estar en SharePoint. |
 | SharePoint = PowerPoint | SharePoint gestiona sitios y documentos compartidos. |
 | Biblioteca = lista | Biblioteca documentos; lista datos estructurados. |
@@ -118,7 +125,9 @@ Frase de examen: sincronizar SharePoint con OneDrive permite trabajar desde el E
 | Sincronizar = solo navegador | Sincronizar permite trabajar desde equipo local. |
 | Enlace = permiso automatico | Depende del tipo de enlace y permisos. |
 | Presentador controla mas que organizador | Organizador tiene mayor control. |
+| Sala de espera = sala de trabajo | Espera controla entrada; trabajo divide participantes. |
 | Teams solo misma organizacion | Puede admitir externos si esta permitido. |
+| Grabacion local obligatoria | Normalmente se almacena en OneDrive o SharePoint. |
 | Adjuntar = coeditar | Adjuntar envia copia; enlace permite archivo centralizado. |
 | Incognito = anonimato total | Solo limita rastros locales. |
 | HTTPS solo Chrome/Firefox | HTTPS funciona en navegadores modernos. |
@@ -131,8 +140,11 @@ Prioridad alta:
 - Teams: equipo = personas, contenido y herramientas.
 - Canal: seccion de trabajo dentro de un equipo.
 - Pestanas: accesos a archivos, apps o recursos.
+- Apps de pestana probables: OneNote, Planner/Tasks, Forms y SharePoint.
 - Reunion Teams: audio, video, pantalla, chat, grabacion posible.
+- Salas de trabajo: grupos pequenos dentro de reunion.
 - Organizador: mayor control.
+- Grabaciones: normalmente en OneDrive o SharePoint segun tipo de reunion.
 - SharePoint: organizar, compartir y colaborar con documentos.
 - Biblioteca: documentos.
 - Lista: datos estructurados.

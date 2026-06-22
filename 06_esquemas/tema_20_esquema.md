@@ -17,6 +17,7 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Microsoft Offi
 | Marca de seguimiento | Senal para controlar mensajes pendientes. |
 | Buzon | Espacio de mensajes, carpetas y calendario asociado. |
 | Sincronizacion | Actualizacion entre Outlook y el buzon. |
+| Backstage | `Archivo`: cuenta, opciones, reglas y alertas. |
 
 ## Preguntas historicas clave
 
@@ -98,6 +99,16 @@ Una regla automatiza acciones sobre mensajes.
 | Accion | Mover, eliminar, marcar, categorizar, reenviar. |
 | Excepcion | No aplicar si contiene cierta palabra o remitente. |
 | Orden | Puede influir si hay varias reglas. |
+| Ruta avanzada | `Archivo` -> `Administrar reglas y alertas`. |
+
+## Organizacion avanzada
+
+| Herramienta | Idea |
+| --- | --- |
+| Carpeta de busqueda | Vista virtual por criterio, no mueve mensajes. |
+| Limpieza | Elimina redundancias de una conversacion. |
+| Correo no deseado | Gestion de spam o remitentes bloqueados. |
+| Categorias | Colores y nombres para clasificar. |
 
 Regla no es plantilla de correo ni programa externo.
 
@@ -110,6 +121,8 @@ Regla no es plantilla de correo ni programa externo.
 | Lista de contactos | Agrupa direcciones para enviar a varias personas. |
 | Autocompletar | Sugiere direcciones usadas antes; no siempre son contactos guardados. |
 | Directorio corporativo | Direcciones de la organizacion, si existe. |
+| Lista global de direcciones | Directorio centralizado de Exchange/Microsoft 365. |
+| Grupo de contactos | Lista de distribucion creada en Personas. |
 
 ## Agenda y calendario
 
@@ -118,6 +131,7 @@ Regla no es plantilla de correo ni programa externo.
 | Calendario | Modulo de agenda. |
 | Cita | Reserva de tiempo, normalmente personal. |
 | Reunion | Evento con asistentes invitados. |
+| Evento | Uno o varios dias completos. |
 | Convocatoria | Invitacion de reunion enviada a asistentes. |
 | Recordatorio | Aviso previo. |
 | Disponibilidad | Libre, ocupado, provisional o fuera de oficina. |
@@ -138,8 +152,11 @@ Regla no es plantilla de correo ni programa externo.
 | Confirmacion de lectura como tramite | No prueba tramitacion administrativa. |
 | Regla como plantilla | Regla = automatizacion. |
 | Condicion como excepcion | Condicion activa; excepcion impide aplicar. |
+| Reglas en Calendario | La ruta avanzada esta en `Archivo` -> `Administrar reglas y alertas`. |
+| Carpeta de busqueda como carpeta real | Es virtual; no mueve mensajes. |
 | Contactos dentro del Calendario | Contactos/listas son de Personas/Contactos. |
 | Cita igual que reunion | Reunion tiene asistentes; cita puede ser personal. |
+| Evento igual que reunion | Evento ocupa dia completo; reunion convoca asistentes. |
 | Outlook 2016 como base | La base 2026 es Microsoft 365 escritorio. |
 
 ## Repaso de una pagina
@@ -155,8 +172,12 @@ Prioridad alta:
 - Conversacion = mensajes con mismo asunto o hilo.
 - Marca de seguimiento = control de pendientes; vale para enviados y recibidos.
 - Regla = accion automatica con condicion, accion y posible excepcion.
+- Reglas avanzadas: `Archivo` -> `Administrar reglas y alertas`.
+- Carpeta de busqueda = vista virtual.
 - Libreta de direcciones = seleccionar destinatarios.
 - Autocompletar no siempre equivale a contacto guardado.
+- Grupo de contactos = lista de distribucion.
 - Calendario = citas, reuniones, convocatorias, respuestas y disponibilidad.
+- Evento = uno o varios dias completos.
 - Asistente de programacion = buscar huecos disponibles.
 - Gestionar contactos/listas no es accion propia del Calendario.

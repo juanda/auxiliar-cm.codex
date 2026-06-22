@@ -191,6 +191,41 @@ Aunque las preguntas históricas se han centrado en texto, el epígrafe oficial 
 | Nota al pie | Aclaración al final de página. | No es pie de página. |
 | Comentario | Anotación de revisión. | No modifica necesariamente el texto principal. |
 
+En imágenes y objetos gráficos es importante distinguir el ajuste del texto. Una imagen `En línea con el texto` se comporta de forma parecida a un carácter dentro del párrafo. Con ajustes como `Cuadrado`, `Estrecho`, `Detrás del texto` o `Delante del texto`, la imagen se coloca con más libertad respecto al texto.
+
+#### Referencias
+
+La pestaña `Referencias` agrupa herramientas para documentos largos o formalizados. No todas han aparecido históricamente, pero completan el epígrafe de creación y estructuración.
+
+| Herramienta | Función | Trampa |
+| --- | --- | --- |
+| Tabla de contenido | Genera un índice automático a partir de estilos de título. | Si no hay estilos de título, no detecta estructura. |
+| Actualizar tabla | Actualiza páginas o contenido del índice. | No se actualiza siempre sola tras editar. |
+| Nota al pie | Aclaración al pie de la página. | No es pie de página. |
+| Nota al final | Aclaración al final del documento o sección. | No aparece al pie de cada página. |
+| Citas y bibliografía | Gestiona fuentes y genera bibliografía. | No equivale a comentario. |
+| Título o rótulo | Numera tablas, imágenes o ecuaciones. | No es el título del documento. |
+| Tabla de ilustraciones | Lista rótulos de figuras, tablas u objetos. | Depende de títulos/rótulos. |
+| Índice alfabético | Lista entradas marcadas en el texto. | No es la tabla de contenido. |
+| Referencia cruzada | Enlace a título, nota, página u otro elemento. | No inserta otro documento completo. |
+
+Idea de examen: la tabla de contenido se apoya en estilos de título; el índice alfabético se apoya en entradas marcadas; la referencia cruzada apunta a un elemento existente.
+
+#### Combinación de correspondencia
+
+La combinación de correspondencia permite crear documentos personalizados en serie, por ejemplo cartas, etiquetas, sobres o mensajes de correo a partir de una lista de destinatarios.
+
+| Fase | Qué se hace |
+| --- | --- |
+| Tipo de documento | Carta, correo electrónico, sobre, etiqueta o directorio. |
+| Documento inicial | Documento actual, plantilla o documento existente. |
+| Destinatarios | Lista existente, contactos de Outlook o nueva lista. |
+| Campos combinados | Insertar `Nombre`, `Apellidos`, dirección u otros datos. |
+| Vista previa | Revisar el resultado con datos reales. |
+| Finalizar y combinar | Imprimir, editar documentos individuales o enviar. |
+
+Trampa: la combinación de correspondencia no es una simple lista numerada. Une un documento principal con una fuente de datos.
+
 #### Revisión, ortografía y control de cambios
 
 Word incluye herramientas de revisión que pueden aparecer como distractores frente a formato, búsqueda o impresión.
@@ -407,14 +442,41 @@ La personalización preguntable se concentra en:
 
 No confundir personalizar el entorno con modificar el documento: cambiar el zoom, la cinta o la barra de acceso rápido afecta a la forma de trabajar; cambiar márgenes, estilos o interlineado afecta al documento.
 
+#### Atajos de teclado en Word en español
+
+Algunos atajos son especialmente útiles porque en la interfaz española no siempre coinciden con la inicial inglesa.
+
+| Atajo | Acción |
+| --- | --- |
+| `Ctrl + U` | Nuevo documento. |
+| `Ctrl + A` | Abrir. |
+| `Ctrl + G` | Guardar. |
+| `F12` | Guardar como. |
+| `Ctrl + P` | Imprimir. |
+| `Ctrl + B` | Buscar. |
+| `Ctrl + L` | Reemplazar. |
+| `Ctrl + E` | Seleccionar todo. |
+| `Ctrl + N` | Negrita. |
+| `Ctrl + K` | Cursiva. |
+| `Ctrl + S` | Subrayado. |
+| `Ctrl + T` | Centrar. |
+| `Ctrl + Q` | Alinear a la izquierda. |
+| `Ctrl + D` | Alinear a la derecha. |
+| `Ctrl + J` | Justificar. |
+| `F7` | Ortografía y gramática. |
+| `Mayús + F7` | Sinónimos. |
+| `Ctrl + Intro` | Salto de página. |
+
+Trampa: `Ctrl + S` en Word español suele ser `Subrayado`, no `Guardar`.
+
 ### 2.7. Cobertura de la convocatoria
 
 | Punto oficial | Cobertura en este tema |
 | --- | --- |
 | Procesadores de texto: Word | Concepto de procesador, documento, párrafo, estilos, revisión, inserción, guardado e impresión. |
-| Principales funciones y utilidades | Crear, editar, dar formato, insertar tablas/objetos, revisar, buscar, guardar, exportar, imprimir y personalizar. |
+| Principales funciones y utilidades | Crear, editar, dar formato, insertar tablas/objetos, revisar, buscar, referencias, correspondencia, guardar, exportar, imprimir y personalizar. |
 | Creación del documento | Documento en blanco, plantillas, escritura, selección, párrafos, estilos y estructura. |
-| Estructuración del documento | Títulos, estilos, secciones, encabezados, pies, numeración, listas, tablas e índice mediante estilos. |
+| Estructuración del documento | Títulos, estilos, secciones, encabezados, pies, numeración, listas, tablas, referencias, tabla de contenido e índice mediante estilos o entradas. |
 | Gestión de ficheros | Abrir, cerrar, recientes, propiedades, formatos, exportación, inspección y protección. |
 | Grabación de ficheros | Guardar, Guardar como, formatos `.docx`, `.docm`, `.dotx`, PDF y ubicación. |
 | Recuperación de ficheros | Autoguardado, Autorrecuperación, historial de versiones y `Administrar documento`. |
@@ -435,6 +497,11 @@ No confundir personalizar el entorno con modificar el documento: cambiar el zoom
 | Estilo | Conjunto guardado de formatos | Pensar que sólo cambia el tamaño |
 | Sección | Parte del documento con configuración propia | Confundir con salto de página |
 | Encabezado y pie | Zonas repetibles superior e inferior | Confundir con margen |
+| Vincular al anterior | Repite encabezado/pie de la sección previa | Pensar que crea otra sección |
+| Tabla de contenido | Índice automático basado en estilos de título | Confundir con índice alfabético |
+| Índice alfabético | Lista entradas marcadas | Confundir con tabla de contenido |
+| Referencia cruzada | Enlace a otro elemento del documento | Confundir con Objeto |
+| Combinación de correspondencia | Documento principal + lista de destinatarios | Confundir con lista numerada |
 | Control de cambios | Registra modificaciones para revisión | Confundir con historial de versiones |
 | Comentario | Anotación de revisión | Confundir con nota al pie |
 | Propiedades | Metadatos del archivo | Confundir con Inspeccionar documento |
@@ -459,6 +526,8 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Recuperación | `Archivo` -> `Información` -> `Administrar documento` |
 | Metadatos | `Archivo` -> `Información` -> `Propiedades` -> `Propiedades avanzadas` |
 | Inserción | `Insertar` -> `Texto` -> `Objeto` |
+| Referencias | Tabla de contenido, notas, citas, bibliografía, títulos, índice, referencia cruzada |
+| Correspondencia | Combinar correspondencia: documento principal, destinatarios, campos, vista previa, finalizar |
 | Revisión | `Revisar`: ortografía, comentarios, control de cambios, comparar |
 | Búsqueda | `Inicio` -> `Buscar`, o cuadro de búsqueda |
 | Vista de impresión | `Vista` -> `Diseño de impresión` |
@@ -479,6 +548,11 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Confundir formato de fuente con formato de párrafo | Fuente afecta a caracteres; párrafo afecta al bloque |
 | Pensar que una plantilla es lo mismo que un documento final | La plantilla sirve de modelo para crear documentos. |
 | Elegir `Cuadro de texto` para insertar otro documento | La ruta preguntada es `Objeto` |
+| Confundir tabla de contenido con índice alfabético | La tabla usa estilos de título; el índice usa entradas marcadas. |
+| Creer que la tabla de contenido se actualiza siempre sola | Conviene actualizarla tras cambios. |
+| Confundir correspondencia con enviar un correo normal | Combina documento principal con una lista de destinatarios. |
+| Confundir `Vincular al anterior` con crear encabezado nuevo | Si está activo, hereda el encabezado/pie de la sección anterior. |
+| Pensar que `Ctrl + S` guarda en Word español | En Word español es Subrayado; Guardar es `Ctrl + G`. |
 | Confundir `Inspeccionar documento` con propiedades personalizadas | Las propiedades avanzadas cuelgan de `Propiedades` |
 | Confundir comentario con control de cambios | El comentario anota; el control de cambios registra modificaciones. |
 | Confundir historial de versiones con control de cambios | El historial pertenece al archivo; control de cambios al contenido revisado. |

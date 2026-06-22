@@ -67,6 +67,30 @@ Access guarda normalmente sus bases de datos modernas en archivos con extensión
 
 Pregunta histórica: `2023-E2-023`.
 
+#### Formatos de archivo y vista Backstage
+
+Aunque la extensión histórica clave es `.accdb`, conviene reconocer otros formatos para no caer en distractores.
+
+| Extensión | Significado |
+| --- | --- |
+| `.accdb` | Formato moderno predeterminado de base de datos Access. |
+| `.accde` | Base distribuible/ejecutable, sin modificación directa del código VBA. |
+| `.accdt` | Plantilla de base de datos. |
+| `.mdb` | Formato antiguo de Access 97-2003. |
+
+En `Archivo` se concentran acciones de administración de la base de datos.
+
+| Opción | Utilidad |
+| --- | --- |
+| Información | Propiedades, compactar y reparar, cifrar con contraseña si procede. |
+| Nuevo | Crear base en blanco o desde plantilla. |
+| Abrir | Abrir bases recientes o existentes. |
+| Guardar como | Guardar objeto o base en otro formato. |
+| Imprimir | Imprimir el objeto activo. |
+| Cerrar base de datos | Cierra la base sin cerrar necesariamente Access. |
+
+`Compactar y reparar` reduce espacio no utilizado y corrige ciertos problemas internos. `Cifrar con contraseña` protege la apertura de la base si se configura.
+
 #### Objetos principales de Access
 
 Access no es sólo un archivo con tablas. Una base de datos de Access agrupa objetos que trabajan juntos.
@@ -79,6 +103,12 @@ Access no es sólo un archivo con tablas. Una base de datos de Access agrupa obj
 | Informe | Presenta datos para imprimir o distribuir. | Salida ordenada. |
 | Macro | Automatiza acciones sin programar código complejo. | No es una tabla. |
 | Módulo | Contiene código VBA. | Nivel avanzado, menos probable. |
+
+#### Panel de navegación
+
+El panel de navegación aparece normalmente a la izquierda y lista los objetos de la base de datos: tablas, consultas, formularios, informes, macros y módulos. Permite abrirlos, renombrarlos, eliminarlos, copiarlos o acceder a opciones mediante el menú contextual.
+
+Trampa: el panel de navegación no almacena datos por sí mismo; muestra y organiza los objetos de la base de datos.
 
 #### Lógica relacional
 
@@ -401,6 +431,19 @@ Trampa: una relación no es un informe ni un formulario; vincula datos entre tab
 
 En una relación uno a varios, la clave principal está en la tabla del lado "uno" y la clave externa en la tabla del lado "varios".
 
+#### Ventana Relaciones
+
+La ventana `Relaciones` muestra tablas como cuadros con sus campos y líneas entre campos relacionados. Desde ella se crean, modifican o eliminan relaciones.
+
+| Elemento | Significado |
+| --- | --- |
+| Línea de relación | Une campos relacionados. |
+| `1` | Lado "uno" de la relación. |
+| `∞` | Lado "varios" de la relación. |
+| Exigir integridad referencial | Evita incoherencias entre tablas relacionadas. |
+
+Trampa: la ventana Relaciones no es una consulta. Sirve para definir vínculos estructurales entre tablas.
+
 ### 2.8. Importación, vinculación y exportación de datos
 
 Access permite intercambiar datos con otras fuentes.
@@ -462,6 +505,8 @@ Power BI es una herramienta de inteligencia de negocio para conectar datos, tran
 | Visualizaciones | Gráficos, tablas, tarjetas, mapas, segmentadores. |
 | Informe | Conjunto de páginas visuales interactivas. |
 | Panel/dashboard | Vista resumida de indicadores, especialmente en servicio Power BI. |
+| Power BI Service | Servicio web para publicar, compartir y actualizar informes. |
+| Power BI Mobile | Aplicación móvil para consultar informes y paneles. |
 
 #### Flujo básico de trabajo en Power BI
 
@@ -474,6 +519,14 @@ Power BI es una herramienta de inteligencia de negocio para conectar datos, tran
 | Publicar/compartir | Distribuir informes o paneles según permisos. |
 
 Power BI Desktop crea normalmente archivos `.pbix`. En el nivel de esta oposición basta con reconocerlo como herramienta de informes visuales y análisis, no como sustituto directo de una base de datos relacional.
+
+| Componente | Uso principal |
+| --- | --- |
+| Power BI Desktop | Diseñar modelos e informes en escritorio. |
+| Power BI Service | Publicar, compartir, programar actualizaciones y consultar paneles en la nube. |
+| Power BI Mobile | Consultar informes y paneles desde móvil o tableta. |
+
+Trampa: Desktop diseña; Service publica y comparte; Mobile consulta.
 
 #### Access frente a Power BI
 
@@ -512,6 +565,10 @@ Trampa: Power BI no sustituye exactamente a Access. Access gestiona bases de dat
 | Concepto | Definición preguntable | Trampa habitual |
 | --- | --- | --- |
 | `.accdb` | Extensión predeterminada moderna de Access | Confundir con `.xlsx` |
+| `.accde` | Base distribuible sin edición directa de código | Confundir con plantilla |
+| `.accdt` | Plantilla de Access | Confundir con base normal |
+| `.mdb` | Formato antiguo de Access | Pensar que es Excel |
+| Panel de navegación | Lista objetos de la base | Pensar que almacena registros |
 | Tabla | Almacena datos en filas y columnas | Confundir con consulta |
 | Registro | Fila de una tabla | Confundir con campo |
 | Campo | Columna de una tabla | Confundir con registro |
@@ -529,11 +586,14 @@ Trampa: Power BI no sustituye exactamente a Access. Access gestiona bases de dat
 | Informe | Presenta datos para imprimir/exportar | Confundir con formulario |
 | Relación | Asociación entre campos comunes | Confundir con registro |
 | Integridad referencial | Mantiene coherencia entre tablas relacionadas | Confundir con validación de campo |
+| Ventana Relaciones | Muestra tablas y líneas de relación | Confundir con consulta |
 | Importar | Traer datos externos a Access | Confundir con exportar |
 | Vincular | Conectar con origen externo | Confundir con copiar datos |
 | Exportar | Sacar datos hacia otro formato | Confundir con importar |
 | Power BI | Análisis y visualización de datos | Confundir con base de datos Access |
 | `.pbix` | Archivo de Power BI Desktop | Confundir con `.accdb` |
+| Power BI Service | Publicación y compartición en la nube | Confundir con Desktop |
+| Power BI Mobile | Consulta desde móvil/tableta | Confundir con diseño de informes |
 
 ## 4. Articulos importantes
 
@@ -542,6 +602,9 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Área | Referencia práctica |
 | --- | --- |
 | Archivo Access | `.accdb`. |
+| Otros formatos | `.accde`, `.accdt`, `.mdb`. |
+| Backstage | Compactar y reparar, cifrar con contraseña, guardar como, cerrar base. |
+| Panel de navegación | Objetos: tablas, consultas, formularios, informes, macros y módulos. |
 | Tablas | Campos, registros, tipos de datos, Vista Diseño. |
 | Campos | Propiedades: formato, título, máscara, valor predeterminado. |
 | Claves | Clave principal y Autonumeración. |
@@ -549,8 +612,9 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Formularios | Entrada y consulta visual de datos. |
 | Informes | Presentación, impresión, exportación. |
 | Relaciones | Campos comunes e integridad referencial. |
+| Ventana Relaciones | Símbolos `1` y `∞`, líneas entre campos. |
 | Datos externos | Importar, vincular y exportar. |
-| Power BI | Conectar, transformar, modelar y visualizar datos. |
+| Power BI | Desktop, Service, Mobile; conectar, transformar, modelar, visualizar y compartir. |
 
 ## 5. Errores tipicos
 
@@ -567,11 +631,16 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Pensar que Power BI almacena y gestiona datos como Access | Su función principal es modelar, analizar y visualizar. |
 | Confundir `.accdb` con `.xlsx` | `.accdb` es Access; `.xlsx` es Excel. |
 | Confundir `.pbix` con `.accdb` | `.pbix` es Power BI Desktop; `.accdb` es Access. |
+| Confundir `.accdt` con `.accdb` | `.accdt` es plantilla; `.accdb` base normal. |
+| Confundir `.mdb` con formato actual | `.mdb` es formato antiguo. |
+| Pensar que Compactar y reparar exporta datos | Es mantenimiento interno de la base. |
+| Pensar que cifrar con contraseña es una propiedad visual | Protege la apertura si se configura. |
 | Pensar que Autonumeración genera números aleatorios de negocio | Sirve como identificador automático. |
 | Confundir clave principal con campo numérico cualquiera | La clave identifica inequívocamente. |
 | Confundir clave principal con clave externa | La externa referencia a la principal en otra tabla. |
 | Confundir Vista Diseño con Vista Hoja de datos | Diseño define estructura; hoja muestra datos. |
 | Confundir relación con informe | La relación vincula tablas; el informe presenta datos. |
+| Confundir Power BI Desktop, Service y Mobile | Desktop diseña; Service publica/compartir; Mobile consulta. |
 
 ## 6. Preguntas historicas
 
