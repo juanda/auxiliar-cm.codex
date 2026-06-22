@@ -20,21 +20,21 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | Hecho | Simulacros 01, 02 y 03 hechos; plantilla comun de correccion creada. |
 | Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
-| README | Pendiente | Archivo vacio; siguiente tarea recomendada. |
+| README | Hecho | Portada util del proyecto creada. |
 
 ## Proxima tarea recomendada
 
-**README del proyecto.**
+**Graficos estadisticos.**
 
-Motivo: ya existen temario, esquemas, tests, simulacros, flashcards iniciales, banco psicotecnico y auditoria de cobertura. El siguiente paso de mayor valor es crear una portada util que explique como estudiar con los materiales y el estado real del proyecto.
+Motivo: ya existe una portada util del proyecto y las estadisticas basicas estan generadas. El siguiente paso de mayor valor es crear graficos para visualizar frecuencia por tema, subtema, evolucion por anio y distribucion por tipo.
 
 Criterios de terminado:
 
-- Redactar `README.md`.
-- Incluir objetivo del proyecto, estado actual y estructura de carpetas.
-- Explicar orden recomendado de estudio.
-- Incluir avisos sobre convocatoria 2026, fuentes oficiales y psicotecnicos de academia.
-- Enlazar los materiales principales: temario, tests, simulacros, flashcards, estadisticas y auditoria.
+- Crear archivos bajo `04_estadisticas/graficos/`.
+- Incluir frecuencia por tema.
+- Incluir frecuencia por subtema.
+- Incluir evolucion por anio.
+- Incluir distribucion por tipo.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -192,7 +192,7 @@ Criterios de terminado:
 
 ### 16. README del proyecto
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `README.md`
 - Prioridad: Media
 - Resultado esperado: portada util del proyecto con:
@@ -237,8 +237,7 @@ Ids afectados:
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
 6. Tests psicotecnicos por tipo.
-7. README del proyecto.
-8. Graficos estadisticos.
+7. Graficos estadisticos.
 
 ## Registro de avance
 
@@ -258,3 +257,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `09_simulacros/plantilla_correccion_simulacros.md` para puntuar y comparar simulacros. | Hecho |
 | 2026-06-22 | Revision de version oficial en ofimatica: Windows 10 y Microsoft 365 escritorio como base, con matices para referencias historicas 2016. | Hecho |
 | 2026-06-22 | Creacion de `04_estadisticas/auditoria_cobertura_temas.md`: 225/225 preguntas historicas trazadas en temas 1-21. | Hecho |
+| 2026-06-22 | Redaccion de `README.md` con objetivo, estado, estructura, orden de estudio y avisos de fuentes. | Hecho |
