@@ -13,27 +13,28 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Extraccion de preguntas | Hecho con observaciones | 330 preguntas extraidas; 15 psicotecnicas visuales/tabulares requieren revision manual. |
 | Clasificacion | Hecho | Preguntas clasificadas por tema, subtema, tipo y dificultad. |
 | Estadisticas | Hecho basico | Frecuencias y tendencias generadas; faltan graficos. |
-| Temario | Hecho inicial completo | 21 temas redactados. Revision de version oficial en ofimatica hecha; auditoria de cobertura pendiente. |
+| Temario | Hecho inicial completo | 21 temas redactados. Revision de version oficial y auditoria de cobertura historica hechas. |
 | Esquemas | Hecho inicial completo | 21 esquemas generados. |
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | Hecho | Simulacros 01, 02 y 03 hechos; plantilla comun de correccion creada. |
 | Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
-| README | Pendiente | Archivo vacio. |
+| README | Pendiente | Archivo vacio; siguiente tarea recomendada. |
 
 ## Proxima tarea recomendada
 
-**Auditoria de cobertura por tema.**
+**README del proyecto.**
 
-Motivo: ya esta revisada la version oficial de ofimatica y existen tests, simulacros, esquemas y temario completo. El siguiente paso de mayor valor es comprobar que cada tema permite responder sus preguntas historicas y detectar lagunas concretas.
+Motivo: ya existen temario, esquemas, tests, simulacros, flashcards iniciales, banco psicotecnico y auditoria de cobertura. El siguiente paso de mayor valor es crear una portada util que explique como estudiar con los materiales y el estado real del proyecto.
 
 Criterios de terminado:
 
-- Revisar preguntas historicas por tema contra el desarrollo del temario.
-- Marcar lagunas de cobertura y ampliar el tema si falta contenido.
-- Priorizar temas con mas recurrencia o mas riesgo de confusion.
-- Dejar registro de ids historicos revisados.
+- Redactar `README.md`.
+- Incluir objetivo del proyecto, estado actual y estructura de carpetas.
+- Explicar orden recomendado de estudio.
+- Incluir avisos sobre convocatoria 2026, fuentes oficiales y psicotecnicos de academia.
+- Enlazar los materiales principales: temario, tests, simulacros, flashcards, estadisticas y auditoria.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -145,13 +146,15 @@ Criterios de terminado:
 
 ### 12. Auditoria de cobertura por tema
 
-- Estado: Pendiente
+- Estado: Hecho
 - Prioridad: Media
+- Archivo: `04_estadisticas/auditoria_cobertura_temas.md`
 - Resultado esperado: comprobar que cada tema permite contestar sus preguntas historicas.
 - Metodo:
   - Revisar preguntas historicas del tema.
   - Buscar si la respuesta esta cubierta en el desarrollo.
   - Ampliar lagunas detectadas.
+- Resultado: 225/225 preguntas historicas con tema 1-21 citadas en su tema; 21/21 temas con 8 secciones obligatorias.
 
 ### 13. Revision de version oficial en ofimatica
 
@@ -234,8 +237,8 @@ Ids afectados:
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
 6. Tests psicotecnicos por tipo.
-7. Auditoria de cobertura por tema.
-8. README y graficos estadisticos.
+7. README del proyecto.
+8. Graficos estadisticos.
 
 ## Registro de avance
 
@@ -254,3 +257,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_03.md` con mayor dificultad, dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/plantilla_correccion_simulacros.md` para puntuar y comparar simulacros. | Hecho |
 | 2026-06-22 | Revision de version oficial en ofimatica: Windows 10 y Microsoft 365 escritorio como base, con matices para referencias historicas 2016. | Hecho |
+| 2026-06-22 | Creacion de `04_estadisticas/auditoria_cobertura_temas.md`: 225/225 preguntas historicas trazadas en temas 1-21. | Hecho |
