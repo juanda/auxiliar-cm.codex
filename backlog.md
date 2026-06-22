@@ -17,22 +17,22 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Esquemas | Hecho inicial completo | 21 esquemas generados. |
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
-| Flashcards | Pendiente | Archivos creados pero vacios. |
+| Flashcards | En curso | Ley 39/2015 hecho; Constitucion pendiente. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
 | Psicotecnicos de academia | Pendiente | 31 DOCX disponibles como fuente de entrenamiento no oficial. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Crear `08_flashcards/anki_ley39.csv`.**
+**Crear `08_flashcards/anki_constitucion.csv`.**
 
-Motivo: ya estan cerrados los tests de bloque y el Simulacro 01. El siguiente paso de mayor valor es crear tarjetas de repaso rapido sobre Ley 39/2015, el tema juridico con mayor recurrencia historica.
+Motivo: ya estan cerrados los tests de bloque, el Simulacro 01 y las tarjetas de Ley 39/2015. El siguiente paso de mayor valor es crear tarjetas de repaso rapido sobre Constitucion, materia recurrente en todos los anos analizados.
 
 Criterios de terminado:
 
 - Usar formato CSV exacto: `tema,pregunta,respuesta,dificultad`.
-- Cubrir objeto y ambito, actos, notificaciones, fases del procedimiento, audiencia, resolucion y recursos.
-- Priorizar articulos y plazos historicamente preguntables.
+- Cubrir caracteristicas, principios constitucionales, valores superiores, derechos y deberes fundamentales, garantias y suspension.
+- Priorizar articulos y reglas historicamente preguntables.
 - Incluir tarjetas breves y memorizables.
 
 ## Fase 1. Cerrar practica esencial
@@ -78,7 +78,7 @@ Criterios de terminado:
 
 ### 5. Flashcards de Ley 39/2015
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `08_flashcards/anki_ley39.csv`
 - Prioridad: Media
 - Resultado esperado: tarjetas Anki sobre procedimiento administrativo, recursos, silencio, fases y actos.
@@ -240,3 +240,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `07_tests/test_bloque_II.md` con 30 preguntas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_01.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `07_tests/test_bloque_I.md` con 30 preguntas y plantilla de correccion. | Hecho |
+| 2026-06-22 | Creacion de `08_flashcards/anki_ley39.csv` con 57 tarjetas de repaso. | Hecho |
