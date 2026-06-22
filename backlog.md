@@ -18,22 +18,22 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
-| Simulacros | En curso | Simulacros 01 y 02 hechos; simulacro 03 pendiente. |
+| Simulacros | Hecho inicial | Simulacros 01, 02 y 03 hechos; plantilla comun de correccion pendiente. |
 | Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Simulacro 03.**
+**Plantilla de correccion de simulacros.**
 
-Motivo: ya estan creados los simulacros 01 y 02. El siguiente paso de mayor valor es generar un tercer simulacro completo, algo mas exigente, para cerrar una bateria inicial de practica tipo examen.
+Motivo: ya estan creados los tres simulacros completos. El siguiente paso de mayor valor es crear una plantilla comun de correccion para puntuar de forma uniforme los ejercicios y comparar resultados.
 
 Criterios de terminado:
 
-- Crear `09_simulacros/simulacro_03.md`.
-- Mantener estructura oficial: primer ejercicio con 30 psicotecnicas, 30 Bloque I y 5 reserva; segundo ejercicio con 30 Bloque II y 5 reserva.
-- Incluir plantilla de correccion con penalizacion `aciertos - errores / 3`.
-- Aumentar ligeramente la dificultad respecto a `simulacro_01.md` y `simulacro_02.md`.
+- Crear una plantilla reutilizable para corregir simulacros.
+- Incluir calculo por ejercicio: aciertos, errores, blancos y puntuacion final.
+- Aplicar penalizacion `aciertos - errores / 3`.
+- Dejar instrucciones claras para usarla con los simulacros 01, 02 y 03.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -125,7 +125,7 @@ Criterios de terminado:
 
 ### 10. Simulacro 03
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `09_simulacros/simulacro_03.md`
 - Prioridad: Media
 - Resultado esperado: tercer simulacro oficial completo, mas exigente y con preguntas predictivas.
@@ -232,7 +232,7 @@ Ids afectados:
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
 6. Tests psicotecnicos por tipo.
-7. Simulacros 02 y 03.
+7. Plantilla de correccion de simulacros.
 8. Revision fina de ofimatica.
 9. README y graficos estadisticos.
 
@@ -250,3 +250,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de banco separado `02_preguntas_extraidas/psicotecnicos_academia.*` con 22 preguntas de academia no oficial. | Hecho inicial |
 | 2026-06-22 | Creacion de tests psicotecnicos por tipo en `07_tests/test_psicotecnico_*.md`, con 15 preguntas por tipo y solucionario razonado. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_02.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
+| 2026-06-22 | Creacion de `09_simulacros/simulacro_03.md` con mayor dificultad, dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
