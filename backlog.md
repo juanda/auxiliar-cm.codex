@@ -19,21 +19,21 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
-| Psicotecnicos de academia | En curso | Inventario hecho; primera extraccion separada realizada; entrenamiento por tipo pendiente. |
+| Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Entrenamiento psicotecnico por tipo.**
+**Simulacro 02.**
 
-Motivo: ya existe una primera tanda de preguntas psicotecnicas de academia en un banco separado y marcado como no oficial. El siguiente paso de mayor valor es convertir ese material en practica organizada por tipo, manteniendo diferenciadas las fuentes de academia y las oficiales.
+Motivo: ya estan creados el primer simulacro, los tests de bloque y el entrenamiento psicotecnico por tipo. El siguiente paso de mayor valor es generar un segundo simulacro completo con distribucion distinta para ampliar practica tipo examen.
 
 Criterios de terminado:
 
-- Crear tests especificos de entrenamiento psicotecnico por tipo.
-- Separar verbal, numerico, logico y atencion.
-- Incluir solucionario y explicacion breve cuando proceda.
-- Indicar si una pregunta procede de fuente oficial o de academia no oficial.
+- Crear `09_simulacros/simulacro_02.md`.
+- Mantener estructura oficial: primer ejercicio con 30 psicotecnicas, 30 Bloque I y 5 reserva; segundo ejercicio con 30 Bloque II y 5 reserva.
+- Incluir plantilla de correccion con penalizacion `aciertos - errores / 3`.
+- Usar una distribucion distinta a `simulacro_01.md`.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -105,13 +105,14 @@ Criterios de terminado:
 
 ### 8. Entrenamiento psicotecnico por tipo
 
-- Estado: Pendiente
+- Estado: Hecho
 - Prioridad: Alta
-- Archivos sugeridos:
+- Archivos:
   - `07_tests/test_psicotecnico_verbal.md`
   - `07_tests/test_psicotecnico_numerico.md`
   - `07_tests/test_psicotecnico_logico.md`
   - `07_tests/test_psicotecnico_atencion.md`
+- Resultado: cuatro tests de 15 preguntas con solucionario y explicacion breve.
 
 ## Fase 3. Simulacros completos
 
@@ -247,3 +248,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `08_flashcards/anki_constitucion.csv` con 72 tarjetas de repaso. | Hecho |
 | 2026-06-22 | Enriquecimiento de `01_examenes_originales/psicotecnicos_academias/indice.md` con fuente, clase, tipo dominante y observaciones. | Hecho |
 | 2026-06-22 | Creacion de banco separado `02_preguntas_extraidas/psicotecnicos_academia.*` con 22 preguntas de academia no oficial. | Hecho inicial |
+| 2026-06-22 | Creacion de tests psicotecnicos por tipo en `07_tests/test_psicotecnico_*.md`, con 15 preguntas por tipo y solucionario razonado. | Hecho |
