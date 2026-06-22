@@ -18,23 +18,22 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | En curso | Bloque II hecho; Bloque I pendiente. |
 | Flashcards | Pendiente | Archivos creados pero vacios. |
-| Simulacros | Pendiente | Archivos creados pero vacios. |
+| Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
 | Psicotecnicos de academia | Pendiente | 31 DOCX disponibles como fuente de entrenamiento no oficial. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Crear `09_simulacros/simulacro_01.md`.**
+**Crear `07_tests/test_bloque_I.md`.**
 
-Motivo: ya existe un test completo del Bloque II. El siguiente paso de mayor valor es crear un simulacro oficial completo para practicar tiempos, mezcla de materias y penalizacion.
+Motivo: ya existe un test completo del Bloque II y el Simulacro 01. El siguiente paso de mayor valor es dejar cerrado el test autonomo del Bloque I para entrenar la parte juridica sin psicotecnicos.
 
 Criterios de terminado:
 
-- Incluir primer ejercicio: 30 psicotecnicas + 30 Bloque I + 5 reserva.
-- Incluir segundo ejercicio: 30 Bloque II + 5 reserva.
-- Incluir instrucciones de tiempo.
-- Incluir correccion con penalizacion de 1/3 por error.
-- Separar claramente preguntas ordinarias y de reserva.
+- Incluir 30 preguntas de los temas 1 a 15.
+- Priorizar Ley 39/2015, transparencia, funcion publica, igualdad, atencion al ciudadano y administracion electronica.
+- Incluir plantilla con respuesta y explicacion breve.
+- Aplicar correccion recomendada con penalizacion de 1/3 por error.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -47,7 +46,7 @@ Criterios de terminado:
 
 ### 2. Simulacro 01
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `09_simulacros/simulacro_01.md`
 - Prioridad: Alta
 - Resultado esperado: simulacro tipo oficial con primer ejercicio y segundo ejercicio.
@@ -239,3 +238,4 @@ Ids afectados:
 | --- | --- | --- |
 | 2026-06-22 | Creacion del backlog inicial del proyecto. | Hecho |
 | 2026-06-22 | Creacion de `07_tests/test_bloque_II.md` con 30 preguntas y plantilla de correccion. | Hecho |
+| 2026-06-22 | Creacion de `09_simulacros/simulacro_01.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
