@@ -18,22 +18,22 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
-| Simulacros | Hecho inicial | Simulacros 01, 02 y 03 hechos; plantilla comun de correccion pendiente. |
+| Simulacros | Hecho | Simulacros 01, 02 y 03 hechos; plantilla comun de correccion creada. |
 | Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Plantilla de correccion de simulacros.**
+**Revision de version oficial en ofimatica.**
 
-Motivo: ya estan creados los tres simulacros completos. El siguiente paso de mayor valor es crear una plantilla comun de correccion para puntuar de forma uniforme los ejercicios y comparar resultados.
+Motivo: ya estan creados los simulacros y tests principales. El siguiente paso de mayor valor es revisar los temas 16 a 21 para asegurar que todo Bloque II queda alineado con Windows 10 y Microsoft 365 version escritorio, sin referencias obsoletas que puedan inducir error.
 
 Criterios de terminado:
 
-- Crear una plantilla reutilizable para corregir simulacros.
-- Incluir calculo por ejercicio: aciertos, errores, blancos y puntuacion final.
-- Aplicar penalizacion `aciertos - errores / 3`.
-- Dejar instrucciones claras para usarla con los simulacros 01, 02 y 03.
+- Revisar `05_temario/tema_16_windows.md` a `tema_21_m365.md` o sus equivalentes.
+- Revisar tests de ofimatica relacionados.
+- Eliminar o matizar referencias a versiones obsoletas cuando puedan confundir.
+- Mantener como version base Windows 10 y Microsoft 365 version escritorio.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -132,8 +132,9 @@ Criterios de terminado:
 
 ### 11. Plantilla de correccion de simulacros
 
-- Estado: Pendiente
+- Estado: Hecho
 - Prioridad: Media
+- Archivo: `09_simulacros/plantilla_correccion_simulacros.md`
 - Resultado esperado: sistema comun de puntuacion:
   - Acierto: +1.
   - Error: -1/3.
@@ -232,9 +233,8 @@ Ids afectados:
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
 6. Tests psicotecnicos por tipo.
-7. Plantilla de correccion de simulacros.
-8. Revision fina de ofimatica.
-9. README y graficos estadisticos.
+7. Revision fina de ofimatica.
+8. README y graficos estadisticos.
 
 ## Registro de avance
 
@@ -251,3 +251,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de tests psicotecnicos por tipo en `07_tests/test_psicotecnico_*.md`, con 15 preguntas por tipo y solucionario razonado. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_02.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_03.md` con mayor dificultad, dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
+| 2026-06-22 | Creacion de `09_simulacros/plantilla_correccion_simulacros.md` para puntuar y comparar simulacros. | Hecho |
