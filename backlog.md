@@ -16,7 +16,7 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Temario | Hecho inicial completo | 21 temas redactados. Pendiente revision fina por cobertura y version oficial. |
 | Esquemas | Hecho inicial completo | 21 esquemas generados. |
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
-| Tests de bloque | En curso | Bloque II hecho; Bloque I pendiente. |
+| Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Pendiente | Archivos creados pero vacios. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
 | Psicotecnicos de academia | Pendiente | 31 DOCX disponibles como fuente de entrenamiento no oficial. |
@@ -24,16 +24,16 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 
 ## Proxima tarea recomendada
 
-**Crear `07_tests/test_bloque_I.md`.**
+**Crear `08_flashcards/anki_ley39.csv`.**
 
-Motivo: ya existe un test completo del Bloque II y el Simulacro 01. El siguiente paso de mayor valor es dejar cerrado el test autonomo del Bloque I para entrenar la parte juridica sin psicotecnicos.
+Motivo: ya estan cerrados los tests de bloque y el Simulacro 01. El siguiente paso de mayor valor es crear tarjetas de repaso rapido sobre Ley 39/2015, el tema juridico con mayor recurrencia historica.
 
 Criterios de terminado:
 
-- Incluir 30 preguntas de los temas 1 a 15.
-- Priorizar Ley 39/2015, transparencia, funcion publica, igualdad, atencion al ciudadano y administracion electronica.
-- Incluir plantilla con respuesta y explicacion breve.
-- Aplicar correccion recomendada con penalizacion de 1/3 por error.
+- Usar formato CSV exacto: `tema,pregunta,respuesta,dificultad`.
+- Cubrir objeto y ambito, actos, notificaciones, fases del procedimiento, audiencia, resolucion y recursos.
+- Priorizar articulos y plazos historicamente preguntables.
+- Incluir tarjetas breves y memorizables.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -57,7 +57,7 @@ Criterios de terminado:
 
 ### 3. Test Bloque I
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `07_tests/test_bloque_I.md`
 - Prioridad: Alta
 - Resultado esperado: test de 30 preguntas de los temas 1 a 15.
@@ -239,3 +239,4 @@ Ids afectados:
 | 2026-06-22 | Creacion del backlog inicial del proyecto. | Hecho |
 | 2026-06-22 | Creacion de `07_tests/test_bloque_II.md` con 30 preguntas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_01.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
+| 2026-06-22 | Creacion de `07_tests/test_bloque_I.md` con 30 preguntas y plantilla de correccion. | Hecho |
