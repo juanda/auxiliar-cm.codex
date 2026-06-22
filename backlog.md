@@ -17,23 +17,23 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Esquemas | Hecho inicial completo | 21 esquemas generados. |
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
-| Flashcards | En curso | Ley 39/2015 hecho; Constitucion pendiente. |
+| Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
 | Psicotecnicos de academia | Pendiente | 31 DOCX disponibles como fuente de entrenamiento no oficial. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Crear `08_flashcards/anki_constitucion.csv`.**
+**Inventario de psicotecnicos de academia.**
 
-Motivo: ya estan cerrados los tests de bloque, el Simulacro 01 y las tarjetas de Ley 39/2015. El siguiente paso de mayor valor es crear tarjetas de repaso rapido sobre Constitucion, materia recurrente en todos los anos analizados.
+Motivo: ya estan cerrados los tests de bloque, el Simulacro 01 y las flashcards iniciales. El siguiente paso de mayor valor es ordenar las fuentes psicotecnicas de academia para poder generar entrenamiento no oficial por tipo.
 
 Criterios de terminado:
 
-- Usar formato CSV exacto: `tema,pregunta,respuesta,dificultad`.
-- Cubrir caracteristicas, principios constitucionales, valores superiores, derechos y deberes fundamentales, garantias y suspension.
-- Priorizar articulos y reglas historicamente preguntables.
-- Incluir tarjetas breves y memorizables.
+- Revisar `01_examenes_originales/psicotecnicos_academias/originales_docx/`.
+- Enriquecer `01_examenes_originales/psicotecnicos_academias/indice.md`.
+- Indicar fuente, fecha/clase, tipo dominante y observaciones.
+- Mantenerlo marcado como fuente de entrenamiento no oficial.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -71,7 +71,7 @@ Criterios de terminado:
 
 ### 4. Flashcards de Constitucion
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `08_flashcards/anki_constitucion.csv`
 - Prioridad: Media
 - Resultado esperado: tarjetas Anki en formato `tema,pregunta,respuesta,dificultad`.
@@ -241,3 +241,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `09_simulacros/simulacro_01.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `07_tests/test_bloque_I.md` con 30 preguntas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `08_flashcards/anki_ley39.csv` con 57 tarjetas de repaso. | Hecho |
+| 2026-06-22 | Creacion de `08_flashcards/anki_constitucion.csv` con 72 tarjetas de repaso. | Hecho |
