@@ -18,22 +18,22 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests por tema | Hecho inicial completo | 21 tests por tema generados. |
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
-| Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
+| Simulacros | En curso | Simulacros 01 y 02 hechos; simulacro 03 pendiente. |
 | Psicotecnicos de academia | Hecho inicial | Inventario, primera extraccion separada y tests por tipo realizados; queda ampliar banco si se quiere mas volumen. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Simulacro 02.**
+**Simulacro 03.**
 
-Motivo: ya estan creados el primer simulacro, los tests de bloque y el entrenamiento psicotecnico por tipo. El siguiente paso de mayor valor es generar un segundo simulacro completo con distribucion distinta para ampliar practica tipo examen.
+Motivo: ya estan creados los simulacros 01 y 02. El siguiente paso de mayor valor es generar un tercer simulacro completo, algo mas exigente, para cerrar una bateria inicial de practica tipo examen.
 
 Criterios de terminado:
 
-- Crear `09_simulacros/simulacro_02.md`.
+- Crear `09_simulacros/simulacro_03.md`.
 - Mantener estructura oficial: primer ejercicio con 30 psicotecnicas, 30 Bloque I y 5 reserva; segundo ejercicio con 30 Bloque II y 5 reserva.
 - Incluir plantilla de correccion con penalizacion `aciertos - errores / 3`.
-- Usar una distribucion distinta a `simulacro_01.md`.
+- Aumentar ligeramente la dificultad respecto a `simulacro_01.md` y `simulacro_02.md`.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -118,7 +118,7 @@ Criterios de terminado:
 
 ### 9. Simulacro 02
 
-- Estado: Pendiente
+- Estado: Hecho
 - Archivo: `09_simulacros/simulacro_02.md`
 - Prioridad: Media
 - Resultado esperado: segundo simulacro oficial completo, con distribucion distinta al simulacro 01.
@@ -249,3 +249,4 @@ Ids afectados:
 | 2026-06-22 | Enriquecimiento de `01_examenes_originales/psicotecnicos_academias/indice.md` con fuente, clase, tipo dominante y observaciones. | Hecho |
 | 2026-06-22 | Creacion de banco separado `02_preguntas_extraidas/psicotecnicos_academia.*` con 22 preguntas de academia no oficial. | Hecho inicial |
 | 2026-06-22 | Creacion de tests psicotecnicos por tipo en `07_tests/test_psicotecnico_*.md`, con 15 preguntas por tipo y solucionario razonado. | Hecho |
+| 2026-06-22 | Creacion de `09_simulacros/simulacro_02.md` con dos ejercicios completos, reservas y plantilla de correccion. | Hecho |
