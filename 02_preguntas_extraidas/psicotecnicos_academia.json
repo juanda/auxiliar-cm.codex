@@ -1,0 +1,442 @@
+[
+  {
+    "id": "ACA-PSI-059-001",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 1,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Nueve grifos abiertos durante 10 horas diarias han consumido una cantidad de agua por valor de 12 euros. Averiguar el precio del vertido de 15 grifos abiertos 12 horas durante los mismos dias.",
+    "opciones": {
+      "A": "24 euros",
+      "B": "6 euros",
+      "C": "25 euros",
+      "D": "32 euros"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-002",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 2,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "5 obreros trabajando 6 horas diarias construyen un muro en 2 dias. Cuanto tardaran 4 obreros trabajando 7 horas diarias?",
+    "opciones": {
+      "A": "1.71 dias",
+      "B": "2,14 dias",
+      "C": "1.92 dias",
+      "D": "2,65 dias"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-003",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 3,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Si 8 obreros realizan en 9 dias trabajando a razon de 6 horas por dia un muro de 30 m. Cuantos dias necesitaran 10 obreros trabajando 8 horas diarias para realizar los 50 m de muro que faltan?",
+    "opciones": {
+      "A": "25",
+      "B": "1",
+      "C": "9",
+      "D": "18"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-004",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 4,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Si 7 mineros en 21 dias cavan 49 metros, cuantos metros cavaran 14 mineros en 35 dias?",
+    "opciones": {
+      "A": "163,3",
+      "B": "82.5",
+      "C": "33,6",
+      "D": "18"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-005",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 5,
+    "tema": null,
+    "subtema": "Proporcionalidad",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "Durante doce dias una familia compuesta por 6 personas ha gastado 900 euros en alimentacion. Cuanto gastaria una pareja en 20 dias?",
+    "opciones": {
+      "A": "250",
+      "B": "400",
+      "C": "500",
+      "D": "180"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-006",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 6,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Para alimentar durante 24 dias a 40 trabajadores de una empresa se necesitan 192 barras de pan. Cuantas barras de pan habra que comprar para alimentar a 65 personas durante 80 dias?",
+    "opciones": {
+      "A": "1040",
+      "B": "9,35",
+      "C": "3,52",
+      "D": "700"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-007",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 7,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Cinco artesanos hacen 60 anillos en 15 dias. Si se desean hacer 150 anillos en 25 dias. Cuantos artesanos se deben contratar?",
+    "opciones": {
+      "A": "20",
+      "B": "22",
+      "C": "21",
+      "D": "23"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-008",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 8,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Trece caballos en 4 dias consumen 30 kg de alimento. Cuantos dias podran alimentarse a 8 caballos con 60 kg de pienso?",
+    "opciones": {
+      "A": "5",
+      "B": "4",
+      "C": "12",
+      "D": "13"
+    },
+    "respuesta_correcta": "D",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-009",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 9,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Por enviar 5 kg a un pueblo que esta a 60 km de distancia, una empresa me ha cobrado 9 euros. Cuanto me costara enviar un paquete de 8 kg a 200 km de distancia?",
+    "opciones": {
+      "A": "112,5",
+      "B": "1,125",
+      "C": "48",
+      "D": "36"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-010",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 10,
+    "tema": null,
+    "subtema": "Regla de tres compuesta",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "En 9 dias cuatro obreros, trabajando 5 horas cada dia, han ganado un total de 1200 euros. Cuanto ganaran diez obreros, en 10 dias, trabajando 6 horas cada dia?",
+    "opciones": {
+      "A": "2700",
+      "B": "518.4",
+      "C": "3000",
+      "D": "4000"
+    },
+    "respuesta_correcta": "D",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-011",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 11,
+    "tema": null,
+    "subtema": "Problemas algebraicos",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Salgo de casa con un dinero, me gasto la tercera parte y anado 25 euros; de lo que tengo ahora me gasto un quinto y me quedan 100 euros. Con cuanto dinero sali?",
+    "opciones": {
+      "A": "250",
+      "B": "150",
+      "C": "300",
+      "D": "400"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-012",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 12,
+    "tema": null,
+    "subtema": "Comparacion numerica",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "Lola, Juana, Alexia y Carla hacen una carrera en una pista circular. Al cabo de cinco minutos: Lola ha dado tres vueltas, Juana ha dado tres vueltas y cuarto, Alexia ha dado dos vueltas y cuarto y Carla ha dado dos vueltas y media. Quien corrio a mas velocidad?",
+    "opciones": {
+      "A": "Lola",
+      "B": "Alexia",
+      "C": "Juana",
+      "D": "Carla"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-013",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 13,
+    "tema": null,
+    "subtema": "Fracciones",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "Halle la quinta parte del doble de la mitad de 550 multiplicado por tres.",
+    "opciones": {
+      "A": "270",
+      "B": "330",
+      "C": "275",
+      "D": "110"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-014",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 14,
+    "tema": null,
+    "subtema": "Codificacion verbal",
+    "tipo": "psicotecnico_logico",
+    "dificultad": "alta",
+    "pregunta": "Una enciclopedia esta dividida en siete volumenes y se aplican reglas de codificacion por letra inicial, letra final, volumen y numero de silabas. Elija la alternativa correctamente codificada para la palabra FABRICA.",
+    "opciones": {
+      "A": "fA20212",
+      "B": "fA2A212",
+      "C": "FA202H",
+      "D": "F20hA1"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-015",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 15,
+    "tema": null,
+    "subtema": "Codificacion verbal",
+    "tipo": "psicotecnico_logico",
+    "dificultad": "alta",
+    "pregunta": "Una enciclopedia esta dividida en siete volumenes y se aplican reglas de codificacion por letra inicial, letra final, volumen y numero de silabas. Elija la alternativa correctamente codificada para la palabra HABITAT.",
+    "opciones": {
+      "A": "hT20262",
+      "B": "hT2A262",
+      "C": "hta262",
+      "D": "ht2A62"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-016",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 16,
+    "tema": null,
+    "subtema": "Codificacion verbal",
+    "tipo": "psicotecnico_logico",
+    "dificultad": "alta",
+    "pregunta": "Una enciclopedia esta dividida en siete volumenes y se aplican reglas de codificacion por letra inicial, letra final, volumen y numero de silabas. Elija la alternativa correctamente codificada para la palabra MACABRO.",
+    "opciones": {
+      "A": "MO50452",
+      "B": "MO40442",
+      "C": "MO40452",
+      "D": "mO4504"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-020",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 20,
+    "tema": null,
+    "subtema": "Fracciones",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "alta",
+    "pregunta": "Para llegar a nuestro destino de vacaciones, hemos recorrido por la manana 2/3 del camino; por la tarde, 2/3 de lo que faltaba, y aun nos quedan 30 km para llegar. Cual es la distancia total a la que esta dicho destino?",
+    "opciones": {
+      "A": "250 km",
+      "B": "330 km",
+      "C": "270 km",
+      "D": "150 km"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-021",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 21,
+    "tema": null,
+    "subtema": "Fracciones",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "Adrian, Eloy y Mari Carmen quieren comprar un regalo de cumpleanos que cuesta 27 euros. Adrian aporta 2/5 del precio total; Eloy, 1/3, y Mari Carmen, el resto. Cuanto dinero pone Mari Carmen?",
+    "opciones": {
+      "A": "6,2",
+      "B": "7,2",
+      "C": "5,2",
+      "D": "3,2"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-022",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 22,
+    "tema": null,
+    "subtema": "Porcentajes y proporciones",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "En el colegio A, les gusta el rock a 12 de sus 60 alumnos. En el colegio B, les gusta el rock a 18 de sus 120 alumnos. En que colegio gusta mas el rock?",
+    "opciones": {
+      "A": "En el colegio A",
+      "B": "En el colegio B",
+      "C": "En ambos por igual",
+      "D": "Ninguna es correcta"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-023",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 23,
+    "tema": null,
+    "subtema": "Porcentajes e IVA",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "Un ordenador cuesta 1 036 euros sin IVA. Sabiendo que se aplica un 16% de IVA, cual sera su precio con IVA?",
+    "opciones": {
+      "A": "1201,76",
+      "B": "1160,32",
+      "C": "1150.35",
+      "D": "1155"
+    },
+    "respuesta_correcta": "A",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-024",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 24,
+    "tema": null,
+    "subtema": "Porcentajes e IVA",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "media",
+    "pregunta": "El precio de un litro de leche con IVA es de 0,6 euros. Sabiendo que el IVA en alimentacion es del 7%, cual sera su precio sin IVA?",
+    "opciones": {
+      "A": "0,64",
+      "B": "0,56",
+      "C": "0,32",
+      "D": "0,52"
+    },
+    "respuesta_correcta": "B",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  },
+  {
+    "id": "ACA-PSI-059-025",
+    "anyo": null,
+    "ejercicio": null,
+    "numero": 25,
+    "tema": null,
+    "subtema": "Porcentajes e IVA",
+    "tipo": "psicotecnico_numerico",
+    "dificultad": "baja",
+    "pregunta": "El precio sin IVA de un determinado medicamento es de 15 euros. Sabiendo que el IVA es del 4%, cuanto costara con IVA?",
+    "opciones": {
+      "A": "12,06",
+      "B": "14,42",
+      "C": "15,06",
+      "D": "13,05"
+    },
+    "respuesta_correcta": "C",
+    "fuente": "01_examenes_originales/psicotecnicos_academias/originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx",
+    "procedencia": "academia_no_oficial"
+  }
+]

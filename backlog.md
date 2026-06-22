@@ -19,21 +19,21 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
-| Psicotecnicos de academia | En curso | Inventario hecho; extraccion separada pendiente. |
+| Psicotecnicos de academia | En curso | Inventario hecho; primera extraccion separada realizada; entrenamiento por tipo pendiente. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Extraccion de psicotecnicos de academia.**
+**Entrenamiento psicotecnico por tipo.**
 
-Motivo: ya esta ordenado el inventario de fuentes psicotecnicas de academia. El siguiente paso de mayor valor es crear un banco separado de entrenamiento no oficial, manteniendo la procedencia y sin mezclarlo con examenes oficiales.
+Motivo: ya existe una primera tanda de preguntas psicotecnicas de academia en un banco separado y marcado como no oficial. El siguiente paso de mayor valor es convertir ese material en practica organizada por tipo, manteniendo diferenciadas las fuentes de academia y las oficiales.
 
 Criterios de terminado:
 
-- Extraer una primera tanda de preguntas desde los DOCX inventariados.
-- Guardarlas en un banco separado de entrenamiento no oficial.
-- Conservar `fuente` y marcar procedencia de academia.
-- Clasificar cada pregunta como `psicotecnico_verbal`, `psicotecnico_numerico`, `psicotecnico_logico` o `psicotecnico_atencion`.
+- Crear tests especificos de entrenamiento psicotecnico por tipo.
+- Separar verbal, numerico, logico y atencion.
+- Incluir solucionario y explicacion breve cuando proceda.
+- Indicar si una pregunta procede de fuente oficial o de academia no oficial.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -94,10 +94,14 @@ Criterios de terminado:
 
 ### 7. Extraccion de psicotecnicos de academia
 
-- Estado: Pendiente
+- Estado: Hecho inicial
 - Prioridad: Alta
 - Resultado esperado: banco separado de entrenamiento no oficial.
 - Regla: no mezclar con preguntas oficiales sin marcar procedencia.
+- Archivos:
+  - `02_preguntas_extraidas/psicotecnicos_academia.json`
+  - `02_preguntas_extraidas/psicotecnicos_academia.csv`
+- Nota: primera tanda de 22 preguntas extraida desde `psicotecnico_59_reglas_de_tres_fracciones.docx`; las preguntas 17-19 se dejan fuera por presentar cinco opciones y una opcion A vacia en la fuente.
 
 ### 8. Entrenamiento psicotecnico por tipo
 
@@ -226,11 +230,10 @@ Ids afectados:
 3. `07_tests/test_bloque_I.md`
 4. `08_flashcards/anki_ley39.csv`
 5. `08_flashcards/anki_constitucion.csv`
-6. Inventario y extraccion de psicotecnicos de academia.
-7. Tests psicotecnicos por tipo.
-8. Simulacros 02 y 03.
-9. Revision fina de ofimatica.
-10. README y graficos estadisticos.
+6. Tests psicotecnicos por tipo.
+7. Simulacros 02 y 03.
+8. Revision fina de ofimatica.
+9. README y graficos estadisticos.
 
 ## Registro de avance
 
@@ -243,3 +246,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `08_flashcards/anki_ley39.csv` con 57 tarjetas de repaso. | Hecho |
 | 2026-06-22 | Creacion de `08_flashcards/anki_constitucion.csv` con 72 tarjetas de repaso. | Hecho |
 | 2026-06-22 | Enriquecimiento de `01_examenes_originales/psicotecnicos_academias/indice.md` con fuente, clase, tipo dominante y observaciones. | Hecho |
+| 2026-06-22 | Creacion de banco separado `02_preguntas_extraidas/psicotecnicos_academia.*` con 22 preguntas de academia no oficial. | Hecho inicial |
