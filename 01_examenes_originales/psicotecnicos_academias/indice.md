@@ -11,36 +11,47 @@ Fuentes no oficiales para entrenamiento psicotecnico. Mantener separadas de los 
 
 ## Indice
 
-| Test | Clase | Archivo |
-| --- | --- | --- |
-| 01-02 | 26Feb | `originales_docx/clase_26feb/psicotecnico_01_02_clase_26feb.docx` |
-| 03 | 26Feb | `originales_docx/clase_26feb/psicotecnico_03_clase_26feb.docx` |
-| 06 | 26Mar | `originales_docx/clase_26mar/psicotecnico_06_clase_26mar.docx` |
-| 07 | 26Mar | `originales_docx/clase_26mar/psicotecnico_07_clase_26mar.docx` |
-| 08 | 23Abr | `originales_docx/clase_23abr/psicotecnico_08_clase_23abr.docx` |
-| 09 | 23Abr | `originales_docx/clase_23abr/psicotecnico_09_clase_23abr.docx` |
-| 10 | 23Abr | `originales_docx/clase_23abr/psicotecnico_10_clase_23abr.docx` |
-| 11 | 4Jun | `originales_docx/clase_04jun/psicotecnico_11_clase_04jun.docx` |
-| 12 | 4Jun | `originales_docx/clase_04jun/psicotecnico_12_clase_04jun.docx` |
-| 13 | 4Jun | `originales_docx/clase_04jun/psicotecnico_13_clase_04jun.docx` |
-| 18 | sin fecha | `originales_docx/sin_fecha/psicotecnico_18.docx` |
-| 19 | sin fecha | `originales_docx/sin_fecha/psicotecnico_19.docx` |
-| 20 | sin fecha | `originales_docx/sin_fecha/psicotecnico_20.docx` |
-| 21 | sin fecha | `originales_docx/sin_fecha/psicotecnico_21.docx` |
-| 31 | 23Jul | `originales_docx/clase_23jul/psicotecnico_31_clase_23jul.docx` |
-| 32 | 23Jul | `originales_docx/clase_23jul/psicotecnico_32_clase_23jul.docx` |
-| 33 | 23Jul | `originales_docx/clase_23jul/psicotecnico_33_clase_23jul.docx` |
-| 34 | 23Jul | `originales_docx/clase_23jul/psicotecnico_34_clase_23jul.docx` |
-| 35 | 23Jul | `originales_docx/clase_23jul/psicotecnico_35_clase_23jul.docx` |
-| 36 | 5Nov | `originales_docx/clase_05nov/psicotecnico_36_clase_05nov.docx` |
-| 37 | 5Nov | `originales_docx/clase_05nov/psicotecnico_37_clase_05nov.docx` |
-| 38 | 5Nov | `originales_docx/clase_05nov/psicotecnico_38_clase_05nov.docx` |
-| 39 | 3Dic | `originales_docx/clase_03dic/psicotecnico_39_clase_03dic.docx` |
-| 40 | 3Dic | `originales_docx/clase_03dic/psicotecnico_40_clase_03dic.docx` |
-| 41 | 3Dic | `originales_docx/clase_03dic/psicotecnico_41_clase_03dic.docx` |
-| 42 | 3Dic | `originales_docx/clase_03dic/psicotecnico_42_clase_03dic.docx` |
-| 58 | sin fecha | `originales_docx/sin_fecha/psicotecnico_58.docx` |
-| 59 | sin fecha | `originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx` |
-| 60 | sin fecha | `originales_docx/sin_fecha/psicotecnico_60.docx` |
-| 61 | sin fecha | `originales_docx/sin_fecha/psicotecnico_61.docx` |
-| 62 | sin fecha | `originales_docx/sin_fecha/psicotecnico_62.docx` |
+| Test | Clase | Fuente | Tipo dominante | Observaciones | Archivo |
+| --- | --- | --- | --- | --- | --- |
+| 01-02 | 26Feb | Academia no oficial | `psicotecnico_logico` | Series numericas y de letras; incluye bloque verbal de sinonimos. | `originales_docx/clase_26feb/psicotecnico_01_02_clase_26feb.docx` |
+| 03 | 26Feb | Academia no oficial | `psicotecnico_verbal` | Mixto con sinonimos, antonimos, ortografia, analogias, operaciones e imagenes de atencion visual. | `originales_docx/clase_26feb/psicotecnico_03_clase_26feb.docx` |
+| 06 | 26Mar | Academia no oficial | `psicotecnico_verbal` | Mixto con sinonimos, antonimos, definiciones, series, graficos y busqueda visual. | `originales_docx/clase_26mar/psicotecnico_06_clase_26mar.docx` |
+| 07 | 26Mar | Academia no oficial | `psicotecnico_verbal` | Test centrado en sinonimos y antonimos; util para vocabulario. | `originales_docx/clase_26mar/psicotecnico_07_clase_26mar.docx` |
+| 08 | 23Abr | Academia no oficial | `psicotecnico_numerico` | Reglas de divisibilidad, MCM, problemas, fracciones y porcentajes; incluye codificacion y analogias. | `originales_docx/clase_23abr/psicotecnico_08_clase_23abr.docx` |
+| 09 | 23Abr | Academia no oficial | `psicotecnico_verbal` | Vocabulario: significados parecidos, sinonimos, antonimos y ortografia. | `originales_docx/clase_23abr/psicotecnico_09_clase_23abr.docx` |
+| 10 | 23Abr | Academia no oficial | `psicotecnico_logico` | Mixto con errores ortograficos, series, simbolos, instrucciones y atencion. | `originales_docx/clase_23abr/psicotecnico_10_clase_23abr.docx` |
+| 11 | 4Jun | Academia no oficial | `psicotecnico_logico` | Mixto con ortografia, calculo, conteo visual, analogias, series y simbolos. | `originales_docx/clase_04jun/psicotecnico_11_clase_04jun.docx` |
+| 12 | 4Jun | Academia no oficial | `psicotecnico_logico` | Analogias, series, codigos, tablas y operaciones; entrenamiento mixto. | `originales_docx/clase_04jun/psicotecnico_12_clase_04jun.docx` |
+| 13 | 4Jun | Academia no oficial | `psicotecnico_logico` | Mixto con sinonimos/antonimos, analogias, series, simbolos y calculo. | `originales_docx/clase_04jun/psicotecnico_13_clase_04jun.docx` |
+| 18 | sin fecha | Academia no oficial | `psicotecnico_logico` | Operaciones correctas, series, codigos y vocabulario; documento mixto. | `originales_docx/sin_fecha/psicotecnico_18.docx` |
+| 19 | sin fecha | Academia no oficial | `psicotecnico_logico` | Definiciones, series, operaciones, tablas y codificacion. | `originales_docx/sin_fecha/psicotecnico_19.docx` |
+| 20 | sin fecha | Academia no oficial | `psicotecnico_logico` | Analogias, series y razonamiento con codigos; incluye verbal y calculo. | `originales_docx/sin_fecha/psicotecnico_20.docx` |
+| 21 | sin fecha | Academia no oficial | `psicotecnico_logico` | Series de letras y razonamiento logico; presencia secundaria verbal. | `originales_docx/sin_fecha/psicotecnico_21.docx` |
+| 31 | 23Jul | Academia no oficial | `psicotecnico_logico` | Mixto con sinonimos, analogias, series y ejercicios de clasificacion. | `originales_docx/clase_23jul/psicotecnico_31_clase_23jul.docx` |
+| 32 | 23Jul | Academia no oficial | `psicotecnico_logico` | Series numericas, relaciones logicas y codigos; incluye calculo. | `originales_docx/clase_23jul/psicotecnico_32_clase_23jul.docx` |
+| 33 | 23Jul | Academia no oficial | `psicotecnico_logico` | Ecuaciones con figuras, patrones y razonamiento simbolico. | `originales_docx/clase_23jul/psicotecnico_33_clase_23jul.docx` |
+| 34 | 23Jul | Academia no oficial | `psicotecnico_numerico` | Operaciones, fracciones, ecuaciones y series; incluye vocabulario y tabla. | `originales_docx/clase_23jul/psicotecnico_34_clase_23jul.docx` |
+| 35 | 23Jul | Academia no oficial | `psicotecnico_numerico` | Ortografia inicial, calculo por bloques, igualdades y conteo de codigos. | `originales_docx/clase_23jul/psicotecnico_35_clase_23jul.docx` |
+| 36 | 5Nov | Academia no oficial | `psicotecnico_logico` | Recuadros de series de letras; razonamiento secuencial. | `originales_docx/clase_05nov/psicotecnico_36_clase_05nov.docx` |
+| 37 | 5Nov | Academia no oficial | `psicotecnico_logico` | Series de letras y patrones alfabeticos. | `originales_docx/clase_05nov/psicotecnico_37_clase_05nov.docx` |
+| 38 | 5Nov | Academia no oficial | `psicotecnico_logico` | Analogias/codigos de letras; presencia de vocabulario. | `originales_docx/clase_05nov/psicotecnico_38_clase_05nov.docx` |
+| 39 | 3Dic | Academia no oficial | `psicotecnico_logico` | Mixto con geometria, calculo, series, analogias y razonamiento. | `originales_docx/clase_03dic/psicotecnico_39_clase_03dic.docx` |
+| 40 | 3Dic | Academia no oficial | `psicotecnico_logico` | Analogias, series y razonamiento verbal-logico. | `originales_docx/clase_03dic/psicotecnico_40_clase_03dic.docx` |
+| 41 | 3Dic | Academia no oficial | `psicotecnico_atencion` | Graficos, tablas y preguntas de busqueda/lectura de datos. | `originales_docx/clase_03dic/psicotecnico_41_clase_03dic.docx` |
+| 42 | 3Dic | Academia no oficial | `psicotecnico_atencion` | Documento principalmente visual; requiere extraccion manual/OCR si se normaliza. | `originales_docx/clase_03dic/psicotecnico_42_clase_03dic.docx` |
+| 58 | sin fecha | Academia no oficial | `psicotecnico_logico` | Series de numeros, patrones y razonamiento mixto. | `originales_docx/sin_fecha/psicotecnico_58.docx` |
+| 59 | sin fecha | Academia no oficial | `psicotecnico_numerico` | Reglas de tres, fracciones, proporcionalidad, IVA y problemas numericos. | `originales_docx/sin_fecha/psicotecnico_59_reglas_de_tres_fracciones.docx` |
+| 60 | sin fecha | Academia no oficial | `psicotecnico_logico` | Mixto con antonimos, secuencias y ejercicios de atencion. | `originales_docx/sin_fecha/psicotecnico_60.docx` |
+| 61 | sin fecha | Academia no oficial | `psicotecnico_verbal` | Sinonimos y vocabulario con apoyo de razonamiento logico. | `originales_docx/sin_fecha/psicotecnico_61.docx` |
+| 62 | sin fecha | Academia no oficial | `psicotecnico_atencion` | Conteo, tablas/codigos y razonamiento visual-logico. | `originales_docx/sin_fecha/psicotecnico_62.docx` |
+
+## Resumen por tipo dominante
+
+| Tipo dominante | Archivos DOCX |
+| --- | ---: |
+| `psicotecnico_logico` | 19 |
+| `psicotecnico_verbal` | 5 |
+| `psicotecnico_numerico` | 4 |
+| `psicotecnico_atencion` | 3 |
+
+Nota: `psicotecnico_01_02_clase_26feb.docx` contiene dos tests en un unico documento. Hay 31 archivos DOCX inventariados y 32 tests internos de trabajo si se separan los tests 01 y 02.

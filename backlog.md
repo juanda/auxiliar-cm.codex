@@ -19,21 +19,21 @@ Este backlog ordena el trabajo pendiente por utilidad práctica para preparar el
 | Tests de bloque | Hecho | Bloque I y Bloque II generados. |
 | Flashcards | Hecho inicial | Constitucion y Ley 39/2015 generadas. |
 | Simulacros | En curso | Simulacro 01 hecho; simulacros 02 y 03 pendientes. |
-| Psicotecnicos de academia | Pendiente | 31 DOCX disponibles como fuente de entrenamiento no oficial. |
+| Psicotecnicos de academia | En curso | Inventario hecho; extraccion separada pendiente. |
 | README | Pendiente | Archivo vacio. |
 
 ## Proxima tarea recomendada
 
-**Inventario de psicotecnicos de academia.**
+**Extraccion de psicotecnicos de academia.**
 
-Motivo: ya estan cerrados los tests de bloque, el Simulacro 01 y las flashcards iniciales. El siguiente paso de mayor valor es ordenar las fuentes psicotecnicas de academia para poder generar entrenamiento no oficial por tipo.
+Motivo: ya esta ordenado el inventario de fuentes psicotecnicas de academia. El siguiente paso de mayor valor es crear un banco separado de entrenamiento no oficial, manteniendo la procedencia y sin mezclarlo con examenes oficiales.
 
 Criterios de terminado:
 
-- Revisar `01_examenes_originales/psicotecnicos_academias/originales_docx/`.
-- Enriquecer `01_examenes_originales/psicotecnicos_academias/indice.md`.
-- Indicar fuente, fecha/clase, tipo dominante y observaciones.
-- Mantenerlo marcado como fuente de entrenamiento no oficial.
+- Extraer una primera tanda de preguntas desde los DOCX inventariados.
+- Guardarlas en un banco separado de entrenamiento no oficial.
+- Conservar `fuente` y marcar procedencia de academia.
+- Clasificar cada pregunta como `psicotecnico_verbal`, `psicotecnico_numerico`, `psicotecnico_logico` o `psicotecnico_atencion`.
 
 ## Fase 1. Cerrar practica esencial
 
@@ -87,7 +87,7 @@ Criterios de terminado:
 
 ### 6. Inventario de psicotecnicos de academia
 
-- Estado: Pendiente
+- Estado: Hecho
 - Carpeta: `01_examenes_originales/psicotecnicos_academias/originales_docx/`
 - Prioridad: Alta
 - Resultado esperado: indice enriquecido con fuente, fecha/clase, tipo dominante y observaciones.
@@ -242,3 +242,4 @@ Ids afectados:
 | 2026-06-22 | Creacion de `07_tests/test_bloque_I.md` con 30 preguntas y plantilla de correccion. | Hecho |
 | 2026-06-22 | Creacion de `08_flashcards/anki_ley39.csv` con 57 tarjetas de repaso. | Hecho |
 | 2026-06-22 | Creacion de `08_flashcards/anki_constitucion.csv` con 72 tarjetas de repaso. | Hecho |
+| 2026-06-22 | Enriquecimiento de `01_examenes_originales/psicotecnicos_academias/indice.md` con fuente, clase, tipo dominante y observaciones. | Hecho |
