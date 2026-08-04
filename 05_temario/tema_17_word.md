@@ -582,9 +582,9 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 ## 7. Test de entrenamiento
 
 1. En Word, ¿qué comando permite guardar un documento ya abierto con un nombre distinto?
-   A. Guardar
-   B. Cerrar
-   C. Guardar como
+   A. Guardar como
+   B. Guardar
+   C. Cerrar
    D. Compartir
 
 2. El interlineado es:
@@ -594,16 +594,16 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
    D. El espacio entre páginas
 
 3. La sangría izquierda:
-   A. Desplaza el párrafo hacia la derecha respecto al margen izquierdo
-   B. Cambia el tamaño de la página
+   A. Cambia el tamaño de la página
+   B. Desplaza el párrafo hacia la derecha respecto al margen izquierdo
    C. Cambia el color del texto
    D. Inserta una lista numerada
 
 4. Para localizar una palabra dentro de un documento abierto se usa:
    A. Disposición
-   B. Buscar
-   C. Imprimir
-   D. Compartir
+   B. Imprimir
+   C. Compartir
+   D. Buscar
 
 5. En Word, las partes de un documento con formato de página propio se denominan:
    A. Secciones
@@ -619,85 +619,85 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 
 7. Las propiedades de un documento son:
    A. Los márgenes de impresión
-   B. Metadatos como título, autor o asunto
-   C. Las fuentes instaladas
-   D. Las vistas disponibles
+   B. Las fuentes instaladas
+   C. Las vistas disponibles
+   D. Metadatos como título, autor o asunto
 
 8. En Word de Microsoft 365 escritorio, ¿qué zona permite consultar información y propiedades del documento?
-   A. Archivo -> Información -> Propiedades -> Propiedades avanzadas
-   B. Vista -> Mostrar -> Propiedades
-   C. Revisar -> Comentarios -> Propiedades
+   A. Vista -> Mostrar -> Propiedades
+   B. Revisar -> Comentarios -> Propiedades
+   C. Archivo -> Información -> Propiedades -> Propiedades avanzadas
    D. Insertar -> Vínculos -> Propiedades
 
 9. Una lista numerada se diferencia de una lista con viñetas porque:
-   A. Sólo puede usarse en encabezados
-   B. Cada párrafo comienza con un número, letra u otro esquema de orden
+   A. Cada párrafo comienza con un número, letra u otro esquema de orden
+   B. Sólo puede usarse en encabezados
    C. No admite sangrías
    D. No puede modificarse
 
 10. La vista que muestra el aspecto que tendrá el documento al imprimirse es:
-    A. Modo lectura
-    B. Esquema
-    C. Diseño de impresión
+    A. Diseño de impresión
+    B. Modo lectura
+    C. Esquema
     D. Borrador
 
 11. En búsquedas con comodines, el signo `!` dentro de corchetes sirve para:
-    A. Excluir caracteres del conjunto
-    B. Buscar cualquier carácter
+    A. Buscar cualquier carácter
+    B. Excluir caracteres del conjunto
     C. Repetir la búsqueda anterior
     D. Insertar una nota al pie
 
 12. ¿Qué opción es más correcta sobre `Guardar`?
     A. Crea siempre una copia con otro nombre
-    B. Actualiza el archivo abierto con los cambios realizados
-    C. Sólo está disponible si el documento está protegido
+    B. Sólo está disponible si el documento está protegido
+    C. Actualiza el archivo abierto con los cambios realizados
     D. Sirve para imprimir
 
 13. ¿Qué opción pertenece principalmente al formato de párrafo?
-    A. Interlineado
-    B. Autor del documento
+    A. Autor del documento
+    B. Interlineado
     C. Extensión del archivo
     D. Tamaño del archivo
 
 14. ¿Cuál de estas opciones es un metadato del documento?
-    A. Título
-    B. Sangría
-    C. Interlineado
+    A. Sangría
+    B. Interlineado
+    C. Título
     D. Viñeta
 
 15. Si un documento necesita páginas con distinta orientación, conviene usar:
-    A. Secciones
-    B. Viñetas
-    C. Autocorrección
-    D. Buscar
+    A. Viñetas
+    B. Autocorrección
+    C. Buscar
+    D. Secciones
 
 16. El comando `Objeto` se encuentra asociado a:
-    A. Insertar contenido externo o un documento
-    B. Cambiar el interlineado
-    C. Aplicar corrección ortográfica
-    D. Abrir el panel de navegación
+    A. Cambiar el interlineado
+    B. Aplicar corrección ortográfica
+    C. Abrir el panel de navegación
+    D. Insertar contenido externo o un documento
 
 17. ¿Qué afirmación sobre las listas con viñetas es correcta?
-    A. Cada elemento empieza con un símbolo o pequeña imagen
-    B. Sólo admiten números romanos
+    A. Sólo admiten números romanos
+    B. Cada elemento empieza con un símbolo o pequeña imagen
     C. No pueden usarse en Word
     D. Sirven para guardar archivos
 
 18. `Archivo -> Información` es una zona especialmente relacionada con:
-    A. Metadatos, propiedades y administración del documento
-    B. Insertar tablas únicamente
-    C. Cambiar el zoom
-    D. Crear comentarios
+    A. Insertar tablas únicamente
+    B. Cambiar el zoom
+    C. Crear comentarios
+    D. Metadatos, propiedades y administración del documento
 
 19. ¿Qué comando permite ver el documento como quedará en papel?
-    A. Diseño de impresión
-    B. Panel de navegación
+    A. Panel de navegación
+    B. Diseño de impresión
     C. Ortografía y gramática
     D. Compartir
 
 20. ¿Cuál es la confusión típica con la sangría izquierda?
-    A. Pensar que cambia el margen de la página
-    B. Pensar que inserta imágenes
+    A. Pensar que inserta imágenes
+    B. Pensar que cambia el margen de la página
     C. Pensar que cambia el idioma
     D. Pensar que borra el documento
 
@@ -716,48 +716,48 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 23. ¿Qué opción pertenece al formato de fuente?
     A. Interlineado
     B. Sangría
-    C. Tamaño de letra
-    D. Espaciado posterior
+    C. Espaciado posterior
+    D. Tamaño de letra
 
 24. ¿Qué opción se gestiona desde `Archivo -> Imprimir`?
-    A. Número de copias
-    B. Color de fuente
-    C. Comentarios
+    A. Color de fuente
+    B. Comentarios
+    C. Número de copias
     D. Estilos rápidos
 
 25. Exportar un documento a PDF sirve principalmente para:
-    A. Generar una versión de salida para distribuir o imprimir
-    B. Crear una sección nueva
-    C. Activar el panel de navegación
+    A. Crear una sección nueva
+    B. Activar el panel de navegación
+    C. Generar una versión de salida para distribuir o imprimir
     D. Cambiar el interlineado
 
 26. El zoom en Word:
     A. Cambia el tamaño real de la fuente
-    B. Cambia la visualización en pantalla
-    C. Cambia los márgenes del documento
+    B. Cambia los márgenes del documento
+    C. Cambia la visualización en pantalla
     D. Inserta saltos de página
 
 27. Los encabezados y pies de página son:
-    A. Zonas repetibles en la parte superior e inferior de las páginas
-    B. Tipos de hipervínculo
-    C. Fórmulas de Word
+    A. Tipos de hipervínculo
+    B. Fórmulas de Word
+    C. Zonas repetibles en la parte superior e inferior de las páginas
     D. Propiedades ocultas
 
 28. El panel de navegación resulta especialmente útil cuando el documento usa:
-    A. Estilos de título
-    B. Sólo texto sin formato
-    C. Imágenes sin texto
-    D. Contraseñas
+    A. Sólo texto sin formato
+    B. Imágenes sin texto
+    C. Contraseñas
+    D. Estilos de título
 
 29. La función `Reemplazar` se diferencia de `Buscar` porque:
-    A. Sólo localiza texto
-    B. Sustituye texto por otro si se confirma
+    A. Sustituye texto por otro si se confirma
+    B. Sólo localiza texto
     C. Cambia la impresora
     D. Crea un archivo PDF
 
 30. La barra de herramientas de acceso rápido permite:
-    A. Tener comandos frecuentes siempre visibles
-    B. Modificar el contenido de todas las páginas
+    A. Modificar el contenido de todas las páginas
+    B. Tener comandos frecuentes siempre visibles
     C. Crear tablas dinámicas
     D. Cambiar el tamaño del papel automáticamente
 
@@ -765,36 +765,36 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 
 | Nº | Respuesta | Explicación |
 | ---: | :---: | --- |
-| 1 | C | `Guardar como` permite cambiar nombre, ubicación o formato. |
+| 1 | A | `Guardar como` permite cambiar nombre, ubicación o formato. |
 | 2 | A | Es el espacio vertical entre líneas de un párrafo. |
-| 3 | A | Mueve el párrafo respecto al margen izquierdo. |
-| 4 | B | `Buscar` localiza palabras o fragmentos. |
+| 3 | B | Mueve el párrafo respecto al margen izquierdo. |
+| 4 | D | `Buscar` localiza palabras o fragmentos. |
 | 5 | A | Las secciones permiten configuración propia. |
 | 6 | A | La pregunta histórica asocia esta función al comando `Objeto`. |
-| 7 | B | Las propiedades son metadatos del archivo. |
-| 8 | A | Ruta preguntada en 2023. |
-| 9 | B | La numeración expresa orden o secuencia. |
-| 10 | C | `Diseño de impresión` muestra el aspecto impreso. |
-| 11 | A | `!` dentro de corchetes excluye caracteres. |
-| 12 | B | `Guardar` actualiza el archivo abierto. |
-| 13 | A | El interlineado es formato de párrafo. |
-| 14 | A | El título puede ser propiedad del documento. |
-| 15 | A | Las secciones permiten configuraciones distintas. |
-| 16 | A | `Objeto` permite insertar contenido externo. |
-| 17 | A | Las viñetas usan símbolos o pequeñas imágenes. |
-| 18 | A | `Información` concentra propiedades y administración. |
-| 19 | A | Es la vista clave para aspecto impreso. |
-| 20 | A | Sangría no equivale a margen de página. |
+| 7 | D | Las propiedades son metadatos del archivo. |
+| 8 | C | Ruta preguntada en 2023. |
+| 9 | A | La numeración expresa orden o secuencia. |
+| 10 | A | `Diseño de impresión` muestra el aspecto impreso. |
+| 11 | B | `!` dentro de corchetes excluye caracteres. |
+| 12 | C | `Guardar` actualiza el archivo abierto. |
+| 13 | B | El interlineado es formato de párrafo. |
+| 14 | C | El título puede ser propiedad del documento. |
+| 15 | D | Las secciones permiten configuraciones distintas. |
+| 16 | D | `Objeto` permite insertar contenido externo. |
+| 17 | B | Las viñetas usan símbolos o pequeñas imágenes. |
+| 18 | D | `Información` concentra propiedades y administración. |
+| 19 | B | Es la vista clave para aspecto impreso. |
+| 20 | B | Sangría no equivale a margen de página. |
 | 21 | B | El salto de sección permite configuración propia. |
 | 22 | A | Los estilos guardan conjuntos de formato. |
-| 23 | C | El tamaño de letra es formato de fuente. |
-| 24 | A | Las copias se ajustan en impresión. |
-| 25 | A | PDF es una versión de salida para distribución o impresión. |
-| 26 | B | El zoom cambia la visualización, no el documento. |
-| 27 | A | Encabezado y pie son zonas repetibles. |
-| 28 | A | El panel usa la estructura de títulos. |
-| 29 | B | Reemplazar sustituye texto, no sólo lo localiza. |
-| 30 | A | La barra de acceso rápido muestra comandos frecuentes. |
+| 23 | D | El tamaño de letra es formato de fuente. |
+| 24 | C | Las copias se ajustan en impresión. |
+| 25 | C | PDF es una versión de salida para distribución o impresión. |
+| 26 | C | El zoom cambia la visualización, no el documento. |
+| 27 | C | Encabezado y pie son zonas repetibles. |
+| 28 | D | El panel usa la estructura de títulos. |
+| 29 | A | Reemplazar sustituye texto, no sólo lo localiza. |
+| 30 | B | La barra de acceso rápido muestra comandos frecuentes. |
 
 ## 8. Esquema final
 
