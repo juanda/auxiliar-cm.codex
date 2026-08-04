@@ -39,8 +39,8 @@ siguiente serie pNMbqeFY :",5,8,7,6,D,2017_Cuestionario1.CAM.pdf
 siguiente serie pNMeqdYF:",4,3,2,"5 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",C,2017_Cuestionario1.CAM.pdf
 2017-E1-014,2017,1,14,,Series de letras,psicotecnico_logico,baja,b a z y d c x,w,v,y,u,A,2017_Cuestionario1.CAM.pdf
 2017-E1-015,2017,1,15,,Series de letras,psicotecnico_logico,baja,a b f g k l o,q,p,ñ,r,B,2017_Cuestionario1.CAM.pdf
-2017-E1-016,2017,1,16,,Series de letras,psicotecnico_logico,baja,"ñ m q j u f z . . . . . .
-A) n b x B) a C) D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2017_Cuestionario1.CAM.pdf
+2017-E1-016,2017,1,16,,Series de letras,psicotecnico_logico,baja,"Serie de letras. ¿Qué letra continúa la serie?
+ñ m q j u f z . . . . . .",n,b,x,a,D,2017_Cuestionario1.CAM.pdf
 2017-E1-017,2017,1,17,,Series de letras,psicotecnico_logico,baja,z y c d v u g,f i h,t,,"difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto",C,2017_Cuestionario1.CAM.pdf
 2017-E1-018,2017,1,18,,Razonamiento verbal,psicotecnico_verbal,baja,"Observe el siguiente grupo de palabras:
 estío - estrépito - cesión - desprecio - lustre
@@ -89,8 +89,8 @@ formación, tienen sus expedientes guardados en el archivador ZZF/4:",3,1,2,4,B,
 guardados en el archivador ZPE/4:",1,Ninguna,2,"3 difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.",B,2017_Cuestionario1.CAM.pdf
 2017-E1-035,2017,1,35,,Series de letras,psicotecnico_logico,baja,z y v u r q ñ,n,o,m,p,A,2017_Cuestionario1.CAM.pdf
 2017-E1-036,2017,1,36,,Series de letras,psicotecnico_logico,baja,b a a h g g n,o,n,ñ,m,D,2017_Cuestionario1.CAM.pdf
-2017-E1-037,2017,1,37,,Series de letras,psicotecnico_logico,baja,"g i a o q b x . . . . . .
-A) c d z B) y C) D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2017_Cuestionario1.CAM.pdf
+2017-E1-037,2017,1,37,,Series de letras,psicotecnico_logico,baja,"Serie de letras. ¿Qué letra continúa la serie?
+g i a o q b x . . . . . .",c,d,z,y,C,2017_Cuestionario1.CAM.pdf
 2017-E1-038,2017,1,38,,Series de letras,psicotecnico_logico,baja,z x t r ñ m i,h g f,e,,Indique cuántas palabras contienen algún error ortográfico en cada uno de los siguientes grupos de palabras:,B,2017_Cuestionario1.CAM.pdf
 2017-E1-039,2017,1,39,,Ortografía,psicotecnico_verbal,baja,"exacerbar, habilidad, yelmo, ehuforia, selladura,
 ventisca, tracción, probocador, abadejo, asiológico",3,4,5,2,A,2017_Cuestionario1.CAM.pdf
@@ -516,10 +516,9 @@ número par?",34,31,29,27,B,2025_Cuestionario1.CAM.pdf
 ¿Qué proveedor tiene el plazo de entrega más corto?",Alfa,Beta,Gamma,Delta,D,2025_Cuestionario1.CAM.pdf
 2025-E1-005,2025,1,5,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_3
 ¿Qué proveedor puede suministrar mayor volumen mensual?",Alfa,Beta,Gamma,Delta,C,2025_Cuestionario1.CAM.pdf
-2025-E1-006,2025,1,6,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_4
-¿Qué proveedor tiene precios más altos que Alfa pero más bajos que Gamma?
-A B C D
-Alfa Beta Gamma No se puede determinar",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],B,2025_Cuestionario1.CAM.pdf
+2025-E1-006,2025,1,6,,Razonamiento verbal lógico,psicotecnico_logico,media,"Una empresa está evaluando cuatro proveedores de material de oficina: Alfa, Beta, Gamma y Delta, teniendo en cuenta tres aspectos: precio, plazo de entrega y volumen máximo de suministro mensual. En cuanto a los precios, Alfa vende sus productos más baratos que Beta, pero más caros que Delta, mientras que Gamma tiene los precios más altos de todos los proveedores. Respecto al plazo de entrega, Beta tarda más que Alfa, pero menos que Gamma, y Delta tarda menos que cualquiera de los otros tres. En relación con el volumen máximo de suministro, Gamma puede suministrar más unidades que Alfa, mientras que Alfa puede suministrar más que Beta, y Beta puede suministrar más que Delta. Además, se sabe que el proveedor con mayor capacidad de suministro no es el que tiene los precios más bajos, y que el proveedor con el plazo de entrega más corto tampoco es el que tiene mayor capacidad de suministro. La empresa también ha observado que dos proveedores tienen precios consecutivos en la escala de precios y además plazos de entrega consecutivos, concretamente Alfa y Beta.
+
+¿Qué proveedor tiene precios más altos que Alfa pero más bajos que Gamma?",Alfa,Beta,Gamma,No se puede determinar,B,2025_Cuestionario1.CAM.pdf
 2025-E1-007,2025,1,7,,Razonamiento verbal lógico,psicotecnico_logico,media,"RV_2002_5
 ¿Qué proveedor cumple que tiene mayor capacidad de suministro que Beta pero menor que
 Gamma?",Alfa,Beta,Gamma,Delta,A,2025_Cuestionario1.CAM.pdf
@@ -527,34 +526,14 @@ Gamma?",Alfa,Beta,Gamma,Delta,A,2025_Cuestionario1.CAM.pdf
 En un archivo se digitalizan expedientes. El equipo A digitaliza 180 expedientes/día y el equipo B
 digitaliza 120 expedientes/día. Si A trabaja 3 días y B trabaja 5 días, ¿cuántos expedientes se digitalizan
 en total?",900,960,1.140,1.200,C,2025_Cuestionario1.CAM.pdf
-2025-E1-009,2025,1,9,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2003
-Doce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto recaudarán
-3 gestores en 2 meses?
-A B C D
-102.000 € 122.400 € 153.000 € Ninguna es correcta",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],A,2025_Cuestionario1.CAM.pdf
+2025-E1-009,2025,1,9,,Razonamiento numérico,psicotecnico_numerico,media,Doce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto recaudarán 3 gestores en 2 meses?,102.000 €,122.400 €,153.000 €,Ninguna es correcta,A,2025_Cuestionario1.CAM.pdf
 2025-E1-010,2025,1,10,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2005
 El departamento de compras necesita repartir 1.250 unidades en paquetes iguales. Si se quiere que
 el número de paquetes sea el doble del número de unidades por paquete, ¿cuántas unidades
 contiene cada paquete?",18,25,30,42,B,2025_Cuestionario1.CAM.pdf
-2025-E1-011,2025,1,11,,Razonamiento numérico,psicotecnico_numerico,media,"RN_2009
-Un ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min
-gracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?
-A B C D
-12 horas 15 horas 18 horas 20 horas
-como su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.
-A continuación encontrarás una serie de preguntas relacionadas con números y operaciones
-matemáticas. Cada pregunta plantea un problema o una relación numérica que debes analizar para
-encontrar la respuesta correcta.
-Lee cada enunciado con atención y selecciona la alternativa que consideres correcta entre las
-opciones propuestas (A, B, C o D)",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],B,2025_Cuestionario1.CAM.pdf
-2025-E1-012,2025,1,12,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1003 A B C D
-Si 5 cuadernos cuestan 12 €, ¿cuánto costarán 8
-cuadernos al mismo precio unitario? 16 € 18 € 19,2 € 21 €",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
-2025-E1-013,2025,1,13,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1007 A B C D
-Un coche recorre 180 km en 3 horas.
-¿Cuántos kilómetros recorrerá en 5 horas manteniendo
-250 km 270 km 300 km 320 km
-la misma velocidad?",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-011,2025,1,11,,Razonamiento numérico,psicotecnico_numerico,media,"Un ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min gracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?",12 horas,15 horas,18 horas,20 horas,B,2025_Cuestionario1.CAM.pdf
+2025-E1-012,2025,1,12,,Razonamiento numérico,psicotecnico_numerico,media,"Si 5 cuadernos cuestan 12 €, ¿cuánto costarán 8 cuadernos al mismo precio unitario?",16 €,18 €,"19,2 €",21 €,C,2025_Cuestionario1.CAM.pdf
+2025-E1-013,2025,1,13,,Razonamiento numérico,psicotecnico_numerico,media,Un coche recorre 180 km en 3 horas. ¿Cuántos kilómetros recorrerá en 5 horas manteniendo la misma velocidad?,250 km,270 km,300 km,320 km,C,2025_Cuestionario1.CAM.pdf
 2025-E1-014,2025,1,14,,Razonamiento numérico,psicotecnico_numerico,media,"RN_1011
 ¿Qué número continúa la serie?
 4  6 12 14 28 30 ",32,56,58,60,D,2025_Cuestionario1.CAM.pdf
@@ -613,28 +592,11 @@ total correspondiente al número de servicios
 contratados",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
 2025-E1-021,2025,1,21,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.1
 ¿Cuántos servicios ha solicitado en total García López, Marta?",3,4,5,6,B,2025_Cuestionario1.CAM.pdf
-2025-E1-022,2025,1,22,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.2
-¿Cuál es el importe final que debe abonar Ruiz Pérez, Antonio?
-A B C D
-280 € 290 € 300 € 390 €",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],D,2025_Cuestionario1.CAM.pdf
-2025-E1-023,2025,1,23,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.3
-¿Qué ciudadano/a debe abonar exactamente 280 € tras aplicar el descuento correspondiente?
-A B C D
-Martín Díaz, Carlos Torres Sánchez, Laura Ningún ciudadano Sánchez Romero, Eva",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],C,2025_Cuestionario1.CAM.pdf
+2025-E1-022,2025,1,22,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"¿Cuál es el importe final que debe abonar Ruiz Pérez, Antonio?",280 €,290 €,300 €,390 €,D,2025_Cuestionario1.CAM.pdf
+2025-E1-023,2025,1,23,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,¿Qué ciudadano/a debe abonar exactamente 280 € tras aplicar el descuento correspondiente?,"Martín Díaz, Carlos","Torres Sánchez, Laura",Ningún ciudadano,"Sánchez Romero, Eva",C,2025_Cuestionario1.CAM.pdf
 2025-E1-024,2025,1,24,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.4
 ¿Cuántos ciudadanos han solicitado exactamente cuatro servicios?",1,2,5,8,C,2025_Cuestionario1.CAM.pdf
-2025-E1-025,2025,1,25,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"RCA_1003.5
-¿Cuál es la diferencia entre el importe final abonado por López Gómez, Ana y Pérez Molina, Raúl?
-A B C D
-0€ 10 € 20 € 35 €
-A continuación se presentan varios grupos de cuatro palabras. En cada grupo, tres de ellas guardan
-una relación entre sí (por ejemplo, pertenecen a la misma categoría, tienen un significado similar o
-comparten alguna característica común), mientras que una palabra no guarda esa misma relación.
-Su tarea consiste en identificar la palabra (A, B, C o D) que no pertenece al grupo o que no comparte
-la relación principal con las demás.
-Lea atentamente las cuatro palabras de cada pregunta antes de responder. En algunos casos, varias
-palabras pueden parecer relacionadas, pero solo una de ellas se diferencia claramente de las otras
-tres",[ver PDF original],[ver PDF original],[ver PDF original],[ver PDF original],A,2025_Cuestionario1.CAM.pdf
+2025-E1-025,2025,1,25,,Tablas de datos y cálculo administrativo,psicotecnico_atencion,alta,"¿Cuál es la diferencia entre el importe final abonado por López Gómez, Ana y Pérez Molina, Raúl?",0 €,10 €,20 €,35 €,A,2025_Cuestionario1.CAM.pdf
 2025-E1-026,2025,1,26,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1101,Prudente,Cauto,Sensato,Temerario,D,2025_Cuestionario1.CAM.pdf
 2025-E1-027,2025,1,27,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1108,Clarinete,Trompeta,Violín,Saxofón,C,2025_Cuestionario1.CAM.pdf
 2025-E1-028,2025,1,28,,Razonamiento verbal,psicotecnico_verbal,baja,RV_1103,Novela,Ensayo,Diccionario,Poema,C,2025_Cuestionario1.CAM.pdf

@@ -293,12 +293,12 @@
     "subtema": "Series de letras",
     "tipo": "psicotecnico_logico",
     "dificultad": "baja",
-    "pregunta": "ñ m q j u f z . . . . . .\nA) n b x B) a C) D)",
+    "pregunta": "Serie de letras. ¿Qué letra continúa la serie?\nñ m q j u f z . . . . . .",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "n",
+      "B": "b",
+      "C": "x",
+      "D": "a"
     },
     "respuesta_correcta": "D",
     "fuente": "2017_Cuestionario1.CAM.pdf"
@@ -692,12 +692,12 @@
     "subtema": "Series de letras",
     "tipo": "psicotecnico_logico",
     "dificultad": "baja",
-    "pregunta": "g i a o q b x . . . . . .\nA) c d z B) y C) D)",
+    "pregunta": "Serie de letras. ¿Qué letra continúa la serie?\ng i a o q b x . . . . . .",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "c",
+      "B": "d",
+      "C": "z",
+      "D": "y"
     },
     "respuesta_correcta": "C",
     "fuente": "2017_Cuestionario1.CAM.pdf"
@@ -4473,12 +4473,12 @@
     "subtema": "Razonamiento verbal lógico",
     "tipo": "psicotecnico_logico",
     "dificultad": "media",
-    "pregunta": "RV_2002_4\n¿Qué proveedor tiene precios más altos que Alfa pero más bajos que Gamma?\nA B C D\nAlfa Beta Gamma No se puede determinar",
+    "pregunta": "Una empresa está evaluando cuatro proveedores de material de oficina: Alfa, Beta, Gamma y Delta, teniendo en cuenta tres aspectos: precio, plazo de entrega y volumen máximo de suministro mensual. En cuanto a los precios, Alfa vende sus productos más baratos que Beta, pero más caros que Delta, mientras que Gamma tiene los precios más altos de todos los proveedores. Respecto al plazo de entrega, Beta tarda más que Alfa, pero menos que Gamma, y Delta tarda menos que cualquiera de los otros tres. En relación con el volumen máximo de suministro, Gamma puede suministrar más unidades que Alfa, mientras que Alfa puede suministrar más que Beta, y Beta puede suministrar más que Delta. Además, se sabe que el proveedor con mayor capacidad de suministro no es el que tiene los precios más bajos, y que el proveedor con el plazo de entrega más corto tampoco es el que tiene mayor capacidad de suministro. La empresa también ha observado que dos proveedores tienen precios consecutivos en la escala de precios y además plazos de entrega consecutivos, concretamente Alfa y Beta.\n\n¿Qué proveedor tiene precios más altos que Alfa pero más bajos que Gamma?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "Alfa",
+      "B": "Beta",
+      "C": "Gamma",
+      "D": "No se puede determinar"
     },
     "respuesta_correcta": "B",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4530,12 +4530,12 @@
     "subtema": "Razonamiento numérico",
     "tipo": "psicotecnico_numerico",
     "dificultad": "media",
-    "pregunta": "RN_2003\nDoce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto recaudarán\n3 gestores en 2 meses?\nA B C D\n102.000 € 122.400 € 153.000 € Ninguna es correcta",
+    "pregunta": "Doce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto recaudarán 3 gestores en 2 meses?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "102.000 €",
+      "B": "122.400 €",
+      "C": "153.000 €",
+      "D": "Ninguna es correcta"
     },
     "respuesta_correcta": "A",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4568,12 +4568,12 @@
     "subtema": "Razonamiento numérico",
     "tipo": "psicotecnico_numerico",
     "dificultad": "media",
-    "pregunta": "RN_2009\nUn ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min\ngracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?\nA B C D\n12 horas 15 horas 18 horas 20 horas\ncomo su distribución, difusión o comunicación pública por cualquier medio o en cualquier forma, salvo persona o entidad autorizada a tal efecto.\nA continuación encontrarás una serie de preguntas relacionadas con números y operaciones\nmatemáticas. Cada pregunta plantea un problema o una relación numérica que debes analizar para\nencontrar la respuesta correcta.\nLee cada enunciado con atención y selecciona la alternativa que consideres correcta entre las\nopciones propuestas (A, B, C o D)",
+    "pregunta": "Un ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min gracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "12 horas",
+      "B": "15 horas",
+      "C": "18 horas",
+      "D": "20 horas"
     },
     "respuesta_correcta": "B",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4587,12 +4587,12 @@
     "subtema": "Razonamiento numérico",
     "tipo": "psicotecnico_numerico",
     "dificultad": "media",
-    "pregunta": "RN_1003 A B C D\nSi 5 cuadernos cuestan 12 €, ¿cuánto costarán 8\ncuadernos al mismo precio unitario? 16 € 18 € 19,2 € 21 €",
+    "pregunta": "Si 5 cuadernos cuestan 12 €, ¿cuánto costarán 8 cuadernos al mismo precio unitario?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "16 €",
+      "B": "18 €",
+      "C": "19,2 €",
+      "D": "21 €"
     },
     "respuesta_correcta": "C",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4606,12 +4606,12 @@
     "subtema": "Razonamiento numérico",
     "tipo": "psicotecnico_numerico",
     "dificultad": "media",
-    "pregunta": "RN_1007 A B C D\nUn coche recorre 180 km en 3 horas.\n¿Cuántos kilómetros recorrerá en 5 horas manteniendo\n250 km 270 km 300 km 320 km\nla misma velocidad?",
+    "pregunta": "Un coche recorre 180 km en 3 horas. ¿Cuántos kilómetros recorrerá en 5 horas manteniendo la misma velocidad?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "250 km",
+      "B": "270 km",
+      "C": "300 km",
+      "D": "320 km"
     },
     "respuesta_correcta": "C",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4777,12 +4777,12 @@
     "subtema": "Tablas de datos y cálculo administrativo",
     "tipo": "psicotecnico_atencion",
     "dificultad": "alta",
-    "pregunta": "RCA_1003.2\n¿Cuál es el importe final que debe abonar Ruiz Pérez, Antonio?\nA B C D\n280 € 290 € 300 € 390 €",
+    "pregunta": "¿Cuál es el importe final que debe abonar Ruiz Pérez, Antonio?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "280 €",
+      "B": "290 €",
+      "C": "300 €",
+      "D": "390 €"
     },
     "respuesta_correcta": "D",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4796,12 +4796,12 @@
     "subtema": "Tablas de datos y cálculo administrativo",
     "tipo": "psicotecnico_atencion",
     "dificultad": "alta",
-    "pregunta": "RCA_1003.3\n¿Qué ciudadano/a debe abonar exactamente 280 € tras aplicar el descuento correspondiente?\nA B C D\nMartín Díaz, Carlos Torres Sánchez, Laura Ningún ciudadano Sánchez Romero, Eva",
+    "pregunta": "¿Qué ciudadano/a debe abonar exactamente 280 € tras aplicar el descuento correspondiente?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "Martín Díaz, Carlos",
+      "B": "Torres Sánchez, Laura",
+      "C": "Ningún ciudadano",
+      "D": "Sánchez Romero, Eva"
     },
     "respuesta_correcta": "C",
     "fuente": "2025_Cuestionario1.CAM.pdf"
@@ -4834,12 +4834,12 @@
     "subtema": "Tablas de datos y cálculo administrativo",
     "tipo": "psicotecnico_atencion",
     "dificultad": "alta",
-    "pregunta": "RCA_1003.5\n¿Cuál es la diferencia entre el importe final abonado por López Gómez, Ana y Pérez Molina, Raúl?\nA B C D\n0€ 10 € 20 € 35 €\nA continuación se presentan varios grupos de cuatro palabras. En cada grupo, tres de ellas guardan\nuna relación entre sí (por ejemplo, pertenecen a la misma categoría, tienen un significado similar o\ncomparten alguna característica común), mientras que una palabra no guarda esa misma relación.\nSu tarea consiste en identificar la palabra (A, B, C o D) que no pertenece al grupo o que no comparte\nla relación principal con las demás.\nLea atentamente las cuatro palabras de cada pregunta antes de responder. En algunos casos, varias\npalabras pueden parecer relacionadas, pero solo una de ellas se diferencia claramente de las otras\ntres",
+    "pregunta": "¿Cuál es la diferencia entre el importe final abonado por López Gómez, Ana y Pérez Molina, Raúl?",
     "opciones": {
-      "A": "[ver PDF original]",
-      "B": "[ver PDF original]",
-      "C": "[ver PDF original]",
-      "D": "[ver PDF original]"
+      "A": "0 €",
+      "B": "10 €",
+      "C": "20 €",
+      "D": "35 €"
     },
     "respuesta_correcta": "A",
     "fuente": "2025_Cuestionario1.CAM.pdf"
