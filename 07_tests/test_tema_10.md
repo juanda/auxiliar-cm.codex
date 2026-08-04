@@ -1,220 +1,220 @@
 # Test Tema 10. EBEP y funcion publica
 
-Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
+Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Este banco es distinto del test embebido en `05_temario/tema_10_ebep_funcion_publica.md`.
 
 ## Preguntas
 
-1. Son empleados públicos quienes desempeñan funciones:
-   A. No retribuidas en cualquier entidad.
-   B. Retribuidas en las Administraciones Públicas al servicio de intereses generales.
-   C. Retribuidas en empresas privadas al servicio de intereses generales.
-   D. Voluntarias en asociaciones.
+1. El TREBEP se aplica, entre otros ámbitos, a:
+   A. Administración General del Estado, Comunidades Autónomas, Entidades Locales y universidades públicas, entre otros.
+   B. Solo a la Administración General del Estado.
+   C. Solo a las Comunidades Autónomas.
+   D. Solo a organismos públicos estatales.
 
-2. Los empleados públicos se clasifican en:
-   A. Carrera, empleo, estatutarios y directivos.
-   B. Solo funcionarios y laborales fijos.
-   C. Carrera, interinos, laboral fijo/indefinido/temporal y eventual.
-   D. Funcionarios de carrera, directivos y asesores.
+2. Uno de los objetivos principales del TREBEP es:
+   A. Sustituir totalmente la normativa autonómica de función pública.
+   B. Establecer un régimen común básico aplicable a todas las Administraciones.
+   C. Regular exclusivamente el régimen disciplinario militar.
+   D. Suprimir la carrera profesional.
 
-3. El personal eventual realiza funciones:
-   A. Propias exclusivamente de funcionarios de carrera.
-   B. De policía judicial.
-   C. De confianza o asesoramiento especial.
-   D. De selección de funcionarios.
+3. Un rasgo propio del funcionario de carrera, frente al interino, es:
+   A. Su nombramiento se basa en razones de urgencia.
+   B. Su relación es siempre temporal.
+   C. Su nombramiento legal implica una relación estatutaria de carácter permanente.
+   D. Solo puede desempeñar funciones de asesoramiento.
 
-4. Los sistemas selectivos ordinarios de funcionarios de carrera son:
-   A. Concurso y libre designación.
-   B. Sorteo y concurso.
-   C. Entrevista y antigüedad.
-   D. Oposición y concurso-oposición.
+4. NO es un supuesto habilitante para el nombramiento de un funcionario interino:
+   A. Existencia de plazas vacantes que no pueden cubrirse por funcionarios de carrera.
+   B. Sustitución transitoria de titulares.
+   C. Exceso o acumulación de tareas por plazo máximo legal.
+   D. Ejercicio de funciones de confianza o asesoramiento especial.
 
-5. El concurso como sistema selectivo de funcionarios de carrera:
-   A. Es siempre el sistema ordinario.
-   B. Está prohibido absolutamente.
-   C. Sustituye a la oposición en todo caso.
-   D. Es excepcional y requiere ley.
+5. El personal eventual se caracteriza por:
+   A. Un nombramiento no permanente para funciones de confianza o asesoramiento especial.
+   B. Ocupar plaza en la relación de puestos de trabajo de forma permanente.
+   C. Acceder mediante oposición.
+   D. Tener garantizada la inamovilidad.
 
-6. Para adquirir la condición de funcionario de carrera se exige:
-   A. Solo aprobar un examen.
-   B. Solo contrato laboral.
-   C. Solo inscripción en bolsa.
-   D. Superar proceso selectivo, nombramiento, acatamiento y toma de posesión.
+6. NO figura entre los principios de acceso al empleo público recogidos en el tema:
+   A. Mérito y capacidad.
+   B. Antigüedad como criterio exclusivo de selección.
+   C. Publicidad.
+   D. Adecuación entre pruebas y funciones a desempeñar.
 
-7. Es causa de pérdida de la condición de funcionario:
-   A. Renuncia.
-   B. Todas son correctas.
-   C. Jubilación total.
-   D. Separación del servicio firme.
+7. Entre los requisitos para adquirir la condición de funcionario de carrera NO se exige:
+   A. Superar el proceso selectivo.
+   B. Tomar posesión dentro del plazo establecido.
+   C. Estar afiliado a un sindicato.
+   D. Acto de acatamiento de la Constitución y del resto del ordenamiento jurídico.
 
-8. La pérdida de nacionalidad puede producir:
-   A. Ascenso automático.
-   B. Servicios especiales.
-   C. Comisión de servicios.
-   D. Pérdida de la condición de funcionario.
+8. La pena principal o accesoria de inhabilitación absoluta o especial para cargo público, cuando adquiere firmeza, produce:
+   A. La suspensión provisional de funciones.
+   B. El paso a la situación de excedencia voluntaria.
+   C. Ningún efecto sobre la relación de servicio.
+   D. La pérdida de la condición de funcionario.
 
-9. La sanción de separación del servicio produce pérdida de condición cuando:
-   A. Se propone verbalmente.
-   B. Adquiere firmeza.
-   C. Se abre expediente.
-   D. La pide un compañero.
+9. Un funcionario que cesa en un puesto de trabajo concreto:
+   A. No pierde por ello la condición de funcionario.
+   B. Pierde automáticamente la condición de funcionario.
+   C. Pasa obligatoriamente a personal laboral.
+   D. Queda inhabilitado para la función pública.
 
-10. Es derecho individual ejercido colectivamente:
-    A. Formación continua.
-    B. Intimidad personal.
-    C. Planteamiento de conflictos colectivos.
-    D. Defensa jurídica.
+10. Es un derecho individual del empleado público, y no un derecho ejercido colectivamente:
+    A. La libertad sindical.
+    B. La formación continua.
+    C. El derecho de huelga.
+    D. El planteamiento de conflictos colectivos de trabajo.
 
-11. La reducción por cuidado de familiar de primer grado por enfermedad muy grave puede ser:
-    A. Hasta 60%, retribuida, máximo 1 año.
-    B. Hasta 50%, no retribuida, máximo 1 año.
-    C. Hasta 50% de jornada, retribuida, máximo 1 mes.
-    D. Hasta 100%, siempre 6 meses.
+11. El derecho de huelga de los empleados públicos se ejerce:
+    A. Sin ningún límite.
+    B. Solo mediante autorización previa del superior jerárquico.
+    C. Con la garantía del mantenimiento de los servicios esenciales.
+    D. Únicamente por personal laboral, nunca por funcionarios.
 
-12. Un funcionario autorizado para misión en organismo internacional superior a 6 meses pasa a:
-    A. Servicios especiales.
-    B. Excedencia voluntaria automática.
-    C. Suspensión firme.
-    D. Servicio activo sin cambio.
+12. Si el cuidado de un familiar de primer grado NO se debe a una enfermedad muy grave, la reducción especial de hasta el 50% de la jornada retribuida por plazo máximo de un mes:
+    A. Se aplica igualmente sin más requisitos.
+    B. Se amplía automáticamente a dos meses.
+    C. Se convierte en excedencia forzosa.
+    D. No resulta aplicable conforme a la regla histórica del tema.
 
-13. Las retribuciones básicas son:
-    A. Sueldo y trienios.
-    B. Sueldo, trienios y productividad.
-    C. Sueldo y complemento específico.
-    D. Complemento de destino y productividad.
+13. Dentro de los principios éticos y de conducta, el rechazo de ventajas o beneficios indebidos se corresponde con el principio de:
+    A. Integridad.
+    B. Neutralidad.
+    C. Austeridad.
+    D. Confidencialidad.
 
-14. El complemento específico retribuye:
-    A. Especial dificultad, responsabilidad, dedicación, incompatibilidad, peligrosidad o penosidad.
-    B. Tres años de servicio.
-    C. Grupo de clasificación.
-    D. Solo antigüedad.
+14. Conforme a los deberes típicos del empleado público, las instrucciones profesionales de un superior:
+    A. Deben obedecerse siempre sin excepción.
+    B. Deben obedecerse, salvo que constituyan infracción manifiesta del ordenamiento.
+    C. Nunca deben obedecerse.
+    D. Solo obligan si constan por escrito.
 
-15. La productividad retribuye:
-    A. Especial rendimiento, actividad extraordinaria, interés o iniciativa.
-    B. Antigüedad.
-    C. Nacionalidad.
-    D. Nombramiento.
+15. La regla general en materia de incompatibilidades es:
+    A. Se puede desempeñar cualquier número de puestos públicos.
+    B. La compatibilidad es siempre automática entre dos puestos públicos.
+    C. Un único puesto público, salvo compatibilidad autorizada excepcionalmente.
+    D. Solo se aplica al personal laboral.
 
-16. Para autorizar compatibilidad pública, el incremento permitido para grupo A respecto al puesto principal es:
+16. Para autorizar la compatibilidad de actividades públicas de un funcionario del grupo B o equivalente, el incremento máximo permitido sobre la retribución del puesto principal es:
     A. 30%.
-    B. 35%.
-    C. 40%.
-    D. 50%.
+    B. 40%.
+    C. 50%.
+    D. 35%.
 
-17. La Ley 1/1986 de la Comunidad de Madrid integra:
-    A. Personal al servicio de la Asamblea de Madrid.
-    B. Solo personal laboral.
-    C. Funcionarios de carrera, interinos, personal laboral y eventual.
-    D. Solo funcionarios de carrera.
+17. Un funcionario que pasa a prestar servicios en otra Administración Pública distinta, por ejemplo por transferencia de competencias, se encuentra en la situación de:
+    A. Servicio en otras Administraciones Públicas.
+    B. Excedencia voluntaria.
+    C. Suspensión provisional.
+    D. Servicios especiales.
 
-18. Según la pregunta histórica, el personal que no integra la Ley 1/1986 art. 5 es:
-    A. Funcionarios interinos.
-    B. Personal laboral.
-    C. Funcionarios de carrera.
-    D. Personal al servicio de la Asamblea de Madrid.
+18. La excedencia por cuidado de familiares, entre sus modalidades, incluye también la relacionada con:
+    A. Comisión de servicios retribuida.
+    B. Violencia de género o violencia terrorista.
+    C. Adscripción provisional.
+    D. Promoción interna.
 
-19. Un puesto provisional asignado a funcionario sin derecho a reserva debe convocarse para provisión definitiva en:
-    A. 18 meses exactos.
-    B. Plazo máximo de 1 año.
-    C. 2 años.
-    D. 6 meses.
+19. La suspensión de funciones, provisional o firme, puede acordarse como consecuencia de:
+    A. Solicitud voluntaria del interesado en cualquier momento.
+    B. La superación de un concurso de méritos.
+    C. Un procedimiento judicial o disciplinario.
+    D. Un ascenso de categoría.
 
-20. El principio disciplinario correcto es:
-    A. Irretroactividad de favorables y retroactividad de no favorables.
-    B. Retroactividad siempre.
-    C. Irretroactividad siempre, incluso favorable.
-    D. Irretroactividad de disposiciones sancionadoras no favorables y retroactividad de las favorables.
+20. El complemento de destino, dentro de las retribuciones complementarias, retribuye principalmente:
+    A. Los años de servicio.
+    B. El rendimiento extraordinario.
+    C. Los servicios prestados fuera de la jornada normal.
+    D. El nivel del puesto de trabajo desempeñado.
 
-21. Es principio de potestad disciplinaria:
-    A. Presunción de inocencia.
-    B. Arbitrariedad.
-    C. Doble sanción siempre.
-    D. Secreto absoluto sin defensa.
+21. Las gratificaciones, como retribución complementaria, corresponden a:
+    A. Servicios extraordinarios prestados fuera de la jornada normal de trabajo.
+    B. El nivel del puesto de trabajo.
+    C. Cada tres años de servicio.
+    D. La dificultad técnica del puesto.
 
-22. La legalidad y tipicidad disciplinaria implica:
-    A. Sanción sin norma previa.
-    B. Sanción verbal sin procedimiento.
-    C. Libre decisión del superior.
-    D. Predeterminación normativa de faltas y sanciones.
+22. Las pagas extraordinarias de los empleados públicos se perciben, como regla general:
+    A. Una vez al año.
+    B. Dos veces al año.
+    C. Cuatro veces al año.
+    D. Solo si hay disponibilidad presupuestaria excepcional.
 
-23. La separación del servicio:
-    A. Es complemento retributivo.
-    B. Es sanción aplicable a funcionarios por faltas muy graves.
-    C. Es derecho colectivo.
-    D. Es permiso.
+23. Las faltas disciplinarias graves, a diferencia de las muy graves, se tipifican:
+    A. Siempre en el propio TREBEP.
+    B. Exclusivamente por reglamento interno de cada unidad.
+    C. Por ley de las Cortes Generales o de la Asamblea correspondiente, o por convenio colectivo en el caso de personal laboral.
+    D. Nunca pueden dar lugar a sanción.
 
-24. El personal laboral se vincula por:
-    A. Nombramiento estatutario siempre.
-    B. Contrato de trabajo.
-    C. Elección parlamentaria.
-    D. Sorteo.
+24. La sanción de despido disciplinario, a diferencia de la separación del servicio:
+    A. Se aplica solo a funcionarios interinos.
+    B. Nunca puede imponerse por faltas muy graves.
+    C. Es una sanción exclusivamente económica.
+    D. Se aplica al personal laboral, mientras que la separación del servicio se aplica a los funcionarios.
 
-25. El funcionario interino se nombra por:
-    A. Razones justificadas de necesidad y urgencia.
-    B. Confianza política exclusivamente.
-    C. Elección directa de ciudadanos.
-    D. Contrato mercantil.
+25. El apercibimiento, dentro del catálogo de sanciones disciplinarias, se considera:
+    A. Una sanción de carácter menor.
+    B. La sanción más grave posible.
+    C. Equivalente a la separación del servicio.
+    D. Una medida cautelar, no una sanción.
 
-26. El deber de confidencialidad implica:
-    A. Publicar todos los expedientes.
-    B. Desobedecer normas.
-    C. Guardar reserva sobre información que lo requiera.
-    D. Usar datos para fines privados.
+26. Conforme a la Ley 1/1986 de la Comunidad de Madrid, un puesto de trabajo asignado provisionalmente a un funcionario sin derecho a reserva debe convocarse para su provisión definitiva en un plazo:
+    A. Que no exceda de seis meses.
+    B. Que no exceda de un año.
+    C. Que no exceda de dos años.
+    D. Indeterminado, sin plazo máximo.
 
-27. La inamovilidad corresponde como derecho a:
-    A. Personal eventual.
-    B. Funcionarios de carrera.
-    C. Contratistas.
-    D. Ciudadanos solicitantes.
+27. Según la Ley 1/1986, NO forma parte del personal integrado en la función pública de la Comunidad de Madrid:
+    A. Los funcionarios de carrera.
+    B. El personal eventual.
+    C. El personal al servicio de la Asamblea de Madrid.
+    D. El personal laboral.
 
-28. La excedencia por cuidado de familiares es:
-    A. Retribución básica.
-    B. Falta disciplinaria.
-    C. Situación administrativa.
-    D. Sistema selectivo.
+28. La condición de empleado público, según el tema, exige que las funciones desempeñadas sean:
+    A. Retribuidas y prestadas en Administraciones Públicas al servicio de intereses generales.
+    B. Voluntarias y no retribuidas.
+    C. Prestadas indistintamente en el sector público o privado.
+    D. Ejercidas únicamente por funcionarios de carrera.
 
-29. La suspensión de funciones puede ser:
-    A. Provisional o firme.
-    B. Solo voluntaria.
-    C. Siempre premio.
-    D. Sistema retributivo.
+29. El ámbito de aplicación del TREBEP incluye, entre otros, a:
+    A. Solo funcionarios de carrera de la Administración General del Estado.
+    B. Universidades públicas.
+    C. Exclusivamente organismos autónomos estatales.
+    D. Solo personal laboral privado.
 
-30. ¿Cuál es la opción correcta?
-    A. EBEP art. 8: directivo y estatutario; básicas: productividad y destino.
-    B. EBEP art. 8: carrera, interino, laboral y eventual; básicas: sueldo y trienios.
-    C. EBEP art. 8: solo carrera; básicas: específico y productividad.
-    D. EBEP art. 8: solo laboral; básicas: dietas.
+30. Señala la combinación correcta:
+    A. Los sistemas selectivos ordinarios son sorteo y entrevista.
+    B. El concurso es siempre el sistema ordinario de acceso.
+    C. Los sistemas selectivos ordinarios son oposición y concurso-oposición; el concurso solo procede excepcionalmente por ley.
+    D. La oposición ha sido sustituida por el concurso en todos los casos.
 
 ## Respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | B | TREBEP, art. 8 |
-| 2 | C | TREBEP, art. 8 |
-| 3 | C | TREBEP, art. 12 |
-| 4 | D | TREBEP, art. 61 |
-| 5 | D | TREBEP, art. 61 |
-| 6 | D | TREBEP, art. 62 |
-| 7 | B | TREBEP, art. 63 |
+| 1 | A | TREBEP, ámbito de aplicación |
+| 2 | B | TREBEP, objetivos |
+| 3 | C | TREBEP, art. 9 |
+| 4 | D | TREBEP, art. 12 |
+| 5 | A | TREBEP, art. 12 |
+| 6 | B | TREBEP, principios de acceso |
+| 7 | C | TREBEP, adquisición |
 | 8 | D | TREBEP, art. 63 |
-| 9 | B | TREBEP, art. 63 |
-| 10 | C | TREBEP, art. 15 |
-| 11 | C | TREBEP, art. 48 |
-| 12 | A | TREBEP, art. 87 |
-| 13 | A | TREBEP, art. 23 |
-| 14 | A | TREBEP, art. 24 |
-| 15 | A | TREBEP, art. 24 |
-| 16 | A | Ley 53/1984 |
-| 17 | C | Ley 1/1986, art. 5 |
-| 18 | D | Ley 1/1986, art. 5 |
-| 19 | B | Ley 1/1986 |
-| 20 | D | TREBEP, art. 94 |
-| 21 | A | TREBEP, art. 94 |
-| 22 | D | TREBEP, art. 94 |
-| 23 | B | TREBEP, régimen disciplinario |
-| 24 | B | TREBEP, art. 11 |
-| 25 | A | TREBEP, art. 10 |
-| 26 | C | Código de conducta |
-| 27 | B | TREBEP, art. 14 |
-| 28 | C | TREBEP, situaciones |
-| 29 | A | TREBEP, art. 90 |
-| 30 | B | TREBEP, arts. 8 y 23 |
+| 9 | A | TREBEP, art. 63 |
+| 10 | B | TREBEP, art. 14 |
+| 11 | C | TREBEP, art. 15 |
+| 12 | D | TREBEP, art. 48 |
+| 13 | A | Código de conducta |
+| 14 | B | Deberes |
+| 15 | C | Ley 53/1984 |
+| 16 | D | Ley 53/1984 |
+| 17 | A | TREBEP, art. 88 |
+| 18 | B | TREBEP, situaciones |
+| 19 | C | TREBEP, art. 90 |
+| 20 | D | TREBEP, art. 24 |
+| 21 | A | TREBEP, art. 24 |
+| 22 | B | Retribuciones |
+| 23 | C | TREBEP, régimen disciplinario |
+| 24 | D | TREBEP, régimen disciplinario |
+| 25 | A | TREBEP, sanciones |
+| 26 | B | Ley 1/1986 |
+| 27 | C | Ley 1/1986, art. 5 |
+| 28 | A | TREBEP, art. 8 |
+| 29 | B | TREBEP, ámbito de aplicación |
+| 30 | C | TREBEP, art. 61 |

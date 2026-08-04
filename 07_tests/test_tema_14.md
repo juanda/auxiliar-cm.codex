@@ -1,246 +1,248 @@
 # Test Tema 14. Atencion al ciudadano y administracion electronica
 
-1. Cuando una notificación electrónica obligatoria se pone a disposición y no se accede a su contenido, se entiende rechazada tras:
+Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_14_atencion_ciudadano_administracion_electronica.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
 
-A. 10 días naturales.  
-B. 10 días hábiles.  
-C. 15 días naturales.  
-D. 15 días hábiles.
+1. La Oficina de Atención al Ciudadano, según el Decreto 21/2002, actúa como:
 
-2. El plazo para entender rechazada una notificación electrónica empieza:
+A. Órgano de recurso extraordinario.  
+B. Registro mercantil autonómico.  
+C. Administradora del Sistema de Atención al Ciudadano.  
+D. Archivo histórico central.
 
-A. Desde el envío de un aviso por SMS.  
-B. Desde la publicación en boletín.  
-C. Desde la llamada telefónica.  
-D. Desde la puesta a disposición de la notificación.
+2. La información que se facilita a cualquier persona sin exigir acreditación de legitimación específica es la:
 
-3. La Oficina de Atención al Ciudadano actúa, según pregunta histórica, como:
+A. Información general.  
+B. Información particular.  
+C. Información especializada.  
+D. Información reservada.
 
-A. Órgano judicial de recursos.  
-B. Administradora del Sistema de Atención al Ciudadano.  
-C. Registro mercantil autonómico.  
-D. Servicio común de Seguridad Social.
+3. La información sobre el estado o contenido de un procedimiento en tramitación concreto es:
 
-4. La información que requiere mayor profundización o consultas complementarias es:
+A. Información general.  
+B. Información especializada.  
+C. Información pública institucional.  
+D. Información particular.
 
-A. General.  
-B. Especializada.  
-C. Particular.  
-D. Concreta.
+4. Una consulta que por sus características requiere mayor profundización o consultas complementarias corresponde a:
 
-5. La información sobre estado o contenido de procedimientos en tramitación es:
+A. Información general.  
+B. Información especializada.  
+C. Información particular.  
+D. Información concreta.
 
-A. General.  
-B. Especializada.  
-C. Pública institucional.  
-D. Particular.
+5. Según la clasificación histórica del Decreto 21/2002, ¿cuál de las siguientes categorías NO existe?
 
-6. Según la clasificación histórica del Decreto 21/2002, NO es categoría de información:
+A. Información concreta.  
+B. Información general.  
+C. Información especializada.  
+D. Información particular.
 
-A. General.  
-B. Especializada.  
-C. Particular.  
-D. Concreta.
+6. El canal de atención que, con carácter general, informa y orienta pero no siempre permite completar actuaciones que exigen identificación o firma es el:
 
-7. La información relativa a identificación, fines, competencias, estructura y localización de organismos es:
+A. Presencial.  
+B. Electrónico.  
+C. Telefónico.  
+D. Ninguno de los canales tiene esa limitación.
 
-A. Particular.  
-B. Reservada siempre.  
-C. General.  
-D. Sancionadora.
+7. Los escritos dirigidos a la Comunidad de Madrid pueden presentarse, entre otros lugares, en:
 
-8. La interoperabilidad es:
+A. Solo en la sede central de la Consejería competente.  
+B. Solo mediante correo certificado privado.  
+C. Solo en el registro del propio órgano destinatario.  
+D. Oficinas de Correos, en la forma reglamentariamente establecida.
 
-A. La obligación de acudir presencialmente.  
-B. Capacidad de compartir datos e intercambiar información y conocimiento.  
-C. Una forma de recurso administrativo.  
-D. Una clase de contrato menor.
+8. El artículo 53 de la Ley 39/2015 reconoce el derecho de los interesados a no presentar:
 
-9. El interesado no está obligado a presentar documentos:
+A. Documentos ya elaborados por las Administraciones Públicas.  
+B. Ningún tipo de documentación, en ningún caso.  
+C. Solicitudes de iniciación del procedimiento.  
+D. Recursos administrativos.
 
-A. No exigidos por la norma aplicable.  
-B. Todas son correctas.  
-C. Ya en poder de las Administraciones Públicas.  
-D. Elaborados por las Administraciones Públicas.
+9. Acreditar quién actúa en una relación electrónica con la Administración es función de la:
 
-10. Los documentos originales en papel digitalizados conforme a normas técnicas tienen consideración de:
+A. Firma electrónica.  
+B. Identificación.  
+C. Interoperabilidad.  
+D. Sede electrónica.
 
-A. Copia electrónica auténtica.  
-B. Copia electrónica compulsada con menor validez.  
-C. Copia simple sin efectos.  
-D. Documento rechazado automáticamente.
+10. Manifestar la voluntad y el consentimiento sobre una actuación concreta corresponde a la:
 
-11. Las notificaciones electrónicas pueden practicarse:
+A. Identificación.  
+B. Autenticación.  
+C. Firma electrónica.  
+D. Representación.
 
-A. Por DEHú y comparecencia en sede electrónica.  
-B. Solo por correo postal.  
-C. Solo por teléfono.  
-D. Solo por publicación en tablón físico.
+11. Cl@ve PIN es un sistema de:
 
-12. Las Administraciones Públicas, entre sí, están:
+A. Firma manuscrita digitalizada.  
+B. Sello electrónico para personas jurídicas.  
+C. Certificado de representante.  
+D. Acceso electrónico temporal para personas físicas.
 
-A. Obligadas a relacionarse electrónicamente.  
-B. Prohibidas de usar medios electrónicos.  
-C. Facultadas libremente sin obligación.  
-D. Obligadas solo por fax.
+12. El certificado de representante se emplea principalmente para:
 
-13. Las personas jurídicas:
+A. Actuar electrónicamente en nombre de una persona jurídica.  
+B. Sustituir el Registro Electrónico General.  
+C. Acceder al calendario laboral.  
+D. Evitar cualquier proceso de identificación.
 
-A. Nunca pueden usar medios electrónicos.  
-B. Solo pueden usar canal telefónico.  
-C. Solo actúan por correo postal.  
-D. Están obligadas a relacionarse electrónicamente con las Administraciones.
+13. El Registro Electrónico General de una Administración debe permitir la presentación de documentos:
 
-14. Una persona física no obligada:
+A. Solo en horario de oficina, de lunes a viernes.  
+B. Todos los días del año durante las veinticuatro horas, salvo interrupciones técnicas.  
+C. Únicamente los días hábiles, durante ocho horas.  
+D. Solo mediante cita previa electrónica.
 
-A. Está siempre obligada electrónicamente.  
-B. Nunca puede usar sede electrónica.  
-C. Solo puede presentar en Correos.  
-D. Puede elegir relacionarse electrónicamente, salvo reglas especiales.
+14. Si una presentación electrónica se realiza en un día inhábil, con carácter general se entiende efectuada:
 
-15. Identificación responde a:
+A. Al día siguiente hábil, a cualquier hora.  
+B. Nunca, debe repetirse el trámite.  
+C. En la primera hora del primer día hábil siguiente.  
+D. En el mismo instante, sin ningún efecto sobre el cómputo.
 
-A. Quién actúa.  
-B. Qué voluntad expresa.  
-C. Qué presupuesto se aprueba.  
-D. Qué contrato se adjudica.
+15. El calendario de días inhábiles aplicable al cómputo de plazos en un registro electrónico es:
 
-16. La firma electrónica se vincula principalmente con:
+A. El del domicilio del interesado.  
+B. El de la sede central del Estado en todo caso.  
+C. El calendario laboral de la Unión Europea.  
+D. El de la sede electrónica del registro de la Administración u organismo competente.
 
-A. Ubicación física de oficinas.  
-B. Calendario laboral internacional.  
-C. Voluntad y consentimiento en la actuación.  
-D. Plazo de garantía contractual.
+16. Cuando la notificación electrónica es obligatoria o ha sido elegida expresamente por el interesado, se entiende rechazada si transcurren sin acceder a su contenido:
 
-17. En registros electrónicos, el calendario de días inhábiles aplicable es:
+A. 10 días naturales desde la puesta a disposición.  
+B. 10 días hábiles desde el envío del aviso.  
+C. 15 días naturales desde la notificación postal previa.  
+D. 20 días hábiles desde la resolución.
 
-A. El del municipio de residencia del interesado.  
-B. El de la sede electrónica del registro competente.  
-C. El de la Organización Internacional del Trabajo.  
-D. El de la Unión Europea en todo caso.
+17. El efecto del rechazo de una notificación electrónica es que:
 
-18. El registro electrónico permite presentar documentos:
+A. La notificación queda sin ningún efecto legal.  
+B. Produce los efectos legales de la notificación, salvo imposibilidad técnica o material de acceso.  
+C. Obliga a repetir la notificación por vía postal.  
+D. Suspende automáticamente el procedimiento de forma indefinida.
 
-A. Solo de lunes a viernes de 9 a 14.  
-B. Todos los días del año durante las veinticuatro horas, sin perjuicio de incidencias técnicas.  
-C. Solo los días hábiles durante 12 horas.  
-D. Solo por cita previa presencial.
+18. Según el RD 203/2021, los documentos originales en papel, una vez digitalizados conforme a las normas técnicas de interoperabilidad, tienen la consideración de:
 
-19. Si una presentación electrónica se realiza en día inhábil, como regla general se entiende presentada:
+A. Copia simple sin efectos jurídicos.  
+B. Copia electrónica compulsada de validez limitada.  
+C. Copia electrónica auténtica con la misma validez que el documento en papel.  
+D. Borrador pendiente de cotejo posterior.
 
-A. En la primera hora del primer día hábil siguiente.  
-B. El día anterior.  
-C. Nunca.  
-D. En el siguiente mes natural.
+19. Las notificaciones electrónicas, conforme al RD 203/2021, pueden practicarse mediante:
 
-20. La DEHú es:
+A. Únicamente correo electrónico ordinario.  
+B. Solo mensaje de texto al teléfono móvil.  
+C. Solo publicación en el tablón físico del Ayuntamiento.  
+D. Dirección Electrónica Habilitada Única o comparecencia en sede electrónica o sede asociada.
 
-A. Documento Estatal Habilitado Único.  
-B. Departamento Electrónico de Hacienda.  
-C. Dirección Electrónica Habilitada Única.  
-D. Diario Electrónico de Humanidades.
+20. Entre los sujetos obligados a relacionarse electrónicamente con las Administraciones Públicas se encuentran:
 
-21. La comparecencia electrónica consiste en:
+A. Las personas jurídicas.  
+B. Todas las personas físicas, sin excepción.  
+C. Solo los menores de edad no emancipados.  
+D. Ninguna persona, la relación electrónica es siempre voluntaria.
 
-A. Comparecer físicamente ante un juzgado.  
-B. Enviar un escrito por fax.  
-C. Recibir una llamada informativa.  
-D. Acceder al contenido de una notificación en sede electrónica o sede asociada.
+21. Las Administraciones Públicas, en el ejercicio de sus competencias y entre sí, están:
 
-22. Un certificado de representante se utiliza principalmente para:
+A. Facultadas, pero no obligadas, a relacionarse por medios electrónicos.  
+B. Obligadas a relacionarse entre sí a través de medios electrónicos.  
+C. Obligadas a relacionarse exclusivamente por correo postal certificado.  
+D. Exentas de cualquier obligación de interoperabilidad.
 
-A. Consultar el calendario escolar.  
-B. Sustituir el registro electrónico.  
-C. Actuar electrónicamente en nombre de una persona jurídica.  
-D. Evitar toda identificación.
+22. La sede electrónica de una Administración se define como:
 
-23. El código seguro de verificación sirve para:
+A. Un local físico exclusivo de atención al público.  
+B. Un archivo histórico digitalizado.  
+C. Una dirección electrónica cuya titularidad corresponde a una Administración Pública.  
+D. Un servicio privado de mensajería certificada.
 
-A. Calcular sanciones.  
-B. Abrir oficinas físicas.  
-C. Contrastar autenticidad e integridad de documentos.  
-D. Presentar recursos sin plazo.
+23. La carpeta ciudadana permite habitualmente:
 
-24. El canal telefónico de atención:
+A. Aprobar disposiciones de carácter general.  
+B. Dictar resoluciones administrativas.  
+C. Sustituir al Registro Electrónico General.  
+D. Consultar expedientes, trámites o notificaciones disponibles para la persona interesada.
 
-A. Informa y orienta, pero no siempre formaliza actuaciones con firma o registro.  
-B. Sustituye siempre a la firma electrónica.  
-C. Permite consultar cualquier expediente sin identificación.  
-D. Anula la sede electrónica.
+24. La interoperabilidad se define como la capacidad de los sistemas de información y los procedimientos para:
 
-25. La información particular puede exigir:
+A. Compartir datos y posibilitar el intercambio de información y conocimiento entre ellos.  
+B. Sustituir la firma electrónica por un simple registro de acceso.  
+C. Anular la obligación de conservar documentos electrónicos.  
+D. Prescindir de la identificación del interesado.
 
-A. Ninguna comprobación nunca.  
-B. Identificación, legitimación o representación.  
-C. Solo una llamada anónima.  
-D. Publicación en redes sociales.
+25. La interoperabilidad de tipo semántica se refiere principalmente a:
 
-26. La asistencia en el uso de medios electrónicos se relaciona con:
+A. La capacidad técnica de conexión entre sistemas.  
+B. Que los datos intercambiados tengan un significado común y comprensible entre sistemas.  
+C. La coordinación de procedimientos y responsabilidades entre órganos.  
+D. El cumplimiento de la normativa de protección de datos.
 
-A. Imponer sanciones penales.  
-B. Facilitar a los interesados el uso de medios digitales.  
-C. Aprobar presupuestos.  
-D. Resolver contratos administrativos.
+26. El Decreto 127/2022 de la Comunidad de Madrid se vincula principalmente a:
 
-27. La sede electrónica es:
+A. La regulación de la contratación menor.  
+B. El régimen de incompatibilidades del personal funcionario.  
+C. Los servicios electrónicos y el portal de internet de la Comunidad de Madrid.  
+D. El régimen disciplinario de los empleados públicos.
 
-A. Un local físico exclusivamente.  
-B. Una oficina bancaria.  
-C. Dirección electrónica cuya titularidad corresponde a una Administración Pública.  
-D. Un archivo histórico en papel.
+27. La atención inclusiva y accesible en los canales de atención ciudadana exige especialmente:
 
-28. La carpeta ciudadana permite normalmente:
+A. Restringir el canal presencial a colectivos concretos.  
+B. Sustituir siempre el canal telefónico por el electrónico.  
+C. Eliminar la asistencia a personas no obligadas a relacionarse electrónicamente.  
+D. Utilizar lenguaje claro y canales adaptados para reducir la brecha digital.
 
-A. Consultar trámites, expedientes o notificaciones disponibles.  
-B. Dictar sentencias.  
-C. Aprobar leyes.  
-D. Sustituir al Consejo de Gobierno.
+28. El sello electrónico se utiliza principalmente para:
 
-29. Los escritos dirigidos a la Comunidad de Madrid pueden presentarse, entre otros lugares:
+A. Identificar y respaldar la actuación administrativa automatizada de una Administración o entidad.  
+B. Sustituir la firma manuscrita de los ciudadanos en todo caso.  
+C. Acreditar exclusivamente la identidad de personas físicas.  
+D. Anular el uso del certificado electrónico.
 
-A. En oficinas de Correos en forma reglamentaria.  
-B. En representaciones diplomáticas u oficinas consulares de España en el extranjero.  
-C. En registros de otras Administraciones admitidos legalmente.  
-D. Todas son correctas.
+29. El código seguro de verificación (CSV) de un documento electrónico permite:
 
-30. ¿Cuál es la asociación correcta?
+A. Sustituir por completo el registro electrónico.  
+B. Contrastar la autenticidad e integridad del documento.  
+C. Eliminar la necesidad de conservación documental.  
+D. Anular la firma electrónica asociada.
 
-A. RD 203/2021 - Estatuto de Autonomía.  
-B. Decreto 21/2002 - contratos del sector público.  
-C. Ley 39/2015 - notificaciones, registros y derechos de interesados.  
+30. ¿Qué asociación es correcta?
+
+A. RD 203/2021 - régimen de incompatibilidades.  
+B. Decreto 21/2002 - contratación del sector público.  
+C. Ley 39/2015 - registros, notificaciones y derechos de los interesados.  
 D. Ley 40/2015 - planes de igualdad.
 
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | Ley 39/2015, art. 43.2 |
-| 2 | D | Ley 39/2015, art. 43.2 |
-| 3 | B | Decreto 21/2002 |
-| 4 | B | Decreto 21/2002 |
-| 5 | D | Decreto 21/2002, art. 9 |
-| 6 | D | Decreto 21/2002, art. 6 |
-| 7 | C | Información general |
-| 8 | B | Interoperabilidad |
-| 9 | B | Ley 39/2015, art. 53 |
-| 10 | A | RD 203/2021, art. 39 |
-| 11 | A | RD 203/2021, art. 42 |
-| 12 | A | Ley 40/2015, art. 3.2 |
-| 13 | D | Ley 39/2015, art. 14 |
-| 14 | D | Ley 39/2015, art. 14 |
-| 15 | A | Identificación |
-| 16 | C | Firma electrónica |
-| 17 | B | Ley 39/2015, art. 31 |
-| 18 | B | Registro electrónico |
-| 19 | A | Ley 39/2015, art. 31 |
-| 20 | C | DEHú |
-| 21 | D | Comparecencia electrónica |
-| 22 | C | Representación |
-| 23 | C | CSV |
-| 24 | A | Canal telefónico |
-| 25 | B | Información particular |
-| 26 | B | Ley 39/2015, art. 12 |
-| 27 | C | Sede electrónica |
-| 28 | A | Carpeta ciudadana |
-| 29 | D | Presentación de escritos |
+| 1 | C | Decreto 21/2002 |
+| 2 | A | Información general |
+| 3 | D | Información particular |
+| 4 | B | Información especializada |
+| 5 | A | Decreto 21/2002, art. 6 |
+| 6 | C | Canal telefónico |
+| 7 | D | Ley 39/2015, art. 16 |
+| 8 | A | Ley 39/2015, art. 53 |
+| 9 | B | Identificación |
+| 10 | C | Firma electrónica |
+| 11 | D | Cl@ve PIN |
+| 12 | A | Certificado de representante |
+| 13 | B | Registro electrónico |
+| 14 | C | Ley 39/2015, art. 31 |
+| 15 | D | Ley 39/2015, art. 31 |
+| 16 | A | Ley 39/2015, art. 43.2 |
+| 17 | B | Rechazo de notificación |
+| 18 | C | RD 203/2021, art. 39 |
+| 19 | D | RD 203/2021, art. 42 |
+| 20 | A | Ley 39/2015, art. 14 |
+| 21 | B | Ley 40/2015, art. 3.2 |
+| 22 | C | Sede electrónica |
+| 23 | D | Carpeta ciudadana |
+| 24 | A | Interoperabilidad |
+| 25 | B | Interoperabilidad semántica |
+| 26 | C | Decreto 127/2022 CM |
+| 27 | D | Atención inclusiva |
+| 28 | A | Sello electrónico |
+| 29 | B | CSV |
 | 30 | C | Normativa básica |

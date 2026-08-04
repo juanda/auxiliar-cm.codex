@@ -1,220 +1,220 @@
 # Test Tema 5. Acto administrativo
 
-Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
+Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco independiente del test embebido en el tema: mismos contenidos, formulaciones distintas.
 
 ## Preguntas
 
-1. El acto administrativo es:
-   A. Una norma general dictada por la Administración.
-   B. Un contrato entre Administración y particular.
-   C. Una sentencia judicial.
-   D. Una declaración administrativa que produce efectos jurídicos en ejercicio de potestad administrativa.
+1. El acto administrativo es, ante todo, una declaración:
+   A. Bilateral que requiere el acuerdo del destinatario
+   B. De una Administración sin sujeción a Derecho Administrativo
+   C. De una Administración, en ejercicio de potestad administrativa, que produce efectos jurídicos
+   D. Exclusivamente verbal y provisional
 
-2. Los actos administrativos se presumen:
-   A. Inválidos hasta que se notifiquen.
-   B. Nulos si no los confirma un juez.
-   C. Válidos desde que se dictan, salvo prueba o declaración en contra.
-   D. Ineficaces siempre hasta publicación.
+2. Los actos administrativos:
+   A. Se presumen válidos y producen efectos desde que se dictan, salvo que dispongan otra cosa
+   B. Son inválidos hasta su notificación
+   C. Solo son eficaces tras su publicación
+   D. Requieren ratificación judicial previa
 
-3. La competencia del órgano puede determinarse por:
-   A. Solo por antigüedad del funcionario.
-   B. Solo por sorteo.
-   C. Solo por voluntad del interesado.
-   D. Materia y territorio, entre otros criterios.
+3. La competencia del órgano que dicta el acto puede determinarse por:
+   A. Solo por la antigüedad del funcionario
+   B. Solo por sorteo
+   C. Solo por la voluntad del interesado
+   D. Materia, territorio, jerarquía, función o cuantía, entre otros criterios
 
 4. La incompetencia manifiesta por razón de materia o territorio determina:
-   A. Anulabilidad siempre convalidable.
-   B. Nulidad de pleno derecho.
-   C. Revocación automática.
-   D. Silencio positivo.
+   A. Anulabilidad convalidable
+   B. Nulidad de pleno derecho
+   C. Mera irregularidad no invalidante
+   D. Revocación automática
 
-5. El contenido del acto debe ser:
-   A. Oral, discrecional y secreto.
-   B. Lícito, posible, determinado y adecuado al fin.
-   C. Siempre favorable al interesado.
-   D. Aprobado por la jurisdicción contenciosa.
+5. El contenido de un acto administrativo debe ser:
+   A. Oral y secreto
+   B. Siempre favorable al interesado
+   C. Lícito, posible, determinado o determinable y adecuado al fin
+   D. Aprobado previamente por un juez
 
-6. Deben motivarse:
-   A. Los actos que limiten derechos subjetivos o intereses legítimos.
-   B. Solo los actos favorables.
-   C. Solo los actos verbales.
-   D. Ningún acto discrecional.
+6. ¿Cuál de estos actos exige motivación especial según la Ley 39/2015?
+   A. Un acto meramente informativo sin efectos
+   B. Un acto que confirma el criterio habitual sin cambios
+   C. Un acto favorable sin oposición de terceros
+   D. Un acto que se separa del dictamen de un órgano consultivo
 
-7. La motivación debe contener:
-   A. Solo una firma.
-   B. Solo el sello electrónico.
-   C. Hechos y fundamentos de derecho.
-   D. Solo el recurso procedente.
+7. La forma ordinaria de producción de los actos administrativos es:
+   A. Escrita a través de medios electrónicos, salvo que la naturaleza del acto exija otra forma
+   B. Siempre oral
+   C. Siempre mediante contrato privado
+   D. Siempre mediante publicación previa
 
-8. La forma ordinaria de producción de los actos administrativos es:
-   A. Oral siempre.
-   B. Telefónica.
-   C. Mediante contrato privado.
-   D. Escrita a través de medios electrónicos, salvo excepción por naturaleza.
+8. La eficacia de un acto puede quedar demorada cuando:
+   A. Lo decide unilateralmente el interesado
+   B. Lo exige el contenido del acto, o depende de notificación, publicación o aprobación superior
+   C. Transcurre un año desde que se dicta
+   D. Lo pide un tercero ajeno al procedimiento
 
-9. La eficacia del acto puede quedar demorada por:
-   A. Notificación, publicación o aprobación superior.
-   B. La mera voluntad del interesado.
-   C. El paso de un año.
-   D. La falta de recursos.
+9. Una notificación debe contener, entre otros elementos:
+   A. Solo el número de expediente
+   B. Solo la fecha del acto
+   C. Solo el nombre del funcionario responsable
+   D. El texto íntegro, si pone o no fin a la vía administrativa, los recursos procedentes, el órgano y el plazo
 
-10. Una notificación debe indicar:
-    A. Texto íntegro, recursos, órgano y plazo para recurrir.
-    B. Solo el número de expediente.
-    C. Solo la fecha del acto.
-    D. Solo el nombre del funcionario.
+10. La publicación de un acto puede sustituir o complementar la notificación cuando:
+    A. El interesado lo solicita expresamente
+    B. El acto es favorable
+    C. El acto tiene por destinatario una pluralidad indeterminada de personas
+    D. El acto es de trámite simple
 
-11. La publicación puede proceder cuando:
-    A. El acto tiene destinatarios indeterminados.
-    B. El interesado no quiere recibir notificaciones.
-    C. El acto es verbal.
-    D. El acto es nulo.
+11. Es causa de nulidad de pleno derecho:
+    A. Un simple defecto de forma subsanable
+    B. Un acto de contenido imposible
+    C. Un retraso injustificado en resolver
+    D. Una motivación insuficiente pero existente
 
-12. Un acto que lesione derechos y libertades susceptibles de amparo constitucional es:
-    A. Anulable siempre.
-    B. Irregular no invalidante.
-    C. Nulo de pleno derecho.
-    D. Válido si lo firma un superior.
+12. También es causa de nulidad de pleno derecho:
+    A. Prescindir de las reglas esenciales para formar la voluntad de los órganos colegiados
+    B. Tardar más de tres meses en resolver
+    C. No citar un artículo concreto en la resolución
+    D. Usar un formulario desactualizado
 
-13. Un acto de contenido imposible es:
-    A. Anulable solo si hay indefensión.
-    B. Nulo de pleno derecho.
-    C. Convalidable siempre.
-    D. Una notificación defectuosa.
+13. La regla general para las infracciones del ordenamiento no incluidas como causa de nulidad es:
+    A. La nulidad de pleno derecho
+    B. La validez plena sin consecuencias
+    C. La revocación automática
+    D. La anulabilidad, salvo que constituyan causa de nulidad
 
-14. La regla general para los actos que incurran en infracción del ordenamiento no incluida en nulidad es:
-    A. Nulidad de pleno derecho.
-    B. Validez plena.
-    C. Anulabilidad.
-    D. Revocación automática.
+14. Un defecto de forma solo determina la anulación del acto cuando:
+    A. Carece de cualquier importancia
+    B. Lo solicita un tercero ajeno al procedimiento
+    C. Impide alcanzar el fin del acto o produce indefensión
+    D. Se produce en un acto favorable al interesado
 
-15. El defecto de forma solo determina anulabilidad cuando:
-    A. Carezca de cualquier importancia.
-    B. Lo solicite cualquier tercero.
-    C. Impida alcanzar el fin del acto o produzca indefensión.
-    D. Se produzca en un acto favorable.
+15. Mantener actos y trámites cuyo contenido habría sido el mismo de no haberse cometido la infracción es la técnica de:
+    A. Conservación
+    B. Conversión
+    C. Convalidación
+    D. Transmisibilidad
 
-16. La revisión de oficio de actos nulos se regula en:
-    A. Artículo 107 Ley 39/2015.
-    B. Artículo 106 Ley 39/2015.
-    C. Artículo 112 Ley 39/2015.
-    D. Artículo 36 Ley 40/2015.
+16. La convalidación no procede frente a:
+    A. Actos anulables
+    B. Actos nulos de pleno derecho
+    C. Actos de trámite simple
+    D. Actos favorables al interesado
 
-17. La declaración de lesividad de actos anulables favorables se regula en:
-    A. Artículo 106 Ley 39/2015.
-    B. Artículo 107 Ley 39/2015.
-    C. Artículo 108 Ley 39/2015.
-    D. Artículo 112 Ley 39/2015.
+17. La revisión de oficio de actos nulos exige:
+    A. Autorización previa del interesado
+    B. Mayoría absoluta del Congreso
+    C. Informe del Defensor del Pueblo
+    D. Dictamen favorable del Consejo de Estado u órgano consultivo equivalente
 
-18. La declaración de lesividad sirve para:
-    A. Convalidar actos nulos.
-    B. Resolver recursos de alzada.
-    C. Publicar reglamentos.
-    D. Impugnar actos anulables favorables ante la jurisdicción contencioso-administrativa.
+18. La declaración de lesividad tiene por objeto:
+    A. Actos anulables favorables al interesado, para poder impugnarlos ante la jurisdicción contencioso-administrativa
+    B. Actos nulos de pleno derecho
+    C. Reglamentos ya derogados
+    D. Actos de mero trámite
 
 19. La declaración de lesividad no puede adoptarse una vez transcurridos:
-    A. 4 años desde el acto.
-    B. 1 año desde el acto.
-    C. 2 años desde el acto.
-    D. 5 años desde el acto.
+    A. 1 año desde que se dictó el acto
+    B. 2 años desde que se dictó el acto
+    C. 4 años desde que se dictó el acto
+    D. 10 años desde que se dictó el acto
 
-20. La revocación del artículo 109 se refiere a:
-    A. Actos desfavorables o de gravamen.
-    B. Actos nulos favorables.
-    C. Reglamentos.
-    D. Sentencias.
+20. Si transcurren más de estos meses desde la iniciación sin declarar la lesividad, el procedimiento caduca:
+    A. 3 meses
+    B. 6 meses
+    C. 1 año
+    D. No caduca nunca
 
-21. La rectificación de errores materiales, de hecho o aritméticos puede realizarse:
-    A. Solo en un mes.
-    B. Solo si hay recurso de alzada.
-    C. En cualquier momento.
-    D. Solo por juez.
+21. La suspensión del acto en un procedimiento de revisión de oficio procede cuando:
+    A. Su ejecución pudiera causar perjuicios de imposible o difícil reparación
+    B. Lo pide cualquier tercero sin motivo
+    C. Han pasado más de 30 días desde el acto
+    D. El interesado deposita una fianza
 
-22. El recurso de alzada procede contra:
-    A. Actos firmes por causas tasadas.
-    B. Actos que no ponen fin a la vía administrativa.
-    C. Reglamentos.
-    D. Actos que ponen fin a la vía administrativa exclusivamente.
+22. La revocación regulada en el artículo 109 de la Ley 39/2015 se refiere a:
+    A. Reglamentos derogados
+    B. Sentencias firmes
+    C. Actos favorables sin ningún límite
+    D. Actos desfavorables o de gravamen, si no vulnera la igualdad, el interés público o el ordenamiento
 
-23. El plazo de resolución del recurso de alzada es:
-    A. 1 mes.
-    B. 3 meses.
-    C. 2 meses.
-    D. 6 meses.
+23. La rectificación de errores materiales, de hecho o aritméticos puede realizarse:
+    A. Solo dentro del primer mes desde el acto
+    B. En cualquier momento
+    C. Solo tras interponer recurso de alzada
+    D. Solo por orden judicial
 
-24. El recurso potestativo de reposición procede contra:
-    A. Actos que ponen fin a la vía administrativa.
-    B. Actos de trámite simples.
-    C. Actos no administrativos.
-    D. Actos no notificados únicamente.
+24. El recurso de alzada procede contra:
+    A. Actos firmes por causas tasadas
+    B. Actos que ponen fin a la vía administrativa exclusivamente
+    C. Actos que no ponen fin a la vía administrativa
+    D. Reglamentos únicamente
 
-25. El plazo de resolución del recurso de reposición es:
-    A. 1 mes.
-    B. 10 días.
-    C. 3 meses.
-    D. 6 meses.
+25. El plazo de resolución del recurso de alzada es de:
+    A. 1 mes
+    B. 15 días
+    C. 2 meses
+    D. 3 meses
 
-26. El recurso extraordinario de revisión procede contra:
-    A. Cualquier acto de trámite.
-    B. Reglamentos.
-    C. Actos no dictados todavía.
-    D. Actos firmes en vía administrativa por causas tasadas.
+26. El recurso potestativo de reposición:
+    A. Es potestativo: cabe interponerlo o acudir directamente a la vía contencioso-administrativa
+    B. Es obligatorio en todo caso
+    C. Solo cabe si lo autoriza un superior jerárquico
+    D. Sustituye siempre al recurso de alzada
 
-27. Si el recurso extraordinario de revisión se basa en error de hecho, el plazo es:
-    A. 1 mes.
-    B. 3 meses.
-    C. 5 años.
-    D. 4 años.
+27. El recurso de reposición lo resuelve:
+    A. El superior jerárquico del que dictó el acto
+    B. El Consejo de Estado
+    C. El mismo órgano que dictó el acto
+    D. El Tribunal Superior de Justicia
 
-28. La Administración que indemniza a particulares debe exigir responsabilidad a autoridades y personal cuando hayan actuado con:
-    A. Cualquier error leve.
-    B. Simple discrepancia jurídica.
-    C. Buena fe.
-    D. Dolo, culpa o negligencia grave.
+28. Una de las causas del recurso extraordinario de revisión es la aparición de documentos esenciales que antes no pudieron aportarse; en ese caso el plazo es de:
+    A. 1 mes desde el acto
+    B. 3 meses desde su conocimiento
+    C. 4 años desde el acto
+    D. 6 meses desde el acto
 
-29. En el procedimiento del artículo 36 de la Ley 40/2015, el plazo para resolver por el órgano competente es:
-    A. 20 días.
-    B. 5 días.
-    C. 15 días.
-    D. 10 días.
+29. La Administración debe exigir de oficio responsabilidad a sus autoridades y personal cuando hayan actuado con:
+    A. Cualquier error leve
+    B. Simple discrepancia jurídica
+    C. Buena fe
+    D. Dolo, culpa o negligencia grave
 
-30. ¿Cuál es la opción correcta?
-    A. Nulidad: art. 48; anulabilidad: art. 47.
-    B. Nulidad y anulabilidad están en el art. 107.
-    C. Nulidad: art. 47; anulabilidad: art. 48.
-    D. Solo existe anulabilidad.
+30. En el procedimiento del artículo 36 de la Ley 40/2015, el plazo para resolver por el órgano competente es de:
+    A. 5 días
+    B. 10 días
+    C. 15 días
+    D. 20 días
 
 ## Respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | D | Concepto |
-| 2 | C | Ley 39/2015, art. 39 |
+| 1 | C | Concepto |
+| 2 | A | Ley 39/2015, art. 39 |
 | 3 | D | Competencia |
 | 4 | B | Ley 39/2015, art. 47 |
-| 5 | B | Ley 39/2015, art. 34 |
-| 6 | A | Ley 39/2015, art. 35 |
-| 7 | C | Ley 39/2015, art. 35 |
-| 8 | D | Ley 39/2015, art. 36 |
-| 9 | A | Ley 39/2015, art. 39 |
-| 10 | A | Ley 39/2015, art. 40 |
-| 11 | A | Ley 39/2015, art. 45 |
-| 12 | C | Ley 39/2015, art. 47 |
-| 13 | B | Ley 39/2015, art. 47 |
+| 5 | C | Ley 39/2015, art. 34 |
+| 6 | D | Ley 39/2015, art. 35 |
+| 7 | A | Ley 39/2015, art. 36 |
+| 8 | B | Ley 39/2015, art. 39 |
+| 9 | D | Ley 39/2015, art. 40 |
+| 10 | C | Ley 39/2015, art. 45 |
+| 11 | B | Ley 39/2015, art. 47 |
+| 12 | A | Ley 39/2015, art. 47 |
+| 13 | D | Ley 39/2015, art. 48 |
 | 14 | C | Ley 39/2015, art. 48 |
-| 15 | C | Ley 39/2015, art. 48 |
-| 16 | B | Ley 39/2015, art. 106 |
-| 17 | B | Ley 39/2015, art. 107 |
-| 18 | D | Ley 39/2015, art. 107 |
-| 19 | A | Ley 39/2015, art. 107 |
-| 20 | A | Ley 39/2015, art. 109 |
-| 21 | C | Ley 39/2015, art. 109 |
-| 22 | B | Ley 39/2015, art. 121 |
-| 23 | B | Ley 39/2015, art. 122 |
-| 24 | A | Ley 39/2015, art. 123 |
-| 25 | A | Ley 39/2015, art. 124 |
-| 26 | D | Ley 39/2015, art. 125 |
-| 27 | D | Ley 39/2015, art. 125 |
-| 28 | D | Ley 40/2015, art. 36 |
-| 29 | B | Ley 40/2015, art. 36 |
-| 30 | C | Ley 39/2015, arts. 47 y 48 |
+| 15 | A | Ley 39/2015, art. 51 |
+| 16 | B | Ley 39/2015, arts. 47 y 52 |
+| 17 | D | Ley 39/2015, art. 106 |
+| 18 | A | Ley 39/2015, art. 107 |
+| 19 | C | Ley 39/2015, art. 107 |
+| 20 | B | Ley 39/2015, art. 107 |
+| 21 | A | Ley 39/2015, art. 108 |
+| 22 | D | Ley 39/2015, art. 109 |
+| 23 | B | Ley 39/2015, art. 109 |
+| 24 | C | Ley 39/2015, art. 121 |
+| 25 | D | Ley 39/2015, art. 122 |
+| 26 | A | Ley 39/2015, art. 123 |
+| 27 | C | Ley 39/2015, art. 123 |
+| 28 | B | Ley 39/2015, art. 125 |
+| 29 | D | Ley 40/2015, art. 36 |
+| 30 | A | Ley 40/2015, art. 36 |

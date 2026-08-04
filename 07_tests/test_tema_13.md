@@ -1,246 +1,248 @@
 # Test Tema 13. Igualdad, violencia de genero y LGTBI
 
-1. El principio de igualdad ante la ley y no discriminación se recoge en la Constitución en:
+Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_13_igualdad_violencia_lgtbi.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
+
+1. El artículo 9.2 de la Constitución obliga a los poderes públicos a:
+
+A. Aprobar presupuestos anuales.  
+B. Sancionar exclusivamente conductas penales.  
+C. Promover condiciones para que la igualdad sea real y efectiva y remover los obstáculos que impidan su plenitud.  
+D. Regular el régimen electoral general.
+
+2. ¿Qué artículo constitucional recoge la igualdad ante la ley y la prohibición de discriminación por razón de sexo, entre otras causas?
 
 A. Artículo 14.  
-B. Artículo 8.  
-C. Artículo 9.2.  
-D. Artículo 15.
+B. Artículo 9.2.  
+C. Artículo 10.1.  
+D. Artículo 1.1.
 
-2. El artículo 9.2 de la Constitución se relaciona especialmente con:
+3. Según el artículo 3 de la LO 3/2007, ¿qué motivo NO se cita expresamente como referencia especial de la discriminación por razón de sexo?
 
-A. Igualdad real y efectiva.  
-B. La bandera española.  
-C. La mayoría de edad.  
-D. La potestad reglamentaria.
+A. Maternidad.  
+B. Asunción de obligaciones familiares.  
+C. Estado civil.  
+D. Lugar de residencia.
 
-3. El principio de igualdad de trato entre mujeres y hombres del artículo 3 LO 3/2007 supone:
+4. El objeto de la LO 3/2007 es hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante:
 
-A. Ausencia de toda discriminación directa o indirecta por razón de sexo.  
-B. Ausencia solo de discriminación penal.  
-C. Igualdad solo en acceso a función pública.  
-D. Obligación de aprobar una ley anual.
+A. La supresión de los planes de igualdad.  
+B. La eliminación de la discriminación de la mujer.  
+C. La reducción de derechos laborales.  
+D. La eliminación de los juzgados especializados.
 
-4. La igualdad de trato y oportunidades entre mujeres y hombres es, según el artículo 4 LO 3/2007:
+5. El principio informador del ordenamiento jurídico, según el artículo 4 de la LO 3/2007, es:
 
-A. Una recomendación sin efectos interpretativos.  
-B. Una regla exclusiva de empresas públicas.  
-C. Un principio informador del ordenamiento jurídico.  
-D. Un principio solo presupuestario.
+A. La igualdad de trato y de oportunidades entre mujeres y hombres.  
+B. La jerarquía normativa.  
+C. La irretroactividad de las normas sancionadoras.  
+D. La publicidad de las normas.
 
-5. Una discriminación indirecta se produce cuando:
+6. Que un criterio en apariencia neutro coloque a las personas de un sexo en desventaja particular respecto de las del otro, salvo justificación objetiva y proporcionada, define:
 
-A. Siempre existe intención de discriminar.  
-B. Solo hay violencia física.  
-C. Se aplica una medida de acción positiva proporcionada.  
-D. Una regla aparentemente neutra provoca desventaja particular injustificada.
+A. La discriminación directa.  
+B. El acoso sexual.  
+C. La discriminación indirecta.  
+D. La acción positiva.
 
-6. El acoso sexual y el acoso por razón de sexo:
+7. El acoso sexual y el acoso por razón de sexo, según la LO 3/2007:
 
-A. Solo son relevantes si hay despido.  
-B. Se consideran discriminatorios.  
-C. No tienen relación con igualdad.  
-D. Solo existen en el sector público.
+A. Solo se sancionan si hay denuncia penal.  
+B. Solo afectan al ámbito laboral privado.  
+C. No están regulados por la ley.  
+D. Se consideran en todo caso discriminatorios.
 
-7. Las empresas obligadas por tamaño a elaborar plan de igualdad son actualmente las de:
+8. La garantía de indemnidad protege a la persona que reclama igualdad o denuncia discriminación frente a:
 
-A. 25 o más personas trabajadoras.  
-B. Más de 250 personas trabajadoras.  
-C. 50 o más personas trabajadoras.  
-D. Más de 300 personas trabajadoras.
+A. La pérdida de la nacionalidad.  
+B. Cualquier trato adverso o represalia por esa reclamación.  
+C. Sanciones penales automáticas.  
+D. La revisión de oficio de sus actos.
 
-8. En la pregunta histórica de 2017, el umbral antiguo de planes de igualdad era:
+9. Una medida específica y proporcionada destinada a corregir una desigualdad de hecho constatada se denomina:
 
-A. Más de 25 trabajadores.  
-B. Más de 100 trabajadores.  
-C. Más de 500 trabajadores.  
-D. Más de 250 trabajadores.
+A. Acción positiva.  
+B. Discriminación indirecta.  
+C. Discriminación por asociación.  
+D. Principio informador.
 
-9. Los planes de igualdad son:
+10. Integrar el principio de igualdad de forma activa en el conjunto de las políticas públicas se conoce como:
 
-A. Listado de sanciones penales.  
-B. Conjunto ordenado de medidas tras diagnóstico para alcanzar igualdad y eliminar discriminación.  
-C. Memoria presupuestaria anual.  
-D. Instrumento exclusivo de entidades locales.
+A. Compulsa.  
+B. Interoperabilidad.  
+C. Transversalidad.  
+D. Subsidiariedad.
 
-10. Los Juzgados de Violencia sobre la Mujer se crean por:
+11. La regla vigente sobre elaboración de planes de igualdad en empresas se aplica a las que cuenten con:
 
-A. Ley Orgánica 1/2004.  
-B. Ley 30/2003.  
-C. Ley de Enjuiciamiento Civil.  
-D. Ley 15/2022.
+A. Más de 250 personas trabajadoras.  
+B. 50 o más personas trabajadoras.  
+C. Más de 500 personas trabajadoras.  
+D. Cualquier número, sin umbral.
 
-11. La funcionaria víctima de violencia de género puede tener derecho a:
+12. El umbral de «más de 250 personas trabajadoras» para planes de igualdad corresponde a:
 
-A. Reducción o reordenación del tiempo de trabajo.  
-B. Movilidad geográfica de centro de trabajo.  
-C. Excedencia en los términos aplicables.  
-D. Todas son correctas.
+A. La regla vigente para la convocatoria 2026.  
+B. Una excepción aplicable solo al sector público.  
+C. Una medida exclusiva de la Comunidad de Madrid.  
+D. Una redacción histórica ya superada, citada en una pregunta de 2017.
 
-12. En publicidad y medios, la LO 1/2004 promueve:
+13. Un plan de igualdad de empresa debe contener, entre otros elementos:
 
-A. Prohibición absoluta de usar imagen de mujeres.  
-B. Acuerdos de autorregulación con mecanismos eficaces de control y resolución extrajudicial.  
-C. Supresión de todos los medios privados.  
-D. Competencia exclusiva de los ayuntamientos.
+A. Un conjunto ordenado de medidas adoptado tras un diagnóstico de situación.  
+B. Un listado de sanciones penales.  
+C. Solo el organigrama de la empresa.  
+D. Exclusivamente medidas retributivas.
 
-13. La Ley 15/2022 regula:
+14. La norma que regula las medidas de protección integral contra la violencia de género es:
 
-A. Solo presupuestos autonómicos.  
-B. Solo contratación pública.  
-C. Igualdad de trato y no discriminación con carácter general.  
-D. Solo protección de datos.
+A. La Ley 15/2022.  
+B. La Ley 4/2023.  
+C. La LO 1/2004.  
+D. La Ley 2/2016 de la Comunidad de Madrid.
 
-14. La Ley 4/2023 se refiere a:
+15. Los Juzgados de Violencia sobre la Mujer se crean por:
 
-A. Hacienda general.  
-B. Procedimiento administrativo común.  
-C. Igualdad real y efectiva de personas trans y garantía de derechos LGTBI.  
-D. Función pública madrileña exclusivamente.
+A. La Ley Orgánica del Poder Judicial exclusivamente.  
+B. La LO 1/2004.  
+C. La Ley 15/2022.  
+D. Un reglamento autonómico.
 
-15. El Consejo de Participación de las Personas LGTBI depende:
+16. Entre los derechos reconocidos a la funcionaria víctima de violencia de género se encuentra:
 
-A. Del Ministerio de Igualdad a través de la Secretaría de Estado de Igualdad y contra la Violencia de Género.  
-B. De la Secretaría General de Presidencia del Gobierno.  
-C. De la Delegación del Gobierno en Madrid.  
-D. De cada ayuntamiento.
+A. La pérdida automática de la condición de funcionaria.  
+B. La suspensión de todos sus derechos económicos.  
+C. La exclusión de procesos selectivos futuros.  
+D. La movilidad geográfica de centro de trabajo.
 
-16. Las empresas de más de 50 personas trabajadoras, conforme a Ley 4/2023, deben contar con:
+17. En materia de publicidad y medios de comunicación, la LO 1/2004 promueve que la Administración impulse:
 
-A. Solo un registro salarial.  
-B. Un juzgado propio.  
-C. Medidas y recursos para igualdad LGTBI, incluido protocolo frente a acoso o violencia.  
-D. Un plan presupuestario plurianual.
+A. Acuerdos de autorregulación con mecanismos de control preventivo y resolución extrajudicial de controversias.  
+B. La prohibición absoluta de toda publicidad con presencia de mujeres.  
+C. La cesión de la competencia a corporaciones privadas sin supervisión.  
+D. La eliminación de los códigos deontológicos del sector.
 
-17. La Ley 2/2016 de la Comunidad de Madrid regula principalmente:
+18. La Ley 15/2022 se caracteriza frente a la LO 3/2007 y la LO 1/2004 por:
 
-A. Presupuestos generales.  
-B. Contratos menores.  
-C. Seguridad Social.  
-D. Identidad y expresión de género e igualdad social y no discriminación.
+A. Sustituir íntegramente a ambas normas.  
+B. Ser una ley general de igualdad de trato y no discriminación que las complementa.  
+C. Regular solo la contratación pública.  
+D. Aplicarse exclusivamente a la Comunidad de Madrid.
 
-18. La Ley 3/2016 de la Comunidad de Madrid se centra en:
+19. ¿Cuál de los siguientes NO figura entre los motivos de discriminación recogidos por la Ley 15/2022?
 
-A. Hacienda pública.  
-B. Organización de juzgados.  
-C. Registro electrónico.  
-D. Protección integral contra la LGTBIfobia y discriminación por orientación e identidad sexual.
+A. Origen racial o étnico.  
+B. Orientación o identidad sexual.  
+C. Afiliación a un colegio profesional.  
+D. Situación socioeconómica.
 
-19. Según la Ley 3/2016 CAM, las personas LGTBI tienen derecho a igualdad:
+20. La Ley 4/2023 tiene como ejes principales:
 
-A. Solo en sanidad.  
-B. Solo en empleo público.  
-C. Solo en asociaciones privadas.  
-D. En cualquier ámbito de la vida.
+A. La reforma del sistema de Seguridad Social.  
+B. La regulación de la contratación del sector público.  
+C. El régimen presupuestario autonómico.  
+D. La igualdad real y efectiva de las personas trans y la garantía de derechos de las personas LGTBI.
 
-20. Un principio preguntado de la Ley 3/2016 CAM fue:
+21. El Consejo de Participación de las Personas LGTBI depende orgánicamente:
 
-A. Caja única.  
-B. Derecho a recursos y resarcimientos efectivos.  
-C. Jerarquía normativa.  
-D. Silencio administrativo.
+A. Del Ministerio de Igualdad, a través de la Secretaría de Estado de Igualdad y contra la Violencia de Género.  
+B. De la Presidencia del Gobierno.  
+C. De cada comunidad autónoma de forma independiente.  
+D. Del Consejo General del Poder Judicial.
 
-21. La orientación sexual se refiere a:
+22. Conforme a la Ley 4/2023, las empresas de más de 50 personas trabajadoras deben disponer de:
 
-A. Solo rasgos cromosómicos.  
-B. Atracción afectiva, sexual o emocional.  
-C. Solo nombre registral.  
-D. Solo apariencia externa.
+A. Un juzgado especializado propio.  
+B. Medidas y recursos para la igualdad real de las personas LGTBI, incluido un protocolo frente al acoso o la violencia.  
+C. Un plan de pensiones obligatorio.  
+D. Un registro mercantil interno.
 
-22. La expresión de género es:
+23. La norma de la Comunidad de Madrid que regula específicamente la identidad y expresión de género es:
 
-A. Competencia exclusiva del Estado sobre deuda.  
-B. Una prestación económica.  
-C. Manifestación externa del género.  
-D. Un trámite presupuestario.
+A. La Ley 3/2016.  
+B. El Decreto 21/2002.  
+C. La Ley 2/2016.  
+D. La Ley 15/2022.
 
-23. Las características sexuales son:
+24. La Ley 3/2016 de la Comunidad de Madrid tiene por objeto principal:
 
-A. Rasgos físicos o biológicos relacionados con el sexo.  
-B. La afiliación a Seguridad Social.  
-C. Los derechos presupuestarios.  
-D. La forma de una ley.
+A. La regulación del régimen de incompatibilidades del personal funcionario.  
+B. La ordenación del sistema tributario autonómico.  
+C. La organización de los archivos administrativos.  
+D. La protección integral frente a la LGTBIfobia y la discriminación por orientación e identidad sexual.
 
-24. La garantía de indemnidad protege frente a:
+25. Según la Ley 3/2016 de la Comunidad de Madrid, las personas LGTBI tienen derecho, entre otros, a:
 
-A. La aprobación de reglamentos.  
-B. Represalias por reclamar igualdad o denunciar discriminación.  
-C. El pago de tasas.  
-D. La pérdida de expedientes.
+A. Recursos y resarcimientos efectivos frente a la vulneración de sus derechos.  
+B. Un trato diferenciado exclusivamente en el ámbito sanitario.  
+C. La exención del deber de identificación en trámites administrativos.  
+D. Un régimen fiscal específico.
 
-25. La acción positiva es:
+26. La atracción afectiva, sexual o emocional que una persona siente hacia otras personas se corresponde con el concepto de:
 
-A. Una discriminación arbitraria siempre prohibida.  
-B. Una medida proporcionada para corregir desigualdad real.  
-C. Una sanción penal.  
-D. Un recurso administrativo.
+A. Identidad de género.  
+B. Orientación sexual.  
+C. Expresión de género.  
+D. Características sexuales.
 
-26. La transversalidad de género implica:
+27. La manifestación externa del género de una persona, a través de la apariencia, la conducta o el lenguaje, define:
 
-A. Aplicarla solo en educación.  
-B. Integrar la igualdad en todas las políticas públicas.  
-C. Sustituir la Constitución.  
-D. Evitar informes.
+A. La orientación sexual.  
+B. Las características sexuales.  
+C. La expresión de género.  
+D. La identidad de género.
 
-27. La acreditación de situaciones de violencia de género puede realizarse, entre otros medios, mediante:
+28. Los rasgos físicos, cromosómicos, gonadales, hormonales o anatómicos relacionados con el sexo de una persona constituyen:
 
-A. Solo declaración verbal sin más.  
-B. Solo contrato laboral.  
-C. Solo inscripción padronal.  
-D. Sentencia condenatoria u orden de protección.
+A. La orientación sexual.  
+B. La expresión de género.  
+C. La identidad de género.  
+D. Las características sexuales.
 
-28. La pregunta histórica sobre Ley 2/2016 CAM e identidad sentida se responde con:
+29. En un proceso por presunta discriminación, cuando la parte actora aporte indicios fundados, corresponde a la parte demandada:
 
-A. Las personas deben ser tratadas conforme a la identidad de género sentida.  
-B. Las personas deben ser tratadas solo por sexo registral inicial.  
-C. La identidad de género no tiene relevancia administrativa.  
-D. Solo se aplica en contratación pública.
+A. Justificar de forma objetiva y razonable la medida adoptada y su proporcionalidad.  
+B. Ser absuelta automáticamente.  
+C. Renunciar a toda defensa.  
+D. Trasladar el caso a un juzgado penal en todo caso.
 
-29. En el artículo 3 LO 3/2007, la discriminación por razón de sexo incluye especialmente las derivadas de:
+30. ¿Qué pareja norma-materia es correcta?
 
-A. Maternidad, obligaciones familiares y estado civil.  
-B. Nacionalidad, deuda y presupuesto.  
-C. Edad de jubilación exclusivamente.  
-D. Registro electrónico.
-
-30. ¿Cuál es la asociación correcta?
-
-A. LO 1/2004 - contratos del sector público.  
-B. Ley 4/2023 - hacienda autonómica.  
-C. LO 3/2007 - igualdad efectiva de mujeres y hombres.  
+A. Ley 4/2023 - hacienda pública autonómica.  
+B. LO 1/2004 - protección integral contra la violencia de género.  
+C. Ley 2/2016 CAM - contratación del sector público.  
 D. Ley 15/2022 - procedimiento administrativo común.
 
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | CE, art. 14 |
-| 2 | A | CE, art. 9.2 |
-| 3 | A | LO 3/2007, art. 3 |
-| 4 | C | LO 3/2007, art. 4 |
-| 5 | D | Discriminación indirecta |
-| 6 | B | LO 3/2007, art. 7 |
-| 7 | C | LO 3/2007, art. 45 vigente |
-| 8 | D | Pregunta histórica 2017 |
-| 9 | B | LO 3/2007, art. 46 |
-| 10 | A | LO 1/2004 |
-| 11 | D | LO 1/2004, art. 24 |
-| 12 | B | LO 1/2004, publicidad |
-| 13 | C | Ley 15/2022 |
-| 14 | C | Ley 4/2023 |
-| 15 | A | Ley 4/2023, art. 9 |
-| 16 | C | Ley 4/2023, art. 15 |
-| 17 | D | Ley 2/2016 CAM |
-| 18 | D | Ley 3/2016 CAM |
-| 19 | D | Ley 3/2016 CAM |
-| 20 | B | Ley 3/2016 CAM |
-| 21 | B | Conceptos LGTBI |
-| 22 | C | Conceptos LGTBI |
-| 23 | A | Conceptos LGTBI |
-| 24 | B | Tutela antidiscriminatoria |
-| 25 | B | Acción positiva |
-| 26 | B | Transversalidad |
-| 27 | D | LO 1/2004, art. 23 |
-| 28 | A | Ley 2/2016 CAM |
-| 29 | A | LO 3/2007, art. 3 |
-| 30 | C | Normativa básica |
+| 1 | C | CE, art. 9.2 |
+| 2 | A | CE, art. 14 |
+| 3 | D | LO 3/2007, art. 3 |
+| 4 | B | LO 3/2007, art. 1 |
+| 5 | A | LO 3/2007, art. 4 |
+| 6 | C | Discriminación indirecta |
+| 7 | D | LO 3/2007, art. 7 |
+| 8 | B | Garantía de indemnidad |
+| 9 | A | Acción positiva |
+| 10 | C | Transversalidad |
+| 11 | B | LO 3/2007, art. 45 vigente |
+| 12 | D | Pregunta histórica 2017 |
+| 13 | A | LO 3/2007, art. 46 |
+| 14 | C | LO 1/2004 |
+| 15 | B | LO 1/2004 |
+| 16 | D | LO 1/2004, art. 24 |
+| 17 | A | LO 1/2004, publicidad |
+| 18 | B | Ley 15/2022 |
+| 19 | C | Ley 15/2022, motivos |
+| 20 | D | Ley 4/2023 |
+| 21 | A | Ley 4/2023, art. 9 |
+| 22 | B | Ley 4/2023, art. 15 |
+| 23 | C | Ley 2/2016 CAM |
+| 24 | D | Ley 3/2016 CAM |
+| 25 | A | Ley 3/2016 CAM |
+| 26 | B | Conceptos LGTBI |
+| 27 | C | Conceptos LGTBI |
+| 28 | D | Conceptos LGTBI |
+| 29 | A | Tutela antidiscriminatoria |
+| 30 | B | Normativa básica |
