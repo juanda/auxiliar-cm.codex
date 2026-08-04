@@ -1,4 +1,4 @@
-# Test Tema 3. Gobierno y Administracion de la Comunidad de Madrid
+# Test Tema 3. Gobierno y Administración de la Comunidad de Madrid
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco distinto del test embebido en el tema (sección 7), para practicar con formulaciones y artículos no repetidos.
 

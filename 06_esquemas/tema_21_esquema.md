@@ -1,57 +1,57 @@
 # Tema 21. Microsoft 365 - Esquema de repaso
 
-## Version oficial
+## Versión oficial
 
-La convocatoria 2026 fija `Microsoft 365 version escritorio` para Office. El Tema 21 se estudia como trabajo colaborativo con Teams, SharePoint, OneDrive y Outlook, mas videoconferencias.
+La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Office. El Tema 21 se estudia como trabajo colaborativo con Teams, SharePoint, OneDrive y Outlook, mas videoconferencias.
 
 ## Nucleo del tema
 
 | Herramienta | Idea clave |
 | --- | --- |
 | Teams | Equipos, canales, chats, reuniones y videoconferencias. |
-| SharePoint | Sitios, bibliotecas, informacion y documentos compartidos. |
-| OneDrive | Almacenamiento personal, comparticion y sincronizacion. |
-| Outlook | Correo, calendario, convocatorias e integracion con Teams. |
+| SharePoint | Sitios, bibliotecas, información y documentos compartidos. |
+| OneDrive | Almacenamiento personal, compartición y sincronización. |
+| Outlook | Correo, calendario, convocatorias e integración con Teams. |
 
-## Reglas de colaboracion segura
+## Reglas de colaboración segura
 
 | Idea | Clave |
 | --- | --- |
-| Permiso minimo | Dar solo lectura o edicion necesaria. |
-| Archivo unico | Mejor enlace compartido que copias multiples. |
+| Permiso mínimo | Dar solo lectura o edición necesaria. |
+| Archivo único | Mejor enlace compartido que copias múltiples. |
 | Coautoria | Varias personas editan el mismo documento. |
 | Historial de versiones | Permite revisar o recuperar versiones. |
 | Trazabilidad | Comentarios, menciones y actividad. |
 | Superficies | Escritorio, web, movil y archivos sincronizados. |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
-| `2023-E2-008` | Marcadores = direcciones web guardadas para acceso rapido. |
+| `2023-E2-008` | Marcadores = direcciones web guardadas para acceso rápido. |
 | `2023-E2-009` | ARPANET = antecedente del actual Internet. |
 | `2023-E2-014` | SFTP usa canal seguro; FTP no. |
-| `2023-E2-022` | Modo incognito = funcion de privacidad del navegador. |
+| `2023-E2-022` | Modo incognito = función de privacidad del navegador. |
 | `2023-E2-030` | Rust no es navegador web. |
 | `2023-E2-032` | HTTPS no es exclusivo de Firefox o Chrome. |
 | `2025-E2-026` | SharePoint = organizar, compartir y colaborar con documentos. |
 | `2025-E2-027` | Equipo de Teams = personas, contenido y herramientas. |
 | `2025-E2-028` | OneDrive sincroniza archivos de SharePoint con el equipo local. |
-| `2025-E2-029` | Es falso que reuniones Teams solo admitan misma organizacion. |
+| `2025-E2-029` | Es falso que reuniones Teams solo admitan misma organización. |
 | `2025-E2-030` | Organizador = mayor nivel de control en reunion Teams. |
 
 ## Teams
 
-| Concepto | Definicion breve |
+| Concepto | Definición breve |
 | --- | --- |
 | Equipo | Personas, contenido y herramientas para colaborar. |
 | Canal | Espacio dentro de un equipo para organizar trabajo. |
-| Chat | Conversacion directa o de grupo. |
+| Chat | Conversación directa o de grupo. |
 | Pestana | Acceso a archivo, app o recurso. |
 | OneNote | Notas compartidas. |
-| Planner / Tasks | Tareas y planificacion. |
+| Planner / Tasks | Tareas y planificación. |
 | Forms | Formularios y encuestas. |
-| Reunion | Audio, video, chat, pantalla y posible grabacion. |
+| Reunion | Audio, video, chat, pantalla y posible grabación. |
 | Reunirse ahora | Inicio inmediato de reunion. |
 | Sala de espera | Control de entrada a la reunion. |
 | Sala de trabajo | Subgrupo temporal dentro de una reunion. |
@@ -63,13 +63,13 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Office. El Tem
 
 | Concepto | Clave |
 | --- | --- |
-| Sitio | Espacio de trabajo o publicacion. |
-| Sitio de equipo | Colaboracion de grupo o proyecto. |
+| Sitio | Espacio de trabajo o publicación. |
+| Sitio de equipo | Colaboración de grupo o proyecto. |
 | Biblioteca | Repositorio de documentos. |
 | Lista | Datos estructurados. |
 | Metadatos | Columnas descriptivas de documentos o elementos. |
-| Permisos | Control de lectura, edicion o administracion. |
-| Versiones | Recuperacion o consulta de cambios anteriores. |
+| Permisos | Control de lectura, edición o administración. |
+| Versiones | Recuperación o consulta de cambios anteriores. |
 
 ## OneDrive
 
@@ -77,11 +77,11 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Office. El Tem
 | --- | --- |
 | Almacenamiento personal | Archivos del usuario. |
 | Compartir vinculo | Acceso con permisos. |
-| Sincronizacion | Copia local coordinada con la nube. |
-| Archivos a peticion | Ver archivos sin descargarlos todos inicialmente, segun configuracion. |
-| Solo en linea | Visible, se descarga al abrir. |
+| Sincronización | Copia local coordinada con la nube. |
+| Archivos a petición | Ver archivos sin descargarlos todos inicialmente, según configuración. |
+| Solo en línea | Visible, se descarga al abrir. |
 | Siempre conservar | Mantiene copia local. |
-| Error de sincronizacion | Conflicto, permiso o problema de ruta. |
+| Error de sincronización | Conflicto, permiso o problema de ruta. |
 
 Frase de examen: sincronizar SharePoint con OneDrive permite trabajar desde el Explorador y sincronizar cambios automaticamente al volver a estar conectado.
 
@@ -89,24 +89,24 @@ Frase de examen: sincronizar SharePoint con OneDrive permite trabajar desde el E
 
 | Uso colaborativo | Idea |
 | --- | --- |
-| Correo | Comunicacion formal. |
-| Calendario | Disponibilidad y planificacion. |
-| Convocatoria | Invitacion a reunion. |
+| Correo | Comunicación formal. |
+| Calendario | Disponibilidad y planificación. |
+| Convocatoria | Invitación a reunion. |
 | Teams | Puede incluir enlace de reunion. |
 | Adjuntos/vinculos | Compartir archivos o enlaces de OneDrive/SharePoint. |
 
-## Navegacion y protocolos
+## Navegación y protocolos
 
-| Concepto | Respuesta rapida |
+| Concepto | Respuesta rápida |
 | --- | --- |
-| Marcador/favorito | Direccion web guardada. |
-| Historial | Paginas visitadas. |
+| Marcador/favorito | Dirección web guardada. |
+| Historial | Páginas visitadas. |
 | Modo incognito | Privacidad local; no anonimato total. |
 | HTTPS | HTTP seguro con cifrado. |
 | FTP | Transferencia de archivos. |
 | SFTP | Transferencia por canal seguro. |
 | ARPANET | Antecedente de Internet. |
-| Rust | Lenguaje de programacion, no navegador. |
+| Rust | Lenguaje de programación, no navegador. |
 
 ## Trampas habituales
 
@@ -121,36 +121,36 @@ Frase de examen: sincronizar SharePoint con OneDrive permite trabajar desde el E
 | SharePoint = PowerPoint | SharePoint gestiona sitios y documentos compartidos. |
 | Biblioteca = lista | Biblioteca documentos; lista datos estructurados. |
 | OneDrive no sincroniza | OneDrive sincroniza archivos y bibliotecas. |
-| Archivo visible = descargado | Con archivos a peticion puede estar solo en linea. |
+| Archivo visible = descargado | Con archivos a petición puede estar solo en línea. |
 | Sincronizar = solo navegador | Sincronizar permite trabajar desde equipo local. |
-| Enlace = permiso automatico | Depende del tipo de enlace y permisos. |
+| Enlace = permiso automático | Depende del tipo de enlace y permisos. |
 | Presentador controla mas que organizador | Organizador tiene mayor control. |
 | Sala de espera = sala de trabajo | Espera controla entrada; trabajo divide participantes. |
-| Teams solo misma organizacion | Puede admitir externos si esta permitido. |
-| Grabacion local obligatoria | Normalmente se almacena en OneDrive o SharePoint. |
+| Teams solo misma organización | Puede admitir externos si esta permitido. |
+| Grabación local obligatoria | Normalmente se almacena en OneDrive o SharePoint. |
 | Adjuntar = coeditar | Adjuntar envia copia; enlace permite archivo centralizado. |
 | Incognito = anonimato total | Solo limita rastros locales. |
 | HTTPS solo Chrome/Firefox | HTTPS funciona en navegadores modernos. |
 | FTP = SFTP | SFTP usa canal seguro. |
 
-## Repaso de una pagina
+## Repaso de una página
 
 Prioridad alta:
 
 - Teams: equipo = personas, contenido y herramientas.
-- Canal: seccion de trabajo dentro de un equipo.
+- Canal: sección de trabajo dentro de un equipo.
 - Pestanas: accesos a archivos, apps o recursos.
 - Apps de pestana probables: OneNote, Planner/Tasks, Forms y SharePoint.
-- Reunion Teams: audio, video, pantalla, chat, grabacion posible.
+- Reunion Teams: audio, video, pantalla, chat, grabación posible.
 - Salas de trabajo: grupos pequenos dentro de reunion.
 - Organizador: mayor control.
-- Grabaciones: normalmente en OneDrive o SharePoint segun tipo de reunion.
+- Grabaciones: normalmente en OneDrive o SharePoint según tipo de reunion.
 - SharePoint: organizar, compartir y colaborar con documentos.
 - Biblioteca: documentos.
 - Lista: datos estructurados.
-- OneDrive: almacenamiento personal y sincronizacion.
-- Archivos a peticion: visibles sin descargar todos.
-- Sincronizar: acceso local y cambios automaticos al conectarse.
+- OneDrive: almacenamiento personal y sincronización.
+- Archivos a petición: visibles sin descargar todos.
+- Sincronizar: acceso local y cambios automáticos al conectarse.
 - Enlace compartido: depende de permisos.
 - Outlook: correo, calendario y convocatorias con enlace de Teams.
 - Marcador: favorito web.

@@ -15,7 +15,7 @@
 
 ## Plantilla
 
-| Nº | Respuesta | Explicacion |
+| Nº | Respuesta | Explicación |
 | ---: | :---: | --- |
 ```
 

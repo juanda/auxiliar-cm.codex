@@ -44,7 +44,7 @@ El objetivo NO es generar un temario enciclopédico, sino un material altamente 
 │   ├── frecuencia_temas.md
 │   ├── frecuencia_subtemas.md
 │   ├── tendencias.md
-│   └── graficos/
+│   └── gráficos/
 │
 ├── 05_temario/
 │   ├── tema_01_constitucion.md
@@ -209,10 +209,10 @@ Cada pregunta debe almacenarse así:
   "id": "2025-L1-034",
   "anyo": 2025,
   "ejercicio": 1,
-  "numero": 34,
+  "número": 34,
   "tema": 6,
   "subtema": "Silencio administrativo",
-  "tipo": "legislacion",
+  "tipo": "legislación",
   "dificultad": "media",
   "pregunta": "....",
   "opciones": {
@@ -234,8 +234,8 @@ Todas las preguntas deberán clasificarse por:
 
 ## Tipo
 
-* legislacion
-* constitucion
+* legislación
+* constitución
 * comunidad_madrid
 * procedimiento_administrativo
 * funcion_publica
@@ -363,7 +363,7 @@ tema,pregunta,respuesta,dificultad
 Ejemplo:
 
 ```csv
-Constitucion,¿Quién sanciona las leyes?,El Rey,baja
+Constitución,¿Quién sanciona las leyes?,El Rey,baja
 ```
 
 ---

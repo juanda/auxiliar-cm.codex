@@ -1,4 +1,4 @@
-# Test Tema 7. Jurisdiccion Contencioso-Administrativa
+# Test Tema 7. Jurisdicción Contencioso-Administrativa
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_07_jurisdiccion_contencioso_administrativa.md`.
 

@@ -1,4 +1,4 @@
-# Tema 4. Las fuentes del ordenamiento juridico
+# Tema 4. Las fuentes del ordenamiento jurídico
 
 Las fuentes del ordenamiento jurídico. La Constitución. Las Leyes: Concepto y clases. Las disposiciones del ejecutivo con fuerza de Ley: Decretos-leyes y Decretos legislativos. Los reglamentos: Concepto y clases. Otras fuentes.
 
@@ -309,7 +309,7 @@ El artículo 95 CE prevé que la celebración de un tratado que contenga estipul
 | Potestad reglamentaria | Gobierno, art. 97 CE. |
 | Tratado político | Requiere previa autorización de Cortes Generales. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma / artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -345,7 +345,7 @@ El artículo 95 CE prevé que la celebración de un tratado que contenga estipul
 | Pensar que el reglamento puede modificar una ley. | El reglamento está subordinado a la ley. |
 | Decir que tratado político solo se informa a Cortes. | Requiere autorización previa de Cortes Generales. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

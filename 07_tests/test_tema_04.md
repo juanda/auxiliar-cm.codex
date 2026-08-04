@@ -1,4 +1,4 @@
-# Test Tema 4. Fuentes del ordenamiento juridico
+# Test Tema 4. Fuentes del ordenamiento jurídico
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco independiente del test embebido en el tema: mismos contenidos, formulaciones distintas.
 

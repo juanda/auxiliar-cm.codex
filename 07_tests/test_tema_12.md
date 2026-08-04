@@ -1,4 +1,4 @@
-# Test Tema 12. Hacienda Publica y Presupuestos
+# Test Tema 12. Hacienda Pública y Presupuestos
 
 Preguntas nuevas de entrenamiento, distintas del test embebido en `05_temario/tema_12_hacienda_presupuestos.md`.
 

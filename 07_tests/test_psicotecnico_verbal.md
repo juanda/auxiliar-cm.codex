@@ -1,16 +1,16 @@
 # Test psicotecnico verbal
 
-Primer ejercicio. Entrenamiento especifico de razonamiento verbal, sinonimos, antonimos, analogias y ortografia.
+Primer ejercicio. Entrenamiento específico de razonamiento verbal, sinonimos, antonimos, analogias y ortografia.
 
 Tiempo recomendado: 15 minutos.
 
-Criterio de correccion recomendado: `aciertos - errores / 3`. Las preguntas en blanco no suman ni restan.
+Criterio de corrección recomendado: `aciertos - errores / 3`. Las preguntas en blanco no suman ni restan.
 
-Procedencia: preguntas generadas a partir de patrones historicos oficiales. No son preguntas oficiales.
+Procedencia: preguntas generadas a partir de patrones históricos oficiales. No son preguntas oficiales.
 
 ## Preguntas
 
-1. Indique cuantas palabras contienen error ortografico, sin valorar tildes: absorber, exuberante, inflingir, hayazgo, garaje, prever, yendo, decision, vajilla, hibernar.
+1. Indique cuantas palabras contienen error ortografico, sin valorar tildes: absorber, exuberante, inflingir, hayazgo, garaje, prever, yendo, decisión, vajilla, hibernar.
    A. 1
    B. 3
    C. 2
@@ -34,9 +34,9 @@ Procedencia: preguntas generadas a partir de patrones historicos oficiales. No s
    C. Conciso.
    D. Confuso.
 
-5. Indique la opcion que contiene sinonimos, en el mismo orden, de: socavar / livido / dicotomia / timorato.
+5. Indique la opción que contiene sinonimos, en el mismo orden, de: socavar / livido / dicotomia / timorato.
    A. Reforzar / palido / union / valiente.
-   B. Excavar / amoratado / division / temeroso.
+   B. Excavar / amoratado / división / temeroso.
    C. Hundir / claro / certeza / indeciso.
    D. Vaciar / rojo / semejanza / osado.
 
@@ -64,7 +64,7 @@ Procedencia: preguntas generadas a partir de patrones historicos oficiales. No s
    C. Dudoso.
    D. Fragil.
 
-10. Indique la opcion que contiene antonimos, en el mismo orden, de: apacible / flamante / extremado.
+10. Indique la opción que contiene antonimos, en el mismo orden, de: apacible / flamante / extremado.
     A. Sereno / nuevo / excesivo.
     B. Turbulento / viejo / moderado.
     C. Tranquilo / usado / intenso.
@@ -102,19 +102,19 @@ Procedencia: preguntas generadas a partir de patrones historicos oficiales. No s
 
 ## Plantilla
 
-| N. | Respuesta | Explicacion |
+| N. | Respuesta | Explicación |
 | ---: | :---: | --- |
 | 1 | C | Errores: `inflingir` y `hayazgo`. El patron es conteo de errores ortograficos. |
 | 2 | B | `Indubitado` significa cierto, que no admite duda. |
 | 3 | C | Derogar elimina la vigencia; absolver elimina la condena. |
 | 4 | C | `Prolijo` equivale a extenso o detallado; su antonimo funcional es `conciso`. |
-| 5 | B | Socavar/excavar, livido/amoratado, dicotomia/division y timorato/temeroso. |
-| 6 | B | La relacion es de antonimia: recto/torcido y afable/desagradable. |
+| 5 | B | Socavar/excavar, livido/amoratado, dicotomia/división y timorato/temeroso. |
+| 6 | B | La relación es de antonimia: recto/torcido y afable/desagradable. |
 | 7 | B | Errores: `exhuberante` y `exibir`; las formas correctas son `exuberante` y `exhibir`. |
-| 8 | A | Egresar/ingresar son opuestos; escindir/cohesionar tambien. |
+| 8 | A | Egresar/ingresar son opuestos; escindir/cohesionar también. |
 | 9 | B | `Loable` significa digno de alabanza; sinonimo: `laudable`. |
 | 10 | B | Apacible/turbulento, flamante/viejo y extremado/moderado. |
-| 11 | A | Mesura/desmesura e inmediatez/tardanza forman pares de oposicion. |
+| 11 | A | Mesura/desmesura e inmediatez/tardanza forman pares de oposición. |
 | 12 | B | `Expeler` es expulsar o echar fuera. |
 | 13 | B | Errores: `subrrayar`, `alcol` y `extrangero`. |
 | 14 | A | Encontrar/perder y estorbar/facilitar son relaciones de antonimia. |

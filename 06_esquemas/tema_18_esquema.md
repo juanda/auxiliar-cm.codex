@@ -26,7 +26,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Ordenación | Cambia el orden de los registros. |
 | Validación | Limita valores permitidos en una celda. |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -60,7 +60,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | `CONTARA` | Contar celdas no vacías. |
 | `SI.ERROR` | Controlar errores de fórmula. |
 | `BUSCARX` | Buscar valores en rangos o matrices. |
-| `IZQUIERDA` / `EXTRAE` | Extraer texto desde inicio o posicion intermedia. |
+| `IZQUIERDA` / `EXTRAE` | Extraer texto desde inicio o posición intermedia. |
 
 ## Referencias y errores
 
@@ -84,8 +84,8 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Validación de datos | Limitar entradas permitidas. |
 | Pegado especial valores | Conservar resultado, no formula. |
 | Texto en columnas | Dividir una columna en varias. |
-| Area de impresion | Rango que se imprimira. |
-| Escala de impresion | Ajustar salida a paginas. |
+| Área de impresión | Rango que se imprimira. |
+| Escala de impresión | Ajustar salida a páginas. |
 | Tabla dinámica | Resumir por filas, columnas, valores y filtros. |
 | Filtro avanzado | Criterios complejos y copia de resultados. |
 | Referencias estructuradas | `Tabla1[Importe]` en tablas de Excel. |
@@ -107,17 +107,17 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Tabla normal vs tabla dinámica | Normal organiza; dinámica resume. |
 | Gráfico vs tabla dinámica | Gráfico representa; tabla dinámica resume. |
 | Formato vs valor | El formato puede cambiar sólo la visualización. |
-| Formato condicional vs validacion | Condicional cambia aspecto; validacion restringe entrada. |
+| Formato condicional vs validación | Condicional cambia aspecto; validación restringe entrada. |
 | Pegar valores vs formulas | Valores pega el resultado, no la formula. |
 | Hoja oculta vs eliminada | Ocultar no borra el contenido. |
 | Quitar duplicados vs filtrar | Quitar duplicados puede eliminar registros. |
-| Grafico dinamico vs grafico normal | El dinamico depende de una tabla dinamica. |
+| Gráfico dinamico vs gráfico normal | El dinamico depende de una tabla dinamica. |
 | Subtotales vs tabla dinamica | Subtotales inserta resumen; tabla dinamica crea analisis interactivo. |
-| Zoom vs escala | Zoom pantalla; escala impresion. |
+| Zoom vs escala | Zoom pantalla; escala impresión. |
 | Barra de fórmulas vs barra de estado | Fórmulas muestra contenido de celda activa. |
 | Hojas máximas | Dependen de la memoria disponible. |
 
-## Repaso de una pagina
+## Repaso de una página
 
 Excel = libro -> hojas -> filas y columnas -> celdas.
 
@@ -137,12 +137,12 @@ Prioridad alta:
 - Quitar duplicados si puede modificar datos.
 - La validación limita entradas permitidas.
 - Tabla de Excel no es tabla dinamica.
-- Area de impresion y escala afectan a papel/PDF; zoom no.
+- Área de impresión y escala afectan a papel/PDF; zoom no.
 - Formato de celdas: `Ctrl+1`.
-- Formato condicional resalta; validacion controla valores permitidos.
+- Formato condicional resalta; validación controla valores permitidos.
 - Filtro avanzado permite criterios complejos.
 - Gráfico dinámico = gráfico asociado a tabla dinámica.
 - Consolidar, Buscar objetivo, Escenarios y Subtotales son gestión/análisis de datos.
 - Un hipervínculo permite saltar a otra ubicación.
-- Indicador en esquina de celda: informacion asociada, como comentario o nota segun version; si la pregunta cita Excel 2016, aplicar la clave historica.
+- Indicador en esquina de celda: información asociada, como comentario o nota según versión; si la pregunta cita Excel 2016, aplicar la clave histórica.
 - En `Vista`, `Organizar ventanas` -> `Horizontal`: organiza en horizontal ventanas abiertas.

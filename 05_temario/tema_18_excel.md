@@ -302,7 +302,7 @@ No todas han aparecido históricamente, pero son funciones básicas de Microsoft
 | Estadísticas | `PROMEDIO`, `MAX`, `MIN`, `CONTAR`, `CONTARA` | Resumen de valores. |
 | Lógicas | `SI`, `Y`, `O`, `SI.ERROR` | Condiciones y tratamiento de errores. |
 | Texto | `DERECHA`, `IZQUIERDA`, `EXTRAE`, `LARGO`, `CONCAT` | Manipular cadenas. |
-| Fecha | `HOY`, `AHORA`, `DIA`, `MES`, `AÑO` | Trabajar con fechas. |
+| Fecha | `HOY`, `AHORA`, `DÍA`, `MES`, `AÑO` | Trabajar con fechas. |
 | Búsqueda | `BUSCARX`, `BUSCARV` | Localizar datos por clave. |
 
 Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones.
@@ -539,11 +539,11 @@ Pregunta histórica: `2023-E2-029`.
 
 ### 2.10. Comentarios, notas e indicadores visuales
 
-En una pregunta historica de Excel 2016 se pregunto por el pequeno triangulo rojo en la esquina superior derecha de una celda. En esa version, la respuesta esperada se asociaba a la existencia de un comentario en la celda.
+En una pregunta histórica de Excel 2016 se pregunto por el pequeno triangulo rojo en la esquina superior derecha de una celda. En esa versión, la respuesta esperada se asociaba a la existencia de un comentario en la celda.
 
 Pregunta histórica: `2023-E2-035`.
 
-En Excel de Microsoft 365 escritorio conviene distinguir comentarios y notas: los comentarios modernos estan pensados para conversaciones, mientras que las notas mantienen una logica mas parecida al comentario clasico. Para examen, la idea segura es que un indicador en la esquina de la celda avisa de informacion asociada a esa celda; si una pregunta menciona expresamente Excel 2016, se responde con la clave historica.
+En Excel de Microsoft 365 escritorio conviene distinguir comentarios y notas: los comentarios modernos estan pensados para conversaciones, mientras que las notas mantienen una lógica mas parecida al comentario clasico. Para examen, la idea segura es que un indicador en la esquina de la celda avisa de información asociada a esa celda; si una pregunta menciona expresamente Excel 2016, se responde con la clave histórica.
 
 ### 2.11. Ventanas y vistas
 
@@ -612,7 +612,7 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Área de impresión | Rango que se imprimirá | Medio |
 | Escala de impresión | Ajusta salida a páginas | Medio |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 No hay artículos legales aplicables a este tema. Es materia práctica de ofimática. Para examen deben memorizarse términos, funciones y rutas estables de Excel.
 
@@ -655,13 +655,13 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Confundir gráfico con tabla dinámica | El gráfico representa; la tabla dinámica resume y reorganiza. |
 | Pensar que cambiar el gráfico cambia los datos | Cambia la representación, no necesariamente el origen. |
 | Confundir zoom con escala de impresión | Zoom afecta a pantalla; escala afecta a papel/PDF. |
-| Confundir comentario/nota con hipervinculo | El comentario o nota anade informacion; el hipervinculo salta a otra ubicacion. |
-| Interpretar un indicador de esquina como error de formula | En Excel puede avisar de informacion asociada a la celda, como comentario o nota segun version. |
+| Confundir comentario/nota con hipervinculo | El comentario o nota anade información; el hipervinculo salta a otra ubicación. |
+| Interpretar un indicador de esquina como error de formula | En Excel puede avisar de información asociada a la celda, como comentario o nota según versión. |
 | Confundir organizar ventanas con dividir hoja | Organizar ventanas afecta a ventanas abiertas; dividir afecta a la vista de la hoja. |
 | Pensar que el número de hojas es siempre 255 | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
 | Usar coma en fórmulas españolas de examen cuando la opción correcta usa punto y coma | En Excel español suele usarse `;` como separador. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Subtema | Qué preguntó | Respuesta |
 | --- | --- | --- | :---: |

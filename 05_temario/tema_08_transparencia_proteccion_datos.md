@@ -1,4 +1,4 @@
-# Tema 8. Transparencia, acceso a la informacion publica y proteccion de datos
+# Tema 8. Transparencia, acceso a la información pública y protección de datos
 
 La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno: ámbito de actuación, publicidad activa y derecho de acceso a la información pública. Especial referencia a la Comunidad de Madrid. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: principios y derechos de las personas. Referencia al Delegado de Protección de Datos, y al responsable y encargado del tratamiento. Especialidades en el Sector Público.
 
@@ -390,7 +390,7 @@ Idea de examen: el sector público no está exento de protección de datos; tien
 | Encargado | Trata datos por cuenta del responsable. |
 | DPD | Informa, supervisa, asesora y coopera con autoridad de control. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma / artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -427,7 +427,7 @@ Idea de examen: el sector público no está exento de protección de datos; tien
 | Responsable y encargado como sinónimos. | Responsable decide; encargado trata por cuenta del responsable. |
 | Sector público exento de protección de datos. | Tiene obligaciones reforzadas, incluido DPD. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

@@ -1,4 +1,4 @@
-# Tema 12. Hacienda Publica y Presupuestos de la Comunidad de Madrid
+# Tema 12. Hacienda Pública y Presupuestos de la Comunidad de Madrid
 
 Hacienda Pública: Normativa básica. La Ley de Hacienda de la Comunidad de Madrid: Estructura y principios generales. Los Presupuestos Generales de la Comunidad de Madrid. El ciclo presupuestario.
 
@@ -488,7 +488,7 @@ Para examen, no memorizar importes concretos: cambian cada ejercicio. Memorizar 
 | Suplemento de crédito | Existe crédito pero es insuficiente. |
 | Liquidación | Resultado de la ejecución presupuestaria al cierre. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma | Artículo | Relevancia |
 | --- | --- | --- |
@@ -524,7 +524,7 @@ Para examen, no memorizar importes concretos: cambian cada ejercicio. Memorizar 
 | Confundir control interno con control externo. | Intervención = interno; Cámara/Tribunal de Cuentas = externo. |
 | Confundir crédito extraordinario y suplemento. | Sin crédito: extraordinario; crédito insuficiente: suplemento. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | ID | Año | Subtema | Qué preguntó | Respuesta que debe saberse |
 | --- | ---: | --- | --- | --- |
@@ -753,7 +753,7 @@ D. El resultado de la ejecución al cierre del ejercicio.
 
 A. Asamblea - aprueba la Ley de Presupuestos.  
 B. Consejo de Gobierno - aprueba definitivamente la Ley.  
-C. Intervención General - publica el BOCM.  
+C. Intervención General - pública el BOCM.  
 D. Tesorería - control externo parlamentario.
 
 ### Plantilla de respuestas

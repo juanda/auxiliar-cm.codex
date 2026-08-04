@@ -1,4 +1,4 @@
-# Tema 8. Transparencia y proteccion de datos - Esquema de repaso
+# Tema 8. Transparencia y protección de datos - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -65,7 +65,7 @@ Ley 19/2013: ámbito, publicidad activa y derecho de acceso. Comunidad de Madrid
 | DPD | Informa, asesora, supervisa y coopera |
 | Sector público | DPD obligatorio salvo tribunales en función judicial |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -102,7 +102,7 @@ Ley 19/2013: ámbito, publicidad activa y derecho de acceso. Comunidad de Madrid
 | Menor 12 años | No: mayor de 14 |
 | Seguridad pública en DPD | No: seguridad privada |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Ley 19/2013: transparencia, acceso, buen gobierno.
 - Acceso: todas las personas.

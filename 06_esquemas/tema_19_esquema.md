@@ -20,7 +20,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Clave principal | Identifica de forma única. |
 | Clave externa | Referencia una clave principal de otra tabla. |
 | Consulta | Obtiene, filtra, combina o calcula datos. |
-| Consulta de accion | Actualiza, anexa, elimina o crea tabla. |
+| Consulta de acción | Actualiza, anexa, elimina o crea tabla. |
 | Formulario | Interfaz para introducir o consultar datos. |
 | Subformulario | Muestra datos relacionados dentro de un formulario. |
 | Informe | Presentación para imprimir/exportar. |
@@ -29,7 +29,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Ventana Relaciones | Muestra tablas, campos y líneas con `1` y `∞`. |
 | Power BI | Análisis y visualización de datos. |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -61,20 +61,20 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Elemento | Clave |
 | --- | --- |
 | Vista Diseño | Define campos, tipos y propiedades. |
-| Tipo Texto corto | Codigos, telefonos o datos no calculables. |
-| Tipo Numero | Valores con calculo aritmetico. |
-| Autonumeracion | Identificador automatico unico. |
-| Regla de validacion | Condicion que debe cumplir el dato. |
-| Indice | Acelera busqueda o puede impedir duplicados. |
+| Tipo Texto corto | Códigos, teléfonos o datos no calculables. |
+| Tipo Número | Valores con calculo aritmetico. |
+| Autonumeración | Identificador automático único. |
+| Regla de validación | Condición que debe cumplir el dato. |
+| Indice | Acelera búsqueda o puede impedir duplicados. |
 
 ## Consultas
 
 | Tipo | Uso |
 | --- | --- |
-| Seleccion | Muestra datos que cumplen criterios. |
+| Selección | Muestra datos que cumplen criterios. |
 | Parametros | Pide un valor al ejecutarse. |
 | Totales | Agrupa y calcula sumas, recuentos o promedios. |
-| Accion | Modifica datos: actualizar, anexar, eliminar o crear tabla. |
+| Acción | Modifica datos: actualizar, anexar, eliminar o crear tabla. |
 
 ## Importar, vincular y exportar
 
@@ -104,7 +104,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Campo vs registro | Campo = columna; registro = fila. |
 | Tabla vs consulta | Tabla almacena; consulta obtiene/transforma. |
 | Formulario vs informe | Formulario introduce; informe presenta. |
-| Consulta de seleccion vs accion | La de accion puede modificar datos. |
+| Consulta de selección vs acción | La de acción puede modificar datos. |
 | Importar vs exportar | Importar trae; exportar saca. |
 | Importar vs vincular | Importar copia; vincular conecta. |
 | `.accdb` vs `.xlsx` | Access frente a Excel. |
@@ -115,7 +115,7 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Access vs Power BI | Access gestiona datos; Power BI visualiza y analiza. |
 | Desktop vs Service vs Mobile | Diseñar, publicar/compartir, consultar. |
 
-## Repaso de una pagina
+## Repaso de una página
 
 Prioridad alta:
 
@@ -133,8 +133,8 @@ Prioridad alta:
 - Vista Diseño = definir campos.
 - Propiedades: Formato, Título, Máscara de entrada, Valor predeterminado.
 - Consulta = obtener, filtrar, combinar o calcular.
-- Consulta de accion = puede actualizar, anexar, eliminar o crear tabla.
-- Formulario = entrada/consulta; informe = salida/impresion.
+- Consulta de acción = puede actualizar, anexar, eliminar o crear tabla.
+- Formulario = entrada/consulta; informe = salida/impresión.
 - Relación = asociación entre campos comunes.
 - Ventana Relaciones: líneas entre tablas, símbolos `1` y `∞`.
 - Importar trae datos; exportar saca datos; vincular conecta.

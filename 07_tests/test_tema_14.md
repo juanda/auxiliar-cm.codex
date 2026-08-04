@@ -1,4 +1,4 @@
-# Test Tema 14. Atencion al ciudadano y administracion electronica
+# Test Tema 14. Atención al ciudadano y administración electrónica
 
 Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_14_atencion_ciudadano_administracion_electronica.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
 

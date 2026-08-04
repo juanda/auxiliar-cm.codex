@@ -25,8 +25,8 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Ver aspecto impreso | `Diseño de impresión` |
 | Imprimir | `Archivo` -> `Imprimir` |
 | Exportar a PDF | `Archivo` -> `Exportar` o `Guardar como` PDF |
-| Configurar pagina | `Disposición`: margenes, orientacion, tamano, saltos |
-| Tabla de contenido | `Referencias`: se genera con estilos de titulo |
+| Configurar página | `Disposición`: margenes, orientación, tamano, saltos |
+| Tabla de contenido | `Referencias`: se genera con estilos de título |
 | Combinar correspondencia | `Correspondencia`: documento principal + destinatarios + campos |
 | Revisar cambios | `Revisar`: comentarios, control de cambios, aceptar/rechazar |
 | Inspeccionar documento | `Archivo` -> `Información`: preparar antes de compartir |
@@ -44,13 +44,13 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 | Salto de página | Fuerza inicio en otra página |
 | Salto de sección | Permite configuración propia desde un punto |
 | Encabezado y pie | Zonas repetibles de parte superior e inferior |
-| Tabla | Organiza informacion en filas y columnas |
+| Tabla | Organiza información en filas y columnas |
 | Objeto | Permite insertar o vincular contenido externo |
-| Comentario | Anotacion de revision |
+| Comentario | Anotación de revisión |
 | Control de cambios | Registra modificaciones para aceptar o rechazar |
-| Referencia cruzada | Enlace a titulo, nota, pagina u otro elemento |
+| Referencia cruzada | Enlace a título, nota, página u otro elemento |
 | Indice alfabetico | Entradas marcadas en el texto |
-| Vincular al anterior | Encabezado/pie hereda el de la seccion previa |
+| Vincular al anterior | Encabezado/pie hereda el de la sección previa |
 | Lista con viñetas | Cada párrafo empieza con símbolo o imagen |
 | Lista numerada | Cada párrafo empieza con número, letra o esquema |
 | Propiedades | Metadatos del archivo |
@@ -69,10 +69,10 @@ La convocatoria 2026 fija `Microsoft 365 versión escritorio` para Microsoft Off
 - Tabla de contenido no es indice alfabetico.
 - Referencia cruzada no inserta otro documento.
 - Correspondencia no es una lista numerada.
-- `Vincular al anterior` mantiene encabezado/pie igual al de la seccion anterior.
+- `Vincular al anterior` mantiene encabezado/pie igual al de la sección anterior.
 - En Word español: `Ctrl+G` guarda y `Ctrl+S` subraya.
 - Diseño de impresión no es imprimir.
-- Configuracion de pagina no es elegir impresora.
+- Configuración de página no es elegir impresora.
 - Zoom no cambia el documento.
 - Exportar a PDF no equivale a editar el documento original.
 - Para insertar otro documento: `Objeto`, no `Cuadro de texto`.

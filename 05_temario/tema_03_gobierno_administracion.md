@@ -1,4 +1,4 @@
-# Tema 3. La Ley de Gobierno y Administracion de la Comunidad de Madrid
+# Tema 3. La Ley de Gobierno y Administración de la Comunidad de Madrid
 
 La Ley de Gobierno y Administración de la Comunidad de Madrid: Estructura y contenido. El Gobierno de la Comunidad de Madrid. Organización y estructura básica de las Consejerías. La Administración Institucional de la Comunidad de Madrid.
 
@@ -331,7 +331,7 @@ No confundir:
 | Consejería de Digitalización | Consejería vigente del Decreto 38/2023. |
 | Organismos autónomos | Se crean por ley. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma / artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -363,7 +363,7 @@ No confundir:
 | Citar "Consejería de Servicios Sociales". | Es Familia, Juventud y Asuntos Sociales. |
 | Crear organismos autónomos por Decreto u Orden. | Se crean por ley. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

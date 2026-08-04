@@ -7,7 +7,7 @@ Canonical JSON object:
   "id": "2025-E1-034",
   "anyo": 2025,
   "ejercicio": 1,
-  "numero": 34,
+  "número": 34,
   "tema": null,
   "subtema": "",
   "tipo": "",
@@ -27,7 +27,7 @@ Canonical JSON object:
 CSV columns:
 
 ```text
-id,anyo,ejercicio,numero,tema,subtema,tipo,dificultad,pregunta,opcion_A,opcion_B,opcion_C,opcion_D,respuesta_correcta,fuente
+id,anyo,ejercicio,número,tema,subtema,tipo,dificultad,pregunta,opcion_A,opcion_B,opcion_C,opcion_D,respuesta_correcta,fuente
 ```
 
 Use UTF-8. Escape commas and quotes according to standard CSV rules.

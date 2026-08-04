@@ -1,4 +1,4 @@
-# Tema 6. La Ley del Procedimiento Administrativo Comun de las Administraciones Publicas
+# Tema 6. La Ley del Procedimiento Administrativo Comun de las Administraciones Públicas
 
 La Ley del Procedimiento Administrativo Común de las Administraciones Públicas: Objeto y ámbito de aplicación. Fases del procedimiento: Iniciación, ordenación, instrucción y finalización.
 
@@ -371,7 +371,7 @@ Pregunta histórica: `2021-E1-015`. En reposición, si el acto fuera expreso, el
 
 Pregunta histórica: `2017-E1-059`. El recurso extraordinario de revisión se entiende desestimado si transcurren más de 3 meses sin dictar y notificar resolución.
 
-### 2.17. Competencia y tecnicas organizativas como refuerzo
+### 2.17. Competencia y técnicas organizativas como refuerzo
 
 Una pregunta histórica del Tema 6 entró por instituciones de competencia más propias de la Ley 40/2015, pero integradas en la práctica del procedimiento.
 
@@ -404,7 +404,7 @@ Pregunta histórica: `2017-E1-060`. Ninguna de esas figuras supone alteración d
 | Audiencia | Antes de propuesta; 10 a 15 días. |
 | Finalización | Resolución, desistimiento, renuncia, caducidad, imposibilidad, terminación convencional. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -446,7 +446,7 @@ Pregunta histórica: `2017-E1-060`. Ninguna de esas figuras supone alteración d
 | Reposición por acto presunto en un mes. | Si acto no expreso, puede interponerse en cualquier momento desde efectos del silencio. |
 | Encomienda, firma o suplencia alteran titularidad de competencia. | No la alteran. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

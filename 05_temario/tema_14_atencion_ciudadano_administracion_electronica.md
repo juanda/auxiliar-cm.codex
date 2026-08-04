@@ -1,4 +1,4 @@
-# Tema 14. Informacion administrativa, atencion al ciudadano y administracion electronica
+# Tema 14. Información administrativa, atención al ciudadano y administración electrónica
 
 Información administrativa y atención al ciudadano en la Comunidad de Madrid en los canales presencial, electrónico y telefónico. La Administración electrónica. La identificación y autenticación de las personas físicas y jurídicas para las diferentes actuaciones en la gestión electrónica. Especial referencia a la Administración electrónica en la Comunidad de Madrid.
 
@@ -393,7 +393,7 @@ La atención ciudadana debe prestar especial cuidado a:
 | Comparecencia electrónica | Acceso al contenido de una notificación en sede. |
 | Rechazo electrónico | 10 días naturales sin acceder desde puesta a disposición. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma | Artículo | Relevancia |
 | --- | --- | --- |
@@ -429,7 +429,7 @@ La atención ciudadana debe prestar especial cuidado a:
 | Pensar que el teléfono sustituye siempre a registro o firma. | El canal telefónico informa; no siempre formaliza actuaciones. |
 | Confundir DEHú y comparecencia en sede. | Son medios distintos de notificación electrónica. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | ID | Año | Subtema | Qué preguntó | Respuesta que debe saberse |
 | --- | ---: | --- | --- | --- |

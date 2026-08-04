@@ -1,33 +1,33 @@
-# Tema 20. Correo electronico: Outlook
+# Tema 20. Correo electrónico: Outlook
 
-Correo electronico: Outlook. Conceptos elementales y funcionamiento. Enviar, recibir, responder y reenviar mensajes. Creacion de mensajes. Reglas de mensaje. Libreta de direcciones. Agenda. Convocatorias y citas.
+Correo electrónico: Outlook. Conceptos elementales y funcionamiento. Enviar, recibir, responder y reenviar mensajes. Creación de mensajes. Reglas de mensaje. Libreta de direcciones. Agenda. Convocatorias y citas.
 
 ## 1. Resumen ejecutivo
 
-La version oficial para este tema es `Microsoft 365 version escritorio`, conforme al Anexo I, apartado Primero.2.2 de la convocatoria 2026. Por tanto, Outlook debe estudiarse como aplicacion de escritorio de Microsoft 365. Las preguntas historicas de Outlook 2016 sirven como referencia de recurrencia cuando tratan funciones basicas que se mantienen, pero no son la version oficial de la convocatoria.
+La versión oficial para este tema es `Microsoft 365 versión escritorio`, conforme al Anexo I, apartado Primero.2.2 de la convocatoria 2026. Por tanto, Outlook debe estudiarse como aplicación de escritorio de Microsoft 365. Las preguntas históricas de Outlook 2016 sirven como referencia de recurrencia cuando tratan funciones básicas que se mantienen, pero no son la versión oficial de la convocatoria.
 
-Outlook es la aplicacion de Microsoft 365 destinada principalmente a gestionar el correo electronico, el calendario, los contactos y determinadas tareas de organizacion personal. En el examen interesa dominar su uso administrativo: crear mensajes, distinguir campos de destinatarios, responder y reenviar, adjuntar archivos, usar conversaciones, aplicar marcas de seguimiento, crear reglas, consultar la libreta de direcciones y manejar citas, reuniones y convocatorias.
+Outlook es la aplicación de Microsoft 365 destinada principalmente a gestionar el correo electrónico, el calendario, los contactos y determinadas tareas de organización personal. En el examen interesa dominar su uso administrativo: crear mensajes, distinguir campos de destinatarios, responder y reenviar, adjuntar archivos, usar conversaciones, aplicar marcas de seguimiento, crear reglas, consultar la libreta de direcciones y manejar citas, reuniones y convocatorias.
 
-La estadistica historica disponible muestra 11 preguntas clasificadas en el Tema 20. Una pregunta (`2023-E2-006`) figuraba originalmente clasificada aqui, pero trata realmente de Access; ya se corrigio en origen (`02_preguntas_extraidas/`) y se reclasifico en el Tema 19.
+La estadística histórica disponible muestra 11 preguntas clasificadas en el Tema 20. Una pregunta (`2023-E2-006`) figuraba originalmente clasificada aquí, pero trata realmente de Access; ya se corrigio en origen (`02_preguntas_extraidas/`) y se reclasifico en el Tema 19.
 
-| Subtema | Preguntas historicas utiles |
+| Subtema | Preguntas históricas útiles |
 | --- | ---: |
-| Correo electronico y Outlook | 8 |
+| Correo electrónico y Outlook | 8 |
 | Agenda / Calendario | 1 |
 | Reglas de mensaje | 1 |
-| Identificacion de aplicacion Microsoft 365 | 1 |
+| Identificación de aplicación Microsoft 365 | 1 |
 
 Los puntos de mayor rendimiento son:
 
-- Outlook como aplicacion de correo electronico de Microsoft 365.
-- Pestana `Inicio` y comando `Nuevo mensaje de correo electronico` en Outlook clasico.
+- Outlook como aplicación de correo electrónico de Microsoft 365.
+- Pestana `Inicio` y comando `Nuevo mensaje de correo electrónico` en Outlook clasico.
 - Campos `Para`, `CC` y `CCO`.
 - Diferencia entre destinatario principal, copia visible y copia oculta.
-- Prefijos `RE:` y `FW:`/`RV:` segun idioma o configuracion.
+- Prefijos `RE:` y `FW:`/`RV:` según idioma o configuración.
 - Diferencia entre responder y reenviar.
-- Conversaciones: agrupacion de mensajes por asunto.
+- Conversaciones: agrupación de mensajes por asunto.
 - Marcas de seguimiento.
-- Reglas como acciones automaticas sobre mensajes.
+- Reglas como acciones automáticas sobre mensajes.
 - Calendario: citas, reuniones, invitaciones y respuestas.
 - Diferencia entre modulo Calendario y modulo Contactos.
 
@@ -35,7 +35,7 @@ El enunciado oficial exige cubrir todos estos puntos:
 
 - Conceptos elementales y funcionamiento.
 - Enviar, recibir, responder y reenviar mensajes.
-- Creacion de mensajes.
+- Creación de mensajes.
 - Reglas de mensaje.
 - Libreta de direcciones.
 - Agenda.
@@ -47,32 +47,32 @@ Idea clave: Outlook no es solo "correo"; en examen se pregunta como centro de ge
 
 ### 2.1. Outlook en Microsoft 365
 
-Outlook es una aplicacion de Microsoft 365 para gestionar:
+Outlook es una aplicación de Microsoft 365 para gestionar:
 
-| Area | Funcion principal |
+| Área | Función principal |
 | --- | --- |
 | Correo | Enviar, recibir, responder, reenviar, organizar y buscar mensajes. |
 | Calendario | Crear citas, reuniones, convocatorias y controlar disponibilidad. |
 | Personas / Contactos | Guardar contactos, consultar direcciones y crear grupos o listas. |
 | Tareas / seguimiento | Marcar mensajes, recordar acciones pendientes y organizar trabajo. |
 
-Pregunta historica: `2025-E2-035`.
+Pregunta histórica: `2025-E2-035`.
 
 #### Outlook frente a otras aplicaciones
 
-| Aplicacion | Uso principal |
+| Aplicación | Uso principal |
 | --- | --- |
-| Outlook | Correo, calendario, contactos y organizacion personal. |
+| Outlook | Correo, calendario, contactos y organización personal. |
 | Word | Documentos de texto. |
 | Excel | Hojas de calculo. |
 | Access | Bases de datos. |
-| Teams | Colaboracion, chat, equipos y videoconferencias. |
+| Teams | Colaboración, chat, equipos y videoconferencias. |
 
-Trampa habitual: Outlook puede integrarse con Teams, OneDrive o SharePoint, pero su funcion basica examinable en el Tema 20 es correo y agenda. La colaboracion con Teams, SharePoint y OneDrive pertenece sobre todo al Tema 21.
+Trampa habitual: Outlook puede integrarse con Teams, OneDrive o SharePoint, pero su función básica examinable en el Tema 20 es correo y agenda. La colaboración con Teams, SharePoint y OneDrive pertenece sobre todo al Tema 21.
 
-#### Conceptos elementales de correo electronico
+#### Conceptos elementales de correo electrónico
 
-El programa oficial incluye "conceptos elementales y funcionamiento". No se exige administrar servidores, pero si entender el flujo basico.
+El programa oficial incluye "conceptos elementales y funcionamiento". No se exige administrar servidores, pero si entender el flujo básico.
 
 | Concepto | Significado para examen |
 | --- | --- |
@@ -80,56 +80,56 @@ El programa oficial incluye "conceptos elementales y funcionamiento". No se exig
 | Buzon | Espacio donde se almacenan mensajes, carpetas y calendario asociado. |
 | Remitente | Persona o cuenta que envia el mensaje. |
 | Destinatario | Persona o cuenta que recibe el mensaje. |
-| Servidor de correo | Sistema que gestiona envio, recepcion y almacenamiento. |
-| Sincronizacion | Actualizacion entre Outlook y el buzon. |
-| Encabezado del mensaje | Datos tecnicos como remitente, destinatarios, fecha y asunto. |
+| Servidor de correo | Sistema que gestiona envio, recepción y almacenamiento. |
+| Sincronización | Actualización entre Outlook y el buzon. |
+| Encabezado del mensaje | Datos técnicos como remitente, destinatarios, fecha y asunto. |
 | Cuerpo del mensaje | Contenido redactado por el usuario. |
 
 En entornos Microsoft 365 suele intervenir Exchange Online, pero el examen se centra en que Outlook es el cliente de escritorio usado para trabajar con correo, calendario y contactos.
 
-#### Flujo basico de un mensaje
+#### Flujo básico de un mensaje
 
 | Fase | Que ocurre |
 | --- | --- |
-| Redaccion | Se completan destinatarios, asunto, cuerpo y adjuntos si procede. |
-| Envio | Outlook remite el mensaje a traves de la cuenta configurada. |
+| Redacción | Se completan destinatarios, asunto, cuerpo y adjuntos si procede. |
+| Envio | Outlook remite el mensaje a través de la cuenta configurada. |
 | Bandeja de salida | Puede retener mensajes pendientes si no se han enviado aun. |
 | Entrega | El mensaje llega al buzon de destino si no hay errores. |
-| Recepcion | El destinatario lo ve en la Bandeja de entrada u otra carpeta por reglas. |
-| Respuesta o reenvio | Se mantiene o se deriva la comunicacion. |
+| Recepción | El destinatario lo ve en la Bandeja de entrada u otra carpeta por reglas. |
+| Respuesta o reenvio | Se mantiene o se deriva la comunicación. |
 
 Trampa: `Elementos enviados` contiene mensajes ya remitidos; `Bandeja de salida` contiene mensajes pendientes de envio.
 
-### 2.2. Interfaz basica de Outlook
+### 2.2. Interfaz básica de Outlook
 
-Outlook de escritorio se organiza en modulos o vistas. Los nombres exactos pueden variar ligeramente segun si se usa Outlook clasico o el nuevo Outlook, pero para oposicion conviene reconocer las funciones.
+Outlook de escritorio se organiza en modulos o vistas. Los nombres exactos pueden variar ligeramente según si se usa Outlook clasico o el nuevo Outlook, pero para oposición conviene reconocer las funciones.
 
 | Elemento | Para que sirve |
 | --- | --- |
 | Cinta de opciones | Agrupa comandos por pestanas: Inicio, Enviar y recibir, Carpeta, Vista, etc. |
 | Panel de carpetas | Muestra buzones y carpetas: Bandeja de entrada, Elementos enviados, Borradores, etc. |
-| Lista de mensajes | Relacion de mensajes de la carpeta seleccionada. |
+| Lista de mensajes | Relación de mensajes de la carpeta seleccionada. |
 | Panel de lectura | Permite leer el mensaje sin abrirlo en ventana independiente. |
-| Barra de busqueda | Localiza mensajes, personas o contenido. |
+| Barra de búsqueda | Localiza mensajes, personas o contenido. |
 | Modulos | Correo, Calendario, Personas/Contactos y otros accesos. |
 
-En Outlook clasico, el comando `Nuevo mensaje de correo electronico` se encuentra en la pestana `Inicio`.
+En Outlook clasico, el comando `Nuevo mensaje de correo electrónico` se encuentra en la pestana `Inicio`.
 
-Pregunta historica: `2023-E2-001`.
+Pregunta histórica: `2023-E2-001`.
 
 #### Pestana Archivo o vista Backstage
 
 La pestana `Archivo` no sirve para redactar el mensaje, sino para configurar y administrar Outlook.
 
-| Opcion | Utilidad |
+| Opción | Utilidad |
 | --- | --- |
-| Informacion de la cuenta | Ver cuenta configurada y datos generales. |
-| Configuracion de cuenta | Anadir, modificar o administrar cuentas y archivos de datos. |
+| Información de la cuenta | Ver cuenta configurada y datos generales. |
+| Configuración de cuenta | Anadir, modificar o administrar cuentas y archivos de datos. |
 | Administrar reglas y alertas | Crear, editar, activar, desactivar o reordenar reglas. |
 | Administrar complementos | Revisar complementos de Outlook. |
-| Opciones | Configuracion de correo, calendario, contactos, idioma y personalizacion. |
+| Opciones | Configuración de correo, calendario, contactos, idioma y personalización. |
 
-Trampa: `Nuevo mensaje` esta en `Inicio`; `Archivo` concentra configuracion, cuenta, opciones y reglas avanzadas.
+Trampa: `Nuevo mensaje` esta en `Inicio`; `Archivo` concentra configuración, cuenta, opciones y reglas avanzadas.
 
 ### 2.3. Carpetas de correo
 
@@ -146,35 +146,35 @@ Las carpetas permiten organizar los mensajes.
 
 No debe confundirse `Borradores` con `Elementos enviados`: un borrador todavia no ha salido; un elemento enviado ya ha sido remitido.
 
-#### Estados y organizacion de mensajes
+#### Estados y organización de mensajes
 
 | Estado o marca | Significado |
 | --- | --- |
 | Leido / no leido | Indica si el mensaje se ha abierto o marcado como leido. |
-| Marcado para seguimiento | Senala accion pendiente. |
-| Categoria | Etiqueta visual para clasificar. |
+| Marcado para seguimiento | Senala acción pendiente. |
+| Categoría | Etiqueta visual para clasificar. |
 | Importancia alta/baja | Prioridad comunicada por el remitente. |
 | Con adjunto | El mensaje incluye archivo o elemento. |
 | Archivado | Se conserva fuera de la bandeja de entrada. |
 
 Trampa: marcar como no leido no reenvia ni recupera un mensaje; solo cambia el estado visual.
 
-### 2.4. Creacion de mensajes
+### 2.4. Creación de mensajes
 
 Crear un mensaje consiste en redactar un correo nuevo y completar sus campos esenciales.
 
-| Campo o elemento | Funcion |
+| Campo o elemento | Función |
 | --- | --- |
 | Para | Destinatario o destinatarios principales. |
 | CC | Copia visible para otros destinatarios. |
-| CCO | Copia oculta; los demas destinatarios no ven esa direccion. |
-| Asunto | Titulo breve del mensaje. |
+| CCO | Copia oculta; los demas destinatarios no ven esa dirección. |
+| Asunto | Título breve del mensaje. |
 | Cuerpo | Contenido del mensaje. |
 | Adjuntar archivo | Incluye documentos, imagenes u otros archivos. |
-| Firma | Texto automatico con datos del remitente. |
+| Firma | Texto automático con datos del remitente. |
 | Prioridad / importancia | Senala importancia alta o baja, sin sustituir al contenido. |
 
-Preguntas historicas: `2025-E2-023`, `2025-E2-025`, `2023-E2-034`.
+Preguntas históricas: `2025-E2-023`, `2025-E2-025`, `2023-E2-034`.
 
 #### Campos Para, CC y CCO
 
@@ -188,45 +188,45 @@ Ejemplo administrativo:
 
 - `Para`: unidad que debe tramitar el expediente.
 - `CC`: jefatura que debe estar informada.
-- `CCO`: uso excepcional para proteger direcciones o evitar difusion innecesaria.
+- `CCO`: uso excepcional para proteger direcciones o evitar difusión innecesaria.
 
 Trampa de examen: `CC` no es copia oculta; `CCO` significa `con copia oculta`.
 
 #### Asunto
 
-El asunto debe identificar el contenido del correo. Outlook usa el asunto para agrupar conversaciones, facilitar busquedas y distinguir respuestas o reenvios.
+El asunto debe identificar el contenido del correo. Outlook usa el asunto para agrupar conversaciones, facilitar búsquedas y distinguir respuestas o reenvios.
 
-Buenas practicas:
+Buenas prácticas:
 
-- Ser concreto: `Expediente 123/2026 - subsanacion`.
+- Ser concreto: `Expediente 123/2026 - subsanación`.
 - Evitar asuntos vacios.
-- No cambiar el asunto de una conversacion salvo que cambie realmente el tema.
+- No cambiar el asunto de una conversación salvo que cambie realmente el tema.
 
 #### Opciones habituales al crear mensajes
 
-| Opcion | Funcion |
+| Opción | Función |
 | --- | --- |
-| Firma | Inserta datos del remitente de forma automatica. |
+| Firma | Inserta datos del remitente de forma automática. |
 | Importancia alta/baja | Marca prioridad informativa. |
-| Solicitar confirmacion de lectura | Pide aviso de lectura, si el sistema y destinatario lo permiten. |
-| Solicitar confirmacion de entrega | Pide aviso de entrega al buzon, si esta disponible. |
+| Solicitar confirmación de lectura | Pide aviso de lectura, si el sistema y destinatario lo permiten. |
+| Solicitar confirmación de entrega | Pide aviso de entrega al buzon, si esta disponible. |
 | Revisar ortografia | Comprueba el texto antes de enviar. |
 | Guardar borrador | Conserva mensaje no enviado. |
-| Formato HTML/texto | Controla presentacion del cuerpo del mensaje. |
+| Formato HTML/texto | Controla presentación del cuerpo del mensaje. |
 
-Trampa: una confirmacion de lectura no garantiza que el destinatario haya entendido o tramitado el contenido; solo indica lectura si se emite.
+Trampa: una confirmación de lectura no garantiza que el destinatario haya entendido o tramitado el contenido; solo indica lectura si se emite.
 
 ### 2.5. Adjuntar archivos
 
-Adjuntar un archivo consiste en incorporar al correo un documento u objeto. En Outlook de escritorio puede hacerse desde la pestana o grupo correspondiente de insercion/inclusion, segun la version y ventana activa.
+Adjuntar un archivo consiste en incorporar al correo un documento u objeto. En Outlook de escritorio puede hacerse desde la pestana o grupo correspondiente de inserción/inclusión, según la versión y ventana activa.
 
-| Opcion | Resultado |
+| Opción | Resultado |
 | --- | --- |
-| Adjuntar archivo | Inserta un archivo del equipo o ubicacion disponible. |
+| Adjuntar archivo | Inserta un archivo del equipo o ubicación disponible. |
 | Adjuntar elemento de Outlook | Puede incluir mensajes, contactos, tareas o elementos de calendario. |
 | Compartir vinculo | En entornos Microsoft 365 puede enviar un enlace a un archivo de OneDrive o SharePoint. |
 
-Pregunta historica relacionada: `2023-E2-028`, porque reenviar suele conservar adjuntos y responder normalmente no los incluye.
+Pregunta histórica relacionada: `2023-E2-028`, porque reenviar suele conservar adjuntos y responder normalmente no los incluye.
 
 Trampas:
 
@@ -239,21 +239,21 @@ Trampas:
 | Archivo adjunto | Vinculo de OneDrive/SharePoint |
 | --- | --- |
 | Se envia una copia del archivo. | Se comparte acceso al archivo centralizado. |
-| Puede generar versiones duplicadas. | Facilita trabajar sobre una version comun. |
+| Puede generar versiones duplicadas. | Facilita trabajar sobre una versión comun. |
 | El destinatario conserva la copia recibida. | El acceso depende de permisos del enlace. |
-| Adecuado para envio puntual. | Adecuado para colaboracion y archivos grandes. |
+| Adecuado para envio puntual. | Adecuado para colaboración y archivos grandes. |
 
 Idea de examen: si el enunciado habla de adjuntar en la ventana de mensaje de Outlook, se incorpora un archivo o elemento al correo. Si habla de colaborar en Microsoft 365, puede ser mas correcto compartir un vinculo.
 
 ### 2.6. Enviar y recibir mensajes
 
-Outlook permite enviar y recibir correo mediante una cuenta configurada. En entornos corporativos suele conectarse a Exchange Online o Microsoft 365, aunque el examen se centra en el uso funcional, no en la administracion tecnica del servidor.
+Outlook permite enviar y recibir correo mediante una cuenta configurada. En entornos corporativos suele conectarse a Exchange Online o Microsoft 365, aunque el examen se centra en el uso funcional, no en la administración técnica del servidor.
 
-| Accion | Significado |
+| Acción | Significado |
 | --- | --- |
 | Enviar | Remitir el mensaje a sus destinatarios. |
 | Recibir / sincronizar | Actualizar el buzon con mensajes nuevos. |
-| Enviar y recibir | Comando que fuerza o gestiona la sincronizacion. |
+| Enviar y recibir | Comando que fuerza o gestiona la sincronización. |
 | Bandeja de salida | Lugar temporal de mensajes pendientes de envio. |
 | Elementos enviados | Lugar donde quedan los mensajes ya enviados. |
 
@@ -261,13 +261,13 @@ Si no existe cuenta configurada o hay problemas de conexion, Outlook puede no en
 
 #### Errores y confirmaciones de envio
 
-| Situacion | Consecuencia |
+| Situación | Consecuencia |
 | --- | --- |
-| Direccion incorrecta | Puede producir mensaje de error o no entrega. |
+| Dirección incorrecta | Puede producir mensaje de error o no entrega. |
 | Archivo demasiado grande | Puede impedir el envio o requerir vinculo. |
 | Sin conexion | El mensaje puede quedar pendiente en Bandeja de salida. |
 | Regla saliente | Puede aplicarse al enviar si esta configurada. |
-| Recuperar mensaje | Solo funciona en escenarios concretos de organizacion; no es garantia general. |
+| Recuperar mensaje | Solo funciona en escenarios concretos de organización; no es garantía general. |
 
 Trampa: que un mensaje aparezca en `Elementos enviados` indica que Outlook lo envio desde la cuenta, no necesariamente que el destinatario lo haya leido.
 
@@ -275,95 +275,95 @@ Trampa: que un mensaje aparezca en `Elementos enviados` indica que Outlook lo en
 
 Estas tres acciones son muy preguntables.
 
-| Accion | Destinatarios | Adjuntos originales | Uso |
+| Acción | Destinatarios | Adjuntos originales | Uso |
 | --- | --- | --- | --- |
 | Responder | Remitente original | Normalmente no se incluyen | Contestar al remitente. |
 | Responder a todos | Remitente y destinatarios visibles | Normalmente no se incluyen | Contestar a todos los participantes visibles. |
 | Reenviar | Nuevos destinatarios elegidos por el usuario | Normalmente se incluyen | Enviar el mensaje recibido a otra persona. |
 
-Pregunta historica: `2023-E2-028`.
+Pregunta histórica: `2023-E2-028`.
 
 #### Prefijos del asunto
 
 | Prefijo | Significado |
 | --- | --- |
 | `RE:` | Respuesta. |
-| `FW:` / `RV:` | Reenvio. `FW:` aparece en preguntas historicas; `RV:` es habitual en interfaces en espanol. |
+| `FW:` / `RV:` | Reenvio. `FW:` aparece en preguntas históricas; `RV:` es habitual en interfaces en espanol. |
 
-Pregunta historica: `2025-E2-024`.
+Pregunta histórica: `2025-E2-024`.
 
-Trampa: `RE:` no indica reenvio. El prefijo de reenvio puede aparecer como `FW:` o `RV:` segun idioma/configuracion; si la pregunta reproduce la clave historica del proyecto, `FW:` es reenvio.
+Trampa: `RE:` no indica reenvio. El prefijo de reenvio puede aparecer como `FW:` o `RV:` según idioma/configuración; si la pregunta reproduce la clave histórica del proyecto, `FW:` es reenvio.
 
 ### 2.8. Conversaciones
 
-Una conversacion en Outlook agrupa mensajes relacionados, normalmente por el mismo asunto. Permite ver juntos el mensaje inicial y sus respuestas.
+Una conversación en Outlook agrupa mensajes relacionados, normalmente por el mismo asunto. Permite ver juntos el mensaje inicial y sus respuestas.
 
-Pregunta historica: `2023-E2-005`.
+Pregunta histórica: `2023-E2-005`.
 
-| Concepto | Explicacion |
+| Concepto | Explicación |
 | --- | --- |
-| Conversacion | Agrupacion de mensajes con el mismo asunto o hilo. |
-| Mensaje individual | Correo aislado dentro de la conversacion. |
+| Conversación | Agrupación de mensajes con el mismo asunto o hilo. |
+| Mensaje individual | Correo aislado dentro de la conversación. |
 | Vista por conversaciones | Forma de visualizar mensajes agrupados. |
 
-No se agrupan por remitente, destinatario ni fecha de envio como criterio principal de la pregunta historica, sino por asunto.
+No se agrupan por remitente, destinatario ni fecha de envio como criterio principal de la pregunta histórica, sino por asunto.
 
-### 2.9. Marcas de seguimiento, categorias y organizacion
+### 2.9. Marcas de seguimiento, categorías y organización
 
-Las marcas de seguimiento permiten senalar mensajes que requieren accion posterior.
+Las marcas de seguimiento permiten senalar mensajes que requieren acción posterior.
 
-| Herramienta | Funcion |
+| Herramienta | Función |
 | --- | --- |
 | Marca de seguimiento | Indica que un mensaje requiere seguimiento. |
-| Categorias | Clasifican mensajes por colores o etiquetas. |
+| Categorías | Clasifican mensajes por colores o etiquetas. |
 | Importancia alta/baja | Informa de prioridad percibida. |
 | No leido/leido | Estado de lectura del mensaje. |
-| Carpetas | Organizacion manual o automatizada. |
-| Carpetas de busqueda | Carpetas virtuales con mensajes que cumplen criterios. |
-| Limpieza de conversacion | Ayuda a eliminar mensajes redundantes de una conversacion. |
+| Carpetas | Organización manual o automatizada. |
+| Carpetas de búsqueda | Carpetas virtuales con mensajes que cumplen criterios. |
+| Limpieza de conversación | Ayuda a eliminar mensajes redundantes de una conversación. |
 
 Las marcas de seguimiento pueden aplicarse tanto a mensajes enviados como recibidos.
 
-Pregunta historica: `2023-E2-015`.
+Pregunta histórica: `2023-E2-015`.
 
-#### Carpetas de busqueda, correo no deseado y limpieza
+#### Carpetas de búsqueda, correo no deseado y limpieza
 
-Outlook incluye herramientas de organizacion que no deben confundirse con reglas.
+Outlook incluye herramientas de organización que no deben confundirse con reglas.
 
-| Herramienta | Funcion |
+| Herramienta | Función |
 | --- | --- |
-| Carpeta de busqueda | Vista virtual de mensajes que cumplen un criterio, por ejemplo no leidos. |
+| Carpeta de búsqueda | Vista virtual de mensajes que cumplen un criterio, por ejemplo no leidos. |
 | Correo no deseado | Carpeta y filtros para spam o mensajes sospechosos. |
-| Limpieza | Elimina mensajes redundantes de una conversacion, si procede. |
-| Categorias por colores | Clasificacion visual de mensajes, citas o contactos. |
+| Limpieza | Elimina mensajes redundantes de una conversación, si procede. |
+| Categorías por colores | Clasificación visual de mensajes, citas o contactos. |
 
-Trampa: una carpeta de busqueda no mueve fisicamente los mensajes; los muestra reunidos por criterio.
+Trampa: una carpeta de búsqueda no mueve fisicamente los mensajes; los muestra reunidos por criterio.
 
-Trampa: una marca de seguimiento no envia automaticamente el mensaje ni crea por si sola una reunion. Es una ayuda de organizacion.
+Trampa: una marca de seguimiento no envia automaticamente el mensaje ni crea por si sola una reunion. Es una ayuda de organización.
 
 ### 2.10. Reglas de mensaje
 
-Una regla es una accion automatica configurada por el usuario para procesar correos que cumplen determinadas condiciones. Puede aplicarse a mensajes entrantes y, en ciertos casos, a mensajes salientes.
+Una regla es una acción automática configurada por el usuario para procesar correos que cumplen determinadas condiciones. Puede aplicarse a mensajes entrantes y, en ciertos casos, a mensajes salientes.
 
-Pregunta historica: `2025-E2-022`.
+Pregunta histórica: `2025-E2-022`.
 
 | Elemento de una regla | Ejemplo |
 | --- | --- |
 | Nombre | `Mover facturas`. |
-| Condicion | Mensajes de un remitente, con palabras en el asunto, enviados a una cuenta, etc. |
-| Accion | Mover a carpeta, marcar, reenviar, asignar categoria, eliminar. |
-| Excepcion | No aplicar si procede de un remitente concreto o contiene cierta palabra. |
+| Condición | Mensajes de un remitente, con palabras en el asunto, enviados a una cuenta, etc. |
+| Acción | Mover a carpeta, marcar, reenviar, asignar categoría, eliminar. |
+| Excepción | No aplicar si procede de un remitente concreto o contiene cierta palabra. |
 
 Ejemplos de reglas:
 
-- Mover mensajes de una direccion concreta a una carpeta.
+- Mover mensajes de una dirección concreta a una carpeta.
 - Marcar con importancia los mensajes que contengan una palabra en el asunto.
-- Asignar una categoria a correos enviados a una lista.
-- Reenviar determinados mensajes, si la organizacion lo permite.
+- Asignar una categoría a correos enviados a una lista.
+- Reenviar determinados mensajes, si la organización lo permite.
 
 #### Reglas de cliente y reglas de servidor
 
-En Outlook clasico pueden existir reglas que solo se ejecutan cuando Outlook esta abierto y otras que se procesan en el servidor. Para examen C2 basta con saber que algunas reglas dependen de Outlook y otras pueden ejecutarse desde el buzon, pero no suele pedirse administracion avanzada.
+En Outlook clasico pueden existir reglas que solo se ejecutan cuando Outlook esta abierto y otras que se procesan en el servidor. Para examen C2 basta con saber que algunas reglas dependen de Outlook y otras pueden ejecutarse desde el buzon, pero no suele pedirse administración avanzada.
 
 #### Orden y alcance de las reglas
 
@@ -381,27 +381,27 @@ Trampa: una regla automatiza acciones; no es una alerta manual ni una carpeta po
 
 | Ruta | Uso |
 | --- | --- |
-| `Inicio` -> `Reglas` -> `Crear regla` | Crear regla rapida a partir de un mensaje seleccionado. |
+| `Inicio` -> `Reglas` -> `Crear regla` | Crear regla rápida a partir de un mensaje seleccionado. |
 | `Archivo` -> `Administrar reglas y alertas` | Gestion avanzada: asistente, activar/desactivar, editar, eliminar y reordenar. |
 
 Trampa: `Administrar reglas y alertas` esta en `Archivo`, no en Calendario ni en Personas.
 
-#### Reglas frente a pasos rapidos
+#### Reglas frente a pasos rápidos
 
 | Herramienta | Diferencia |
 | --- | --- |
 | Regla | Se aplica automaticamente si se cumplen condiciones. |
-| Paso rapido | Ejecuta una o varias acciones cuando el usuario lo pulsa. |
+| Paso rápido | Ejecuta una o varias acciones cuando el usuario lo pulsa. |
 
 Trampa: una regla no es una plantilla de mensaje ni un programa externo instalado.
 
 ### 2.11. Libreta de direcciones y contactos
 
-La libreta de direcciones permite seleccionar destinatarios al crear mensajes o convocatorias. Los contactos almacenan informacion de personas o entidades.
+La libreta de direcciones permite seleccionar destinatarios al crear mensajes o convocatorias. Los contactos almacenan información de personas o entidades.
 
-| Concepto | Funcion |
+| Concepto | Función |
 | --- | --- |
-| Contacto | Registro con nombre, correo, telefono, cargo u otros datos. |
+| Contacto | Registro con nombre, correo, teléfono, cargo u otros datos. |
 | Libreta de direcciones | Lista consultable de direcciones disponibles. |
 | Lista de contactos / grupo | Conjunto de destinatarios para enviar mensajes a varias personas. |
 | Autocompletar | Sugerencia de direcciones usadas anteriormente. |
@@ -416,22 +416,22 @@ Al redactar un correo, los botones `Para`, `CC` y `CCO` permiten seleccionar dir
 | Libreta de direcciones | Repositorio consultable de direcciones. |
 | Lista de contactos | Grupo de destinatarios gestionado como conjunto. |
 | Autocompletar | Sugerencias basadas en uso previo, no necesariamente contacto guardado. |
-| Directorio corporativo | Direcciones de la organizacion, si existe. |
+| Directorio corporativo | Direcciones de la organización, si existe. |
 | Lista de direcciones global | Directorio centralizado en entornos Exchange/Microsoft 365 corporativos. |
 
-Trampa: que Outlook sugiera una direccion por autocompletar no significa que sea un contacto guardado en la libreta.
+Trampa: que Outlook sugiera una dirección por autocompletar no significa que sea un contacto guardado en la libreta.
 
 #### Crear contactos y grupos de contactos
 
 Desde el modulo `Personas` se pueden crear fichas de contacto y grupos de contactos.
 
-| Accion | Resultado |
+| Acción | Resultado |
 | --- | --- |
-| Nuevo contacto | Crea ficha con nombre, correo, telefono, empresa, direccion o notas. |
+| Nuevo contacto | Crea ficha con nombre, correo, teléfono, empresa, dirección o notas. |
 | Nuevo grupo de contactos | Agrupa varias direcciones bajo un nombre. |
 | Guardar y cerrar | Guarda los cambios del contacto o grupo. |
 
-Trampa: un grupo de contactos o lista de distribucion sirve para enviar a varias direcciones; no es una reunion del calendario.
+Trampa: un grupo de contactos o lista de distribución sirve para enviar a varias direcciones; no es una reunion del calendario.
 
 No debe confundirse:
 
@@ -441,7 +441,7 @@ No debe confundirse:
 | Lista de contactos | Grupo de direcciones para enviar a varias personas. |
 | Calendario | Gestiona citas y reuniones, no contactos. |
 
-Pregunta historica indirecta: `2025-E2-021`, porque gestionar contactos o listas de distribucion no es una accion propia del modulo Calendario.
+Pregunta histórica indirecta: `2025-E2-021`, porque gestionar contactos o listas de distribución no es una acción propia del modulo Calendario.
 
 ### 2.12. Agenda y calendario
 
@@ -451,53 +451,53 @@ El modulo Calendario de Outlook sirve para organizar el tiempo mediante citas, r
 | --- | --- |
 | Cita | Bloque de tiempo del propio calendario sin necesidad de asistentes. |
 | Reunion | Evento con asistentes invitados. |
-| Convocatoria | Invitacion enviada a asistentes para una reunion. |
-| Evento | Actividad de uno o varios dias completos. |
-| Cita periodica | Cita que se repite segun una pauta. |
+| Convocatoria | Invitación enviada a asistentes para una reunion. |
+| Evento | Actividad de uno o varios días completos. |
+| Cita periódica | Cita que se repite según una pauta. |
 | Disponibilidad | Estado de tiempo: libre, ocupado, provisional, fuera de la oficina, etc. |
 | Recordatorio | Aviso antes del evento. |
 
-Pregunta historica: `2025-E2-021`.
+Pregunta histórica: `2025-E2-021`.
 
-En el Calendario se pueden crear citas o reuniones, enviar invitaciones, gestionar respuestas y eliminar eventos. No es el lugar propio para gestionar contactos o crear listas de distribucion.
+En el Calendario se pueden crear citas o reuniones, enviar invitaciones, gestionar respuestas y eliminar eventos. No es el lugar propio para gestionar contactos o crear listas de distribución.
 
 #### Vistas y disponibilidad del calendario
 
 | Elemento | Utilidad |
 | --- | --- |
-| Vista dia/semana/mes | Cambia la forma de ver la agenda. |
+| Vista día/semana/mes | Cambia la forma de ver la agenda. |
 | Mostrar como libre | No bloquea disponibilidad. |
 | Mostrar como ocupado | Bloquea disponibilidad para otras personas. |
 | Provisional | Reserva tentativa. |
 | Fuera de la oficina | Indica ausencia. |
-| Asistente de programacion | Ayuda a buscar huecos segun disponibilidad, si hay datos. |
+| Asistente de programación | Ayuda a buscar huecos según disponibilidad, si hay datos. |
 
 Trampa: cambiar la vista del calendario no modifica las citas; solo cambia como se muestran.
 
 ### 2.13. Citas
 
-Una cita es un elemento del calendario que reserva tiempo para el usuario. Puede tener asunto, ubicacion, inicio, fin, recordatorio, periodicidad y notas.
+Una cita es un elemento del calendario que reserva tiempo para el usuario. Puede tener asunto, ubicación, inicio, fin, recordatorio, periodicidad y notas.
 
 | Campo | Utilidad |
 | --- | --- |
 | Asunto | Identifica la cita. |
-| Ubicacion | Lugar fisico o virtual. |
-| Inicio y fin | Duracion. |
+| Ubicación | Lugar fisico o virtual. |
+| Inicio y fin | Duración. |
 | Mostrar como | Libre, ocupado, provisional, fuera de la oficina. |
 | Recordatorio | Aviso previo. |
-| Periodicidad | Repeticion diaria, semanal, mensual, etc. |
+| Periodicidad | Repetición diaria, semanal, mensual, etc. |
 
-Ejemplo: `Revision de documentacion - lunes 10:00 a 10:30`.
+Ejemplo: `Revisión de documentación - lunes 10:00 a 10:30`.
 
-#### Eventos de dia completo
+#### Eventos de día completo
 
-Un evento ocupa uno o varios dias completos, por ejemplo vacaciones, una conferencia o una jornada institucional. Se muestra normalmente en la parte superior del dia y no tiene la misma logica de hora de inicio y fin que una cita ordinaria.
+Un evento ocupa uno o varios días completos, por ejemplo vacaciones, una conferencia o una jornada institucional. Se muestra normalmente en la parte superior del día y no tiene la misma lógica de hora de inicio y fin que una cita ordinaria.
 
 | Cita | Evento |
 | --- | --- |
-| Tiene hora de inicio y fin. | Ocupa dia completo o varios dias. |
+| Tiene hora de inicio y fin. | Ocupa día completo o varios días. |
 | Puede ser personal. | Suele representar ausencia, jornada o hecho prolongado. |
-| Bloquea un tramo horario. | Aparece como banda o elemento de dia completo. |
+| Bloquea un tramo horario. | Aparece como banda o elemento de día completo. |
 
 Trampa: evento no es sinonimo exacto de reunion. La reunion tiene asistentes convocados.
 
@@ -505,14 +505,14 @@ Trampa: evento no es sinonimo exacto de reunion. La reunion tiene asistentes con
 
 Una reunion es un evento de calendario con asistentes. Al crearla, Outlook envia una convocatoria para que los asistentes respondan.
 
-| Elemento | Funcion |
+| Elemento | Función |
 | --- | --- |
 | Asistentes obligatorios | Personas cuya asistencia se requiere. |
 | Asistentes opcionales | Personas invitadas de forma no imprescindible. |
 | Asunto | Tema de la reunion. |
-| Ubicacion / sala | Lugar o recurso reservado. |
+| Ubicación / sala | Lugar o recurso reservado. |
 | Fecha y hora | Momento de inicio y fin. |
-| Cuerpo | Orden del dia, instrucciones o documentacion. |
+| Cuerpo | Orden del día, instrucciones o documentación. |
 | Respuestas | Aceptar, provisional o rechazar. |
 
 #### Cita frente a reunion
@@ -525,11 +525,11 @@ Una reunion es un evento de calendario con asistentes. Al crearla, Outlook envia
 
 #### Convocatoria
 
-La convocatoria es la invitacion de reunion enviada a los asistentes. Los asistentes pueden aceptar, rechazar o responder como provisional. Outlook puede registrar esas respuestas para el organizador.
+La convocatoria es la invitación de reunion enviada a los asistentes. Los asistentes pueden aceptar, rechazar o responder como provisional. Outlook puede registrar esas respuestas para el organizador.
 
 #### Gestion de convocatorias
 
-| Accion | Resultado |
+| Acción | Resultado |
 | --- | --- |
 | Enviar convocatoria | Invita a asistentes y crea evento de reunion. |
 | Aceptar | Confirma asistencia y actualiza calendario. |
@@ -541,11 +541,11 @@ La convocatoria es la invitacion de reunion enviada a los asistentes. Los asiste
 
 Trampa: una cita personal no envia convocatoria; una reunion con asistentes si.
 
-### 2.15. Busqueda, filtros y vistas
+### 2.15. Búsqueda, filtros y vistas
 
-Outlook permite localizar mensajes mediante busqueda y cambiar vistas.
+Outlook permite localizar mensajes mediante búsqueda y cambiar vistas.
 
-| Funcion | Uso |
+| Función | Uso |
 | --- | --- |
 | Buscar | Localizar mensajes por remitente, asunto, texto, fecha o adjuntos. |
 | Filtrar | Mostrar solo no leidos, marcados, con adjuntos, etc. |
@@ -555,87 +555,87 @@ Outlook permite localizar mensajes mediante busqueda y cambiar vistas.
 
 Estas funciones no aparecen expresamente como epigrafe independiente, pero ayudan a entender el funcionamiento de Outlook.
 
-### 2.16. Seguridad y buenas practicas administrativas
+### 2.16. Seguridad y buenas prácticas administrativas
 
-Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrativo y conviene conocer reglas basicas.
+Aunque el tema no es de ciberseguridad, Outlook se usa en un entorno administrativo y conviene conocer reglas básicas.
 
-| Riesgo | Buena practica |
+| Riesgo | Buena práctica |
 | --- | --- |
 | Enviar a destinatario incorrecto | Revisar `Para`, `CC` y `CCO` antes de enviar. |
-| Difundir direcciones personales | Usar `CCO` cuando proceda y respetar proteccion de datos. |
+| Difundir direcciones personales | Usar `CCO` cuando proceda y respetar protección de datos. |
 | Abrir adjuntos sospechosos | Verificar remitente y contexto. |
-| Cambiar asunto sin motivo | Mantener la trazabilidad de la conversacion. |
+| Cambiar asunto sin motivo | Mantener la trazabilidad de la conversación. |
 | Responder a todos indebidamente | Usarlo solo cuando todos deban conocer la respuesta. |
 
 ### 2.17. Cobertura de la convocatoria
 
 | Punto oficial | Cobertura en este tema |
 | --- | --- |
-| Conceptos elementales y funcionamiento | Outlook, modulos, interfaz, carpetas, busqueda y organizacion. |
-| Enviar mensajes | Creacion, destinatarios, asunto, adjuntos, envio. |
-| Recibir mensajes | Bandeja de entrada, sincronizacion, lectura, carpetas. |
+| Conceptos elementales y funcionamiento | Outlook, modulos, interfaz, carpetas, búsqueda y organización. |
+| Enviar mensajes | Creación, destinatarios, asunto, adjuntos, envio. |
+| Recibir mensajes | Bandeja de entrada, sincronización, lectura, carpetas. |
 | Responder mensajes | Responder y responder a todos. |
 | Reenviar mensajes | Reenvio, prefijo `FW:`/`RV:`, adjuntos. |
-| Creacion de mensajes | Campos `Para`, `CC`, `CCO`, asunto, cuerpo y adjuntos. |
+| Creación de mensajes | Campos `Para`, `CC`, `CCO`, asunto, cuerpo y adjuntos. |
 | Reglas de mensaje | Condiciones, acciones, excepciones y ejemplos. |
-| Libreta de direcciones | Contactos, listas y seleccion de destinatarios. |
+| Libreta de direcciones | Contactos, listas y selección de destinatarios. |
 | Agenda | Calendario, citas, eventos, reuniones y disponibilidad. |
 | Convocatorias y citas | Diferencia entre cita, reunion y convocatoria. |
 
 ## 3. Conceptos clave
 
-| Concepto | Definicion examinable | Preguntable como |
+| Concepto | Definición examinable | Preguntable como |
 | --- | --- | --- |
-| Outlook | Aplicacion de Microsoft 365 para correo, calendario y contactos. | Identificar aplicacion de correo. |
-| Correo electronico | Servicio para enviar y recibir mensajes digitales. | Concepto basico. |
-| Bandeja de entrada | Carpeta de mensajes recibidos. | Funcion de carpeta. |
+| Outlook | Aplicación de Microsoft 365 para correo, calendario y contactos. | Identificar aplicación de correo. |
+| Correo electrónico | Servicio para enviar y recibir mensajes digitales. | Concepto básico. |
+| Bandeja de entrada | Carpeta de mensajes recibidos. | Función de carpeta. |
 | Bandeja de salida | Mensajes pendientes de envio. | Confundir con enviados. |
 | Elementos enviados | Carpeta de mensajes remitidos. | Diferenciar de borradores. |
 | Borrador | Mensaje guardado sin enviar. | Estado del mensaje. |
 | Para | Destinatario principal. | Campo destinatario. |
 | CC | Copia visible. | Copia no oculta. |
 | CCO | Copia oculta. | Significado de CCO. |
-| Asunto | Titulo del mensaje. | Conversaciones y busqueda. |
+| Asunto | Título del mensaje. | Conversaciones y búsqueda. |
 | Adjuntar archivo | Incluir archivo en un mensaje. | Grupo/comando o efecto. |
 | Vinculo compartido | Acceso a archivo de OneDrive/SharePoint. | Confundir con adjunto tradicional. |
 | Responder | Contestar al remitente. | Diferencia con reenviar. |
 | Responder a todos | Contestar a remitente y destinatarios visibles. | Uso correcto. |
 | Reenviar | Enviar un mensaje recibido a nuevos destinatarios. | Prefijo y adjuntos. |
 | `RE:` | Prefijo de respuesta. | No confundir con reenvio. |
-| `FW:` / `RV:` | Prefijo de reenvio. | `FW:` es pregunta historica; `RV:` puede aparecer en Outlook en espanol. |
-| Conversacion | Agrupacion de mensajes por asunto o hilo. | Criterio de agrupacion. |
+| `FW:` / `RV:` | Prefijo de reenvio. | `FW:` es pregunta histórica; `RV:` puede aparecer en Outlook en espanol. |
+| Conversación | Agrupación de mensajes por asunto o hilo. | Criterio de agrupación. |
 | Marca de seguimiento | Senal para controlar acciones pendientes. | Aplicable a enviados y recibidos. |
-| Regla | Accion automatica segun condiciones. | Definicion de regla. |
-| Condicion | Criterio que activa la regla. | De, asunto, destinatario, etc. |
-| Accion | Lo que hace la regla. | Mover, marcar, reenviar, eliminar. |
-| Excepcion | Caso en que no se aplica la regla. | Confundir con condicion. |
+| Regla | Acción automática según condiciones. | Definición de regla. |
+| Condición | Criterio que activa la regla. | De, asunto, destinatario, etc. |
+| Acción | Lo que hace la regla. | Mover, marcar, reenviar, eliminar. |
+| Excepción | Caso en que no se aplica la regla. | Confundir con condición. |
 | Administrar reglas y alertas | Gestion avanzada de reglas desde Archivo | Confundir con Calendario |
-| Carpeta de busqueda | Vista virtual por criterios | Pensar que mueve mensajes |
+| Carpeta de búsqueda | Vista virtual por criterios | Pensar que mueve mensajes |
 | Limpieza | Elimina mensajes redundantes de conversaciones | Confundir con borrar carpeta |
 | Contacto | Registro de datos de una persona o entidad. | Libreta de direcciones. |
 | Libreta de direcciones | Repositorio para seleccionar destinatarios. | Para, CC, CCO. |
-| Lista de contactos | Grupo de destinatarios. | No es accion de calendario. |
+| Lista de contactos | Grupo de destinatarios. | No es acción de calendario. |
 | Autocompletar | Sugerencia de direcciones usadas. | No siempre es contacto guardado. |
 | Lista global de direcciones | Directorio corporativo centralizado | Confundir con contacto personal |
 | Calendario | Modulo de agenda de Outlook. | Citas y reuniones. |
 | Cita | Reserva de tiempo sin asistentes obligatorios. | Diferencia con reunion. |
-| Evento | Elemento de dia completo | Confundir con reunion |
+| Evento | Elemento de día completo | Confundir con reunion |
 | Reunion | Evento con asistentes invitados. | Convocatoria. |
-| Convocatoria | Invitacion de reunion enviada a asistentes. | Respuestas aceptar/rechazar. |
-| Recordatorio | Aviso previo de evento. | Funcion de agenda. |
-| Disponibilidad | Estado libre/ocupado/provisional. | Organizacion de reuniones. |
-| Asistente de programacion | Ayuda a buscar huecos de reunion. | Confundir con libreta de direcciones. |
+| Convocatoria | Invitación de reunion enviada a asistentes. | Respuestas aceptar/rechazar. |
+| Recordatorio | Aviso previo de evento. | Función de agenda. |
+| Disponibilidad | Estado libre/ocupado/provisional. | Organización de reuniones. |
+| Asistente de programación | Ayuda a buscar huecos de reunion. | Confundir con libreta de direcciones. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
-No hay articulos legales propios de Outlook. En este tema las referencias son funcionales y de convocatoria.
+No hay artículos legales propios de Outlook. En este tema las referencias son funcionales y de convocatoria.
 
 | Referencia | Relevancia para examen |
 | --- | --- |
-| Convocatoria CAM C2 2026, Anexo I, apartado Primero.2.2 | Fija `Microsoft 365 version escritorio` para Office y Outlook. |
-| Programa oficial, Tema 20 | Delimita correo electronico, Outlook, mensajes, reglas, libreta, agenda, convocatorias y citas. |
+| Convocatoria CAM C2 2026, Anexo I, apartado Primero.2.2 | Fija `Microsoft 365 versión escritorio` para Office y Outlook. |
+| Programa oficial, Tema 20 | Delimita correo electrónico, Outlook, mensajes, reglas, libreta, agenda, convocatorias y citas. |
 | Soporte de Microsoft: crear mensajes en Outlook | Confirma campos `Para`, `CC`, `CCO`, asunto, adjuntos y envio en Outlook de Microsoft 365. |
-| Soporte de Microsoft: reglas en Outlook | Confirma que las reglas realizan acciones automaticas sobre mensajes segun condiciones. |
+| Soporte de Microsoft: reglas en Outlook | Confirma que las reglas realizan acciones automáticas sobre mensajes según condiciones. |
 | Soporte de Microsoft: conversaciones en Outlook | Confirma la vista agrupada por conversaciones. |
 | Outlook `Archivo` -> `Administrar reglas y alertas` | Ruta funcional para reglas avanzadas. |
 
@@ -643,12 +643,12 @@ Referencias normativas transversales:
 
 | Norma | Por que puede afectar al uso administrativo del correo |
 | --- | --- |
-| Ley Organica 3/2018 y RGPD | Proteccion de datos al enviar correos, especialmente destinatarios y copias. |
-| Ley 39/2015 | Contexto de administracion electronica y comunicaciones administrativas, aunque no regula Outlook como aplicacion. |
+| Ley Organica 3/2018 y RGPD | Protección de datos al enviar correos, especialmente destinatarios y copias. |
+| Ley 39/2015 | Contexto de administración electrónica y comunicaciones administrativas, aunque no regula Outlook como aplicación. |
 
 ## 5. Errores tipicos
 
-| Error | Correccion |
+| Error | Corrección |
 | --- | --- |
 | Pensar que `CC` es copia oculta | `CC` es visible; `CCO` es oculta. |
 | Confundir `Para` con `CC` | `Para` es destinatario principal; `CC` solo copia visible. |
@@ -656,67 +656,67 @@ Referencias normativas transversales:
 | Asociar `FW:` o `RV:` a respuesta | `FW:`/`RV:` indican reenvio; `RE:` indica respuesta. |
 | Decir que responder y reenviar son iguales | Responder contesta al remitente; reenviar envia a nuevos destinatarios. |
 | Pensar que responder incluye siempre adjuntos | Normalmente no incluye los adjuntos originales. |
-| Pensar que reenviar no incluye adjuntos | Normalmente los conserva, salvo configuracion o excepciones. |
+| Pensar que reenviar no incluye adjuntos | Normalmente los conserva, salvo configuración o excepciones. |
 | Confundir Bandeja de salida con Elementos enviados | Salida tiene pendientes; enviados ya salieron. |
 | Pensar que autocompletar equivale a contacto guardado | Puede ser solo una sugerencia por uso anterior. |
-| Creer que una confirmacion de lectura garantiza tramitacion | Solo informa lectura si se emite. |
-| Agrupar conversaciones por remitente | La pregunta historica las vincula al mismo asunto. |
+| Creer que una confirmación de lectura garantiza tramitación | Solo informa lectura si se emite. |
+| Agrupar conversaciones por remitente | La pregunta histórica las vincula al mismo asunto. |
 | Creer que una regla es una plantilla de correo | Una regla automatiza acciones sobre mensajes. |
-| Confundir condicion y excepcion de una regla | La condicion activa; la excepcion impide aplicar en casos concretos. |
+| Confundir condición y excepción de una regla | La condición activa; la excepción impide aplicar en casos concretos. |
 | Buscar reglas en el Calendario | La gestion avanzada esta en `Archivo` -> `Administrar reglas y alertas`. |
-| Pensar que una carpeta de busqueda mueve mensajes | Es virtual; muestra mensajes por criterio. |
-| Confundir limpieza con borrar toda una carpeta | Limpieza elimina redundancias de conversacion, segun configuracion. |
-| Gestionar contactos desde Calendario como funcion propia | Contactos/listas pertenecen a Personas/Contactos, no al modulo Calendario. |
+| Pensar que una carpeta de búsqueda mueve mensajes | Es virtual; muestra mensajes por criterio. |
+| Confundir limpieza con borrar toda una carpeta | Limpieza elimina redundancias de conversación, según configuración. |
+| Gestionar contactos desde Calendario como función propia | Contactos/listas pertenecen a Personas/Contactos, no al modulo Calendario. |
 | Confundir cita y reunion | La reunion tiene asistentes; la cita puede ser solo personal. |
-| Confundir evento con reunion | Evento ocupa dia completo; reunion tiene asistentes convocados. |
-| Creer que convocatoria y cita son sinonimos | La convocatoria es invitacion de reunion; la cita reserva tiempo. |
-| Pensar que cambiar la vista del calendario cambia los eventos | Solo cambia la visualizacion. |
-| Estudiar Outlook 2016 como version base | La convocatoria 2026 fija Microsoft 365 version escritorio. |
-| Meter Teams y SharePoint dentro del Tema 20 | La integracion colaborativa corresponde principalmente al Tema 21. |
+| Confundir evento con reunion | Evento ocupa día completo; reunion tiene asistentes convocados. |
+| Creer que convocatoria y cita son sinonimos | La convocatoria es invitación de reunion; la cita reserva tiempo. |
+| Pensar que cambiar la vista del calendario cambia los eventos | Solo cambia la visualización. |
+| Estudiar Outlook 2016 como versión base | La convocatoria 2026 fija Microsoft 365 versión escritorio. |
+| Meter Teams y SharePoint dentro del Tema 20 | La integración colaborativa corresponde principalmente al Tema 21. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
-### Preguntas directamente utiles para el Tema 20
+### Preguntas directamente útiles para el Tema 20
 
 | ID | Anyo | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |
-| `2023-E2-001` | 2023 | Correo electronico | Pestana donde esta `Nuevo mensaje de correo electronico` en Outlook 2016 | `Inicio` |
-| `2023-E2-005` | 2023 | Correo electronico | Conversacion en Outlook | Agrupacion de mensajes con el mismo asunto |
-| `2023-E2-015` | 2023 | Correo electronico | Marcas de seguimiento | Se aplican a enviados y recibidos |
-| `2023-E2-028` | 2023 | Correo electronico | Diferencia responder / reenviar | Responder no incluye adjuntos; reenviar si |
-| `2023-E2-034` | 2023 | Correo electronico | Significado de CCO | Con copia oculta |
-| `2025-E2-021` | 2025 | Agenda | Accion no propia del Calendario | Gestionar contactos o listas de distribucion |
-| `2025-E2-022` | 2025 | Reglas de mensaje | Definicion de regla | Accion automatica segun condiciones |
-| `2025-E2-023` | 2025 | Correo electronico | Campo de copia visible | `CC` |
-| `2025-E2-024` | 2025 | Correo electronico | Prefijo de reenvio | `FW:` como clave historica; `RV:` puede aparecer en interfaz espanola |
+| `2023-E2-001` | 2023 | Correo electrónico | Pestana donde esta `Nuevo mensaje de correo electrónico` en Outlook 2016 | `Inicio` |
+| `2023-E2-005` | 2023 | Correo electrónico | Conversación en Outlook | Agrupación de mensajes con el mismo asunto |
+| `2023-E2-015` | 2023 | Correo electrónico | Marcas de seguimiento | Se aplican a enviados y recibidos |
+| `2023-E2-028` | 2023 | Correo electrónico | Diferencia responder / reenviar | Responder no incluye adjuntos; reenviar si |
+| `2023-E2-034` | 2023 | Correo electrónico | Significado de CCO | Con copia oculta |
+| `2025-E2-021` | 2025 | Agenda | Acción no propia del Calendario | Gestionar contactos o listas de distribución |
+| `2025-E2-022` | 2025 | Reglas de mensaje | Definición de regla | Acción automática según condiciones |
+| `2025-E2-023` | 2025 | Correo electrónico | Campo de copia visible | `CC` |
+| `2025-E2-024` | 2025 | Correo electrónico | Prefijo de reenvio | `FW:` como clave histórica; `RV:` puede aparecer en interfaz espanola |
 | `2025-E2-025` | 2025 | Outlook | Destinatarios principales | `Para` |
-| `2025-E2-035` | 2025 | Correo electronico | Aplicacion Microsoft 365 de correo | Outlook |
+| `2025-E2-035` | 2025 | Correo electrónico | Aplicación Microsoft 365 de correo | Outlook |
 
-### Incidencia de clasificacion (corregida)
+### Incidencia de clasificación (corregida)
 
 | ID | Motivo | Estado |
 | --- | --- | --- |
-| `2023-E2-006` | Pregunta por campos en tablas de Access, no por Outlook. | Reclasificada al Tema 19 en `02_preguntas_extraidas/` (tema 20 -> 19, subtema "Correo electronico" -> "Tablas Access"). |
+| `2023-E2-006` | Pregunta por campos en tablas de Access, no por Outlook. | Reclasificada al Tema 19 en `02_preguntas_extraidas/` (tema 20 -> 19, subtema "Correo electrónico" -> "Tablas Access"). |
 
-### Cobertura historica
+### Cobertura histórica
 
-Con este tema se responden las preguntas historicas utiles porque se cubren:
+Con este tema se responden las preguntas históricas útiles porque se cubren:
 
-- Ubicacion funcional del nuevo mensaje.
-- Definicion de conversacion.
+- Ubicación funcional del nuevo mensaje.
+- Definición de conversación.
 - Marcas de seguimiento.
 - Responder, responder a todos y reenviar.
 - `Para`, `CC`, `CCO`.
 - Prefijos `RE:` y `FW:`/`RV:`.
 - Reglas.
 - Calendario, citas, reuniones y contactos.
-- Outlook como aplicacion de correo de Microsoft 365.
+- Outlook como aplicación de correo de Microsoft 365.
 
 ## 7. Test de entrenamiento
 
 ### Preguntas
 
-1. En Microsoft 365 de escritorio, la aplicacion principal para gestionar correo electronico es:
+1. En Microsoft 365 de escritorio, la aplicación principal para gestionar correo electrónico es:
    A. Word
    B. Access
    C. Power BI
@@ -740,7 +740,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
    C. Con copia oculta
    D. Copia de calendario Outlook
 
-5. Si se quiere que un destinatario reciba el correo sin que los demas vean su direccion, debe usarse:
+5. Si se quiere que un destinatario reciba el correo sin que los demas vean su dirección, debe usarse:
    A. Para
    B. CCO
    C. CC
@@ -764,19 +764,19 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
    C. Mensaje sin adjuntos
    D. Reenvio
 
-9. La accion `Responder` envia la contestacion normalmente:
+9. La acción `Responder` envia la contestación normalmente:
    A. A un nuevo destinatario elegido desde cero
    B. Al remitente original
    C. Solo a los contactos favoritos
-   D. A todos los usuarios de la organizacion
+   D. A todos los usuarios de la organización
 
-10. La accion `Responder a todos` envia la respuesta:
+10. La acción `Responder a todos` envia la respuesta:
     A. Solo al remitente
     B. A los destinatarios ocultos siempre identificados por Outlook
     C. Solo a los contactos de la libreta
     D. Al remitente y a los destinatarios visibles del mensaje
 
-11. La accion `Reenviar` se usa para:
+11. La acción `Reenviar` se usa para:
     A. Eliminar un mensaje recibido
     B. Cambiar la contrasena de la cuenta
     C. Enviar un mensaje recibido a nuevos destinatarios
@@ -794,17 +794,17 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     C. El mensaje pasa a Borradores
     D. Normalmente no se vuelven a incluir los adjuntos originales
 
-14. Una conversacion en Outlook agrupa principalmente mensajes:
+14. Una conversación en Outlook agrupa principalmente mensajes:
     A. Con el mismo asunto o hilo
     B. Del mismo tamano
-    C. Con el mismo numero de adjuntos
+    C. Con el mismo número de adjuntos
     D. Recibidos a la misma hora exacta
 
 15. Las marcas de seguimiento sirven para:
     A. Convertir mensajes en documentos de Word
     B. Crear una base de datos
     C. Bloquear la bandeja de entrada
-    D. Senalar mensajes que requieren accion o control posterior
+    D. Senalar mensajes que requieren acción o control posterior
 
 16. Las marcas de seguimiento pueden aplicarse:
     A. Solo a mensajes recibidos
@@ -815,26 +815,26 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 17. Una regla de mensaje en Outlook es:
     A. Una plantilla obligatoria de todos los correos
     B. Un programa externo que sustituye a Outlook
-    C. Una accion automatica configurada por el usuario segun condiciones
-    D. Una cita periodica del calendario
+    C. Una acción automática configurada por el usuario según condiciones
+    D. Una cita periódica del calendario
 
 18. Una regla puede servir para:
     A. Crear una tabla de Access
     B. Editar una formula de Excel
     C. Mover automaticamente mensajes de un remitente a una carpeta
-    D. Cambiar la resolucion de pantalla
+    D. Cambiar la resolución de pantalla
 
-19. En una regla, la condicion es:
+19. En una regla, la condición es:
     A. El texto de la firma
     B. El criterio que debe cumplirse para aplicar la regla
     C. La hora de inicio de una cita
     D. La contrasena del correo
 
-20. En una regla, la accion es:
+20. En una regla, la acción es:
     A. El nombre del remitente solamente
     B. El campo `CCO`
     C. El formato del calendario
-    D. Lo que Outlook hace cuando se cumple la condicion
+    D. Lo que Outlook hace cuando se cumple la condición
 
 21. La libreta de direcciones se utiliza para:
     A. Crear tablas dinamicas
@@ -843,9 +843,9 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     D. Disenar informes de Access
 
 22. Un contacto de Outlook puede contener:
-    A. Nombre, correo y telefono
+    A. Nombre, correo y teléfono
     B. Solo formulas
-    C. Solo graficos
+    C. Solo gráficos
     D. Exclusivamente contrasenas
 
 23. Una lista de contactos sirve para:
@@ -864,7 +864,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     A. Crear una cita
     B. Crear una reunion
     C. Eliminar una cita
-    D. Gestionar contactos o listas de distribucion
+    D. Gestionar contactos o listas de distribución
 
 26. Una cita en Outlook es:
     A. Una copia oculta
@@ -879,9 +879,9 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     D. La reunion incluye asistentes invitados
 
 28. Una convocatoria de reunion es:
-    A. Una direccion de correo oculta
+    A. Una dirección de correo oculta
     B. Un archivo adjunto comprimido
-    C. La invitacion enviada a los asistentes de una reunion
+    C. La invitación enviada a los asistentes de una reunion
     D. Una regla de correo no deseado
 
 29. Las respuestas tipicas a una convocatoria son:
@@ -918,7 +918,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     A. Ver el contenido del mensaje seleccionado
     B. Crear bases de datos
     C. Modificar permisos de Windows
-    D. Dibujar graficos
+    D. Dibujar gráficos
 
 35. La vista por conversaciones sirve para:
     A. Eliminar todos los adjuntos
@@ -926,7 +926,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
     C. Cambiar la cuenta de Windows
     D. Crear listas de SharePoint
 
-36. Una buena practica al enviar correos a muchos destinatarios que no deben verse entre si es:
+36. Una buena práctica al enviar correos a muchos destinatarios que no deben verse entre si es:
     A. Usar `CCO` cuando proceda
     B. Ponerlos a todos en `CC`
     C. Escribir las direcciones en el asunto
@@ -940,25 +940,25 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 
 38. Una regla no debe confundirse con:
     A. Una plantilla de mensaje
-    B. Una automatizacion sobre mensajes
-    C. Una condicion
-    D. Una accion
+    B. Una automatización sobre mensajes
+    C. Una condición
+    D. Una acción
 
 39. En Outlook, el boton `Para`, `CC` o `CCO` puede utilizarse para:
-    A. Abrir opciones de seleccion de destinatarios
+    A. Abrir opciones de selección de destinatarios
     B. Crear una tabla dinamica
-    C. Cambiar la resolucion de pantalla
+    C. Cambiar la resolución de pantalla
     D. Cerrar Microsoft 365
 
 40. La convocatoria 2026 exige estudiar Outlook sobre:
     A. Outlook 2003 exclusivamente
-    B. Microsoft 365 version escritorio
+    B. Microsoft 365 versión escritorio
     C. Outlook Express
-    D. Version web no indicada como base
+    D. Versión web no indicada como base
 
 ### Plantilla de respuestas
 
-| Numero | Respuesta | Explicacion breve |
+| Número | Respuesta | Explicación breve |
 | ---: | :---: | --- |
 | 1 | D | Outlook gestiona correo en Microsoft 365. |
 | 2 | C | `Para` contiene destinatarios principales. |
@@ -967,7 +967,7 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 | 5 | B | `CCO` oculta el destinatario frente al resto. |
 | 6 | C | El asunto identifica el contenido. |
 | 7 | C | `RE:` indica respuesta. |
-| 8 | D | `FW:` o `RV:` indican reenvio segun idioma/configuracion. |
+| 8 | D | `FW:` o `RV:` indican reenvio según idioma/configuración. |
 | 9 | B | Responder contesta al remitente original. |
 | 10 | D | Responder a todos incluye remitente y destinatarios visibles. |
 | 11 | C | Reenviar manda el correo a nuevos destinatarios. |
@@ -976,15 +976,15 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 | 14 | A | Las conversaciones se agrupan por asunto o hilo. |
 | 15 | D | Las marcas ayudan al seguimiento. |
 | 16 | B | Pueden aplicarse a enviados y recibidos. |
-| 17 | C | Una regla automatiza acciones segun condiciones. |
+| 17 | C | Una regla automatiza acciones según condiciones. |
 | 18 | C | Es un uso tipico de reglas. |
-| 19 | B | La condicion activa la regla. |
-| 20 | D | La accion es lo que ejecuta Outlook. |
+| 19 | B | La condición activa la regla. |
+| 20 | D | La acción es lo que ejecuta Outlook. |
 | 21 | B | Sirve para elegir o consultar direcciones. |
 | 22 | A | Un contacto guarda datos de una persona o entidad. |
 | 23 | A | Agrupa destinatarios. |
 | 24 | B | Calendario gestiona citas y reuniones. |
-| 25 | D | Contactos/listas no es funcion propia del Calendario. |
+| 25 | D | Contactos/listas no es función propia del Calendario. |
 | 26 | C | Una cita reserva tiempo. |
 | 27 | D | La reunion incluye asistentes. |
 | 28 | C | La convocatoria invita a asistentes. |
@@ -1005,8 +1005,8 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 
 ### Outlook
 
-- Aplicacion de Microsoft 365 para correo, calendario, contactos y organizacion.
-- Version base 2026: `Microsoft 365 version escritorio`.
+- Aplicación de Microsoft 365 para correo, calendario, contactos y organización.
+- Versión base 2026: `Microsoft 365 versión escritorio`.
 - Modulos clave: Correo, Calendario, Personas/Contactos.
 
 ### Mensajes
@@ -1022,10 +1022,10 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 
 ### Acciones
 
-| Accion | Clave de examen |
+| Acción | Clave de examen |
 | --- | --- |
 | Enviar | Remite el mensaje. |
-| Recibir | Entrada/sincronizacion de mensajes. |
+| Recibir | Entrada/sincronización de mensajes. |
 | Responder | Contesta al remitente; normalmente no incluye adjuntos. |
 | Responder a todos | Contesta a remitente y destinatarios visibles. |
 | Reenviar | Envia a nuevos destinatarios; normalmente conserva adjuntos. |
@@ -1037,38 +1037,38 @@ Con este tema se responden las preguntas historicas utiles porque se cubren:
 
 ### Conversaciones y seguimiento
 
-- Conversacion: agrupacion de mensajes con el mismo asunto o hilo.
+- Conversación: agrupación de mensajes con el mismo asunto o hilo.
 - Marcas de seguimiento: control de acciones pendientes.
 - Pueden aplicarse a enviados y recibidos.
 
 ### Reglas
 
-Regla = automatizacion sobre mensajes.
+Regla = automatización sobre mensajes.
 
 Estructura:
 
 1. Nombre.
-2. Condicion.
-3. Accion.
-4. Excepcion opcional.
+2. Condición.
+3. Acción.
+4. Excepción opcional.
 
-Ejemplos: mover a carpeta, marcar, asignar categoria, reenviar o eliminar.
+Ejemplos: mover a carpeta, marcar, asignar categoría, reenviar o eliminar.
 
 ### Libreta de direcciones
 
 - Contacto: datos de persona o entidad.
-- Libreta de direcciones: seleccion de destinatarios.
+- Libreta de direcciones: selección de destinatarios.
 - Lista de contactos: grupo de direcciones.
 - Botones `Para`, `CC` y `CCO`: permiten seleccionar destinatarios.
 
 ### Agenda
 
-| Elemento | Definicion |
+| Elemento | Definición |
 | --- | --- |
 | Calendario | Modulo de agenda. |
 | Cita | Reserva de tiempo, normalmente sin asistentes. |
 | Reunion | Evento con asistentes. |
-| Convocatoria | Invitacion de reunion. |
+| Convocatoria | Invitación de reunion. |
 | Recordatorio | Aviso previo. |
 | Disponibilidad | Libre, ocupado, provisional, fuera de oficina. |
 
@@ -1078,7 +1078,7 @@ Ejemplos: mover a carpeta, marcar, asignar categoria, reenviar o eliminar.
 - `Para` no es lo mismo que `CC`.
 - `FW:`/`RV:` reenvio; `RE:` respuesta.
 - Responder no es reenviar.
-- Conversacion se asocia al asunto/hilo.
+- Conversación se asocia al asunto/hilo.
 - Regla no es plantilla ni programa externo.
-- Contactos/listas no son funcion propia del Calendario.
+- Contactos/listas no son función propia del Calendario.
 - Cita no es reunion: la reunion tiene asistentes.

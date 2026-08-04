@@ -595,7 +595,7 @@ Trampa: Power BI no sustituye exactamente a Access. Access gestiona bases de dat
 | Power BI Service | Publicación y compartición en la nube | Confundir con Desktop |
 | Power BI Mobile | Consulta desde móvil/tableta | Confundir con diseño de informes |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 No hay artículos legales aplicables. Es materia práctica de ofimática. Las referencias relevantes son funcionales:
 
@@ -642,7 +642,7 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir relación con informe | La relación vincula tablas; el informe presenta datos. |
 | Confundir Power BI Desktop, Service y Mobile | Desktop diseña; Service publica/compartir; Mobile consulta. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Subtema | Qué preguntó | Respuesta |
 | --- | --- | --- | :---: |

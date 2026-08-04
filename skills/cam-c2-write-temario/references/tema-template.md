@@ -2,13 +2,13 @@
 
 Use this section order for each file under `05_temario/`:
 
-1. `# Tema NN. Titulo oficial`
+1. `# Tema NN. Título oficial`
 2. `## 1. Resumen ejecutivo`
 3. `## 2. Desarrollo`
 4. `## 3. Conceptos clave`
-5. `## 4. Articulos importantes`
+5. `## 4. Artículos importantes`
 6. `## 5. Errores tipicos`
-7. `## 6. Preguntas historicas`
+7. `## 6. Preguntas históricas`
 8. `## 7. Test de entrenamiento`
 9. `## 8. Esquema final`
 

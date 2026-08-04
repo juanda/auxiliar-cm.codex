@@ -1,4 +1,4 @@
-# Tema 7. La Jurisdiccion Contencioso-Administrativa
+# Tema 7. La Jurisdicción Contencioso-Administrativa
 
 La Jurisdicción Contencioso-Administrativa: Su organización. Las partes. Actos impugnables. Las fases principales del procedimiento contencioso-administrativo.
 
@@ -357,7 +357,7 @@ Las medidas cautelares buscan asegurar la eficacia de la sentencia. La más habi
 | Procedimiento abreviado | Se inicia por demanda y concentra vista. |
 | Derechos fundamentales | Procedimiento especial incluido en el orden contencioso. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -394,7 +394,7 @@ Las medidas cautelares buscan asegurar la eficacia de la sentencia. La más habi
 | Sentencia en 15 o 20 días desde concluso. | Son 10 días. |
 | Impugnar actos de trámite simples. | Solo actos definitivos o trámite cualificado. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

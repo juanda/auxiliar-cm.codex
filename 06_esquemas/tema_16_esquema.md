@@ -16,14 +16,14 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Panel de vista previa | Permite ver ciertos archivos sin abrirlos. |
 | Extensión | Caracteres tras el punto final del nombre. |
 | Carpeta personal | Carpeta propia de cada usuario. |
-| Papelera | Recupera eliminados habituales si la ubicacion lo permite. |
-| Permisos | Lectura, escritura o modificacion sobre archivos/carpetas. |
-| Indexacion | Acelera busquedas en ubicaciones incluidas. |
+| Papelera | Recupera eliminados habituales si la ubicación lo permite. |
+| Permisos | Lectura, escritura o modificación sobre archivos/carpetas. |
+| Indexación | Acelera búsquedas en ubicaciones incluidas. |
 | ZIP | Archivo comprimido; agrupa/reduce, no cifra por si solo. |
 | Bibliotecas | Vistas virtuales que agrupan carpetas. |
 | NTFS/FAT32/exFAT | Sistemas de archivos de unidades. |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -51,8 +51,8 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Administrador de tareas | Procesos y rendimiento. |
 | Visor de eventos | Registros del sistema. |
 | Sensor de almacenamiento | Liberar espacio. |
-| Seguridad de Windows | Antivirus, firewall y proteccion del sistema. |
-| `Win + I` | Abre Configuracion. |
+| Seguridad de Windows | Antivirus, firewall y protección del sistema. |
+| `Win + I` | Abre Configuración. |
 | `control.exe` | Abre Panel de control. |
 
 ## Búsqueda
@@ -73,9 +73,9 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Desanclar vs borrar | Desanclar no borra la carpeta. |
 | Este equipo vs Acceso rápido | Este equipo muestra unidades/dispositivos. |
 | Vista previa vs abrir | Vista previa no abre con la aplicación principal. |
-| Copiar vs mover | Copiar duplica; mover cambia ubicacion. |
+| Copiar vs mover | Copiar duplica; mover cambia ubicación. |
 | Papelera universal | No todo borrado pasa por Papelera. |
-| Oculto vs cifrado | Oculto afecta a visualizacion; no cifra. |
+| Oculto vs cifrado | Oculto afecta a visualización; no cifra. |
 | ZIP vs cifrado | ZIP no implica contraseña ni cifrado. |
 | Biblioteca vs carpeta real | Biblioteca agrupa ubicaciones. |
 | FAT32 vs NTFS | FAT32 limita archivos de 4 GB; NTFS admite permisos. |
@@ -84,7 +84,7 @@ La convocatoria 2026 fija `Windows 10` para las preguntas sobre Windows.
 | Ordenar vs agrupar | Ordenar reordena; agrupar separa por categorías. |
 | `diskmgmt.msc` vs `devmgmt.msc` | Discos frente a dispositivos. |
 
-## Repaso de una pagina
+## Repaso de una página
 
 Prioridad alta:
 
@@ -94,18 +94,18 @@ Prioridad alta:
 - Espacio libre: `Este equipo` -> unidad -> `Propiedades`.
 - Extensión: caracteres tras el punto final.
 - Copiar, cortar, pegar: `Ctrl + C`, `Ctrl + X`, `Ctrl + V`.
-- `Mayús + Supr`: eliminacion sin Papelera si se confirma.
+- `Mayús + Supr`: eliminación sin Papelera si se confirma.
 - Carpeta personal: perfil de cada usuario.
 - Compartir carpeta: acceso a otros usuarios de red.
-- Propiedades: tipo, ubicacion, tamano, atributos, permisos y detalles.
+- Propiedades: tipo, ubicación, tamano, atributos, permisos y detalles.
 - Nombres no pueden incluir `\ / : * ? " < > |`.
 - ZIP: comprimir/extraer; no equivale a cifrar.
 - Bibliotecas: vistas virtuales, no carpetas físicas únicas.
 - USB: quitar de forma segura para evitar pérdida de datos.
-- Busqueda: `*` cadena, `?` un caracter, filtros por tipo/fecha/tamano.
-- Busqueda del Explorador no es igual que busqueda general de la barra de tareas.
-- Configuracion (`Win + I`) y Panel de control (`control.exe`) coexisten.
-- NTFS = permisos; FAT32 = limite 4 GB por archivo; exFAT = extraibles grandes.
+- Búsqueda: `*` cadena, `?` un carácter, filtros por tipo/fecha/tamano.
+- Búsqueda del Explorador no es igual que búsqueda general de la barra de tareas.
+- Configuración (`Win + I`) y Panel de control (`control.exe`) coexisten.
+- NTFS = permisos; FAT32 = límite 4 GB por archivo; exFAT = extraibles grandes.
 - Agrupación: número entre paréntesis = archivos del grupo.
 - Procesos activos: Administrador de tareas.
 - Administrador de discos: `diskmgmt.msc`.

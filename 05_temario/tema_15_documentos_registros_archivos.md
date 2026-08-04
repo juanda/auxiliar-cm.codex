@@ -468,7 +468,7 @@ La conservación electrónica debe garantizar:
 | Archivo histórico | Conservación permanente por valor histórico. |
 | Acceso parcial | Entrega de información con ocultación de datos limitados. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma | Artículo | Relevancia |
 | --- | --- | --- |
@@ -506,7 +506,7 @@ La conservación electrónica debe garantizar:
 | Confundir copia simple y copia auténtica. | La copia auténtica tiene efectos administrativos. |
 | Olvidar metadatos del documento electrónico. | Son esenciales para gestión, búsqueda y conservación. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | ID | Año | Subtema | Qué preguntó | Respuesta que debe saberse |
 | --- | ---: | --- | --- | --- |

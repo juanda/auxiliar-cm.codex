@@ -26,8 +26,8 @@
 
 ## Tipos Permitidos
 
-- `legislacion`
-- `constitucion`
+- `legislación`
+- `constitución`
 - `comunidad_madrid`
 - `procedimiento_administrativo`
 - `funcion_publica`

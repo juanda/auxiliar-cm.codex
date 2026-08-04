@@ -1,4 +1,4 @@
-# Test Tema 9. Contratos del Sector Publico
+# Test Tema 9. Contratos del Sector Público
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_09_contratos_sector_publico.md`.
 

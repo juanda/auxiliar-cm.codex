@@ -1,4 +1,4 @@
-# Tema 7. Jurisdiccion Contencioso-Administrativa - Esquema de repaso
+# Tema 7. Jurisdicción Contencioso-Administrativa - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -66,7 +66,7 @@ Organización del orden contencioso-administrativo, partes, actos impugnables y 
 | Vista/conclusiones | Antes de quedar concluso |
 | Sentencia | 10 días desde concluso |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -90,7 +90,7 @@ Organización del orden contencioso-administrativo, partes, actos impugnables y 
 | Emplazamiento por remisión expediente | No: por reclamación expediente |
 | Sentencia en 15/20 días | No: 10 días |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Ley 29/1998.
 - Control judicial de actividad administrativa.

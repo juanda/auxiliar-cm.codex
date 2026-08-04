@@ -1,4 +1,4 @@
-# Tema 3. Gobierno y Administracion de la Comunidad de Madrid - Esquema de repaso
+# Tema 3. Gobierno y Administración de la Comunidad de Madrid - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -58,7 +58,7 @@ Regla: en la pregunta histórica eran correctas `publicidad` y `eficacia`, no `t
 | 8 | Familia, Juventud y Asuntos Sociales |
 | 9 | Cultura, Turismo y Deporte |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -89,7 +89,7 @@ Regla: en la pregunta histórica eran correctas `publicidad` y `eficacia`, no `t
 | Consejería de Servicios Sociales | No: Familia, Juventud y Asuntos Sociales |
 | Organismos autónomos por Decreto | No: por Ley |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Ley 1/1983: Presidente, Consejo de Gobierno y Consejeros.
 - Presidente: elegido por Asamblea de entre sus miembros; nombrado por el Rey; Real Decreto; BOE y BOCM.

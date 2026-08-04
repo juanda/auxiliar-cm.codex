@@ -1,4 +1,4 @@
-# Tema 2. Estatuto de Autonomia de la Comunidad de Madrid - Esquema de repaso
+# Tema 2. Estatuto de Autonomía de la Comunidad de Madrid - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -69,7 +69,7 @@ Estatuto de Autonomía: estructura y contenido. Competencias: potestad legislati
 | Convenios con otras CCAA para gestión/prestación de servicios propios | Comunicación a Cortes Generales |
 | Acuerdos de cooperación sobre otras materias | Autorización previa de Cortes Generales |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -100,7 +100,7 @@ Estatuto de Autonomía: estructura y contenido. Competencias: potestad legislati
 | Aeropuertos comerciales exclusivos | No: deportivos y no comerciales |
 | Acuerdos sin autorización | No: autorización previa de Cortes Generales |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - LO 3/1983 = Estatuto de Autonomía de la Comunidad de Madrid.
 - Comunidad de Madrid: territorio provincial; capital en la villa de Madrid.

@@ -1,4 +1,4 @@
-# Test Tema 8. Transparencia y proteccion de datos
+# Test Tema 8. Transparencia y protección de datos
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_08_transparencia_proteccion_datos.md`.
 

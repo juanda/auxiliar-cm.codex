@@ -370,7 +370,7 @@ Los accesorios son aplicaciones básicas incluidas en Windows 10. Pueden aparece
 | Grabadora de voz | Grabar audio. |
 | Conexión a Escritorio remoto | Conectarse a otro equipo si está permitido. |
 
-Trampa: Word y Excel no son accesorios de Windows; en la convocatoria 2026 deben tratarse como aplicaciones de Microsoft 365 version escritorio, no como utilidades propias de Windows 10.
+Trampa: Word y Excel no son accesorios de Windows; en la convocatoria 2026 deben tratarse como aplicaciones de Microsoft 365 versión escritorio, no como utilidades propias de Windows 10.
 
 ### 2.6. Herramientas del sistema
 
@@ -497,7 +497,7 @@ Trampa: NTFS permite permisos de seguridad; FAT32 no ofrece esos permisos NTFS.
 | Administrador de tareas | Procesos y rendimiento en tiempo real | Confundir con servicios |
 | `diskmgmt.msc` | Administrador de discos | Confundir con `devmgmt.msc` |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 No hay artículos legales aplicables. Es materia práctica de ofimática. Las referencias relevantes son funcionales:
 
@@ -539,7 +539,7 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir `diskmgmt.msc` con `devmgmt.msc` | `diskmgmt.msc` abre discos; `devmgmt.msc` dispositivos. |
 | Confundir FAT32 y NTFS | FAT32 limita archivos grandes; NTFS admite permisos de seguridad. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Subtema | Qué preguntó | Respuesta |
 | --- | --- | --- | :---: |

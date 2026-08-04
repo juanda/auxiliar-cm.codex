@@ -57,7 +57,7 @@ Acto administrativo: características, requisitos, eficacia, nulidad y anulabili
 | Exigencia | De oficio por la Administración que indemnizó |
 | Plazo histórico | Resolución en 5 días |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -77,7 +77,7 @@ Acto administrativo: características, requisitos, eficacia, nulidad y anulabili
 | Alzada contra actos que ponen fin | No: contra actos que no ponen fin |
 | Responsabilidad por culpa leve | No: dolo, culpa o negligencia grave |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Acto administrativo: decisión concreta de Administración con efectos jurídicos.
 - Requisitos: competencia, contenido, motivación y forma.

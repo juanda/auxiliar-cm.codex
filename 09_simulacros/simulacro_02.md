@@ -1,20 +1,20 @@
 # Simulacro 02. Auxiliar Administrativo Comunidad de Madrid C2
 
-Convocatoria 2026. Simulacro completo con dos ejercicios, preguntas de reserva y correccion con penalizacion.
+Convocatoria 2026. Simulacro completo con dos ejercicios, preguntas de reserva y corrección con penalización.
 
 ## Instrucciones generales
 
-- Contesta una sola opcion por pregunta: A, B, C o D.
+- Contesta una sola opción por pregunta: A, B, C o D.
 - Las preguntas de reserva solo se corrigen si se anula alguna pregunta ordinaria del mismo ejercicio.
-- Penalizacion: `puntuacion = aciertos - errores / 3`.
+- Penalización: `puntuación = aciertos - errores / 3`.
 - Las preguntas en blanco no suman ni restan.
-- No consultes el temario durante la realizacion del simulacro.
+- No consultes el temario durante la realización del simulacro.
 
 ## Primer ejercicio
 
 Tiempo: 65 minutos.
 
-Composicion:
+Composición:
 
 | Parte | Preguntas |
 | --- | ---: |
@@ -30,7 +30,7 @@ Composicion:
    C. Confuso
    D. Ruidoso
 
-2. Indique cuantas palabras contienen error ortografico, sin valorar tildes: absorber, exuberante, inflingir, garaje, yendo, hayazgo, decision, vajilla.
+2. Indique cuantas palabras contienen error ortografico, sin valorar tildes: absorber, exuberante, inflingir, garaje, yendo, hayazgo, decisión, vajilla.
    A. 1
    B. 2
    C. 3
@@ -48,14 +48,14 @@ Composicion:
    C. Oir
    D. Guardar
 
-5. Indique la opcion que contiene sinonimos, en el mismo orden, de: mitigar / derogar / corroborar.
+5. Indique la opción que contiene sinonimos, en el mismo orden, de: mitigar / derogar / corroborar.
    A. Agravar / aprobar / negar
    B. Atenuar / anular / confirmar
    C. Suprimir / mantener / dudar
    D. Calmar / publicar / contradecir
 
 6. Senala la palabra incorrectamente escrita.
-   A. Excepcion
+   A. Excepción
    B. Hibernar
    C. Inhibir
    D. Exibir
@@ -72,13 +72,13 @@ Composicion:
    C. v
    D. w
 
-9. Si en un codigo se invierte el orden y se sustituye cada numero por su complementario a 9, `AB27` se transforma en `BA72`. Como se transforma `CD34`?
+9. Si en un código se invierte el orden y se sustituye cada número por su complementario a 9, `AB27` se transforma en `BA72`. Como se transforma `CD34`?
    A. DC65
    B. CD65
    C. DC56
    D. BA65
 
-10. Que numero falta? 3, 9, 12, 36, 39, ...
+10. Que número falta? 3, 9, 12, 36, 39, ...
     A. 42
     B. 78
     C. 117
@@ -90,11 +90,11 @@ Composicion:
     C. Todos los expedientes sin etiqueta son urgentes.
     D. Ningun expediente urgente se etiqueta.
 
-12. Ordene alfabeticamente: Tramitacion, Transparencia, Trabajo, Transferencia.
-    A. Trabajo, Tramitacion, Transferencia, Transparencia
-    B. Trabajo, Transferencia, Transparencia, Tramitacion
-    C. Tramitacion, Trabajo, Transferencia, Transparencia
-    D. Transparencia, Transferencia, Tramitacion, Trabajo
+12. Ordene alfabeticamente: Tramitación, Transparencia, Trabajo, Transferencia.
+    A. Trabajo, Tramitación, Transferencia, Transparencia
+    B. Trabajo, Transferencia, Transparencia, Tramitación
+    C. Tramitación, Trabajo, Transferencia, Transparencia
+    D. Transparencia, Transferencia, Tramitación, Trabajo
 
 13. Calcula respetando la prioridad de operaciones: `48 : 6 + 7 x 3 - 5`.
     A. 20
@@ -108,7 +108,7 @@ Composicion:
     C. 42
     D. 48
 
-15. Un equipo tramita 180 expedientes en 6 dias. Al mismo ritmo, cuantos expedientes tramitara en 10 dias?
+15. Un equipo tramita 180 expedientes en 6 días. Al mismo ritmo, cuantos expedientes tramitara en 10 días?
     A. 240
     B. 270
     C. 300
@@ -120,7 +120,7 @@ Composicion:
     C. 1/2
     D. 2/3
 
-17. Si un precio de 80 euros aumenta un 15% y despues se descuenta un 10%, el precio final es:
+17. Si un precio de 80 euros aumenta un 15% y después se descuenta un 10%, el precio final es:
     A. 82,80 euros
     B. 83,20 euros
     C. 84,00 euros
@@ -132,7 +132,7 @@ Composicion:
     C. 20
     D. 21
 
-19. En una proporcion 3:5 se reparten 400 unidades. La parte mayor es:
+19. En una proporción 3:5 se reparten 400 unidades. La parte mayor es:
     A. 150
     B. 200
     C. 250
@@ -150,7 +150,7 @@ Composicion:
     C. 600
     D. 625
 
-22. Que numero continua la serie: 81, 27, 9, 3, ...
+22. Que número continua la serie: 81, 27, 9, 3, ...
     A. 0
     B. 1
     C. 2
@@ -165,22 +165,22 @@ Composicion:
 24. Compara las cadenas `A4B7C9D1` y `A4B7C8D1`.
     A. Son identicas
     B. Cambia una letra
-    C. Cambia un numero
+    C. Cambia un número
     D. Cambia el orden completo
 
-25. Cuantos codigos empiezan por vocal y terminan en numero par? `A23`, `E48`, `B62`, `I15`, `O90`, `U31`
+25. Cuantos códigos empiezan por vocal y terminan en número par? `A23`, `E48`, `B62`, `I15`, `O90`, `U31`
     A. 1
     B. 2
     C. 3
     D. 4
 
-26. Cuantas palabras tienen exactamente 7 letras? archivo, tramite, registro, carpeta, gestion, dato.
+26. Cuantas palabras tienen exactamente 7 letras? archivo, trámite, registro, carpeta, gestion, dato.
     A. 2
     B. 3
     C. 4
     D. 5
 
-27. En la lista `62315, 63845, 61735, 64230, 60395`, cuantos numeros terminan en 5 y contienen un 3?
+27. En la lista `62315, 63845, 61735, 64230, 60395`, cuantos números terminan en 5 y contienen un 3?
     A. 2
     B. 3
     C. 4
@@ -198,7 +198,7 @@ Composicion:
     C. 3
     D. 4
 
-30. En la cadena `M7L1Q6J7G9`, cuantos caracteres son numeros impares?
+30. En la cadena `M7L1Q6J7G9`, cuantos caracteres son números impares?
     A. 3
     B. 4
     C. 5
@@ -206,19 +206,19 @@ Composicion:
 
 ### Parte B. Bloque I
 
-31. La Constitucion Espanola de 1978 se caracteriza, entre otros rasgos, por ser:
+31. La Constitución Espanola de 1978 se caracteriza, entre otros rasgos, por ser:
     A. Una norma flexible que puede modificarse por ley ordinaria.
     B. Una norma suprema, escrita, rigida y consensuada.
     C. Un reglamento aprobado por el Gobierno.
-    D. Una norma exclusivamente programatica sin valor juridico.
+    D. Una norma exclusivamente programatica sin valor jurídico.
 
-32. El recurso de amparo constitucional protege, con caracter general:
-    A. Todos los derechos del Titulo I sin distincion.
-    B. Los derechos de los articulos 14 a 29 y la objecion de conciencia del articulo 30.2.
-    C. Solo los principios rectores de la politica social y economica.
+32. El recurso de amparo constitucional protege, con carácter general:
+    A. Todos los derechos del Título I sin distinción.
+    B. Los derechos de los artículos 14 a 29 y la objeción de conciencia del artículo 30.2.
+    C. Solo los principios rectores de la política social y económica.
     D. Solo los derechos tributarios.
 
-33. El Estatuto de Autonomia de la Comunidad de Madrid es:
+33. El Estatuto de Autonomía de la Comunidad de Madrid es:
     A. Una ley ordinaria autonomica.
     B. Una ley organica del Estado.
     C. Un decreto del Consejo de Gobierno.
@@ -226,193 +226,193 @@ Composicion:
 
 34. Corresponde a la Asamblea de Madrid:
     A. Ejercer la potestad legislativa de la Comunidad.
-    B. Dirigir la politica exterior del Estado.
+    B. Dirigir la política exterior del Estado.
     C. Resolver recursos contencioso-administrativos.
     D. Nombrar a todos los jueces y magistrados.
 
 35. Las Consejerias de la Comunidad de Madrid son:
-    A. Organos judiciales.
-    B. Organos superiores de la Administracion autonomica.
+    A. Órganos judiciales.
+    B. Órganos superiores de la Administración autonomica.
     C. Entidades locales territoriales.
-    D. Organos constitucionales del Estado.
+    D. Órganos constitucionales del Estado.
 
-36. En la jerarquia normativa, la Constitucion se situa:
+36. En la jerarquía normativa, la Constitución se situa:
     A. Por debajo de los reglamentos.
     B. Al mismo nivel que las ordenes ministeriales.
-    C. Como norma suprema del ordenamiento juridico.
+    C. Como norma suprema del ordenamiento jurídico.
     D. Solo por encima de las instrucciones internas.
 
 37. Los decretos legislativos son:
     A. Reglamentos independientes sin rango de ley.
-    B. Disposiciones del Gobierno con fuerza de ley dictadas por delegacion legislativa.
+    B. Disposiciones del Gobierno con fuerza de ley dictadas por delegación legislativa.
     C. Leyes aprobadas directamente por los ayuntamientos.
     D. Actos administrativos singulares.
 
 38. Los reglamentos son:
-    A. Normas juridicas dictadas por la Administracion con rango inferior a la ley.
+    A. Normas jurídicas dictadas por la Administración con rango inferior a la ley.
     B. Leyes organicas aprobadas por mayoria absoluta.
     C. Sentencias firmes de los tribunales.
     D. Contratos administrativos formalizados.
 
 39. Deben motivarse, entre otros, los actos administrativos que:
     A. Limiten derechos subjetivos o intereses legitimos.
-    B. Sean siempre de tramite interno sin efectos.
+    B. Sean siempre de trámite interno sin efectos.
     C. Sean meras comunicaciones informales.
     D. No afecten a ningun interesado.
 
-40. La notificacion de un acto administrativo debe contener, entre otros extremos:
+40. La notificación de un acto administrativo debe contener, entre otros extremos:
     A. Solo el nombre del funcionario que lo firma.
-    B. El texto integro del acto y la indicacion de recursos cuando proceda.
-    C. Unicamente el numero de registro de entrada.
+    B. El texto integro del acto y la indicación de recursos cuando proceda.
+    C. Unicamente el número de registro de entrada.
     D. Solo una copia de la solicitud inicial.
 
 41. Es causa de anulabilidad del acto administrativo:
     A. Lesionar derechos fundamentales susceptibles de amparo.
     B. Tener contenido imposible.
-    C. Incurrir en cualquier infraccion del ordenamiento juridico, incluida la desviacion de poder, salvo nulidad.
+    C. Incurrir en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder, salvo nulidad.
     D. Dictarse prescindiendo total y absolutamente del procedimiento.
 
 42. El recurso de alzada se interpone, como regla general, contra:
-    A. Actos que no ponen fin a la via administrativa.
+    A. Actos que no ponen fin a la vía administrativa.
     B. Sentencias del Tribunal Constitucional.
     C. Reglamentos estatales con rango de ley.
     D. Actos firmes no recurribles en ningun caso.
 
 43. Las fases principales del procedimiento administrativo comun son:
-    A. Inicio, recurso, sentencia y ejecucion.
-    B. Iniciacion, ordenacion, instruccion y finalizacion.
-    C. Demanda, contestacion, prueba y vista.
-    D. Licitacion, adjudicacion, formalizacion y pago.
+    A. Inicio, recurso, sentencia y ejecución.
+    B. Iniciación, ordenación, instrucción y finalización.
+    C. Demanda, contestación, prueba y vista.
+    D. Licitación, adjudicación, formalización y pago.
 
 44. Si una solicitud no reune los requisitos exigidos, se requiere al interesado para subsanar, como regla general, en el plazo de:
-    A. 5 dias.
-    B. 10 dias.
-    C. 15 dias.
-    D. 30 dias.
+    A. 5 días.
+    B. 10 días.
+    C. 15 días.
+    D. 30 días.
 
-45. En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo maximo sin resolucion expresa produce, como regla general:
-    A. Caducidad automatica siempre.
+45. En los procedimientos iniciados a solicitud del interesado, el vencimiento del plazo máximo sin resolución expresa produce, como regla general:
+    A. Caducidad automática siempre.
     B. Silencio estimatorio, salvo excepciones legales.
     C. Nulidad de pleno derecho del expediente.
-    D. Desestimacion siempre y sin excepciones.
+    D. Desestimación siempre y sin excepciones.
 
 46. El orden jurisdiccional contencioso-administrativo controla:
-    A. La actuacion administrativa sujeta al Derecho administrativo.
+    A. La actuación administrativa sujeta al Derecho administrativo.
     B. Los conflictos penales entre particulares.
     C. La constitucionalidad directa de las leyes organicas.
     D. Los procesos matrimoniales civiles.
 
-47. El derecho de acceso a la informacion publica puede limitarse, entre otros motivos, por:
-    A. La proteccion de datos personales.
-    B. La simple incomodidad del organo administrativo.
-    C. La inexistencia de sede electronica.
+47. El derecho de acceso a la información pública puede limitarse, entre otros motivos, por:
+    A. La protección de datos personales.
+    B. La simple incomodidad del órgano administrativo.
+    C. La inexistencia de sede electrónica.
     D. La preferencia del solicitante por el papel.
 
-48. La publicidad activa exige publicar informacion relevante:
+48. La publicidad activa exige publicar información relevante:
     A. Solo cuando lo pida una persona legitimada.
-    B. De forma periodica y actualizada, sin necesidad de solicitud previa.
+    B. De forma periódica y actualizada, sin necesidad de solicitud previa.
     C. Exclusivamente en tablon fisico.
     D. Solo al finalizar cada legislatura.
 
-49. El Delegado de Proteccion de Datos:
+49. El Delegado de Protección de Datos:
     A. Decide siempre los fines y medios del tratamiento.
-    B. Asesora y supervisa el cumplimiento de la normativa de proteccion de datos.
+    B. Asesora y supervisa el cumplimiento de la normativa de protección de datos.
     C. Sustituye al responsable del tratamiento en todas sus funciones.
     D. Es siempre el encargado material de todos los tratamientos.
 
-50. En la Ley de Contratos del Sector Publico, son contratos tipicos:
-    A. Obras, concesion de obras, concesion de servicios, suministro y servicios.
+50. En la Ley de Contratos del Sector Público, son contratos tipicos:
+    A. Obras, concesión de obras, concesión de servicios, suministro y servicios.
     B. Solo obras y compraventa civil.
     C. Solo subvenciones y convenios.
     D. Solo contratos laborales.
 
 51. En el procedimiento abierto:
     A. Solo puede licitar una empresa invitada.
-    B. Puede presentar proposicion todo empresario interesado que cumpla los requisitos.
+    B. Puede presentar proposición todo empresario interesado que cumpla los requisitos.
     C. No existe publicidad.
-    D. La adjudicacion se realiza siempre por sorteo.
+    D. La adjudicación se realiza siempre por sorteo.
 
-52. El TREBEP clasifica al personal empleado publico en:
+52. El TREBEP clasifica al personal empleado público en:
     A. Solo funcionarios de carrera.
     B. Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.
     C. Unicamente personal laboral fijo.
-    D. Personal politico y personal judicial.
+    D. Personal político y personal judicial.
 
-53. La adquisicion de la condicion de funcionario de carrera exige, entre otros requisitos:
-    A. Nombramiento por el organo competente y toma de posesion.
+53. La adquisición de la condición de funcionario de carrera exige, entre otros requisitos:
+    A. Nombramiento por el órgano competente y toma de posesión.
     B. Solo superar una entrevista informal.
     C. Haber trabajado en una empresa privada.
     D. Matricularse en un curso voluntario.
 
-54. Las incompatibilidades del personal al servicio de las Administraciones Publicas buscan:
+54. Las incompatibilidades del personal al servicio de las Administraciones Públicas buscan:
     A. Permitir cualquier segundo empleo sin control.
-    B. Garantizar imparcialidad, independencia y dedicacion adecuada.
-    C. Sustituir el regimen disciplinario.
-    D. Eliminar todos los derechos economicos.
+    B. Garantizar imparcialidad, independencia y dedicación adecuada.
+    C. Sustituir el régimen disciplinario.
+    D. Eliminar todos los derechos económicos.
 
-55. La afiliacion a la Seguridad Social:
+55. La afiliación a la Seguridad Social:
     A. Identifica al trabajador dentro del sistema.
-    B. Sustituye siempre a la cotizacion.
+    B. Sustituye siempre a la cotización.
     C. Solo existe para funcionarios de carrera.
-    D. Se realiza despues de la jubilacion.
+    D. Se realiza después de la jubilación.
 
-56. La cotizacion a la Seguridad Social sirve principalmente para:
+56. La cotización a la Seguridad Social sirve principalmente para:
     A. Financiar el sistema y determinar bases para prestaciones.
     B. Aprobar leyes organicas.
     C. Resolver recursos administrativos.
     D. Crear contratos menores.
 
-57. El presupuesto publico expresa:
+57. El presupuesto público expresa:
     A. Solo los gastos ya pagados.
-    B. La prevision cifrada, conjunta y sistematica de derechos y obligaciones.
+    B. La previsión cifrada, conjunta y sistematica de derechos y obligaciones.
     C. Un inventario de bienes privados.
     D. Unicamente las sanciones tributarias.
 
 58. El ciclo presupuestario comprende, de forma general:
-    A. Elaboracion, aprobacion, ejecucion y control.
-    B. Demanda, sentencia, apelacion y casacion.
-    C. Oferta, aceptacion, firma y registro civil.
-    D. Instruccion, prueba, vista y fallo penal.
+    A. Elaboración, aprobación, ejecución y control.
+    B. Demanda, sentencia, apelación y casación.
+    C. Oferta, aceptación, firma y registro civil.
+    D. Instrucción, prueba, vista y fallo penal.
 
-59. La discriminacion indirecta se produce cuando:
-    A. Una disposicion aparentemente neutra ocasiona una desventaja particular a un grupo protegido.
+59. La discriminación indirecta se produce cuando:
+    A. Una disposición aparentemente neutra ocasiona una desventaja particular a un grupo protegido.
     B. Siempre existe insulto expreso.
     C. Solo hay violencia fisica.
-    D. Solo afecta a empleados publicos.
+    D. Solo afecta a empleados públicos.
 
-60. La identificacion y autenticacion electronica de las personas puede realizarse mediante:
-    A. Certificados electronicos, sistemas de clave concertada u otros sistemas admitidos.
+60. La identificación y autenticación electrónica de las personas puede realizarse mediante:
+    A. Certificados electrónicos, sistemas de clave concertada u otros sistemas admitidos.
     B. Solo firma manuscrita presencial.
     C. Unicamente llamada telefonica anonima.
-    D. Cualquier alias sin comprobacion.
+    D. Cualquier alias sin comprobación.
 
 ### Preguntas de reserva del primer ejercicio
 
-61. El documento electronico administrativo debe incorporar, entre otros elementos:
+61. El documento electrónico administrativo debe incorporar, entre otros elementos:
     A. Solo imagenes sin texto.
-    B. Datos de identificacion que permitan su individualizacion.
+    B. Datos de identificación que permitan su individualización.
     C. Unicamente una carpeta fisica.
     D. Una copia impresa obligatoria en todos los casos.
 
-62. El registro electronico permite:
-    A. Presentar documentos todos los dias del ano durante las veinticuatro horas.
+62. El registro electrónico permite:
+    A. Presentar documentos todos los días del ano durante las veinticuatro horas.
     B. Presentar documentos solo de 9 a 14 horas.
     C. Suprimir todos los plazos.
     D. Evitar siempre la firma del interesado.
 
-63. El archivo intermedio conserva, con caracter general:
-    A. Documentacion semiactiva pendiente de valoracion o transferencia.
-    B. Solo documentos privados sin relacion administrativa.
+63. El archivo intermedio conserva, con carácter general:
+    A. Documentación semiactiva pendiente de valoración o transferencia.
+    B. Solo documentos privados sin relación administrativa.
     C. Unicamente expedientes destruidos.
     D. Solo mensajes de Outlook.
 
 64. El acceso a documentos administrativos puede limitarse por:
-    A. La proteccion de datos, la seguridad publica u otros limites legalmente previstos.
+    A. La protección de datos, la seguridad pública u otros límites legalmente previstos.
     B. La mera voluntad informal del empleado.
     C. El color del documento.
-    D. La extension del archivo informatico.
+    D. La extensión del archivo informatico.
 
-65. Para que exista responsabilidad patrimonial de la Administracion, el dano debe ser:
+65. Para que exista responsabilidad patrimonial de la Administración, el dano debe ser:
     A. Futuro, hipotetico y general.
     B. Efectivo, evaluable economicamente e individualizado.
     C. Exclusivamente moral y no probado.
@@ -422,9 +422,9 @@ Composicion:
 
 Tiempo: 35 minutos.
 
-Version oficial de referencia: Windows 10 y Microsoft 365 version escritorio.
+Versión oficial de referencia: Windows 10 y Microsoft 365 versión escritorio.
 
-Composicion:
+Composición:
 
 | Parte | Preguntas |
 | --- | ---: |
@@ -433,11 +433,11 @@ Composicion:
 
 ### Bloque II. Ofimatica
 
-1. En Windows 10, `Acceso rapido` en el Explorador de archivos muestra principalmente:
+1. En Windows 10, `Acceso rápido` en el Explorador de archivos muestra principalmente:
    A. Ubicaciones frecuentes y archivos recientes.
    B. Solo el Administrador de dispositivos.
    C. Unicamente la Papelera de reciclaje.
-   D. La configuracion de formulas de Excel.
+   D. La configuración de formulas de Excel.
 
 2. En Windows 10, la herramienta `Este equipo` permite ver:
    A. Solo mensajes enviados de Outlook.
@@ -447,7 +447,7 @@ Composicion:
 
 3. En Windows 10, `Windows + L` sirve para:
    A. Abrir el Explorador de archivos.
-   B. Bloquear la sesion.
+   B. Bloquear la sesión.
    C. Abrir la barra de formulas.
    D. Crear una reunion de Teams.
 
@@ -457,10 +457,10 @@ Composicion:
    C. Insertar notas al pie en Word.
    D. Enviar mensajes con copia oculta.
 
-5. En el Explorador de archivos, una busqueda con `*.pdf` localiza:
+5. En el Explorador de archivos, una búsqueda con `*.pdf` localiza:
    A. Solo carpetas llamadas pdf.
-   B. Archivos con extension PDF.
-   C. Archivos sin extension.
+   B. Archivos con extensión PDF.
+   C. Archivos sin extensión.
    D. Unicamente accesos directos.
 
 6. En Word de Microsoft 365 escritorio, los estilos permiten:
@@ -469,25 +469,25 @@ Composicion:
    C. Crear claves principales de Access.
    D. Sincronizar OneDrive.
 
-7. En Word, una tabla de contenido automatica se basa normalmente en:
-   A. Estilos de titulo aplicados en el documento.
+7. En Word, una tabla de contenido automática se basa normalmente en:
+   A. Estilos de título aplicados en el documento.
    B. Los contactos de Outlook.
    C. La Papelera de reciclaje.
    D. La clave principal de Access.
 
 8. En Word, `Control de cambios` permite:
-   A. Registrar inserciones, eliminaciones y modificaciones para revision.
+   A. Registrar inserciones, eliminaciones y modificaciones para revisión.
    B. Modificar el registro de Windows.
    C. Crear una tabla dinamica.
    D. Cambiar el remitente de un correo.
 
-9. En Word, la combinacion de correspondencia sirve para:
+9. En Word, la combinación de correspondencia sirve para:
    A. Personalizar documentos a partir de una fuente de datos.
-   B. Bloquear una sesion de Windows.
+   B. Bloquear una sesión de Windows.
    C. Normalizar una base de datos.
    D. Crear un canal de Teams.
 
-10. En Word, la orientacion de pagina puede ser:
+10. En Word, la orientación de página puede ser:
     A. Relativa o absoluta.
     B. Vertical u horizontal.
     C. Primaria o externa.
@@ -499,11 +499,11 @@ Composicion:
     C. Un formulario de Access.
     D. Un canal de Teams.
 
-12. En Excel, la funcion `PROMEDIO(A1:A4)` devuelve:
+12. En Excel, la función `PROMEDIO(A1:A4)` devuelve:
     A. La suma de A1 a A4.
-    B. El valor maximo de A1 a A4.
+    B. El valor máximo de A1 a A4.
     C. La media aritmetica de A1 a A4.
-    D. El numero de caracteres de A1.
+    D. El número de caracteres de A1.
 
 13. En Excel, al copiar la formula `=A1+$B$1` una fila hacia abajo, la referencia relativa `A1` pasa a:
     A. A2
@@ -514,10 +514,10 @@ Composicion:
 14. En Excel, un filtro permite:
     A. Mostrar solo las filas que cumplen determinados criterios.
     B. Crear automaticamente una reunion.
-    C. Cambiar la extension del libro a .docx.
+    C. Cambiar la extensión del libro a .docx.
     D. Convertir todas las formulas en imagenes.
 
-15. En Excel, un grafico sirve principalmente para:
+15. En Excel, un gráfico sirve principalmente para:
     A. Representar visualmente datos.
     B. Crear una consulta de Access.
     C. Firmar electronicamente un expediente.
@@ -530,25 +530,25 @@ Composicion:
     D. Cambiar permisos de SharePoint.
 
 17. En Access, la clave principal:
-    A. Identifica de forma unica cada registro de una tabla.
+    A. Identifica de forma única cada registro de una tabla.
     B. Sirve solo para enviar correos.
-    C. Es siempre un grafico circular.
+    C. Es siempre un gráfico circular.
     D. No puede relacionarse con otras tablas.
 
-18. En Access, una consulta de seleccion se utiliza para:
+18. En Access, una consulta de selección se utiliza para:
     A. Recuperar y mostrar datos que cumplen criterios.
-    B. Bloquear una sesion de Windows.
+    B. Bloquear una sesión de Windows.
     C. Crear un documento de Word.
     D. Abrir una videollamada.
 
 19. En Access, un formulario sirve principalmente para:
-    A. Facilitar la introduccion, consulta o modificacion de datos.
+    A. Facilitar la introducción, consulta o modificación de datos.
     B. Calcular la media de un rango de Excel.
     C. Eliminar archivos temporales.
     D. Enviar siempre una copia oculta.
 
 20. En Access, un informe se orienta a:
-    A. Presentar datos con formato para consulta o impresion.
+    A. Presentar datos con formato para consulta o impresión.
     B. Sustituir la bandeja de entrada.
     C. Crear una clave de Windows.
     D. Organizar canales de Teams.
@@ -567,7 +567,7 @@ Composicion:
 
 23. En Outlook, `Responder a todos` envia la respuesta:
     A. Solo al remitente.
-    B. Al remitente y a los destinatarios incluidos, segun corresponda.
+    B. Al remitente y a los destinatarios incluidos, según corresponda.
     C. Solo a los destinatarios ocultos.
     D. A todos los contactos de la libreta.
 
@@ -593,7 +593,7 @@ Composicion:
     A. Organizar conversaciones, archivos y trabajo dentro de un equipo.
     B. Crear una celda absoluta en Excel.
     C. Definir una clave principal.
-    D. Cambiar la extension de un archivo.
+    D. Cambiar la extensión de un archivo.
 
 28. En SharePoint, una biblioteca de documentos permite:
     A. Almacenar, organizar y compartir documentos.
@@ -603,7 +603,7 @@ Composicion:
 
 29. OneDrive permite:
     A. Guardar y sincronizar archivos en la nube con acceso desde distintos dispositivos.
-    B. Sustituir toda autenticacion del sistema.
+    B. Sustituir toda autenticación del sistema.
     C. Crear consultas SQL automaticamente.
     D. Eliminar el historial de versiones siempre.
 
@@ -619,10 +619,10 @@ Composicion:
     A. Ver procesos, rendimiento e inicio del sistema.
     B. Crear una tabla de contenido.
     C. Enviar una convocatoria.
-    D. Crear una relacion entre tablas.
+    D. Crear una relación entre tablas.
 
 32. En Word, `Guardar como` permite:
-    A. Guardar el documento con otro nombre, ubicacion o formato.
+    A. Guardar el documento con otro nombre, ubicación o formato.
     B. Crear una consulta.
     C. Bloquear Windows.
     D. Enviar copia oculta.
@@ -630,7 +630,7 @@ Composicion:
 33. En Excel, `MAX(A1:A10)` devuelve:
     A. El menor valor del rango.
     B. El mayor valor del rango.
-    C. El numero de celdas vacias.
+    C. El número de celdas vacias.
     D. El texto mas largo.
 
 34. En Outlook, `CCO` significa:
@@ -641,17 +641,17 @@ Composicion:
 
 35. En SharePoint y OneDrive, el historial de versiones permite:
     A. Consultar o recuperar versiones anteriores de un archivo cuando esta habilitado.
-    B. Evitar toda colaboracion.
+    B. Evitar toda colaboración.
     C. Crear registros de Access automaticamente.
     D. Desactivar Teams.
 
-## Plantilla de correccion
+## Plantilla de corrección
 
 Formula para cada ejercicio: `aciertos - errores / 3`.
 
 ### Primer ejercicio
 
-| No. | Respuesta | Explicacion |
+| No. | Respuesta | Explicación |
 | ---: | :---: | --- |
 | 1 | B | `Laconico` significa breve o conciso. |
 | 2 | B | Errores: `inflingir` y `hayazgo`; correctas: `infligir` y `hallazgo`. |
@@ -661,91 +661,91 @@ Formula para cada ejercicio: `aciertos - errores / 3`.
 | 6 | D | La forma correcta es `exhibir`. |
 | 7 | B | La pauta es multiplicar por 2 y sumar 1: 47 x 2 + 1 = 95. |
 | 8 | B | Saltos +2, +3, +4, +5 y +6: o + 6 = u. |
-| 9 | A | Se invierten letras y los numeros pasan a complementarios de 9: 3->6 y 4->5. |
+| 9 | A | Se invierten letras y los números pasan a complementarios de 9: 3->6 y 4->5. |
 | 10 | C | Se alterna x3 y +3: 39 x 3 = 117. |
 | 11 | B | Si todos los urgentes tienen etiqueta roja, quien no tiene etiqueta roja no puede ser urgente. |
-| 12 | A | Orden alfabetico: Trabajo, Tramitacion, Transferencia, Transparencia. |
+| 12 | A | Orden alfabetico: Trabajo, Tramitación, Transferencia, Transparencia. |
 | 13 | C | 48/6 = 8; 7 x 3 = 21; 8 + 21 - 5 = 24. |
 | 14 | C | 350 x 0,12 = 42. |
-| 15 | C | 180 / 6 = 30 expedientes al dia; en 10 dias, 300. |
+| 15 | C | 180 / 6 = 30 expedientes al día; en 10 días, 300. |
 | 16 | B | 3/4 = 9/12 y 1/6 = 2/12; resultado 7/12. |
 | 17 | A | 80 x 1,15 = 92; 92 x 0,90 = 82,80. |
 | 18 | B | La suma es 76; 76 / 4 = 19. |
 | 19 | C | 3 + 5 = 8 partes; 400 / 8 = 50; parte mayor = 5 x 50 = 250. |
 | 20 | D | 2,5 horas son 150 minutos; 150 x 12 = 1800 litros. |
 | 21 | C | 375 / 5 = 75; 75 x 8 = 600. |
-| 22 | B | Cada termino se divide entre 3; despues de 3 viene 1. |
-| 23 | C | `TR9` aparece al inicio, despues de X, al inicio de `TR90` y al final. |
-| 24 | C | Solo cambia el numero 9 por 8. |
+| 22 | B | Cada termino se divide entre 3; después de 3 viene 1. |
+| 23 | C | `TR9` aparece al inicio, después de X, al inicio de `TR90` y al final. |
+| 24 | C | Solo cambia el número 9 por 8. |
 | 25 | B | Cumplen E48 y O90. |
-| 26 | C | Tienen 7 letras: archivo, tramite, carpeta y gestion. |
+| 26 | C | Tienen 7 letras: archivo, trámite, carpeta y gestion. |
 | 27 | C | Cumplen 62315, 63845, 61735 y 60395. |
 | 28 | B | Coinciden AB7/AB7, 551/551 y Lm2/Lm2. |
 | 29 | B | A y D tienen mas entradas que salidas. |
-| 30 | B | Numeros impares: 7, 1, 7 y 9. |
+| 30 | B | Números impares: 7, 1, 7 y 9. |
 | 31 | B | Es norma suprema, escrita y rigida, fruto del consenso constitucional. |
-| 32 | B | El amparo protege arts. 14 a 29 CE y la objecion del art. 30.2. |
-| 33 | B | Los estatutos de autonomia se aprueban por ley organica. |
+| 32 | B | El amparo protege arts. 14 a 29 CE y la objeción del art. 30.2. |
+| 33 | B | Los estatutos de autonomía se aprueban por ley organica. |
 | 34 | A | La Asamblea ejerce la potestad legislativa de la Comunidad de Madrid. |
-| 35 | B | Las Consejerias son organos superiores de la Administracion autonomica. |
-| 36 | C | La Constitucion ocupa la posicion suprema del ordenamiento. |
-| 37 | B | Son normas con fuerza de ley dictadas por el Gobierno previa delegacion. |
+| 35 | B | Las Consejerias son órganos superiores de la Administración autonomica. |
+| 36 | C | La Constitución ocupa la posición suprema del ordenamiento. |
+| 37 | B | Son normas con fuerza de ley dictadas por el Gobierno previa delegación. |
 | 38 | A | El reglamento es norma administrativa subordinada a la ley. |
 | 39 | A | Los actos que limiten derechos o intereses legitimos deben motivarse. |
-| 40 | B | La notificacion debe incluir texto integro e informacion de recursos si proceden. |
+| 40 | B | La notificación debe incluir texto integro e información de recursos si proceden. |
 | 41 | C | La anulabilidad cubre infracciones no calificadas como nulidad radical. |
-| 42 | A | El alzada procede frente a actos que no ponen fin a la via administrativa. |
-| 43 | B | Esquema de la Ley 39/2015: iniciacion, ordenacion, instruccion y finalizacion. |
-| 44 | B | La regla general para subsanar es 10 dias. |
+| 42 | A | El alzada procede frente a actos que no ponen fin a la vía administrativa. |
+| 43 | B | Esquema de la Ley 39/2015: iniciación, ordenación, instrucción y finalización. |
+| 44 | B | La regla general para subsanar es 10 días. |
 | 45 | B | En procedimientos a solicitud, el silencio es estimatorio salvo excepciones. |
-| 46 | A | La jurisdiccion contenciosa controla la actuacion administrativa sujeta a Derecho administrativo. |
-| 47 | A | La proteccion de datos es uno de los limites del derecho de acceso. |
+| 46 | A | La jurisdicción contenciosa controla la actuación administrativa sujeta a Derecho administrativo. |
+| 47 | A | La protección de datos es uno de los límites del derecho de acceso. |
 | 48 | B | La publicidad activa no exige solicitud previa. |
 | 49 | B | El DPD asesora, informa y supervisa cumplimiento. |
 | 50 | A | Son los tipos contractuales principales de la LCSP. |
 | 51 | B | En el abierto puede licitar cualquier empresario interesado que cumpla requisitos. |
-| 52 | B | Es la clasificacion basica del personal empleado publico en el TREBEP. |
-| 53 | A | Superado el proceso selectivo, hacen falta nombramiento y toma de posesion. |
-| 54 | B | El regimen de incompatibilidades protege imparcialidad e independencia. |
-| 55 | A | La afiliacion identifica a la persona en el sistema de Seguridad Social. |
-| 56 | A | La cotizacion financia el sistema y determina bases de prestaciones. |
+| 52 | B | Es la clasificación básica del personal empleado público en el TREBEP. |
+| 53 | A | Superado el proceso selectivo, hacen falta nombramiento y toma de posesión. |
+| 54 | B | El régimen de incompatibilidades protege imparcialidad e independencia. |
+| 55 | A | La afiliación identifica a la persona en el sistema de Seguridad Social. |
+| 56 | A | La cotización financia el sistema y determina bases de prestaciones. |
 | 57 | B | El presupuesto recoge derechos y obligaciones de forma cifrada y sistematica. |
-| 58 | A | Fases generales: elaboracion, aprobacion, ejecucion y control. |
-| 59 | A | La discriminacion indirecta puede provenir de reglas aparentemente neutras. |
-| 60 | A | Certificados, clave concertada y otros sistemas admitidos permiten identificacion/autenticacion. |
-| 61 | B | El documento electronico debe poder identificarse e individualizarse. |
-| 62 | A | El registro electronico esta disponible 24/7, sin perjuicio del computo de plazos. |
-| 63 | A | El archivo intermedio conserva documentacion semiactiva. |
-| 64 | A | El acceso esta sujeto a limites legales como datos personales o seguridad. |
+| 58 | A | Fases generales: elaboración, aprobación, ejecución y control. |
+| 59 | A | La discriminación indirecta puede provenir de reglas aparentemente neutras. |
+| 60 | A | Certificados, clave concertada y otros sistemas admitidos permiten identificación/autenticación. |
+| 61 | B | El documento electrónico debe poder identificarse e individualizarse. |
+| 62 | A | El registro electrónico esta disponible 24/7, sin perjuicio del computo de plazos. |
+| 63 | A | El archivo intermedio conserva documentación semiactiva. |
+| 64 | A | El acceso esta sujeto a límites legales como datos personales o seguridad. |
 | 65 | B | La responsabilidad patrimonial exige dano efectivo, evaluable e individualizado. |
 
 ### Segundo ejercicio
 
-| No. | Respuesta | Explicacion |
+| No. | Respuesta | Explicación |
 | ---: | :---: | --- |
-| 1 | A | Acceso rapido muestra ubicaciones frecuentes y archivos recientes. |
+| 1 | A | Acceso rápido muestra ubicaciones frecuentes y archivos recientes. |
 | 2 | B | Este equipo agrupa unidades, carpetas principales y dispositivos. |
-| 3 | B | `Windows + L` bloquea la sesion. |
+| 3 | B | `Windows + L` bloquea la sesión. |
 | 4 | A | El Liberador de espacio ayuda a eliminar temporales y liberar almacenamiento. |
-| 5 | B | El comodin `*.pdf` busca archivos con extension PDF. |
+| 5 | B | El comodin `*.pdf` busca archivos con extensión PDF. |
 | 6 | A | Los estilos aplican formato coherente y ayudan a estructurar. |
-| 7 | A | La tabla de contenido automatica usa estilos de titulo. |
-| 8 | A | Control de cambios registra modificaciones para revision. |
-| 9 | A | La combinacion genera documentos personalizados desde datos. |
-| 10 | B | La orientacion de pagina puede ser vertical u horizontal. |
+| 7 | A | La tabla de contenido automática usa estilos de título. |
+| 8 | A | Control de cambios registra modificaciones para revisión. |
+| 9 | A | La combinación genera documentos personalizados desde datos. |
+| 10 | B | La orientación de página puede ser vertical u horizontal. |
 | 11 | A | Un rango es un conjunto de celdas. |
 | 12 | C | `PROMEDIO` calcula la media aritmetica. |
 | 13 | A | La referencia relativa cambia de A1 a A2 al copiar una fila abajo. |
 | 14 | A | Los filtros muestran filas que cumplen criterios. |
-| 15 | A | Los graficos representan datos visualmente. |
+| 15 | A | Los gráficos representan datos visualmente. |
 | 16 | A | Las tablas dinamicas resumen y analizan datos. |
-| 17 | A | La clave principal identifica de forma unica cada registro. |
-| 18 | A | Una consulta de seleccion recupera datos segun criterios. |
+| 17 | A | La clave principal identifica de forma única cada registro. |
+| 18 | A | Una consulta de selección recupera datos según criterios. |
 | 19 | A | Los formularios facilitan trabajar con datos. |
-| 20 | A | Los informes presentan datos con formato para consulta o impresion. |
+| 20 | A | Los informes presentan datos con formato para consulta o impresión. |
 | 21 | A | Power BI se centra en analisis, informes y visualizaciones. |
 | 22 | A | `CC` envia copia visible. |
-| 23 | B | Responder a todos incluye remitente y destinatarios visibles segun el mensaje. |
+| 23 | B | Responder a todos incluye remitente y destinatarios visibles según el mensaje. |
 | 24 | A | Las reglas automatizan acciones sobre mensajes. |
 | 25 | A | Una convocatoria invita asistentes y reserva fecha/hora en calendario. |
 | 26 | A | La libreta de direcciones contiene contactos y listas. |
@@ -754,7 +754,7 @@ Formula para cada ejercicio: `aciertos - errores / 3`.
 | 29 | A | OneDrive guarda y sincroniza archivos en la nube. |
 | 30 | A | Compartir pantalla muestra contenido al resto de participantes. |
 | 31 | A | Administrador de tareas muestra procesos, rendimiento e inicio. |
-| 32 | A | Guardar como permite cambiar nombre, ubicacion o formato. |
+| 32 | A | Guardar como permite cambiar nombre, ubicación o formato. |
 | 33 | B | `MAX` devuelve el mayor valor del rango. |
 | 34 | B | `CCO` es copia oculta. |
 | 35 | A | El historial permite consultar o recuperar versiones previas si esta habilitado. |

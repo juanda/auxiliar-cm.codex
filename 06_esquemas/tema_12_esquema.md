@@ -1,4 +1,4 @@
-# Tema 12. Esquema de Hacienda Publica y Presupuestos
+# Tema 12. Esquema de Hacienda Pública y Presupuestos
 
 ## Epigrafe oficial
 

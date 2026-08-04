@@ -362,7 +362,7 @@ Pregunta histórica: `2017-E1-048` preguntó la revisión total. La respuesta co
 | Suspensión | Art. 55. |
 | Reforma agravada | Art. 168: revisión total o materias especialmente protegidas. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -410,7 +410,7 @@ Pregunta histórica: `2017-E1-048` preguntó la revisión total. La respuesta co
 | Pensar que en estado de alarma se suspenden derechos por art. 55. | El art. 55.1 se refiere a excepción y sitio. |
 | Confundir reforma ordinaria y agravada. | Revisión total: art. 168, dos tercios, disolución y referéndum obligatorio. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

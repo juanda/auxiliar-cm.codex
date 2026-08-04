@@ -1,4 +1,4 @@
-# Tema 10. EBEP y funcion publica - Esquema de repaso
+# Tema 10. EBEP y función pública - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -78,7 +78,7 @@ TREBEP. Personal al servicio de las Administraciones Públicas. Adquisición y p
 | Puesto provisional sin reserva | Provisión definitiva en plazo máximo de 1 año |
 | Pérdida condición | Renuncia, nacionalidad, separación firme, etc. |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -109,7 +109,7 @@ TREBEP. Personal al servicio de las Administraciones Públicas. Adquisición y p
 | Básicas con productividad | Solo sueldo y trienios |
 | Retroactividad desfavorable | No: favorable |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Empleado público: funciones retribuidas en AAPP para intereses generales.
 - Clases: carrera, interino, laboral fijo/indefinido/temporal, eventual.

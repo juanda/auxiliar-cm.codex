@@ -1,4 +1,4 @@
-# Tema 9. Los contratos en el Sector Publico
+# Tema 9. Los contratos en el Sector Público
 
 Los contratos en el Sector Público: Elementos comunes a todos los contratos. Tipos de contratos: Características principales. Procedimientos de contratación y formas de adjudicación: Aspectos principales.
 
@@ -341,7 +341,7 @@ Estas prerrogativas deben ejercerse con procedimiento y audiencia al contratista
 | Asociación innovación | Desarrollo innovador y posible compra. |
 | Mejor relación calidad-precio | Criterios económicos y cualitativos. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -378,7 +378,7 @@ Estas prerrogativas deben ejercerse con procedimiento y audiencia al contratista
 | Confundir concesión de servicios con contrato de servicios. | La concesión transfiere riesgo operacional. |
 | Confundir abierto y restringido. | Abierto: cualquiera presenta oferta; restringido: solo seleccionados. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

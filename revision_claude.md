@@ -1,6 +1,6 @@
 # Revisión Claude — Temario Auxiliar Administrativo CAM C2 (2026)
 
-Fecha: 2026-08-04. Rama: `revision-claude`.
+Fecha: 2026-08-04. Rama: `revisión-claude`.
 
 ## Correcciones ya aplicadas en esta rama
 
@@ -120,7 +120,7 @@ El segundo ejercicio da ~1 minuto por pregunta con penalización de 1/3. El mate
 - **Flashcards — hueco relevante para informática:** solo existen 2 mazos, Constitución (72 tarjetas) y Ley 39/2015 (57 tarjetas). **No hay ni una sola flashcard de Bloque II**, pese a que Windows/Word/Excel/Access/Outlook/M365 son contenido idóneo para memorización rápida por repetición espaciada (atajos, tipos de referencia, diferencias `CC`/`CCO`, nombres de función). Es probablemente la pieza de entrenamiento con mejor relación esfuerzo/beneficio para reforzar justo el área que se pidió priorizar.
 - **Tests psicotécnicos:** completos y con explicación razonada; inconsistencia menor en `test_psicotecnico_logico.md` (el aviso de procedencia "academia no oficial" aparece dentro del enunciado de las preguntas 13-15 en vez de solo en la cabecera).
 - **15 preguntas psicotécnicas de 2025** (visuales/tabulares) siguen pendientes de revisión manual contra el PDF original (tarea 17 del backlog). Psicotécnicos es el bloque de mayor peso del examen (31,8% del total), por lo que esta revisión pendiente sí importa, aunque no afecta al Bloque II de informática.
-- **Gráficos estadísticos (`04_estadisticas/graficos/`):** vacío/pendiente, pero de bajo impacto real — los datos ya están en tablas legibles en `frecuencia_temas.md` y `tendencias.md`; un gráfico no añadiría información nueva.
+- **Gráficos estadísticos (`04_estadisticas/gráficos/`):** vacío/pendiente, pero de bajo impacto real — los datos ya están en tablas legibles en `frecuencia_temas.md` y `tendencias.md`; un gráfico no añadiría información nueva.
 
 ## Hallazgo adicional: `00_convocatoria/programa_oficial.md` vacío
 

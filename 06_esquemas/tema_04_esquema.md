@@ -1,4 +1,4 @@
-# Tema 4. Fuentes del ordenamiento juridico - Esquema de repaso
+# Tema 4. Fuentes del ordenamiento jurídico - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -71,7 +71,7 @@ Fuentes del ordenamiento jurídico. Constitución. Leyes: concepto y clases. Dis
 | Jerarquía estatal | Real Decreto > Orden Ministerial |
 | Control | Tribunales |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -96,7 +96,7 @@ Fuentes del ordenamiento jurídico. Constitución. Leyes: concepto y clases. Dis
 | Reglamento modifica ley | No puede |
 | Potestad reglamentaria del Congreso | Es del Gobierno |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Art. 1 CC: ley, costumbre, principios generales.
 - Jurisprudencia: complementa.

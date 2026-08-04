@@ -62,7 +62,7 @@ Rechazo de notificación: se tiene por efectuado el trámite; no es supuesto de 
 | Reposición | Acto expreso: 1 mes |
 | Extraordinario de revisión | Silencio desestimatorio tras 3 meses |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -99,7 +99,7 @@ Rechazo de notificación: se tiene por efectuado el trámite; no es supuesto de 
 | Rechazo de notificación = BOE | No: se tiene por efectuado |
 | Reposición acto expreso: 3 meses | No: 1 mes |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Objeto: actos, procedimiento común y principios de iniciativa normativa.
 - Ámbito: AGE, CCAA, Local y sector público institucional.

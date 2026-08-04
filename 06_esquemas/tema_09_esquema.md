@@ -1,4 +1,4 @@
-# Tema 9. Contratos del Sector Publico - Esquema de repaso
+# Tema 9. Contratos del Sector Público - Esquema de repaso
 
 ## Núcleo oficial
 
@@ -69,7 +69,7 @@ Importes sin IVA.
 | Asociación innovación | Desarrollar innovación y adquirir |
 | Concurso proyectos | Selección de planes/proyectos |
 
-## Preguntas historicas clave
+## Preguntas históricas clave
 
 | Id | Idea |
 | --- | --- |
@@ -94,7 +94,7 @@ Importes sin IVA.
 | Libertad pactos y buena fe | Buena administración |
 | Concesión sin riesgo | Concesión implica riesgo operacional |
 
-## Repaso de una pagina
+## Repaso de una página
 
 - Ley 9/2017.
 - Principios: libertad acceso, publicidad, transparencia, igualdad y no discriminación.

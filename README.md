@@ -1,49 +1,49 @@
 # Temario CAM C2 Auxiliar Administrativo 2026
 
-Material de estudio para la oposicion de Auxiliar Administrativo de la Comunidad de Madrid, Grupo C, Subgrupo C2, convocatoria 2026.
+Material de estudio para la oposición de Auxiliar Administrativo de la Comunidad de Madrid, Grupo C, Subgrupo C2, convocatoria 2026.
 
 El objetivo del proyecto es preparar con eficacia, no construir un temario enciclopedico. Los materiales estan orientados a:
 
 - Cubrir literalmente el programa oficial.
-- Priorizar preguntas y patrones historicos.
+- Priorizar preguntas y patrones históricos.
 - Entrenar con tests, simulacros y flashcards.
 - Separar fuentes oficiales de material de academia no oficial.
-- Mantener trazabilidad entre convocatoria, preguntas historicas y temario.
+- Mantener trazabilidad entre convocatoria, preguntas históricas y temario.
 
-## Version oficial de referencia
+## Versión oficial de referencia
 
-Segun la convocatoria 2026:
+Según la convocatoria 2026:
 
 - Primer ejercicio: 60 preguntas ordinarias, 5 de reserva, 65 minutos.
   - 30 psicotecnicas.
   - 30 del Bloque I.
 - Segundo ejercicio: 30 preguntas ordinarias, 5 de reserva, 35 minutos.
   - Bloque II de ofimatica.
-- Penalizacion: `aciertos - errores / 3`.
+- Penalización: `aciertos - errores / 3`.
 - Ofimatica:
   - Windows 10.
-  - Microsoft 365 version escritorio.
+  - Microsoft 365 versión escritorio.
 
-Las preguntas historicas de Office 2016 se conservan como referencia de recurrencia cuando tratan funciones que siguen existiendo, pero la version base de estudio es Microsoft 365 de escritorio.
+Las preguntas históricas de Office 2016 se conservan como referencia de recurrencia cuando tratan funciones que siguen existiendo, pero la versión base de estudio es Microsoft 365 de escritorio.
 
 ## Estado actual
 
-| Area | Estado |
+| Área | Estado |
 | --- | --- |
 | Convocatoria y programa | Hecho |
 | Examenes oficiales 2017, 2021, 2023 y 2025 | Hecho |
-| Extraccion de preguntas oficiales | Hecho con observaciones |
-| Clasificacion por tema, subtema, tipo y dificultad | Hecho |
-| Estadisticas de frecuencia y tendencias | Hecho basico |
+| Extracción de preguntas oficiales | Hecho con observaciones |
+| Clasificación por tema, subtema, tipo y dificultad | Hecho |
+| Estadísticas de frecuencia y tendencias | Hecho básico |
 | Temario 1-21 | Hecho inicial completo |
 | Esquemas 1-21 | Hecho inicial completo |
 | Tests por tema 1-21 | Hecho inicial completo |
 | Tests de bloque | Hecho |
 | Tests psicotecnicos por tipo | Hecho |
 | Simulacros 01, 02 y 03 | Hecho |
-| Flashcards | Constitucion y Ley 39/2015 |
-| Auditoria de cobertura historica | Hecho |
-| Graficos estadisticos | Pendiente |
+| Flashcards | Constitución y Ley 39/2015 |
+| Auditoria de cobertura histórica | Hecho |
+| Gráficos estadisticos | Pendiente |
 
 ## Estructura
 
@@ -52,13 +52,13 @@ Las preguntas historicas de Office 2016 se conservan como referencia de recurren
 | `00_convocatoria/` | Convocatoria 2026 y programa oficial. |
 | `01_examenes_originales/` | Examenes oficiales y psicotecnicos de academia. |
 | `02_preguntas_extraidas/` | Preguntas extraidas, normalizadas y banco psicotecnico de academia. |
-| `03_clasificacion/` | Clasificacion por temas, subtemas y psicotecnicos. |
+| `03_clasificacion/` | Clasificación por temas, subtemas y psicotecnicos. |
 | `04_estadisticas/` | Frecuencias, tendencias y auditoria de cobertura. |
 | `05_temario/` | Desarrollo completo de los 21 temas. |
-| `06_esquemas/` | Esquemas de repaso rapido por tema. |
+| `06_esquemas/` | Esquemas de repaso rápido por tema. |
 | `07_tests/` | Tests por tema, por bloque y psicotecnicos. |
 | `08_flashcards/` | CSV para Anki. |
-| `09_simulacros/` | Simulacros completos y plantilla comun de correccion. |
+| `09_simulacros/` | Simulacros completos y plantilla comun de corrección. |
 
 ## Materiales principales
 
@@ -69,9 +69,9 @@ Las preguntas historicas de Office 2016 se conservan como referencia de recurren
   - Resumen ejecutivo.
   - Desarrollo.
   - Conceptos clave.
-  - Referencias o articulos importantes.
+  - Referencias o artículos importantes.
   - Errores tipicos.
-  - Preguntas historicas.
+  - Preguntas históricas.
   - Test de entrenamiento.
   - Esquema final.
 
@@ -80,7 +80,7 @@ Las preguntas historicas de Office 2016 se conservan como referencia de recurren
 - `06_esquemas/tema_01_mapa_mental.md`
 - `06_esquemas/tema_02_esquema.md` a `06_esquemas/tema_21_esquema.md`
 
-Usalos para repaso rapido despues de estudiar el desarrollo del tema.
+Usalos para repaso rápido después de estudiar el desarrollo del tema.
 
 ### Tests
 
@@ -106,7 +106,7 @@ Cada simulacro tiene:
 - Primer ejercicio completo.
 - Segundo ejercicio completo.
 - Preguntas de reserva.
-- Plantilla de correccion.
+- Plantilla de corrección.
 
 ### Flashcards
 
@@ -119,7 +119,7 @@ Formato:
 tema,pregunta,respuesta,dificultad
 ```
 
-### Estadisticas y auditorias
+### Estadísticas y auditorias
 
 - `04_estadisticas/frecuencia_temas.md`
 - `04_estadisticas/frecuencia_subtemas.md`
@@ -128,14 +128,14 @@ tema,pregunta,respuesta,dificultad
 
 La auditoria de cobertura confirma:
 
-- 225 preguntas historicas de temas 1-21 revisadas.
-- 225/225 IDs historicos citados en su tema correspondiente.
+- 225 preguntas históricas de temas 1-21 revisadas.
+- 225/225 IDs históricos citados en su tema correspondiente.
 - 21/21 temas con las 8 secciones obligatorias.
 
 ## Orden recomendado de estudio
 
 1. Leer la convocatoria y el programa oficial en `00_convocatoria/`.
-2. Empezar por Bloque II, porque es el segundo ejercicio y tiene version oficial cerrada:
+2. Empezar por Bloque II, porque es el segundo ejercicio y tiene versión oficial cerrada:
    - Tema 17 Word.
    - Tema 18 Excel.
    - Tema 16 Windows.
@@ -145,10 +145,10 @@ La auditoria de cobertura confirma:
 3. Hacer `07_tests/test_bloque_II.md`.
 4. Estudiar Bloque I por prioridad:
    - Tema 6 Ley 39/2015.
-   - Tema 8 Transparencia y proteccion de datos.
-   - Tema 10 Funcion publica.
-   - Tema 14 Atencion ciudadana y administracion electronica.
-   - Tema 1 Constitucion.
+   - Tema 8 Transparencia y protección de datos.
+   - Tema 10 Función pública.
+   - Tema 14 Atención ciudadana y administración electrónica.
+   - Tema 1 Constitución.
    - Tema 2 Estatuto.
    - Resto de temas.
 5. Hacer `07_tests/test_bloque_I.md`.
@@ -162,7 +162,7 @@ La auditoria de cobertura confirma:
 Usa siempre la formula:
 
 ```text
-puntuacion = aciertos - errores / 3
+puntuación = aciertos - errores / 3
 ```
 
 Las preguntas en blanco no suman ni restan.
@@ -203,12 +203,12 @@ academia_no_oficial
 Uso recomendado:
 
 - Entrenar patrones.
-- Crear practica adicional.
-- No usarlo como estadistica oficial de recurrencia.
+- Crear práctica adicional.
+- No usarlo como estadística oficial de recurrencia.
 
 ### Preguntas visuales o tabulares pendientes
 
-Hay preguntas psicotecnicas visuales/tabulares que requieren revision manual desde PDF original. Estan documentadas en:
+Hay preguntas psicotecnicas visuales/tabulares que requieren revisión manual desde PDF original. Estan documentadas en:
 
 - `02_preguntas_extraidas/observaciones_extraccion.md`
 
@@ -220,7 +220,7 @@ El estado incremental esta en:
 
 Tareas pendientes principales:
 
-- Graficos estadisticos.
-- Normalizacion fina de secciones.
-- Revision manual de preguntas visuales/tabulares.
+- Gráficos estadisticos.
+- Normalización fina de secciones.
+- Revisión manual de preguntas visuales/tabulares.
 - Ampliar flashcards y banco psicotecnico si se quiere mas volumen.

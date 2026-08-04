@@ -1,4 +1,4 @@
-# Test Tema 2. Estatuto de Autonomia de la Comunidad de Madrid
+# Test Tema 2. Estatuto de Autonomía de la Comunidad de Madrid
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco distinto del test embebido en el tema (sección 7), para practicar con formulaciones y artículos no repetidos.
 

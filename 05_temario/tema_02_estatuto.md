@@ -1,4 +1,4 @@
-# Tema 2. El Estatuto de Autonomia de la Comunidad de Madrid
+# Tema 2. El Estatuto de Autonomía de la Comunidad de Madrid
 
 El Estatuto de Autonomía de la Comunidad de Madrid: Estructura y contenido. Las competencias de la Comunidad de Madrid: Potestad legislativa, potestad reglamentaria y función ejecutiva. La Asamblea de Madrid: Composición, elección y funciones.
 
@@ -381,7 +381,7 @@ El artículo 34 es la regla de cierre del epígrafe oficial.
 
 Idea clave: la Asamblea legisla y controla; el Gobierno ejecuta, administra y reglamenta. No invertir estos papeles.
 
-### 2.14. Organización judicial: dato historico de refuerzo
+### 2.14. Organización judicial: dato histórico de refuerzo
 
 Aunque no es el centro del epígrafe oficial, una pregunta histórica del Tema 2 entró por la organización judicial estatutaria. El artículo 47 establece que el Presidente del Tribunal Superior de Justicia de Madrid es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, y que el Presidente de la Comunidad ordena la publicación de ese nombramiento en el Boletín Oficial de la Comunidad de Madrid.
 
@@ -409,7 +409,7 @@ Pregunta histórica: `2017-E1-052` preguntó quién ordena esa publicación. Res
 | Potestad reglamentaria | Consejo de Gobierno, salvo materias reservadas a la Asamblea. |
 | Acuerdos de cooperación | Requieren autorización previa de Cortes Generales. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -458,7 +458,7 @@ Pregunta histórica: `2017-E1-052` preguntó quién ordena esa publicación. Res
 | Acuerdos de cooperación sin autorización. | Requieren autorización previa de Cortes Generales. |
 | Confundir convenio y acuerdo. | Convenio de servicios: comunicación; acuerdo de cooperación: autorización. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

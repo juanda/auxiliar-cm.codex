@@ -1,4 +1,4 @@
-# Tema 10. Estatuto Basico del Empleado Publico y funcion publica
+# Tema 10. Estatuto Básico del Empleado Público y función pública
 
 El Texto Refundido de la Ley del Estatuto Básico del Empleado Público. Personal al servicio de las Administraciones Públicas. Adquisición y pérdida de la condición de funcionario. Derechos, deberes e incompatibilidades. Situaciones administrativas. Sistema de retribuciones. Régimen disciplinario. Especial referencia a la Ley de la Función Pública de la Comunidad de Madrid.
 
@@ -390,7 +390,7 @@ La Ley 1/1986 se usa en examen para preguntas concretas y literales. Conviene me
 | Disciplina art. 94 | Legalidad, tipicidad, proporcionalidad, culpabilidad, presunción inocencia, retroactividad favorable. |
 | Ley 1/1986 art. 5 | Personal CAM: carrera, interino, laboral, eventual. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma / artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -425,7 +425,7 @@ La Ley 1/1986 se usa en examen para preguntas concretas y literales. Conviene me
 | Personal Asamblea dentro de Ley 1/1986 art. 5. | Fue opción incorrecta histórica. |
 | Provisión provisional en 18 meses. | Plazo máximo de 1 año. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

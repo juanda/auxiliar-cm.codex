@@ -1,4 +1,4 @@
-# Tema 13. Igualdad, violencia de genero y no discriminacion LGTBI
+# Tema 13. Igualdad, violencia de genero y no discriminación LGTBI
 
 El principio de igualdad entre mujeres y hombres. La tutela contra la discriminación. El marco normativo de la igualdad de género, la protección integral contra la violencia de género y no discriminación de las personas LGTBI. Especial referencia a la Comunidad de Madrid.
 
@@ -327,7 +327,7 @@ Pregunta de 2023: uno de los principios fundamentales es el derecho a recursos y
 | Características sexuales | Rasgos físicos o biológicos relacionados con el sexo. |
 | LGTBIfobia | Rechazo, discriminación o violencia contra personas LGTBI. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma | Artículo | Relevancia |
 | --- | --- | --- |
@@ -366,7 +366,7 @@ Pregunta de 2023: uno de los principios fundamentales es el derecho a recursos y
 | Confundir orientación sexual con identidad de género. | Son conceptos distintos. |
 | Pensar que las mutuas o juzgados ordinarios crean la protección integral. | La norma clave de violencia de género es LO 1/2004. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | ID | Año | Subtema | Qué preguntó | Respuesta que debe saberse |
 | --- | ---: | --- | --- | --- |

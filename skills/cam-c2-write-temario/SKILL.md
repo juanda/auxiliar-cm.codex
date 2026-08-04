@@ -10,7 +10,7 @@ description: Write exam-focused CAM C2 Auxiliar Administrativo Comunidad de Madr
 1. Identify the official topic number and file target in `05_temario/`.
 2. Read `AGENTS.md` `# Programa oficial` for the exact topic wording, then read `references/tema-template.md` and follow its section order.
 3. Consult `04_estadisticas/` and `02_preguntas_extraidas/preguntas_normalizadas.json` when available to prioritize historically asked material.
-4. For legislation, verify the current legal text from official sources before asserting live rules, especially if the user asks for a complete or current version.
+4. For legislation, verify the current legal text from official sources before asserting live rules, especially if the user asks for a complete or current versión.
 5. Write concise, exam-oriented explanations. Do not create encyclopedic commentary.
 6. Create or update the matching quick-review file in `06_esquemas/` when requested.
 

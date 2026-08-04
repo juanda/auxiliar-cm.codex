@@ -1,4 +1,4 @@
-# Test Tema 10. EBEP y funcion publica
+# Test Tema 10. EBEP y función pública
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Este banco es distinto del test embebido en `05_temario/tema_10_ebep_funcion_publica.md`.
 

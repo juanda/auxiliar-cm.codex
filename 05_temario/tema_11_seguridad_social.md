@@ -451,7 +451,7 @@ Regla de examen: cotizar no equivale a "pagar impuestos", aunque ambas son prest
 | Acción protectora | Conjunto de prestaciones del sistema. |
 | SMI anual art. 213.4 | Límite de ingresos para compatibilidad de jubilación con trabajo por cuenta propia. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma | Artículo | Relevancia |
 | --- | --- | --- |
@@ -487,7 +487,7 @@ Regla de examen: cotizar no equivale a "pagar impuestos", aunque ambas son prest
 | Negar toda compatibilidad entre jubilación y trabajo. | Art. 213.4 permite trabajo por cuenta propia hasta SMI anual. |
 | Confundir contingencia común y profesional. | Común: enfermedad común/accidente no laboral; profesional: accidente de trabajo/enfermedad profesional. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | ID | Año | Subtema | Qué preguntó | Respuesta que debe saberse |
 | --- | ---: | --- | --- | --- |

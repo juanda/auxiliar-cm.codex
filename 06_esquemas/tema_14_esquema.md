@@ -1,4 +1,4 @@
-# Tema 14. Esquema de atencion al ciudadano y administracion electronica
+# Tema 14. Esquema de atención al ciudadano y administración electrónica
 
 ## Epigrafe oficial
 

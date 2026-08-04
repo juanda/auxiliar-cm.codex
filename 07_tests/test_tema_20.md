@@ -2,7 +2,7 @@
 
 Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Banco de preguntas distinto del test embebido en `05_temario/tema_20_outlook.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
 
-Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de correccion: `aciertos - errores / 3`.
+Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 ## Preguntas
 
@@ -36,7 +36,7 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
    C. Archivo -> Administrar reglas y alertas
    D. Vista -> Panel de lectura
 
-6. En Outlook clasico, el comando Nuevo mensaje de correo electronico esta en la pestana:
+6. En Outlook clasico, el comando Nuevo mensaje de correo electrónico esta en la pestana:
    A. Inicio
    B. Vista
    C. Enviar y recibir
@@ -54,16 +54,16 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
    C. Para
    D. Asunto
 
-9. Si se quiere que un destinatario no vea la direccion de otro destinatario, se usa:
+9. Si se quiere que un destinatario no vea la dirección de otro destinatario, se usa:
    A. Para
    B. CCO
    C. CC
    D. Asunto
 
 10. El asunto de un mensaje sirve, entre otras cosas, para:
-    A. Cambiar la firma automatica
+    A. Cambiar la firma automática
     B. Adjuntar archivos automaticamente
-    C. Agrupar conversaciones y facilitar busquedas
+    C. Agrupar conversaciones y facilitar búsquedas
     D. Bloquear al remitente
 
 11. Adjuntar un archivo en Outlook significa:
@@ -76,7 +76,7 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     A. Enviar una copia cerrada del archivo
     B. Evitar que el destinatario lo vea
     C. Convertir el archivo en PDF
-    D. Trabajar sobre una version centralizada
+    D. Trabajar sobre una versión centralizada
 
 13. Si no hay conexion al enviar un mensaje, este puede quedar pendiente en:
     A. Elementos enviados
@@ -102,29 +102,29 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Regla activada
     D. Recordatorio
 
-17. Segun la clave documentada en el proyecto, el prefijo de un mensaje reenviado es:
+17. Según la clave documentada en el proyecto, el prefijo de un mensaje reenviado es:
     A. RE:
     B. CC:
     C. FW:
     D. HTTP:
 
-18. En Outlook en espanol, ademas de `FW:`, el prefijo de reenvio puede aparecer como:
+18. En Outlook en espanol, además de `FW:`, el prefijo de reenvio puede aparecer como:
     A. RE:
     B. CCO:
     C. TAREA:
     D. RV:
 
-19. Una conversacion en Outlook agrupa mensajes principalmente por:
+19. Una conversación en Outlook agrupa mensajes principalmente por:
     A. La fecha exacta de envio
     B. El mismo asunto o hilo
     C. El tamano del mensaje
-    D. El numero de adjuntos
+    D. El número de adjuntos
 
 20. Que herramienta muestra mensajes que cumplen un criterio sin moverlos fisicamente de carpeta?
-    A. Carpeta de busqueda
+    A. Carpeta de búsqueda
     B. Regla
     C. Marca de seguimiento
-    D. Categoria
+    D. Categoría
 
 21. Una marca de seguimiento en Outlook puede aplicarse a:
     A. Solo mensajes recibidos
@@ -132,35 +132,35 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Solo mensajes enviados
     D. Solo citas
 
-22. La Limpieza de una conversacion en Outlook sirve para:
+22. La Limpieza de una conversación en Outlook sirve para:
     A. Cambiar el asunto
     B. Borrar toda la carpeta
-    C. Eliminar mensajes redundantes de la conversacion
+    C. Eliminar mensajes redundantes de la conversación
     D. Crear una regla nueva
 
-23. En una regla de mensaje, la condicion es:
+23. En una regla de mensaje, la condición es:
     A. El criterio que activa la regla
     B. Lo que Outlook ejecuta al cumplirse algo
     C. El nombre de la regla
-    D. La excepcion que impide aplicarla
+    D. La excepción que impide aplicarla
 
-24. En una regla de mensaje, la accion es:
-    A. El criterio de activacion
-    B. La excepcion
+24. En una regla de mensaje, la acción es:
+    A. El criterio de activación
+    B. La excepción
     C. El nombre de la carpeta
-    D. Lo que Outlook hace al cumplirse la condicion
+    D. Lo que Outlook hace al cumplirse la condición
 
-25. La excepcion de una regla sirve para:
+25. La excepción de una regla sirve para:
     A. Activar siempre la regla
     B. Eliminar la regla
-    C. Duplicar la accion
+    C. Duplicar la acción
     D. Impedir que se aplique en casos concretos
 
-26. Un paso rapido se diferencia de una regla en que:
-    A. El paso rapido se ejecuta cuando el usuario lo pulsa
-    B. Se ejecuta automaticamente sin intervencion
+26. Un paso rápido se diferencia de una regla en que:
+    A. El paso rápido se ejecuta cuando el usuario lo pulsa
+    B. Se ejecuta automaticamente sin intervención
     C. Solo existe en Calendario
-    D. No permite ninguna accion
+    D. No permite ninguna acción
 
 27. La libreta de direcciones se utiliza principalmente para:
     A. Crear tablas dinamicas
@@ -170,12 +170,12 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 
 28. Un contacto de Outlook puede almacenar, entre otros datos:
     A. Solo la contrasena del correo
-    B. Nombre, correo, telefono y empresa
-    C. Solo el numero de mensajes enviados
+    B. Nombre, correo, teléfono y empresa
+    C. Solo el número de mensajes enviados
     D. Exclusivamente el idioma
 
 29. Una lista o grupo de contactos permite:
-    A. Crear una reunion automatica
+    A. Crear una reunion automática
     B. Enviar mensajes a varios destinatarios como conjunto
     C. Cambiar el formato del calendario
     D. Sustituir la libreta de direcciones
@@ -183,7 +183,7 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 30. Que sugiere el autocompletar de direcciones al escribir un destinatario?
     A. Solo contactos guardados en la libreta
     B. Solo direcciones del directorio corporativo
-    C. Ninguna direccion
+    C. Ninguna dirección
     D. Direcciones usadas anteriormente, no necesariamente guardadas
 
 31. Una cita en el calendario de Outlook se caracteriza por:
@@ -198,17 +198,17 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. La cita siempre incluye asistentes
     D. No hay diferencia real
 
-33. Un evento de dia completo se diferencia de una cita ordinaria en que:
-    A. El evento ocupa uno o varios dias completos
+33. Un evento de día completo se diferencia de una cita ordinaria en que:
+    A. El evento ocupa uno o varios días completos
     B. El evento tiene hora exacta de inicio y fin
     C. El evento siempre convoca asistentes
-    D. La cita ocupa siempre varios dias
+    D. La cita ocupa siempre varios días
 
 34. Que es una convocatoria en el calendario de Outlook?
     A. Un mensaje de correo no deseado
-    B. La invitacion de reunion enviada a los asistentes
+    B. La invitación de reunion enviada a los asistentes
     C. Un tipo de regla
-    D. Una carpeta de busqueda
+    D. Una carpeta de búsqueda
 
 35. Las respuestas tipicas a una convocatoria de reunion son:
     A. Copiar, pegar, cortar
@@ -217,24 +217,24 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     D. Aceptar, provisional, rechazar
 
 36. El estado de disponibilidad Provisional en una cita indica:
-    A. Cancelacion definitiva
+    A. Cancelación definitiva
     B. Que el mensaje esta en Borradores
     C. Reserva tentativa del tiempo
     D. Que la regla esta desactivada
 
-37. Cambiar la vista del calendario entre dia, semana o mes:
+37. Cambiar la vista del calendario entre día, semana o mes:
     A. Elimina las citas existentes
     B. Convierte citas en reuniones
     C. Crea automaticamente convocatorias
     D. Solo cambia como se muestra la agenda
 
-38. Que accion NO corresponde al modulo Calendario de Outlook?
+38. Que acción NO corresponde al modulo Calendario de Outlook?
     A. Crear una reunion
-    B. Gestionar contactos o listas de distribucion
+    B. Gestionar contactos o listas de distribución
     C. Eliminar una cita
     D. Consultar disponibilidad
 
-39. Una buena practica al enviar un correo a muchos destinatarios que no deben verse entre si es:
+39. Una buena práctica al enviar un correo a muchos destinatarios que no deben verse entre si es:
     A. Usar CCO para esos destinatarios
     B. Ponerlos a todos en CC
     C. Escribirlos en el asunto
@@ -243,12 +243,12 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 40. La convocatoria 2026 exige estudiar Outlook sobre:
     A. Outlook 2016 exclusivamente
     B. Outlook Express
-    C. Microsoft 365 version escritorio
-    D. Una version web no indicada como base
+    C. Microsoft 365 versión escritorio
+    D. Una versión web no indicada como base
 
 ## Plantilla
 
-| Numero | Respuesta | Explicacion |
+| Número | Respuesta | Explicación |
 | ---: | :---: | --- |
 | 1 | A | El modulo Calendario gestiona citas y reuniones. |
 | 2 | D | Borradores contiene mensajes redactados sin enviar. |
@@ -258,35 +258,35 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 6 | A | Nuevo mensaje esta en la pestana Inicio. |
 | 7 | D | Para contiene los destinatarios principales. |
 | 8 | B | CC es copia visible. |
-| 9 | B | CCO oculta la direccion frente a los demas destinatarios. |
-| 10 | C | El asunto agrupa conversaciones y facilita busquedas. |
+| 9 | B | CCO oculta la dirección frente a los demas destinatarios. |
+| 10 | C | El asunto agrupa conversaciones y facilita búsquedas. |
 | 11 | A | Adjuntar incorpora un archivo o elemento al mensaje. |
-| 12 | D | Un vinculo permite trabajar sobre una version centralizada. |
+| 12 | D | Un vinculo permite trabajar sobre una versión centralizada. |
 | 13 | D | Bandeja de salida retiene mensajes pendientes de envio. |
 | 14 | B | Responder normalmente no incluye los adjuntos originales. |
 | 15 | C | Reenviar normalmente conserva los adjuntos. |
 | 16 | A | RE: indica respuesta. |
-| 17 | C | La clave historica del proyecto documenta FW: como reenvio. |
-| 18 | D | RV: puede aparecer segun idioma o configuracion. |
+| 17 | C | La clave histórica del proyecto documenta FW: como reenvio. |
+| 18 | D | RV: puede aparecer según idioma o configuración. |
 | 19 | B | Las conversaciones se agrupan por asunto o hilo. |
-| 20 | A | Una carpeta de busqueda muestra mensajes por criterio sin moverlos. |
+| 20 | A | Una carpeta de búsqueda muestra mensajes por criterio sin moverlos. |
 | 21 | B | Las marcas de seguimiento se aplican a enviados y recibidos. |
-| 22 | C | La limpieza elimina mensajes redundantes de la conversacion. |
-| 23 | A | La condicion es el criterio que activa la regla. |
-| 24 | D | La accion es lo que Outlook ejecuta al cumplirse la condicion. |
-| 25 | D | La excepcion impide aplicar la regla en casos concretos. |
-| 26 | A | El paso rapido se ejecuta cuando el usuario lo pulsa. |
+| 22 | C | La limpieza elimina mensajes redundantes de la conversación. |
+| 23 | A | La condición es el criterio que activa la regla. |
+| 24 | D | La acción es lo que Outlook ejecuta al cumplirse la condición. |
+| 25 | D | La excepción impide aplicar la regla en casos concretos. |
+| 26 | A | El paso rápido se ejecuta cuando el usuario lo pulsa. |
 | 27 | C | La libreta de direcciones permite consultar o seleccionar direcciones. |
-| 28 | B | Un contacto guarda nombre, correo, telefono y empresa, entre otros datos. |
+| 28 | B | Un contacto guarda nombre, correo, teléfono y empresa, entre otros datos. |
 | 29 | B | Una lista de contactos agrupa destinatarios para enviarles como conjunto. |
 | 30 | D | El autocompletar sugiere direcciones usadas antes, no siempre guardadas. |
 | 31 | C | La cita reserva tiempo, normalmente sin asistentes obligatorios. |
 | 32 | A | La reunion incluye asistentes invitados. |
-| 33 | A | El evento ocupa uno o varios dias completos. |
-| 34 | B | La convocatoria es la invitacion de reunion a los asistentes. |
+| 33 | A | El evento ocupa uno o varios días completos. |
+| 34 | B | La convocatoria es la invitación de reunion a los asistentes. |
 | 35 | D | Las respuestas tipicas son aceptar, provisional o rechazar. |
 | 36 | C | Provisional indica una reserva tentativa de tiempo. |
 | 37 | D | Cambiar la vista solo cambia como se muestra la agenda. |
 | 38 | B | Gestionar contactos o listas no es propio del Calendario. |
 | 39 | A | CCO protege la visibilidad de las direcciones. |
-| 40 | C | La convocatoria 2026 fija Microsoft 365 version escritorio. |
+| 40 | C | La convocatoria 2026 fija Microsoft 365 versión escritorio. |

@@ -400,7 +400,7 @@ Pregunta histórica: `2023-E1-040`. En el procedimiento para exigir responsabili
 | Extraordinario de revisión | Contra actos firmes por causas tasadas. |
 | Responsabilidad de autoridades | Art. 36 Ley 40/2015; dolo, culpa o negligencia grave. |
 
-## 4. Articulos importantes
+## 4. Artículos importantes
 
 | Norma / artículo | Contenido esencial | Relevancia |
 | --- | --- | --- |
@@ -438,7 +438,7 @@ Pregunta histórica: `2023-E1-040`. En el procedimiento para exigir responsabili
 | Responsabilidad de autoridades por cualquier culpa. | Requiere dolo, culpa o negligencia grave. |
 | Plazo de resolución del art. 36 Ley 40/2015 de 10 o 15 días. | Son 5 días. |
 
-## 6. Preguntas historicas
+## 6. Preguntas históricas
 
 | Id | Año | Subtema | Idea preguntada | Respuesta |
 | --- | ---: | --- | --- | --- |

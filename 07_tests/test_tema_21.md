@@ -6,11 +6,11 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 
 ## Preguntas
 
-1. El principio de dar solo lectura o edicion cuando sea necesario en colaboracion se llama:
-   A. Permiso minimo
+1. El principio de dar solo lectura o edición cuando sea necesario en colaboración se llama:
+   A. Permiso mínimo
    B. Coautoria
    C. Trazabilidad
-   D. Sincronizacion
+   D. Sincronización
 
 2. Trabajar en Microsoft 365 sin conexion sobre archivos ya sincronizados significa que:
    A. Los cambios se pierden siempre
@@ -32,17 +32,17 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 
 5. Un canal privado de Teams se caracteriza por:
    A. Ser accesible solo para un subconjunto de miembros del equipo
-   B. Ser visible para toda la organizacion
+   B. Ser visible para toda la organización
    C. No admitir archivos
    D. Sustituir al canal General
 
 6. La diferencia principal entre un chat y un canal de Teams es que:
    A. El chat siempre crea una biblioteca de SharePoint
    B. No existe diferencia funcional
-   C. El chat es conversacion directa o de grupo; el canal organiza trabajo dentro de un equipo
+   C. El chat es conversación directa o de grupo; el canal organiza trabajo dentro de un equipo
    D. El canal solo admite mensajes privados
 
-7. En una reunion de Teams, el rol con mayor control sobre configuracion y participantes es:
+7. En una reunion de Teams, el rol con mayor control sobre configuración y participantes es:
    A. Presentador
    B. Organizador
    C. Asistente
@@ -51,36 +51,36 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 8. El presentador de una reunion de Teams se caracteriza por:
    A. Tener siempre mas control que el organizador
    B. No poder usar audio ni video
-   C. Ser necesariamente externo a la organizacion
+   C. Ser necesariamente externo a la organización
    D. Poder compartir contenido y presentar durante la reunion
 
-9. La opcion Reunirse ahora en Teams permite:
+9. La opción Reunirse ahora en Teams permite:
    A. Programar una reunion para una fecha futura obligatoriamente
    B. Iniciar una reunion de forma inmediata
    C. Guardar un marcador del navegador
    D. Sincronizar una biblioteca documental
 
 10. Es correcto afirmar que las reuniones de Teams:
-    A. Solo pueden celebrarse entre miembros de la misma organizacion
+    A. Solo pueden celebrarse entre miembros de la misma organización
     B. Nunca permiten compartir pantalla
-    C. Pueden admitir participantes externos si la organizacion lo permite
-    D. No permiten grabacion en ningun caso
+    C. Pueden admitir participantes externos si la organización lo permite
+    D. No permiten grabación en ningun caso
 
 11. Las salas de trabajo en una reunion de Teams sirven para:
     A. Dividir a los participantes en grupos pequenos durante la reunion
     B. Controlar quien puede entrar a la reunion
-    C. Grabar automaticamente la sesion
+    C. Grabar automaticamente la sesión
     D. Sustituir al chat de la reunion
 
 12. La sala de espera de una reunion de Teams controla:
     A. Quien puede compartir pantalla
-    B. Donde se guarda la grabacion
-    C. El idioma de la transcripcion
+    B. Donde se guarda la grabación
+    C. El idioma de la transcripción
     D. La entrada de los asistentes a la reunion
 
 13. SharePoint se define principalmente como una plataforma para:
     A. Editar imagenes vectoriales
-    B. Organizar, compartir y colaborar con informacion y documentos
+    B. Organizar, compartir y colaborar con información y documentos
     C. Ejecutar consultas SQL locales
     D. Crear presentaciones con diapositivas
 
@@ -91,10 +91,10 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     D. Solo la lista admite permisos
 
 15. Un sitio de equipo de SharePoint se orienta principalmente a:
-    A. La colaboracion de un grupo o proyecto
-    B. La difusion publica sin restriccion de audiencia
+    A. La colaboración de un grupo o proyecto
+    B. La difusión pública sin restricción de audiencia
     C. Sustituir a Teams por completo
-    D. Almacenar exclusivamente correo electronico
+    D. Almacenar exclusivamente correo electrónico
 
 16. Compartir un documento de SharePoint con permiso Puede ver implica que el destinatario:
     A. Puede administrar todo el sitio
@@ -106,7 +106,7 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     A. Enviar copias separadas del documento por correo
     B. Que varias personas trabajen sobre el mismo documento compartido
     C. Convertir el documento en PDF
-    D. Bloquear el documento para un unico usuario
+    D. Bloquear el documento para un único usuario
 
 18. El historial de versiones de un documento en SharePoint u OneDrive permite:
     A. Consultar o recuperar estados anteriores del archivo
@@ -120,52 +120,52 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Almacenar y sincronizar archivos personales
     D. Disenar informes de Access
 
-20. Un archivo marcado como Solo en linea en OneDrive significa que:
+20. Un archivo marcado como Solo en línea en OneDrive significa que:
     A. Nunca podra abrirse
     B. Esta duplicado en dos cuentas distintas
     C. Se ha eliminado del servidor
     D. Se ve en el Explorador pero se descarga al abrirlo
 
-21. La sincronizacion de archivos de SharePoint mediante OneDrive permite:
+21. La sincronización de archivos de SharePoint mediante OneDrive permite:
     A. Acceder exclusivamente desde el navegador
     B. Trabajar con los archivos desde el equipo local y sincronizar los cambios
     C. Eliminar la necesidad de permisos
-    D. Impedir cualquier edicion sin conexion
+    D. Impedir cualquier edición sin conexion
 
 22. Si una biblioteca sincronizada muestra un archivo en solo lectura, una causa posible es:
-    A. Falta de permiso de edicion o configuracion de la biblioteca
+    A. Falta de permiso de edición o configuración de la biblioteca
     B. Que OneDrive nunca pueda sincronizar SharePoint
     C. Que Teams no admita archivos
     D. Que HTTPS solo funcione en un navegador
 
 23. Outlook se relaciona con el trabajo colaborativo de Microsoft 365 porque permite:
-    A. Administrar bibliotecas de SharePoint como propietario unico
+    A. Administrar bibliotecas de SharePoint como propietario único
     B. Crear canales de Teams
     C. Gestionar correo, calendario y convocatorias, incluidas las de reuniones de Teams
     D. Sustituir a OneDrive
 
 24. Enviar un archivo como adjunto de correo, frente a compartir un vinculo, tiene como particularidad que:
-    A. Favorece siempre la coedicion
-    B. Da acceso a una version centralizada
+    A. Favorece siempre la coedición
+    B. Da acceso a una versión centralizada
     C. Depende de los permisos del archivo original tras el envio
     D. Envia una copia del archivo, que puede generar versiones divergentes
 
-25. Una buena practica al compartir documentos administrativos es:
-    A. Usar siempre la opcion cualquiera con el vinculo
+25. Una buena práctica al compartir documentos administrativos es:
+    A. Usar siempre la opción cualquiera con el vinculo
     B. Conceder solo el permiso necesario
     C. Enviar varias copias si se esta coeditando
-    D. Evitar el uso de permisos especificos
+    D. Evitar el uso de permisos específicos
 
 26. Un marcador o favorito del navegador es:
-    A. Una direccion web guardada para acceder rapidamente
-    B. El registro de todas las paginas visitadas
+    A. Una dirección web guardada para acceder rapidamente
+    B. El registro de todas las páginas visitadas
     C. Un certificado de seguridad HTTPS
     D. Un archivo temporal de descarga
 
 27. El modo incognito o privado de un navegador:
     A. Garantiza el anonimato total frente a cualquier sitio web
     B. Es un tipo de antivirus
-    C. Es una funcion de privacidad que limita ciertos datos locales de la sesion
+    C. Es una función de privacidad que limita ciertos datos locales de la sesión
     D. Es un protocolo de transferencia de archivos
 
 28. De las siguientes opciones, no es un navegador web:
@@ -176,7 +176,7 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 
 29. La diferencia principal entre HTTP y HTTPS es que:
     A. HTTP es mas reciente que HTTPS
-    B. HTTPS cifra las comunicaciones mediante certificados de clave publica
+    B. HTTPS cifra las comunicaciones mediante certificados de clave pública
     C. HTTPS solo lo reconocen algunos navegadores minoritarios
     D. No existe diferencia real
 
@@ -184,13 +184,13 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     A. SFTP transfiere archivos mediante un canal seguro y FTP no lo hace por defecto
     B. FTP siempre cifra la transferencia y SFTP no
     C. Son protocolos identicos
-    D. SFTP solo sirve para enviar correo electronico
+    D. SFTP solo sirve para enviar correo electrónico
 
 ## Plantilla de respuestas
 
-| Nº | Respuesta | Explicacion breve |
+| Nº | Respuesta | Explicación breve |
 | ---: | :---: | --- |
-| 1 | A | El permiso minimo da solo el acceso necesario. |
+| 1 | A | El permiso mínimo da solo el acceso necesario. |
 | 2 | C | Los cambios se sincronizan al recuperar conexion. |
 | 3 | B | Un equipo integra personas, contenido y herramientas. |
 | 4 | D | Los canales organizan conversaciones y archivos por tema o proyecto. |
@@ -199,24 +199,24 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 7 | B | El organizador tiene el mayor control de la reunion. |
 | 8 | D | El presentador comparte contenido y presenta. |
 | 9 | B | Reunirse ahora inicia una reunion inmediata. |
-| 10 | C | Pueden participar externos si la organizacion lo permite. |
+| 10 | C | Pueden participar externos si la organización lo permite. |
 | 11 | A | Las salas de trabajo dividen a los asistentes en grupos pequenos. |
 | 12 | D | La sala de espera controla la entrada de asistentes. |
-| 13 | B | SharePoint organiza, comparte y ayuda a colaborar con informacion y documentos. |
+| 13 | B | SharePoint organiza, comparte y ayuda a colaborar con información y documentos. |
 | 14 | C | La biblioteca guarda archivos; la lista guarda datos estructurados. |
-| 15 | A | El sitio de equipo se orienta a la colaboracion de un grupo o proyecto. |
+| 15 | A | El sitio de equipo se orienta a la colaboración de un grupo o proyecto. |
 | 16 | D | Puede ver permite leer, no editar. |
 | 17 | B | La coautoria es trabajar varias personas sobre el mismo documento. |
 | 18 | A | El historial de versiones permite recuperar estados anteriores. |
 | 19 | C | OneDrive almacena y sincroniza archivos personales. |
-| 20 | D | Solo en linea se descarga al abrirlo, no esta ya descargado. |
-| 21 | B | La sincronizacion permite trabajar en local y sincronizar cambios. |
-| 22 | A | Puede deberse a falta de permiso o configuracion de la biblioteca. |
-| 23 | C | Outlook gestiona correo, calendario y convocatorias, tambien de Teams. |
+| 20 | D | Solo en línea se descarga al abrirlo, no esta ya descargado. |
+| 21 | B | La sincronización permite trabajar en local y sincronizar cambios. |
+| 22 | A | Puede deberse a falta de permiso o configuración de la biblioteca. |
+| 23 | C | Outlook gestiona correo, calendario y convocatorias, también de Teams. |
 | 24 | D | El adjunto envia una copia que puede generar versiones divergentes. |
 | 25 | B | Conceder solo el permiso necesario protege el documento. |
-| 26 | A | Un marcador guarda una direccion para acceder rapido. |
-| 27 | C | El modo incognito limita ciertos datos locales de la sesion. |
-| 28 | D | Rust es un lenguaje de programacion, no un navegador. |
-| 29 | B | HTTPS cifra las comunicaciones con certificados de clave publica. |
+| 26 | A | Un marcador guarda una dirección para acceder rápido. |
+| 27 | C | El modo incognito limita ciertos datos locales de la sesión. |
+| 28 | D | Rust es un lenguaje de programación, no un navegador. |
+| 29 | B | HTTPS cifra las comunicaciones con certificados de clave pública. |
 | 30 | A | SFTP usa canal seguro; FTP no lo hace por defecto. |
