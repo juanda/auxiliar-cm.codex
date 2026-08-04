@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escritorio y Power BI. Se combinan recurrencias históricas con puntos probables de convocatoria: tablas, consultas, formularios, informes, relaciones, importación/vinculación/exportación y Power BI.
 
+Tiempo recomendado: 50 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Cuál es la extensión predeterminada moderna de Access?

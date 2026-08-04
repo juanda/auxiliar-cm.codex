@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Se combinan recurrencias historicas con puntos probables de convocatoria: campos del mensaje, respuestas y reenvios, conversaciones, marcas de seguimiento, reglas, libreta de direcciones, calendario, citas y convocatorias.
 
+Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de correccion: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. En Microsoft 365 de escritorio, la aplicacion principal para gestionar correo electronico es:

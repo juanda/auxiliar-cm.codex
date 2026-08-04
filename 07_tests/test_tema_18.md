@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
+Tiempo recomendado: 53 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Cómo se denomina el archivo de Excel que contiene una o varias hojas?

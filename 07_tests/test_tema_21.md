@@ -1,5 +1,7 @@
 # Test Tema 21. Microsoft 365 y trabajo colaborativo
 
+Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. En Microsoft Teams, un equipo es:

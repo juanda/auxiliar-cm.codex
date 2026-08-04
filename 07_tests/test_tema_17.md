@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Word de Microsoft 365 escritorio. Se priorizan contenidos no agotados por los exámenes históricos: estilos, secciones, impresión, exportación, revisión, vistas y personalización.
 
+Tiempo recomendado: 41 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Qué comando permite guardar un documento abierto con otro nombre?
