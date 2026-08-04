@@ -646,6 +646,7 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 
 | Id | Subtema | Qué preguntó | Respuesta |
 | --- | --- | --- | :---: |
+| `2023-E2-006` | Tablas Access | Qué es un Campo en una tabla de Access | C |
 | `2023-E2-010` | Access y Power BI | Bases abiertas en una instancia de Access | B |
 | `2023-E2-013` | Tablas Access | Uso de campo Autonumeración | B |
 | `2023-E2-016` | Tablas Access | Propiedades de campo | A |

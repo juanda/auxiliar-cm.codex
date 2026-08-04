@@ -9,8 +9,8 @@ Tabla ordenada por recurrencia descendente. Los psicotécnicos figuran sin núme
 | Ortografía |  | `psicotecnico_verbal` | 12 | 12 | 0 | 3,6% |
 | Razonamiento verbal |  | `psicotecnico_verbal` | 11 | 11 | 0 | 3,3% |
 | Explorador de archivos | 16 | `ofimatica` | 10 | 9 | 1 | 3,0% |
-| Correo electrónico | 20 | `ofimatica` | 9 | 7 | 2 | 2,7% |
 | Tablas de datos |  | `psicotecnico_atencion` | 9 | 9 | 0 | 2,7% |
+| Correo electrónico | 20 | `ofimatica` | 8 | 6 | 2 | 2,4% |
 | Asamblea de Madrid | 2 | `comunidad_madrid` | 8 | 7 | 1 | 2,4% |
 | Derecho de acceso a la información pública | 8 | `transparencia` | 8 | 6 | 2 | 2,4% |
 | Personal al servicio de las Administraciones Públicas | 10 | `funcion_publica` | 8 | 6 | 2 | 2,4% |
@@ -18,10 +18,10 @@ Tabla ordenada por recurrencia descendente. Los psicotécnicos figuran sin núme
 | Libros, hojas y celdas | 18 | `ofimatica` | 8 | 6 | 2 | 2,4% |
 | Razonamiento numérico |  | `psicotecnico_numerico` | 8 | 8 | 0 | 2,4% |
 | Series de letras |  | `psicotecnico_logico` | 8 | 8 | 0 | 2,4% |
+| Tablas Access | 19 | `ofimatica` | 8 | 7 | 1 | 2,4% |
 | Jurisdicción contencioso-administrativa | 7 | `legislacion` | 7 | 4 | 3 | 2,1% |
 | Contratos del sector público | 9 | `contratos` | 7 | 4 | 3 | 2,1% |
 | Igualdad entre mujeres y hombres | 13 | `igualdad` | 7 | 4 | 3 | 2,1% |
-| Tablas Access | 19 | `ofimatica` | 7 | 6 | 1 | 2,1% |
 | Navegación web y protocolos | 21 | `ofimatica` | 7 | 6 | 1 | 2,1% |
 | Consejo de Gobierno | 3 | `comunidad_madrid` | 6 | 6 | 0 | 1,8% |
 | Atención al ciudadano | 14 | `procedimiento_administrativo` | 6 | 4 | 2 | 1,8% |

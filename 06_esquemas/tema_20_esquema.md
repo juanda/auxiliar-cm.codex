@@ -35,7 +35,7 @@ La convocatoria 2026 fija `Microsoft 365 version escritorio` para Microsoft Offi
 | `2025-E2-025` | Destinatario principal = `Para`. |
 | `2025-E2-035` | Aplicacion de correo Microsoft 365 = Outlook. |
 
-Nota: `2023-E2-006` aparece clasificada como Tema 20, pero pregunta por campos de Access; corresponde al Tema 19.
+Nota: `2023-E2-006` preguntaba por campos de Access, no de Outlook; ya se reclasifico en origen al Tema 19.
 
 ## Campos del mensaje
 

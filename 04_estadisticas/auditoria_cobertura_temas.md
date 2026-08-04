@@ -45,8 +45,8 @@ Conclusion: la cobertura historica basica esta completa. No se han detectado IDs
 | 16 | Windows 10 | 12 | 12 | 0 | 8/8 | OK |
 | 17 | Word | 11 | 11 | 0 | 8/8 | OK |
 | 18 | Excel | 12 | 12 | 0 | 8/8 | OK |
-| 19 | Access y Power BI | 11 | 11 | 0 | 8/8 | OK |
-| 20 | Outlook | 12 | 12 | 0 | 8/8 | OK |
+| 19 | Access y Power BI | 12 | 12 | 0 | 8/8 | OK |
+| 20 | Outlook | 11 | 11 | 0 | 8/8 | OK |
 | 21 | Microsoft 365 colaborativo | 12 | 12 | 0 | 8/8 | OK |
 
 ## Prioridad de revision cualitativa
@@ -338,33 +338,37 @@ Conclusion: la cobertura historica basica esta completa. No se han detectado IDs
 ### Tema 19. Access y Power BI
 
 - Archivo: `05_temario/tema_19_access_powerbi.md`
-- Preguntas historicas revisadas: 11.
-- IDs citados en el tema: 11/11.
-- Secciones obligatorias: 8/8.
-- Estado: OK.
-- IDs revisados: `2023-E2-010, 2023-E2-013, 2023-E2-016, 2023-E2-023, 2025-E2-009, 2025-E2-016, 2025-E2-017, 2025-E2-018, 2025-E2-019, 2025-E2-020, 2025-E2-034`
-
-| Subtema historico | Preguntas |
-| --- | ---: |
-| Tablas Access | 7 |
-| Access y Power BI | 3 |
-| Importación y exportación | 1 |
-
-### Tema 20. Outlook
-
-- Archivo: `05_temario/tema_20_outlook.md`
 - Preguntas historicas revisadas: 12.
 - IDs citados en el tema: 12/12.
 - Secciones obligatorias: 8/8.
 - Estado: OK.
-- IDs revisados: `2023-E2-001, 2023-E2-005, 2023-E2-006, 2023-E2-015, 2023-E2-028, 2023-E2-034, 2025-E2-021, 2025-E2-022, 2025-E2-023, 2025-E2-024, 2025-E2-025, 2025-E2-035`
+- IDs revisados: `2023-E2-006, 2023-E2-010, 2023-E2-013, 2023-E2-016, 2023-E2-023, 2025-E2-009, 2025-E2-016, 2025-E2-017, 2025-E2-018, 2025-E2-019, 2025-E2-020, 2025-E2-034`
 
 | Subtema historico | Preguntas |
 | --- | ---: |
-| Correo electrónico | 9 |
+| Tablas Access | 8 |
+| Access y Power BI | 3 |
+| Importación y exportación | 1 |
+
+Nota: `2023-E2-006` estaba clasificada originalmente en el Tema 20 (Outlook) con subtema "Correo electrónico"; se reclasificó aquí porque su enunciado pregunta por un Campo en una Tabla de Access. Corregido en origen en `02_preguntas_extraidas/` (ver `05_temario/tema_20_outlook.md`, tabla de incidencias de clasificación).
+
+### Tema 20. Outlook
+
+- Archivo: `05_temario/tema_20_outlook.md`
+- Preguntas historicas revisadas: 11.
+- IDs citados en el tema: 11/11.
+- Secciones obligatorias: 8/8.
+- Estado: OK.
+- IDs revisados: `2023-E2-001, 2023-E2-005, 2023-E2-015, 2023-E2-028, 2023-E2-034, 2025-E2-021, 2025-E2-022, 2025-E2-023, 2025-E2-024, 2025-E2-025, 2025-E2-035`
+
+| Subtema historico | Preguntas |
+| --- | ---: |
+| Correo electrónico | 8 |
 | Agenda | 1 |
 | Outlook | 1 |
 | Reglas de mensaje | 1 |
+
+Nota: `2023-E2-006` se excluye de este listado; reclasificada al Tema 19 (Access) por tratar sobre Campos de tablas de Access. Ver detalle en Tema 19.
 
 ### Tema 21. Microsoft 365 colaborativo
 

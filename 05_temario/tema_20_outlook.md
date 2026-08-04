@@ -8,7 +8,7 @@ La version oficial para este tema es `Microsoft 365 version escritorio`, conform
 
 Outlook es la aplicacion de Microsoft 365 destinada principalmente a gestionar el correo electronico, el calendario, los contactos y determinadas tareas de organizacion personal. En el examen interesa dominar su uso administrativo: crear mensajes, distinguir campos de destinatarios, responder y reenviar, adjuntar archivos, usar conversaciones, aplicar marcas de seguimiento, crear reglas, consultar la libreta de direcciones y manejar citas, reuniones y convocatorias.
 
-La estadistica historica disponible muestra 12 preguntas clasificadas en el Tema 20, aunque una de ellas (`2023-E2-006`) trata realmente de Access y debe considerarse incidencia de clasificacion. Para Outlook hay 11 preguntas directamente utiles:
+La estadistica historica disponible muestra 11 preguntas clasificadas en el Tema 20. Una pregunta (`2023-E2-006`) figuraba originalmente clasificada aqui, pero trata realmente de Access; ya se corrigio en origen (`02_preguntas_extraidas/`) y se reclasifico en el Tema 19.
 
 | Subtema | Preguntas historicas utiles |
 | --- | ---: |
@@ -692,11 +692,11 @@ Referencias normativas transversales:
 | `2025-E2-025` | 2025 | Outlook | Destinatarios principales | `Para` |
 | `2025-E2-035` | 2025 | Correo electronico | Aplicacion Microsoft 365 de correo | Outlook |
 
-### Incidencia de clasificacion
+### Incidencia de clasificacion (corregida)
 
-| ID | Motivo |
-| --- | --- |
-| `2023-E2-006` | Figura clasificada como Tema 20, pero pregunta por campos en tablas de Access. Debe estudiarse en Tema 19. |
+| ID | Motivo | Estado |
+| --- | --- | --- |
+| `2023-E2-006` | Pregunta por campos en tablas de Access, no por Outlook. | Reclasificada al Tema 19 en `02_preguntas_extraidas/` (tema 20 -> 19, subtema "Correo electronico" -> "Tablas Access"). |
 
 ### Cobertura historica
 
