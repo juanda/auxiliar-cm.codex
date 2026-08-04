@@ -6,39 +6,39 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 1. La Ley Orgánica 3/1983, de 25 de febrero, aprueba:
    A. La Ley de Gobierno y Administración de la Comunidad de Madrid.
-   B. El Estatuto de Autonomía de la Comunidad de Madrid.
-   C. El Reglamento de la Asamblea de Madrid.
-   D. La Ley Electoral de la Comunidad de Madrid.
+   B. El Reglamento de la Asamblea de Madrid.
+   C. La Ley Electoral de la Comunidad de Madrid.
+   D. El Estatuto de Autonomía de la Comunidad de Madrid.
 
 2. El Estatuto de Autonomía de la Comunidad de Madrid es:
    A. Una norma reglamentaria autonómica.
-   B. La norma institucional básica de la Comunidad de Madrid.
-   C. Una ley ordinaria estatal.
+   B. Una ley ordinaria estatal.
+   C. La norma institucional básica de la Comunidad de Madrid.
    D. Una ley de presupuestos.
 
 3. El territorio de la Comunidad de Madrid es:
    A. El término municipal de Madrid.
-   B. El comprendido dentro de los límites de la provincia de Madrid.
-   C. El área metropolitana de Madrid.
+   B. El área metropolitana de Madrid.
+   C. El comprendido dentro de los límites de la provincia de Madrid.
    D. La villa de Madrid y sus municipios limítrofes.
 
 4. La capital de la Comunidad, sede de sus instituciones, es:
    A. Madrid capital.
-   B. La ciudad de Madrid.
-   C. La villa de Madrid.
+   B. La villa de Madrid.
+   C. La ciudad de Madrid.
    D. La provincia de Madrid.
 
 5. Los poderes de la Comunidad de Madrid se ejercen a través de:
-   A. Asamblea, Gobierno y Presidente de la Comunidad.
-   B. Asamblea Legislativa, Comisiones Delegadas y Presidente.
-   C. Gobierno, Consejerías y Tribunal Superior de Justicia.
-   D. Presidente del Estado, Gobierno y Asamblea.
+   A. Asamblea Legislativa, Comisiones Delegadas y Presidente.
+   B. Gobierno, Consejerías y Tribunal Superior de Justicia.
+   C. Presidente del Estado, Gobierno y Asamblea.
+   D. Asamblea, Gobierno y Presidente de la Comunidad.
 
 6. La Asamblea de Madrid:
    A. Ejerce la potestad ejecutiva de la Comunidad.
-   B. Representa al pueblo de Madrid.
-   C. Nombra y cesa a los Consejeros.
-   D. Ejecuta el Presupuesto de la Comunidad.
+   B. Nombra y cesa a los Consejeros.
+   C. Ejecuta el Presupuesto de la Comunidad.
+   D. Representa al pueblo de Madrid.
 
 7. Según el artículo 9, la Asamblea:
    A. Impulsa, orienta y controla la acción del Gobierno.
@@ -48,38 +48,38 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 8. La Asamblea es elegida por:
    A. Tres años.
-   B. Cuatro años.
-   C. Cinco años.
+   B. Cinco años.
+   C. Cuatro años.
    D. Seis años.
 
 9. La composición de la Asamblea se fija en:
-   A. Un Diputado por cada 25.000 habitantes.
-   B. Un Diputado por cada 50.000 habitantes o fracción superior a 25.000.
+   A. Un Diputado por cada 50.000 habitantes o fracción superior a 25.000.
+   B. Un Diputado por cada 25.000 habitantes.
    C. Un Diputado por cada municipio.
    D. Un número fijo de 100 Diputados.
 
 10. Para distribuir escaños en la Asamblea se tienen en cuenta las listas con:
-    A. Al menos el 3% de votos válidos.
-    B. Al menos el 5% de sufragios válidamente emitidos.
+    A. Al menos el 5% de sufragios válidamente emitidos.
+    B. Al menos el 3% de votos válidos.
     C. Más del 10% de votos emitidos.
     D. Mayoría simple en su municipio.
 
 11. La circunscripción electoral en las elecciones a la Asamblea es:
     A. El municipio.
-    B. El partido judicial.
-    C. La provincia.
+    B. La provincia.
+    C. El partido judicial.
     D. La comarca.
 
 12. Los Diputados de la Asamblea:
     A. Están ligados por mandato imperativo.
-    B. No están ligados por mandato imperativo alguno.
-    C. Dependen jerárquicamente del Gobierno.
-    D. Son nombrados por el Presidente de la Comunidad.
+    B. Dependen jerárquicamente del Gobierno.
+    C. Son nombrados por el Presidente de la Comunidad.
+    D. No están ligados por mandato imperativo alguno.
 
 13. La aprobación y reforma del Reglamento de la Asamblea requiere:
     A. Mayoría simple de presentes.
-    B. Mayoría absoluta de los Diputados en votación final sobre la totalidad.
-    C. Decreto del Gobierno.
+    B. Decreto del Gobierno.
+    C. Mayoría absoluta de los Diputados en votación final sobre la totalidad.
     D. Autorización de Cortes Generales.
 
 14. Los portavoces de los Grupos Parlamentarios integran:
@@ -96,9 +96,9 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 16. Los períodos ordinarios de sesiones de la Asamblea son:
     A. Enero-julio y septiembre-diciembre.
-    B. Septiembre-diciembre y febrero-junio.
-    C. Marzo-junio y octubre-enero.
-    D. Todo el año sin períodos.
+    B. Marzo-junio y octubre-enero.
+    C. Todo el año sin períodos.
+    D. Septiembre-diciembre y febrero-junio.
 
 17. Corresponde a la Asamblea:
     A. Resolver recursos de inconstitucionalidad.
@@ -113,46 +113,46 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Al Presidente del Tribunal Superior de Justicia.
 
 19. Si un candidato a Presidente no obtiene mayoría absoluta en primera votación:
-    A. Queda automáticamente investido.
-    B. Se vota de nuevo 48 horas después y basta mayoría simple.
+    A. Se vota de nuevo 48 horas después y basta mayoría simple.
+    B. Queda automáticamente investido.
     C. Se convocan elecciones inmediatamente.
     D. Decide el Gobierno de la Nación.
 
 20. La moción de censura debe ser propuesta, al menos, por:
-    A. El 5% de los Diputados.
-    B. El 10% de los Diputados.
-    C. El 15% de los Diputados.
+    A. El 15% de los Diputados.
+    B. El 5% de los Diputados.
+    C. El 10% de los Diputados.
     D. La mayoría simple de los Diputados.
 
 21. El Gobierno de la Comunidad de Madrid es:
-    A. El órgano colegiado que dirige la política de la Comunidad.
-    B. Un órgano dependiente de la Asamblea.
+    A. Un órgano dependiente de la Asamblea.
+    B. El órgano colegiado que dirige la política de la Comunidad.
     C. Una comisión permanente de Diputados.
     D. Un órgano consultivo sin funciones ejecutivas.
 
 22. Los miembros del Gobierno son nombrados y cesados por:
     A. La Asamblea.
-    B. El Presidente de la Comunidad.
-    C. El Presidente de la Asamblea.
+    B. El Presidente de la Asamblea.
+    C. El Presidente de la Comunidad.
     D. Las Cortes Generales.
 
 23. Para ser Vicepresidente o Consejero:
     A. Es necesaria siempre la condición de Diputado.
-    B. No será necesaria la condición de Diputado.
-    C. Es necesario ser Senador autonómico.
+    B. Es necesario ser Senador autonómico.
+    C. No será necesaria la condición de Diputado.
     D. Es necesario pertenecer a la Mesa de la Asamblea.
 
 24. En materias de competencia de la Comunidad, la potestad legislativa corresponde:
-    A. Al Consejo de Gobierno.
-    B. A la Asamblea de Madrid.
+    A. A la Asamblea de Madrid.
+    B. Al Consejo de Gobierno.
     C. Al Presidente de la Comunidad.
     D. A las Consejerías.
 
 25. La potestad reglamentaria y la función ejecutiva corresponden, con carácter general:
     A. A la Asamblea.
-    B. Al Consejo de Gobierno.
-    C. Al Tribunal Superior de Justicia.
-    D. A la Junta de Portavoces.
+    B. Al Tribunal Superior de Justicia.
+    C. A la Junta de Portavoces.
+    D. Al Consejo de Gobierno.
 
 26. Es competencia exclusiva de la Comunidad de Madrid:
     A. Aeropuertos que desarrollen actividades comerciales.
@@ -161,60 +161,60 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Defensa nacional.
 
 27. También es competencia exclusiva del artículo 26:
-    A. Pesca fluvial y lacustre.
-    B. Legislación penal.
+    A. Legislación penal.
+    B. Pesca fluvial y lacustre.
     C. Nacionalidad.
     D. Relaciones internacionales.
 
 28. Los convenios con otras Comunidades Autónomas para gestión y prestación de servicios propios:
     A. Requieren siempre reforma estatutaria.
-    B. Deben comunicarse a las Cortes Generales antes de su entrada en vigor.
-    C. No tienen control alguno.
-    D. Requieren autorización del Tribunal Constitucional.
+    B. No tienen control alguno.
+    C. Requieren autorización del Tribunal Constitucional.
+    D. Deben comunicarse a las Cortes Generales antes de su entrada en vigor.
 
 29. Los acuerdos de cooperación con otras Comunidades Autónomas sobre materias distintas:
-    A. Requieren autorización previa de las Cortes Generales.
-    B. Solo requieren informe municipal.
+    A. Solo requieren informe municipal.
+    B. Requieren autorización previa de las Cortes Generales.
     C. Se aprueban por decreto del Presidente sin intervención estatal.
     D. Están prohibidos.
 
 30. El Derecho estatal respecto del Derecho propio de Madrid tiene carácter:
     A. Preferente siempre.
-    B. Supletorio.
-    C. Derogatorio automático.
+    B. Derogatorio automático.
+    C. Supletorio.
     D. Reglamentario.
 
 ## Respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | B | LO 3/1983 |
-| 2 | B | Art. 1 Estatuto |
-| 3 | B | Art. 2 Estatuto |
-| 4 | C | Art. 5 Estatuto |
-| 5 | A | Art. 8 Estatuto |
-| 6 | B | Art. 9 Estatuto |
+| 1 | D | LO 3/1983 |
+| 2 | C | Art. 1 Estatuto |
+| 3 | C | Art. 2 Estatuto |
+| 4 | B | Art. 5 Estatuto |
+| 5 | D | Art. 8 Estatuto |
+| 6 | D | Art. 9 Estatuto |
 | 7 | A | Art. 9 Estatuto |
-| 8 | B | Art. 10.1 Estatuto |
-| 9 | B | Art. 10.2 Estatuto |
-| 10 | B | Art. 10.6 Estatuto |
-| 11 | C | Art. 10.5 Estatuto |
-| 12 | B | Art. 10.3 Estatuto |
-| 13 | B | Art. 12.1 Estatuto |
+| 8 | C | Art. 10.1 Estatuto |
+| 9 | A | Art. 10.2 Estatuto |
+| 10 | A | Art. 10.6 Estatuto |
+| 11 | B | Art. 10.5 Estatuto |
+| 12 | D | Art. 10.3 Estatuto |
+| 13 | C | Art. 12.1 Estatuto |
 | 14 | B | Art. 13.2 Estatuto |
 | 15 | A | Art. 13.3 Estatuto |
-| 16 | B | Art. 14.1 Estatuto |
+| 16 | D | Art. 14.1 Estatuto |
 | 17 | B | Art. 16.3.g Estatuto |
 | 18 | A | Art. 16.1 y 18 Estatuto |
-| 19 | B | Art. 18.3 Estatuto |
-| 20 | C | Art. 20.1 Estatuto |
-| 21 | A | Art. 22.1 Estatuto |
-| 22 | B | Art. 22.2 Estatuto |
-| 23 | B | Art. 22.2 Estatuto |
-| 24 | B | Art. 34.2 Estatuto |
-| 25 | B | Art. 34.2 Estatuto |
+| 19 | A | Art. 18.3 Estatuto |
+| 20 | A | Art. 20.1 Estatuto |
+| 21 | B | Art. 22.1 Estatuto |
+| 22 | C | Art. 22.2 Estatuto |
+| 23 | C | Art. 22.2 Estatuto |
+| 24 | A | Art. 34.2 Estatuto |
+| 25 | D | Art. 34.2 Estatuto |
 | 26 | B | Art. 26.1.7 Estatuto |
-| 27 | A | Art. 26.1.9 Estatuto |
-| 28 | B | Art. 31.1 Estatuto |
-| 29 | A | Art. 31.2 Estatuto |
-| 30 | B | Art. 33 Estatuto |
+| 27 | B | Art. 26.1.9 Estatuto |
+| 28 | D | Art. 31.1 Estatuto |
+| 29 | B | Art. 31.2 Estatuto |
+| 30 | C | Art. 33 Estatuto |

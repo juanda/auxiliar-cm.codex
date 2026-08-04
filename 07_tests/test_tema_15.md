@@ -2,17 +2,17 @@
 
 1. Los documentos presentados presencialmente ante una Administración deben ser digitalizados:
 
-A. Por la oficina de asistencia en materia de registros en que se presenten.  
-B. Por el interesado en todo caso.  
-C. Por el archivo central.  
-D. No deben digitalizarse.
+A. Por el interesado en todo caso.  
+B. Por el archivo central.  
+C. No deben digitalizarse.  
+D. Por la oficina de asistencia en materia de registros en que se presenten.
 
 2. Tras digitalizar un documento presentado presencialmente, la regla general es:
 
 A. Conservar siempre el original en papel.  
-B. Incorporarlo al expediente electrónico y devolver el original al interesado.  
-C. Remitirlo al archivo histórico.  
-D. Destruirlo sin recibo.
+B. Remitirlo al archivo histórico.  
+C. Destruirlo sin recibo.  
+D. Incorporarlo al expediente electrónico y devolver el original al interesado.
 
 3. La solicitud de copia auténtica de un documento público administrativo se dirige:
 
@@ -24,49 +24,49 @@ D. A Correos.
 4. El plazo histórico para expedir copias auténticas es:
 
 A. 10 días.  
-B. 15 días.  
-C. 20 días hábiles.  
+B. 20 días hábiles.  
+C. 15 días.  
 D. 1 mes.
 
 5. La compulsa de documentos se realiza:
 
 A. Siempre que se presente cualquier documento.  
-B. Cuando la norma lo requiera y se acompañen originales.  
-C. Aunque no exista original.  
+B. Aunque no exista original.  
+C. Cuando la norma lo requiera y se acompañen originales.  
 D. Solo por el interesado.
 
 6. El documento por el que se impugna un acto administrativo solicitando su anulación es:
 
-A. Recurso.  
-B. Denuncia.  
-C. Solicitud.  
-D. Certificado.
+A. Denuncia.  
+B. Solicitud.  
+C. Certificado.  
+D. Recurso.
 
 7. El acto por el que cualquier persona comunica hechos que pueden justificar la iniciación de oficio es:
 
-A. Recurso.  
-B. Denuncia.  
+A. Denuncia.  
+B. Recurso.  
 C. Alegación.  
 D. Diligencia.
 
 8. Una solicitud se caracteriza por:
 
-A. Iniciar un procedimiento a instancia de interesado.  
-B. Impugnar siempre un acto.  
+A. Impugnar siempre un acto.  
+B. Iniciar un procedimiento a instancia de interesado.  
 C. Certificar un dato.  
 D. Ordenar documentos en archivo.
 
 9. Las alegaciones son:
 
-A. Argumentos o manifestaciones del interesado durante la tramitación.  
-B. Copias auténticas.  
+A. Copias auténticas.  
+B. Argumentos o manifestaciones del interesado durante la tramitación.  
 C. Asientos de salida.  
 D. Sellos electrónicos.
 
 10. Un informe administrativo sirve principalmente para:
 
-A. Aportar juicio técnico o jurídico.  
-B. Impugnar un acto.  
+A. Impugnar un acto.  
+B. Aportar juicio técnico o jurídico.  
 C. Iniciar siempre un procedimiento.  
 D. Sustituir al registro.
 
@@ -86,30 +86,30 @@ D. Ordena expedientes por fecha.
 
 13. El documento electrónico administrativo debe garantizar:
 
-A. Autenticidad e integridad.  
-B. Solo apariencia visual.  
-C. Exclusivamente impresión en papel.  
+A. Solo apariencia visual.  
+B. Exclusivamente impresión en papel.  
+C. Autenticidad e integridad.  
 D. Ningún metadato.
 
 14. Los metadatos de un documento electrónico sirven para:
 
-A. Describir contexto, estructura y gestión del documento.  
-B. Eliminar la firma siempre.  
+A. Eliminar la firma siempre.  
+B. Describir contexto, estructura y gestión del documento.  
 C. Impedir su archivo.  
 D. Convertirlo en documento privado.
 
 15. El expediente administrativo es:
 
-A. Conjunto ordenado de documentos y actuaciones.  
-B. Un único asiento registral.  
+A. Un único asiento registral.  
+B. Conjunto ordenado de documentos y actuaciones.  
 C. Solo una solicitud.  
 D. El archivo histórico completo.
 
 16. El índice electrónico del expediente ayuda a garantizar:
 
-A. Integridad y orden.  
-B. Destrucción inmediata.  
-C. Inexistencia de documentos.  
+A. Destrucción inmediata.  
+B. Inexistencia de documentos.  
+C. Integridad y orden.  
 D. Falta de trazabilidad.
 
 17. El registro administrativo tiene como función:
@@ -121,24 +121,24 @@ D. Sustituir al órgano gestor.
 
 18. Un asiento registral debe incluir normalmente:
 
-A. Fecha, hora, número y datos básicos de identificación.  
-B. Solo el color del documento.  
-C. Solo la firma manuscrita.  
+A. Solo el color del documento.  
+B. Solo la firma manuscrita.  
+C. Fecha, hora, número y datos básicos de identificación.  
 D. Solo el archivo de destino.
 
 19. El registro de entrada recoge:
 
-A. Documentos que llegan a la Administración.  
-B. Solo documentos emitidos al exterior.  
+A. Solo documentos emitidos al exterior.  
+B. Documentos que llegan a la Administración.  
 C. Solo expedientes históricos.  
 D. Solo borradores internos.
 
 20. El Registro Electrónico General de la Comunidad de Madrid está disponible:
 
-A. Todos los días del año durante las 24 horas.  
-B. Solo de lunes a viernes.  
-C. Solo en horario de oficinas presenciales.  
-D. Solo días laborables durante 12 horas.
+A. Solo de lunes a viernes.  
+B. Solo en horario de oficinas presenciales.  
+C. Solo días laborables durante 12 horas.  
+D. Todos los días del año durante las 24 horas.
 
 21. Una oficina de asistencia en materia de registros puede:
 
@@ -149,58 +149,58 @@ D. Sustituir al archivo histórico nacional.
 
 22. El archivo de oficina o gestión conserva principalmente:
 
-A. Expedientes vivos o de uso frecuente por la unidad.  
-B. Documentos históricos medievales siempre.  
-C. Solo boletines oficiales.  
-D. Documentos eliminados.
+A. Documentos históricos medievales siempre.  
+B. Solo boletines oficiales.  
+C. Documentos eliminados.  
+D. Expedientes vivos o de uso frecuente por la unidad.
 
 23. El archivo histórico se caracteriza por:
 
-A. Conservación permanente por valor histórico o patrimonial.  
-B. Tramitación diaria de expedientes vivos.  
+A. Tramitación diaria de expedientes vivos.  
+B. Conservación permanente por valor histórico o patrimonial.  
 C. Registro de entrada de solicitudes.  
 D. Compulsa de documentos siempre.
 
 24. Ordenar expedientes por fecha es criterio:
 
-A. Cronológico.  
-B. Alfabético.  
-C. Geográfico.  
-D. Orgánico.
+A. Alfabético.  
+B. Geográfico.  
+C. Orgánico.  
+D. Cronológico.
 
 25. Ordenar documentos por apellidos es criterio:
 
-A. Alfabético.  
-B. Numérico.  
+A. Numérico.  
+B. Alfabético.  
 C. Cronológico.  
 D. Funcional.
 
 26. Clasificar documentos por órgano productor responde a criterio:
 
-A. Orgánico.  
-B. Geográfico.  
-C. Numérico.  
+A. Geográfico.  
+B. Numérico.  
+C. Orgánico.  
 D. Alfabético.
 
 27. El acceso a documentos administrativos puede limitarse por:
 
-A. Protección de datos personales.  
-B. Seguridad pública.  
-C. Confidencialidad.  
-D. Todas son correctas.
+A. Todas son correctas.  
+B. Protección de datos personales.  
+C. Seguridad pública.  
+D. Confidencialidad.
 
 28. El acceso parcial consiste en:
 
-A. Facilitar información ocultando datos afectados por límites.  
-B. Denegar siempre toda solicitud.  
-C. Destruir documentos.  
-D. Evitar el registro.
+A. Denegar siempre toda solicitud.  
+B. Destruir documentos.  
+C. Evitar el registro.  
+D. Facilitar información ocultando datos afectados por límites.
 
 29. La copia simple se diferencia de la copia auténtica porque:
 
-A. La auténtica tiene efectos administrativos reforzados.  
-B. La simple siempre es ilegal.  
-C. La auténtica no existe.  
+A. La simple siempre es ilegal.  
+B. La auténtica no existe.  
+C. La auténtica tiene efectos administrativos reforzados.  
 D. La simple siempre sustituye al original.
 
 30. ¿Cuál es la asociación correcta?
@@ -214,33 +214,33 @@ D. Denuncia - copia auténtica.
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | Ley 39/2015, art. 16 |
-| 2 | B | Ley 39/2015, art. 16 |
+| 1 | D | Ley 39/2015, art. 16 |
+| 2 | D | Ley 39/2015, art. 16 |
 | 3 | A | Ley 39/2015, art. 27 |
-| 4 | B | Pregunta histórica 2017 |
-| 5 | B | Pregunta histórica 2021 |
-| 6 | A | Recurso |
-| 7 | B | Ley 39/2015, art. 62 |
-| 8 | A | Solicitud |
-| 9 | A | Alegaciones |
-| 10 | A | Informe |
+| 4 | C | Pregunta histórica 2017 |
+| 5 | C | Pregunta histórica 2021 |
+| 6 | D | Recurso |
+| 7 | A | Ley 39/2015, art. 62 |
+| 8 | B | Solicitud |
+| 9 | B | Alegaciones |
+| 10 | B | Informe |
 | 11 | A | Notificación |
 | 12 | A | Certificado |
-| 13 | A | Documento electrónico |
-| 14 | A | Metadatos |
-| 15 | A | Expediente |
-| 16 | A | Expediente electrónico |
+| 13 | C | Documento electrónico |
+| 14 | B | Metadatos |
+| 15 | B | Expediente |
+| 16 | C | Expediente electrónico |
 | 17 | A | Registro |
-| 18 | A | Asiento registral |
-| 19 | A | Registro de entrada |
-| 20 | A | Decreto 127/2022 CM |
+| 18 | C | Asiento registral |
+| 19 | B | Registro de entrada |
+| 20 | D | Decreto 127/2022 CM |
 | 21 | A | OAMR |
-| 22 | A | Archivo de gestión |
-| 23 | A | Archivo histórico |
-| 24 | A | Ordenación cronológica |
-| 25 | A | Ordenación alfabética |
-| 26 | A | Criterio orgánico |
-| 27 | D | Límites de acceso |
-| 28 | A | Acceso parcial |
-| 29 | A | Copias |
+| 22 | D | Archivo de gestión |
+| 23 | B | Archivo histórico |
+| 24 | D | Ordenación cronológica |
+| 25 | B | Ordenación alfabética |
+| 26 | C | Criterio orgánico |
+| 27 | A | Límites de acceso |
+| 28 | D | Acceso parcial |
+| 29 | C | Copias |
 | 30 | A | Registro |

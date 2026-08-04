@@ -548,58 +548,58 @@ Cobertura añadida para próxima convocatoria:
 
 1. Según la Constitución, el Estado tiene competencia exclusiva sobre:
 
-A. Hacienda general y Deuda del Estado.  
-B. Solo legislación básica sobre Hacienda general.  
+A. Solo legislación básica sobre Hacienda general.  
+B. Hacienda general y Deuda del Estado.  
 C. Hacienda general de las Comunidades Autónomas y Haciendas Locales.  
 D. Presupuestos autonómicos y locales.
 
 2. La potestad originaria para establecer tributos corresponde:
 
-A. Exclusivamente al Estado, mediante ley.  
-B. Exclusivamente a las Comunidades Autónomas.  
-C. A los municipios, mediante ordenanza.  
+A. Exclusivamente a las Comunidades Autónomas.  
+B. A los municipios, mediante ordenanza.  
+C. Exclusivamente al Estado, mediante ley.  
 D. Al Gobierno, mediante reglamento.
 
 3. Son principios históricos de actuación de la Comunidad de Madrid en Hacienda Pública:
 
-A. Legalidad, eficiencia, control, universalidad, solidaridad interregional y coordinación.  
-B. Legalidad, eficacia, control, universalidad, solidaridad intrarregional y coordinación.  
+A. Legalidad, eficacia, control, universalidad, solidaridad intrarregional y coordinación.  
+B. Legalidad, eficiencia, control, universalidad, solidaridad interregional y coordinación.  
 C. Legalidad, transparencia, economía, plurianualidad y coordinación.  
 D. Eficiencia, productividad, rentabilidad y caja única.
 
 4. La Consejería de Hacienda, según la pregunta histórica sobre la Ley 9/1990, es:
 
-A. El órgano superior de la Administración de la Comunidad en materias objeto de la Ley.  
-B. El órgano que aprueba la Ley de Presupuestos.  
-C. El órgano que sustituye a la Asamblea en materia presupuestaria.  
+A. El órgano que aprueba la Ley de Presupuestos.  
+B. El órgano que sustituye a la Asamblea en materia presupuestaria.  
+C. El órgano superior de la Administración de la Comunidad en materias objeto de la Ley.  
 D. Un órgano externo de fiscalización.
 
 5. La Tesorería de la Comunidad de Madrid se inspira en:
 
 A. El principio de máximo rendimiento.  
 B. Los principios de equidad y productividad.  
-C. El principio de caja única.  
-D. El principio de especialidad cualitativa.
+C. El principio de especialidad cualitativa.  
+D. El principio de caja única.
 
 6. La Ley de Presupuestos Generales de la Comunidad de Madrid la aprueba:
 
-A. La Asamblea de Madrid.  
-B. El Consejo de Gobierno.  
-C. La Consejería de Hacienda.  
+A. El Consejo de Gobierno.  
+B. La Consejería de Hacienda.  
+C. La Asamblea de Madrid.  
 D. La Intervención General.
 
 7. El Consejo de Gobierno interviene en el ciclo presupuestario aprobando:
 
-A. La Ley definitiva.  
-B. El proyecto de Ley de Presupuestos para remitirlo a la Asamblea.  
+A. El proyecto de Ley de Presupuestos para remitirlo a la Asamblea.  
+B. La Ley definitiva.  
 C. La cuenta general como órgano externo.  
 D. Las enmiendas parlamentarias.
 
 8. El presupuesto de la Comunidad de Madrid, según la fórmula histórica, es:
 
 A. Bianual, por capítulos y aprobado por Consejo de Gobierno.  
-B. Anual, único, por programas y aprobado por la Asamblea.  
-C. Semestral, por objetivos y aprobado por la Consejería.  
+B. Semestral, por objetivos y aprobado por la Consejería.  
+C. Anual, único, por programas y aprobado por la Asamblea.  
 D. Anual, múltiple y excluye organismos autónomos.
 
 9. Si no se aprueba la Ley de Presupuestos antes del primer día del ejercicio:
@@ -619,8 +619,8 @@ D. Boletín municipal.
 11. ¿Cuál de los siguientes supuestos fue la opción sometida a intervención previa en la pregunta histórica de 2017?
 
 A. Contratos menores.  
-B. Subvenciones nominativas.  
-C. Gastos mayores de 5.000 euros por anticipos de caja fija.  
+B. Gastos mayores de 5.000 euros por anticipos de caja fija.  
+C. Subvenciones nominativas.  
 D. Gastos periódicos una vez intervenido el gasto inicial.
 
 12. La intervención previa es:
@@ -639,71 +639,71 @@ D. Elaboración del anteproyecto.
 
 14. La Intervención General se vincula principalmente a:
 
-A. Control interno.  
-B. Control externo parlamentario.  
+A. Control externo parlamentario.  
+B. Control interno.  
 C. Aprobación de leyes.  
 D. Gestión electoral.
 
 15. Un crédito presupuestario es:
 
-A. Una autorización máxima para gastar en una finalidad.  
-B. Una deuda privada del empleado público.  
-C. Un ingreso patrimonial.  
-D. Una sanción tributaria.
+A. Una deuda privada del empleado público.  
+B. Un ingreso patrimonial.  
+C. Una sanción tributaria.  
+D. Una autorización máxima para gastar en una finalidad.
 
 16. Si existe gasto necesario y no hay crédito, procede:
 
 A. Suplemento de crédito.  
-B. Crédito extraordinario.  
-C. Transferencia corriente.  
-D. Baja contable automática.
+B. Transferencia corriente.  
+C. Baja contable automática.  
+D. Crédito extraordinario.
 
 17. Si existe crédito pero resulta insuficiente, procede:
 
-A. Crédito extraordinario.  
-B. Suplemento de crédito.  
+A. Suplemento de crédito.  
+B. Crédito extraordinario.  
 C. Prórroga presupuestaria.  
 D. Caja única.
 
 18. La clasificación orgánica del presupuesto responde a:
 
-A. Quién gasta.  
-B. Para qué política se gasta.  
+A. Para qué política se gasta.  
+B. Quién gasta.  
 C. En qué naturaleza económica se gasta.  
 D. En qué mes se gasta.
 
 19. La clasificación por programas responde principalmente a:
 
-A. Objetivos o políticas de gasto.  
-B. Titularidad de la tesorería.  
-C. Vencimiento de la deuda.  
-D. Publicación oficial.
+A. Titularidad de la tesorería.  
+B. Vencimiento de la deuda.  
+C. Publicación oficial.  
+D. Objetivos o políticas de gasto.
 
 20. El capítulo 1 de gastos se corresponde habitualmente con:
 
-A. Gastos de personal.  
-B. Inversiones reales.  
-C. Transferencias de capital.  
+A. Inversiones reales.  
+B. Transferencias de capital.  
+C. Gastos de personal.  
 D. Pasivos financieros.
 
 21. El capítulo 6 de gastos se corresponde habitualmente con:
 
 A. Gastos corrientes.  
-B. Inversiones reales.  
-C. Gastos financieros.  
-D. Transferencias corrientes.
+B. Gastos financieros.  
+C. Transferencias corrientes.  
+D. Inversiones reales.
 
 22. El capítulo 1 de ingresos se corresponde habitualmente con:
 
-A. Impuestos directos.  
-B. Tasas y precios públicos.  
-C. Transferencias corrientes.  
+A. Tasas y precios públicos.  
+B. Transferencias corrientes.  
+C. Impuestos directos.  
 D. Pasivos financieros.
 
 23. En la ejecución del gasto, el reconocimiento de la obligación significa:
 
-A. Que se acredita que procede pagar.  
-B. Que se aprueba la Ley de Presupuestos.  
+A. Que se aprueba la Ley de Presupuestos.  
+B. Que se acredita que procede pagar.  
 C. Que se publica el presupuesto.  
 D. Que se liquida un impuesto estatal.
 
@@ -723,17 +723,17 @@ D. Excluir organismos autónomos.
 
 26. El principio de anualidad significa que:
 
-A. El presupuesto se refiere a un ejercicio económico.  
-B. El presupuesto dura necesariamente cuatro años.  
-C. Los créditos son ilimitados.  
+A. El presupuesto dura necesariamente cuatro años.  
+B. Los créditos son ilimitados.  
+C. El presupuesto se refiere a un ejercicio económico.  
 D. No cabe prórroga.
 
 27. La LOFCA desarrolla principalmente:
 
-A. La financiación de las Comunidades Autónomas.  
-B. El régimen electoral municipal.  
-C. La jurisdicción contencioso-administrativa.  
-D. El procedimiento sancionador común.
+A. El régimen electoral municipal.  
+B. La jurisdicción contencioso-administrativa.  
+C. El procedimiento sancionador común.  
+D. La financiación de las Comunidades Autónomas.
 
 28. Los recursos de una Comunidad Autónoma pueden incluir:
 
@@ -744,10 +744,10 @@ D. Exclusivamente deuda municipal.
 
 29. La liquidación del presupuesto muestra:
 
-A. El resultado de la ejecución al cierre del ejercicio.  
-B. El nombramiento de altos cargos.  
-C. La convocatoria de elecciones.  
-D. La estructura de las Consejerías.
+A. El nombramiento de altos cargos.  
+B. La convocatoria de elecciones.  
+C. La estructura de las Consejerías.  
+D. El resultado de la ejecución al cierre del ejercicio.
 
 30. ¿Cuál es la asociación correcta?
 
@@ -760,35 +760,35 @@ D. Tesorería - control externo parlamentario.
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | CE, art. 149.1.14 |
-| 2 | A | CE, art. 133 |
-| 3 | B | Ley 9/1990, principios |
-| 4 | A | Ley 9/1990, art. 9 |
-| 5 | C | Ley 9/1990, art. 13 |
-| 6 | A | Presupuestos CM |
-| 7 | B | Ciclo presupuestario |
-| 8 | B | Pregunta 2017 |
+| 1 | B | CE, art. 149.1.14 |
+| 2 | C | CE, art. 133 |
+| 3 | A | Ley 9/1990, principios |
+| 4 | C | Ley 9/1990, art. 9 |
+| 5 | D | Ley 9/1990, art. 13 |
+| 6 | C | Presupuestos CM |
+| 7 | A | Ciclo presupuestario |
+| 8 | C | Pregunta 2017 |
 | 9 | B | Prórroga presupuestaria |
 | 10 | B | Publicación autonómica |
-| 11 | C | Intervención previa |
+| 11 | B | Intervención previa |
 | 12 | A | Control interno |
 | 13 | A | Control externo |
-| 14 | A | Intervención |
-| 15 | A | Crédito presupuestario |
-| 16 | B | Modificaciones |
-| 17 | B | Modificaciones |
-| 18 | A | Clasificación orgánica |
-| 19 | A | Programas |
-| 20 | A | Clasificación económica |
-| 21 | B | Clasificación económica |
-| 22 | A | Clasificación económica |
-| 23 | A | Ejecución del gasto |
+| 14 | B | Intervención |
+| 15 | D | Crédito presupuestario |
+| 16 | D | Modificaciones |
+| 17 | A | Modificaciones |
+| 18 | B | Clasificación orgánica |
+| 19 | D | Programas |
+| 20 | C | Clasificación económica |
+| 21 | D | Clasificación económica |
+| 22 | C | Clasificación económica |
+| 23 | B | Ejecución del gasto |
 | 24 | B | Ejecución del gasto |
 | 25 | A | Universalidad |
-| 26 | A | Anualidad |
-| 27 | A | LOFCA |
+| 26 | C | Anualidad |
+| 27 | D | LOFCA |
 | 28 | A | Recursos CCAA |
-| 29 | A | Liquidación |
+| 29 | D | Liquidación |
 | 30 | A | Órganos presupuestarios |
 
 ## 8. Esquema final

@@ -4,68 +4,68 @@
 
 1. En Microsoft Teams, un equipo es:
    A. Una carpeta local de Windows.
-   B. Un conjunto de personas, contenido y herramientas para colaborar.
-   C. Una lista de contactos de Outlook.
+   B. Una lista de contactos de Outlook.
+   C. Un conjunto de personas, contenido y herramientas para colaborar.
    D. Un tipo de archivo de SharePoint.
 
 2. Dentro de un equipo de Teams, los canales sirven principalmente para:
-   A. Organizar conversaciones y archivos por temas o proyectos.
-   B. Cifrar automaticamente todos los documentos.
-   C. Sustituir el calendario de Outlook.
+   A. Cifrar automaticamente todos los documentos.
+   B. Sustituir el calendario de Outlook.
+   C. Organizar conversaciones y archivos por temas o proyectos.
    D. Crear bases de datos de Access.
 
 3. En una reunion de Teams, el rol con mayor control sobre la configuracion y los participantes es:
-   A. Asistente.
-   B. Invitado.
-   C. Organizador.
+   A. Organizador.
+   B. Asistente.
+   C. Invitado.
    D. Presentador.
 
 4. Cual de las siguientes afirmaciones sobre reuniones de Teams es falsa?
-   A. Permiten audio y video.
-   B. Permiten compartir pantalla.
-   C. Pueden programarse o iniciarse con Reunirse ahora.
-   D. Solo pueden celebrarse si todos pertenecen a la misma organizacion.
+   A. Solo pueden celebrarse si todos pertenecen a la misma organizacion.
+   B. Permiten audio y video.
+   C. Permiten compartir pantalla.
+   D. Pueden programarse o iniciarse con Reunirse ahora.
 
 5. SharePoint se usa principalmente para:
    A. Crear presentaciones con diapositivas.
-   B. Organizar, compartir y colaborar con informacion y documentos.
-   C. Editar imagenes vectoriales.
+   B. Editar imagenes vectoriales.
+   C. Organizar, compartir y colaborar con informacion y documentos.
    D. Ejecutar consultas SQL locales.
 
 6. Una biblioteca de documentos de SharePoint es:
-   A. Un repositorio para almacenar y gestionar archivos.
-   B. Un historial de navegacion web.
+   A. Un historial de navegacion web.
+   B. Un repositorio para almacenar y gestionar archivos.
    C. Una regla de Outlook.
    D. Un tipo de reunion de Teams.
 
 7. OneDrive en Microsoft 365 permite principalmente:
-   A. Almacenar y sincronizar archivos.
-   B. Crear equipos de Teams.
+   A. Crear equipos de Teams.
+   B. Almacenar y sincronizar archivos.
    C. Disenar informes de Access.
    D. Sustituir el protocolo HTTPS.
 
 8. La sincronizacion de archivos de SharePoint mediante OneDrive permite:
-   A. Trabajar con archivos desde el equipo local y sincronizar cambios.
-   B. Impedir siempre cualquier modificacion sin conexion.
-   C. Acceder solo desde navegador web.
+   A. Impedir siempre cualquier modificacion sin conexion.
+   B. Acceder solo desde navegador web.
+   C. Trabajar con archivos desde el equipo local y sincronizar cambios.
    D. Eliminar la necesidad de permisos.
 
 9. Si se comparte un documento de SharePoint con permiso "Puede ver", el destinatario:
-   A. Puede leerlo, pero no editarlo.
-   B. Puede cambiar permisos de todo el sitio.
-   C. Se convierte en propietario del equipo.
-   D. Puede borrar todas las versiones.
+   A. Puede cambiar permisos de todo el sitio.
+   B. Se convierte en propietario del equipo.
+   C. Puede borrar todas las versiones.
+   D. Puede leerlo, pero no editarlo.
 
 10. La coautoria en Microsoft 365 consiste en:
-    A. Que varias personas trabajen sobre un mismo documento compartido.
-    B. Enviar siempre copias separadas por correo.
-    C. Convertir un documento en PDF.
+    A. Enviar siempre copias separadas por correo.
+    B. Convertir un documento en PDF.
+    C. Que varias personas trabajen sobre un mismo documento compartido.
     D. Crear una reunion sin asistentes.
 
 11. El historial de versiones sirve para:
-    A. Consultar o recuperar estados anteriores de un archivo.
-    B. Guardar paginas web favoritas.
-    C. Cambiar el rol de los asistentes de Teams.
+    A. Guardar paginas web favoritas.
+    B. Cambiar el rol de los asistentes de Teams.
+    C. Consultar o recuperar estados anteriores de un archivo.
     D. Crear reglas de correo.
 
 12. Outlook se relaciona con el trabajo colaborativo porque permite:
@@ -75,46 +75,46 @@
     D. Sustituir OneDrive.
 
 13. Una convocatoria de reunion de Teams puede enviarse desde:
-    A. Outlook, mediante el calendario.
-    B. Solo desde Access.
-    C. Solo desde el Explorador de archivos.
-    D. El modo incognito del navegador.
+    A. Solo desde Access.
+    B. Solo desde el Explorador de archivos.
+    C. El modo incognito del navegador.
+    D. Outlook, mediante el calendario.
 
 14. Un marcador o favorito del navegador es:
-    A. Una direccion web guardada para acceder rapidamente.
-    B. El registro de todas las paginas visitadas.
-    C. Un archivo temporal de descarga.
-    D. Un certificado HTTPS.
+    A. El registro de todas las paginas visitadas.
+    B. Un archivo temporal de descarga.
+    C. Un certificado HTTPS.
+    D. Una direccion web guardada para acceder rapidamente.
 
 15. El historial de navegacion es:
-    A. La lista de paginas visitadas.
-    B. La lista de direcciones guardadas como favoritas.
-    C. Una reunion programada.
-    D. Un canal privado.
+    A. La lista de direcciones guardadas como favoritas.
+    B. Una reunion programada.
+    C. Un canal privado.
+    D. La lista de paginas visitadas.
 
 16. El modo incognito o privado:
-    A. Es una funcion de privacidad del navegador.
-    B. Garantiza anonimato total ante cualquier sitio web.
+    A. Garantiza anonimato total ante cualquier sitio web.
+    B. Es una funcion de privacidad del navegador.
     C. Es un antivirus.
     D. Es un protocolo de transferencia de archivos.
 
 17. Cual de los siguientes no es un navegador web?
     A. Opera.
     B. Brave.
-    C. Microsoft Edge.
-    D. Rust.
+    C. Rust.
+    D. Microsoft Edge.
 
 18. HTTPS es:
-    A. La version segura de HTTP.
-    B. Un lenguaje de programacion.
-    C. Un sistema operativo.
-    D. Una carpeta de Teams.
+    A. Un lenguaje de programacion.
+    B. Un sistema operativo.
+    C. Una carpeta de Teams.
+    D. La version segura de HTTP.
 
 19. La diferencia principal entre FTP y SFTP es que:
-    A. SFTP usa un canal seguro para transferir archivos.
-    B. FTP siempre usa cifrado y SFTP no.
-    C. Son identicos.
-    D. SFTP solo sirve para enviar correos.
+    A. FTP siempre usa cifrado y SFTP no.
+    B. Son identicos.
+    C. SFTP solo sirve para enviar correos.
+    D. SFTP usa un canal seguro para transferir archivos.
 
 20. ARPANET se relaciona historicamente con:
     A. Uno de los origenes de Internet.
@@ -123,8 +123,8 @@
     D. La papelera de OneDrive.
 
 21. En Teams, un chat se diferencia de un canal porque:
-    A. El chat es conversacion directa o de grupo; el canal organiza trabajo dentro de un equipo.
-    B. El chat siempre crea una biblioteca de SharePoint.
+    A. El chat siempre crea una biblioteca de SharePoint.
+    B. El chat es conversacion directa o de grupo; el canal organiza trabajo dentro de un equipo.
     C. El canal solo puede contener mensajes privados.
     D. No existe diferencia funcional.
 
@@ -141,14 +141,14 @@
     D. Convertir el documento en navegador.
 
 24. Si una biblioteca sincronizada muestra un archivo de solo lectura, una causa posible es:
-    A. Falta de permiso de edicion o configuracion de la biblioteca.
-    B. Que OneDrive no pueda sincronizar nunca SharePoint.
+    A. Que OneDrive no pueda sincronizar nunca SharePoint.
+    B. Falta de permiso de edicion o configuracion de la biblioteca.
     C. Que Teams no admita archivos.
     D. Que HTTPS solo funcione en Firefox.
 
 25. La opcion "Reunirse ahora" en Teams se refiere a:
-    A. Iniciar una reunion inmediata.
-    B. Crear una tabla de Access.
+    A. Crear una tabla de Access.
+    B. Iniciar una reunion inmediata.
     C. Guardar un marcador del navegador.
     D. Sincronizar una biblioteca documental.
 
@@ -165,54 +165,54 @@
     D. El historial del navegador.
 
 28. Cual es una buena practica al compartir documentos administrativos?
-    A. Conceder solo el permiso necesario.
-    B. Usar siempre "cualquiera con el vinculo".
+    A. Usar siempre "cualquiera con el vinculo".
+    B. Conceder solo el permiso necesario.
     C. Enviar multiples copias si se esta coeditando.
     D. Evitar permisos especificos.
 
 29. Una lista de SharePoint sirve para:
-    A. Gestionar datos estructurados en filas y columnas.
-    B. Sustituir el audio de Teams.
+    A. Sustituir el audio de Teams.
+    B. Gestionar datos estructurados en filas y columnas.
     C. Cambiar el protocolo HTTP por FTP.
     D. Guardar exclusivamente contrasenas.
 
 30. Que herramienta es mas adecuada para una videoconferencia con pantalla compartida?
-    A. Teams.
-    B. Publisher.
-    C. Bloc de notas.
-    D. Rust.
+    A. Publisher.
+    B. Bloc de notas.
+    C. Rust.
+    D. Teams.
 
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Explicacion breve |
 | ---: | :---: | --- |
-| 1 | B | Definicion historica de equipo en Teams. |
-| 2 | A | Los canales organizan el trabajo dentro del equipo. |
-| 3 | C | El organizador tiene el mayor control. |
-| 4 | D | Pueden participar externos si esta permitido. |
-| 5 | B | SharePoint organiza y comparte informacion/documentos. |
-| 6 | A | La biblioteca almacena y gestiona archivos. |
-| 7 | A | OneDrive almacena y sincroniza. |
-| 8 | A | Permite trabajo local y sincronizacion con SharePoint. |
-| 9 | A | Ver no equivale a editar. |
-| 10 | A | Coautoria = trabajo compartido sobre documento. |
-| 11 | A | Permite consultar o recuperar versiones. |
+| 1 | C | Definicion historica de equipo en Teams. |
+| 2 | C | Los canales organizan el trabajo dentro del equipo. |
+| 3 | A | El organizador tiene el mayor control. |
+| 4 | A | Pueden participar externos si esta permitido. |
+| 5 | C | SharePoint organiza y comparte informacion/documentos. |
+| 6 | B | La biblioteca almacena y gestiona archivos. |
+| 7 | B | OneDrive almacena y sincroniza. |
+| 8 | C | Permite trabajo local y sincronizacion con SharePoint. |
+| 9 | D | Ver no equivale a editar. |
+| 10 | C | Coautoria = trabajo compartido sobre documento. |
+| 11 | C | Permite consultar o recuperar versiones. |
 | 12 | A | Outlook gestiona correo, calendario y convocatorias. |
-| 13 | A | Outlook puede crear convocatorias con Teams. |
-| 14 | A | Marcador = direccion guardada. |
-| 15 | A | Historial = paginas visitadas. |
-| 16 | A | Privacidad local, no anonimato absoluto. |
-| 17 | D | Rust es lenguaje de programacion. |
-| 18 | A | HTTPS es HTTP seguro. |
-| 19 | A | SFTP usa canal seguro. |
+| 13 | D | Outlook puede crear convocatorias con Teams. |
+| 14 | D | Marcador = direccion guardada. |
+| 15 | D | Historial = paginas visitadas. |
+| 16 | B | Privacidad local, no anonimato absoluto. |
+| 17 | C | Rust es lenguaje de programacion. |
+| 18 | D | HTTPS es HTTP seguro. |
+| 19 | D | SFTP usa canal seguro. |
 | 20 | A | ARPANET es antecedente de Internet. |
-| 21 | A | Chat directo; canal dentro de equipo. |
+| 21 | B | Chat directo; canal dentro de equipo. |
 | 22 | A | Sitio de equipo = colaboracion. |
 | 23 | A | Vinculo centralizado con permisos. |
-| 24 | A | Puede depender de permisos o biblioteca. |
-| 25 | A | Reunion inmediata. |
+| 24 | B | Puede depender de permisos o biblioteca. |
+| 25 | B | Reunion inmediata. |
 | 26 | A | El presentador comparte y presenta contenido. |
 | 27 | A | Teams usa SharePoint para archivos de equipo. |
-| 28 | A | Principio de minimo permiso. |
-| 29 | A | Lista = datos estructurados. |
-| 30 | A | Teams es la herramienta de videoconferencia. |
+| 28 | B | Principio de minimo permiso. |
+| 29 | B | Lista = datos estructurados. |
+| 30 | D | Teams es la herramienta de videoconferencia. |
