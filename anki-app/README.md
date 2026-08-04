@@ -15,7 +15,7 @@ cd auxiliar-cm.chatgpt
 python3 -m http.server 8000
 ```
 
-Abre `http://localhost:8000/anki-app/` y pulsa **"Cargar automáticamente desde 08_flashcards"**: carga los 8 mazos sin tener que seleccionarlos a mano. (Esto no funciona abriendo el archivo directamente con doble clic, por restricciones de seguridad del navegador al leer archivos locales con `fetch`.)
+Abre `http://localhost:8000/anki-app/` y pulsa **"Cargar automáticamente desde 08_flashcards"**: carga los 21 mazos (los 21 temas del temario) sin tener que seleccionarlos a mano. (Esto no funciona abriendo el archivo directamente con doble clic, por restricciones de seguridad del navegador al leer archivos locales con `fetch`.)
 
 **Opción 3 — versión publicada en GitHub Pages:**
 
