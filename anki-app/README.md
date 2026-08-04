@@ -17,6 +17,10 @@ python3 -m http.server 8000
 
 Abre `http://localhost:8000/anki-app/` y pulsa **"Cargar automáticamente desde 08_flashcards"**: carga los 8 mazos sin tener que seleccionarlos a mano. (Esto no funciona abriendo el archivo directamente con doble clic, por restricciones de seguridad del navegador al leer archivos locales con `fetch`.)
 
+**Opción 3 — versión publicada en GitHub Pages:**
+
+Cada push a `main` publica automáticamente esta app (workflow `.github/workflows/deploy-anki-app-pages.yml`), junto con una copia de los CSV de `08_flashcards/` para que "Cargar automáticamente" funcione también ahí. La URL es la de GitHub Pages del repositorio, ruta `/anki-app/` (visible en la pestaña **Settings → Pages** del repo, o en el resumen de la ejecución del workflow en la pestaña **Actions**). La primera vez hay que activar Pages en **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
 ## Cómo funciona el repaso
 
 - Cada tarjeta usa el algoritmo **SM-2** (repetición espaciada): al valorarla como "Otra vez", "Difícil", "Bien" o "Fácil", se calcula cuándo te la volverá a mostrar.
