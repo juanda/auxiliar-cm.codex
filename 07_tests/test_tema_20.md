@@ -1,290 +1,292 @@
 # Test Tema 20. Outlook
 
-Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Se combinan recurrencias historicas con puntos probables de convocatoria: campos del mensaje, respuestas y reenvios, conversaciones, marcas de seguimiento, reglas, libreta de direcciones, calendario, citas y convocatorias.
+Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Banco de preguntas distinto del test embebido en `05_temario/tema_20_outlook.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
+
+Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de correccion: `aciertos - errores / 3`.
 
 ## Preguntas
 
-1. En Microsoft 365 de escritorio, la aplicacion principal para gestionar correo electronico es:
-   A. Word
-   B. Outlook
-   C. Access
-   D. Power BI
+1. En Microsoft 365 de escritorio, el modulo de Outlook que gestiona citas y reuniones es:
+   A. Calendario
+   B. Correo
+   C. Personas
+   D. Tareas
 
-2. En un mensaje de Outlook, el campo `Para` se utiliza para:
-   A. Escribir el asunto
-   B. Indicar destinatarios principales
-   C. Adjuntar archivos
-   D. Ocultar destinatarios
+2. La carpeta que almacena mensajes redactados pero no enviados es:
+   A. Bandeja de salida
+   B. Elementos enviados
+   C. Correo no deseado
+   D. Borradores
 
-3. El campo `CC` permite:
-   A. Enviar copia visible a otros destinatarios
-   B. Enviar copia oculta
-   C. Crear una cita
-   D. Marcar el mensaje como urgente
+3. Que diferencia hay entre Bandeja de salida y Elementos enviados?
+   A. Ambas son la misma carpeta
+   B. Salida contiene mensajes pendientes de envio; Enviados contiene los ya remitidos
+   C. Enviados contiene los pendientes; Salida contiene los remitidos
+   D. Ninguna, ambas guardan borradores
 
-4. El campo `CCO` significa:
-   A. Con copia obligatoria
-   B. Con correo original
-   C. Con copia oculta
-   D. Copia de calendario Outlook
+4. La pestana Archivo (vista Backstage) de Outlook se usa para:
+   A. Redactar un mensaje nuevo
+   B. Ver el calendario
+   C. Configurar y administrar la cuenta y las opciones
+   D. Crear una tabla dinamica
 
-5. Si se quiere que un destinatario reciba el correo sin que los demas vean su direccion, debe usarse:
-   A. Para
-   B. CC
+5. Donde se gestionan las reglas avanzadas de Outlook?
+   A. Calendario -> Reglas
+   B. Personas -> Contactos
+   C. Archivo -> Administrar reglas y alertas
+   D. Vista -> Panel de lectura
+
+6. En Outlook clasico, el comando Nuevo mensaje de correo electronico esta en la pestana:
+   A. Inicio
+   B. Vista
+   C. Enviar y recibir
+   D. Carpeta
+
+7. El campo que indica los destinatarios principales de un mensaje es:
+   A. CC
+   B. CCO
    C. Asunto
-   D. CCO
+   D. Para
 
-6. El asunto de un correo sirve principalmente para:
-   A. Guardar la contrasena del buzon
-   B. Identificar brevemente el contenido del mensaje
-   C. Elegir la carpeta de destino obligatoria
-   D. Sustituir el cuerpo del mensaje
+8. El campo que envia una copia visible para otros destinatarios es:
+   A. CCO
+   B. CC
+   C. Para
+   D. Asunto
 
-7. En Outlook, `RE:` al comienzo del asunto suele indicar:
-   A. Reenvio
-   B. Respuesta
-   C. Reunion cancelada
-   D. Regla eliminada
+9. Si se quiere que un destinatario no vea la direccion de otro destinatario, se usa:
+   A. Para
+   B. CCO
+   C. CC
+   D. Asunto
 
-8. En Outlook, `FW:` o `RV:` al comienzo del asunto suele indicar:
-   A. Reenvio
-   B. Respuesta
-   C. Mensaje archivado
-   D. Mensaje sin adjuntos
+10. El asunto de un mensaje sirve, entre otras cosas, para:
+    A. Cambiar la firma automatica
+    B. Adjuntar archivos automaticamente
+    C. Agrupar conversaciones y facilitar busquedas
+    D. Bloquear al remitente
 
-9. La accion `Responder` envia la contestacion normalmente:
-   A. A un nuevo destinatario elegido desde cero
-   B. Al remitente original
-   C. Solo a los contactos favoritos
-   D. A todos los usuarios de la organizacion
+11. Adjuntar un archivo en Outlook significa:
+    A. Incorporar un archivo o elemento al mensaje
+    B. Pegar el texto del archivo en el cuerpo
+    C. Crear un vinculo de SharePoint obligatoriamente
+    D. Eliminar el archivo original
 
-10. La accion `Responder a todos` envia la respuesta:
-    A. Solo al remitente
-    B. Al remitente y a los destinatarios visibles del mensaje
-    C. A los destinatarios ocultos siempre identificados por Outlook
-    D. Solo a los contactos de la libreta
+12. Compartir un vinculo de OneDrive en vez de adjuntar un archivo permite principalmente:
+    A. Enviar una copia cerrada del archivo
+    B. Evitar que el destinatario lo vea
+    C. Convertir el archivo en PDF
+    D. Trabajar sobre una version centralizada
 
-11. La accion `Reenviar` se usa para:
-    A. Enviar un mensaje recibido a nuevos destinatarios
-    B. Eliminar un mensaje recibido
-    C. Cambiar la contrasena de la cuenta
-    D. Crear una tabla de contactos
+13. Si no hay conexion al enviar un mensaje, este puede quedar pendiente en:
+    A. Elementos enviados
+    B. Borradores
+    C. Correo no deseado
+    D. Bandeja de salida
 
-12. En general, al reenviar un mensaje con adjuntos:
-    A. Outlook nunca permite incluir adjuntos
-    B. Normalmente se conservan los adjuntos originales
-    C. Se transforman en citas
-    D. Se eliminan siempre por seguridad
+14. Que ocurre normalmente con los adjuntos al responder a un mensaje?
+    A. Se incluyen siempre
+    B. Normalmente no se incluyen
+    C. Se convierten en vinculos
+    D. Se eliminan del mensaje original
 
-13. En general, al responder a un mensaje con adjuntos:
-    A. Normalmente no se vuelven a incluir los adjuntos originales
-    B. Siempre se reenvian todos los adjuntos
-    C. Se crea automaticamente una reunion
-    D. El mensaje pasa a Borradores
+15. Que ocurre normalmente con los adjuntos al reenviar un mensaje?
+    A. Se eliminan siempre
+    B. Se convierten en citas
+    C. Normalmente se conservan
+    D. Nunca se permiten
 
-14. Una conversacion en Outlook agrupa principalmente mensajes:
-    A. Con el mismo asunto o hilo
-    B. Del mismo tamano
-    C. Con el mismo numero de adjuntos
-    D. Recibidos a la misma hora exacta
+16. El prefijo `RE:` en el asunto de un mensaje indica:
+    A. Respuesta
+    B. Reenvio
+    C. Regla activada
+    D. Recordatorio
 
-15. Las marcas de seguimiento sirven para:
-    A. Senalar mensajes que requieren accion o control posterior
-    B. Convertir mensajes en documentos de Word
-    C. Crear una base de datos
-    D. Bloquear la bandeja de entrada
+17. Segun la clave documentada en el proyecto, el prefijo de un mensaje reenviado es:
+    A. RE:
+    B. CC:
+    C. FW:
+    D. HTTP:
 
-16. Las marcas de seguimiento pueden aplicarse:
-    A. Solo a mensajes recibidos
-    B. Solo a mensajes enviados
-    C. A mensajes enviados y recibidos
-    D. Solo a mensajes con adjuntos
+18. En Outlook en espanol, ademas de `FW:`, el prefijo de reenvio puede aparecer como:
+    A. RE:
+    B. CCO:
+    C. TAREA:
+    D. RV:
 
-17. Una regla de mensaje en Outlook es:
-    A. Una accion automatica configurada por el usuario segun condiciones
-    B. Una plantilla obligatoria de todos los correos
-    C. Un programa externo que sustituye a Outlook
-    D. Una cita periodica del calendario
+19. Una conversacion en Outlook agrupa mensajes principalmente por:
+    A. La fecha exacta de envio
+    B. El mismo asunto o hilo
+    C. El tamano del mensaje
+    D. El numero de adjuntos
 
-18. Una regla puede servir para:
-    A. Mover automaticamente mensajes de un remitente a una carpeta
-    B. Crear una tabla de Access
-    C. Editar una formula de Excel
-    D. Cambiar la resolucion de pantalla
+20. Que herramienta muestra mensajes que cumplen un criterio sin moverlos fisicamente de carpeta?
+    A. Carpeta de busqueda
+    B. Regla
+    C. Marca de seguimiento
+    D. Categoria
 
-19. En una regla, la condicion es:
-    A. El criterio que debe cumplirse para aplicar la regla
-    B. El texto de la firma
-    C. La hora de inicio de una cita
-    D. La contrasena del correo
+21. Una marca de seguimiento en Outlook puede aplicarse a:
+    A. Solo mensajes recibidos
+    B. Mensajes enviados y recibidos
+    C. Solo mensajes enviados
+    D. Solo citas
 
-20. En una regla, la accion es:
-    A. Lo que Outlook hace cuando se cumple la condicion
-    B. El nombre del remitente solamente
-    C. El campo `CCO`
-    D. El formato del calendario
+22. La Limpieza de una conversacion en Outlook sirve para:
+    A. Cambiar el asunto
+    B. Borrar toda la carpeta
+    C. Eliminar mensajes redundantes de la conversacion
+    D. Crear una regla nueva
 
-21. La libreta de direcciones se utiliza para:
-    A. Seleccionar destinatarios o consultar direcciones
-    B. Crear tablas dinamicas
-    C. Desfragmentar el disco
-    D. Disenar informes de Access
+23. En una regla de mensaje, la condicion es:
+    A. El criterio que activa la regla
+    B. Lo que Outlook ejecuta al cumplirse algo
+    C. El nombre de la regla
+    D. La excepcion que impide aplicarla
 
-22. Un contacto de Outlook puede contener:
-    A. Nombre, correo y telefono
-    B. Solo formulas
-    C. Solo graficos
-    D. Exclusivamente contrasenas
+24. En una regla de mensaje, la accion es:
+    A. El criterio de activacion
+    B. La excepcion
+    C. El nombre de la carpeta
+    D. Lo que Outlook hace al cumplirse la condicion
 
-23. Una lista de contactos sirve para:
-    A. Agrupar destinatarios
-    B. Cambiar el idioma de Windows
-    C. Ordenar archivos por tipo
-    D. Crear campos de Access
+25. La excepcion de una regla sirve para:
+    A. Activar siempre la regla
+    B. Eliminar la regla
+    C. Duplicar la accion
+    D. Impedir que se aplique en casos concretos
 
-24. El modulo Calendario de Outlook permite:
-    A. Crear citas y reuniones
-    B. Crear bases de datos relacionales
-    C. Editar diapositivas
-    D. Comprimir discos
+26. Un paso rapido se diferencia de una regla en que:
+    A. El paso rapido se ejecuta cuando el usuario lo pulsa
+    B. Se ejecuta automaticamente sin intervencion
+    C. Solo existe en Calendario
+    D. No permite ninguna accion
 
-25. De las siguientes acciones, no es propia del modulo Calendario:
-    A. Crear una cita
-    B. Crear una reunion
-    C. Gestionar contactos o listas de distribucion
-    D. Eliminar una cita
+27. La libreta de direcciones se utiliza principalmente para:
+    A. Crear tablas dinamicas
+    B. Editar formulas
+    C. Consultar o seleccionar direcciones disponibles
+    D. Administrar discos
 
-26. Una cita en Outlook es:
-    A. Un bloque de tiempo en el calendario
-    B. Una copia oculta
-    C. Una carpeta de correo no deseado
-    D. Una regla de reenvio
+28. Un contacto de Outlook puede almacenar, entre otros datos:
+    A. Solo la contrasena del correo
+    B. Nombre, correo, telefono y empresa
+    C. Solo el numero de mensajes enviados
+    D. Exclusivamente el idioma
 
-27. Una reunion se diferencia de una cita porque:
+29. Una lista o grupo de contactos permite:
+    A. Crear una reunion automatica
+    B. Enviar mensajes a varios destinatarios como conjunto
+    C. Cambiar el formato del calendario
+    D. Sustituir la libreta de direcciones
+
+30. Que sugiere el autocompletar de direcciones al escribir un destinatario?
+    A. Solo contactos guardados en la libreta
+    B. Solo direcciones del directorio corporativo
+    C. Ninguna direccion
+    D. Direcciones usadas anteriormente, no necesariamente guardadas
+
+31. Una cita en el calendario de Outlook se caracteriza por:
+    A. Incluir siempre asistentes obligatorios
+    B. Ser lo mismo que una convocatoria
+    C. Reservar un bloque de tiempo, normalmente sin asistentes
+    D. No tener hora de inicio ni de fin
+
+32. Una reunion se diferencia de una cita principalmente en que:
     A. La reunion incluye asistentes invitados
-    B. La reunion no puede tener hora
-    C. La cita siempre tiene asistentes obligatorios
-    D. La cita solo existe en Word
+    B. La reunion no tiene fecha
+    C. La cita siempre incluye asistentes
+    D. No hay diferencia real
 
-28. Una convocatoria de reunion es:
-    A. La invitacion enviada a los asistentes de una reunion
-    B. Una direccion de correo oculta
-    C. Un archivo adjunto comprimido
-    D. Una regla de correo no deseado
+33. Un evento de dia completo se diferencia de una cita ordinaria en que:
+    A. El evento ocupa uno o varios dias completos
+    B. El evento tiene hora exacta de inicio y fin
+    C. El evento siempre convoca asistentes
+    D. La cita ocupa siempre varios dias
 
-29. Las respuestas tipicas a una convocatoria son:
-    A. Aceptar, provisional o rechazar
-    B. Copiar, pegar o cortar
-    C. Sumar, restar o dividir
-    D. Filtrar, ordenar o agrupar
+34. Que es una convocatoria en el calendario de Outlook?
+    A. Un mensaje de correo no deseado
+    B. La invitacion de reunion enviada a los asistentes
+    C. Un tipo de regla
+    D. Una carpeta de busqueda
 
-30. El estado de disponibilidad `Ocupado` en calendario indica:
-    A. Que ese tramo aparece reservado
+35. Las respuestas tipicas a una convocatoria de reunion son:
+    A. Copiar, pegar, cortar
+    B. Enviar, guardar, imprimir
+    C. Adjuntar, reenviar, eliminar
+    D. Aceptar, provisional, rechazar
+
+36. El estado de disponibilidad Provisional en una cita indica:
+    A. Cancelacion definitiva
     B. Que el mensaje esta en Borradores
-    C. Que el contacto no tiene correo
-    D. Que una regla esta desactivada
+    C. Reserva tentativa del tiempo
+    D. Que la regla esta desactivada
 
-31. Un recordatorio de calendario sirve para:
-    A. Avisar antes de un evento
-    B. Ocultar destinatarios
-    C. Crear automaticamente una contrasena
-    D. Reenviar todos los mensajes
+37. Cambiar la vista del calendario entre dia, semana o mes:
+    A. Elimina las citas existentes
+    B. Convierte citas en reuniones
+    C. Crea automaticamente convocatorias
+    D. Solo cambia como se muestra la agenda
 
-32. `Borradores` contiene:
-    A. Mensajes redactados pero no enviados
-    B. Mensajes ya enviados
-    C. Contactos eliminados
-    D. Reuniones aceptadas
+38. Que accion NO corresponde al modulo Calendario de Outlook?
+    A. Crear una reunion
+    B. Gestionar contactos o listas de distribucion
+    C. Eliminar una cita
+    D. Consultar disponibilidad
 
-33. `Elementos enviados` contiene:
-    A. Mensajes remitidos
-    B. Mensajes recibidos sin leer
-    C. Solo citas
-    D. Reglas desactivadas
-
-34. El panel de lectura sirve para:
-    A. Ver el contenido del mensaje seleccionado
-    B. Crear bases de datos
-    C. Modificar permisos de Windows
-    D. Dibujar graficos
-
-35. La vista por conversaciones sirve para:
-    A. Ver juntos mensajes relacionados
-    B. Eliminar todos los adjuntos
-    C. Cambiar la cuenta de Windows
-    D. Crear listas de SharePoint
-
-36. Una buena practica al enviar correos a muchos destinatarios que no deben verse entre si es:
-    A. Usar `CCO` cuando proceda
-    B. Ponerlos a todos en `CC`
-    C. Escribir las direcciones en el asunto
-    D. Adjuntar la libreta de direcciones
-
-37. `Responder a todos` debe usarse:
-    A. Cuando todos los participantes visibles deban conocer la respuesta
-    B. Siempre, aunque no sea necesario
-    C. Solo para mensajes sin asunto
-    D. Solo en el calendario
-
-38. Una regla no debe confundirse con:
-    A. Una automatizacion sobre mensajes
-    B. Una plantilla de mensaje
-    C. Una condicion
-    D. Una accion
-
-39. En Outlook, el boton `Para`, `CC` o `CCO` puede utilizarse para:
-    A. Abrir opciones de seleccion de destinatarios
-    B. Crear una tabla dinamica
-    C. Cambiar la resolucion de pantalla
-    D. Cerrar Microsoft 365
+39. Una buena practica al enviar un correo a muchos destinatarios que no deben verse entre si es:
+    A. Usar CCO para esos destinatarios
+    B. Ponerlos a todos en CC
+    C. Escribirlos en el asunto
+    D. Adjuntar la lista de direcciones
 
 40. La convocatoria 2026 exige estudiar Outlook sobre:
-    A. Microsoft 365 version escritorio
-    B. Outlook 2003 exclusivamente
-    C. Outlook Express
-    D. Version web no indicada como base
+    A. Outlook 2016 exclusivamente
+    B. Outlook Express
+    C. Microsoft 365 version escritorio
+    D. Una version web no indicada como base
 
 ## Plantilla
 
 | Numero | Respuesta | Explicacion |
 | ---: | :---: | --- |
-| 1 | B | Outlook gestiona correo en Microsoft 365. |
-| 2 | B | `Para` contiene destinatarios principales. |
-| 3 | A | `CC` es copia visible. |
-| 4 | C | `CCO` es con copia oculta. |
-| 5 | D | `CCO` oculta el destinatario frente al resto. |
-| 6 | B | El asunto identifica el contenido. |
-| 7 | B | `RE:` indica respuesta. |
-| 8 | A | `FW:` o `RV:` indican reenvio segun idioma/configuracion. |
-| 9 | B | Responder contesta al remitente original. |
-| 10 | B | Responder a todos incluye remitente y destinatarios visibles. |
-| 11 | A | Reenviar manda el correo a nuevos destinatarios. |
-| 12 | B | El reenvio normalmente conserva adjuntos. |
-| 13 | A | La respuesta normalmente no incluye adjuntos originales. |
-| 14 | A | Las conversaciones se agrupan por asunto o hilo. |
-| 15 | A | Las marcas ayudan al seguimiento. |
-| 16 | C | Pueden aplicarse a enviados y recibidos. |
-| 17 | A | Una regla automatiza acciones segun condiciones. |
-| 18 | A | Es un uso tipico de reglas. |
-| 19 | A | La condicion activa la regla. |
-| 20 | A | La accion es lo que ejecuta Outlook. |
-| 21 | A | Sirve para elegir o consultar direcciones. |
-| 22 | A | Un contacto guarda datos de una persona o entidad. |
-| 23 | A | Agrupa destinatarios. |
-| 24 | A | Calendario gestiona citas y reuniones. |
-| 25 | C | Contactos/listas no es funcion propia del Calendario. |
-| 26 | A | Una cita reserva tiempo. |
-| 27 | A | La reunion incluye asistentes. |
-| 28 | A | La convocatoria invita a asistentes. |
-| 29 | A | Son respuestas habituales de reunion. |
-| 30 | A | Ocupado bloquea ese tramo. |
-| 31 | A | El recordatorio avisa antes del evento. |
-| 32 | A | Borradores son mensajes no enviados. |
-| 33 | A | Elementos enviados contiene mensajes remitidos. |
-| 34 | A | Panel de lectura muestra mensajes. |
-| 35 | A | Agrupa correos relacionados. |
-| 36 | A | `CCO` protege visibilidad de direcciones. |
-| 37 | A | Debe usarse solo si todos necesitan la respuesta. |
-| 38 | B | La regla no es una plantilla. |
-| 39 | A | Permite seleccionar destinatarios. |
-| 40 | A | La convocatoria fija Microsoft 365 escritorio. |
+| 1 | A | El modulo Calendario gestiona citas y reuniones. |
+| 2 | D | Borradores contiene mensajes redactados sin enviar. |
+| 3 | B | Salida = pendientes; Enviados = ya remitidos. |
+| 4 | C | Archivo (Backstage) configura cuenta y opciones, no redacta mensajes. |
+| 5 | C | La gestion avanzada de reglas esta en Archivo -> Administrar reglas y alertas. |
+| 6 | A | Nuevo mensaje esta en la pestana Inicio. |
+| 7 | D | Para contiene los destinatarios principales. |
+| 8 | B | CC es copia visible. |
+| 9 | B | CCO oculta la direccion frente a los demas destinatarios. |
+| 10 | C | El asunto agrupa conversaciones y facilita busquedas. |
+| 11 | A | Adjuntar incorpora un archivo o elemento al mensaje. |
+| 12 | D | Un vinculo permite trabajar sobre una version centralizada. |
+| 13 | D | Bandeja de salida retiene mensajes pendientes de envio. |
+| 14 | B | Responder normalmente no incluye los adjuntos originales. |
+| 15 | C | Reenviar normalmente conserva los adjuntos. |
+| 16 | A | RE: indica respuesta. |
+| 17 | C | La clave historica del proyecto documenta FW: como reenvio. |
+| 18 | D | RV: puede aparecer segun idioma o configuracion. |
+| 19 | B | Las conversaciones se agrupan por asunto o hilo. |
+| 20 | A | Una carpeta de busqueda muestra mensajes por criterio sin moverlos. |
+| 21 | B | Las marcas de seguimiento se aplican a enviados y recibidos. |
+| 22 | C | La limpieza elimina mensajes redundantes de la conversacion. |
+| 23 | A | La condicion es el criterio que activa la regla. |
+| 24 | D | La accion es lo que Outlook ejecuta al cumplirse la condicion. |
+| 25 | D | La excepcion impide aplicar la regla en casos concretos. |
+| 26 | A | El paso rapido se ejecuta cuando el usuario lo pulsa. |
+| 27 | C | La libreta de direcciones permite consultar o seleccionar direcciones. |
+| 28 | B | Un contacto guarda nombre, correo, telefono y empresa, entre otros datos. |
+| 29 | B | Una lista de contactos agrupa destinatarios para enviarles como conjunto. |
+| 30 | D | El autocompletar sugiere direcciones usadas antes, no siempre guardadas. |
+| 31 | C | La cita reserva tiempo, normalmente sin asistentes obligatorios. |
+| 32 | A | La reunion incluye asistentes invitados. |
+| 33 | A | El evento ocupa uno o varios dias completos. |
+| 34 | B | La convocatoria es la invitacion de reunion a los asistentes. |
+| 35 | D | Las respuestas tipicas son aceptar, provisional o rechazar. |
+| 36 | C | Provisional indica una reserva tentativa de tiempo. |
+| 37 | D | Cambiar la vista solo cambia como se muestra la agenda. |
+| 38 | B | Gestionar contactos o listas no es propio del Calendario. |
+| 39 | A | CCO protege la visibilidad de las direcciones. |
+| 40 | C | La convocatoria 2026 fija Microsoft 365 version escritorio. |

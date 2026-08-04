@@ -158,7 +158,7 @@ Distribucion:
     D. Crear una seccion en Word
 
 24. En Outlook, al reenviar un mensaje, lo habitual es que el asunto incorpore el prefijo:
-    A. `RV:`
+    A. `FW:`
     B. `RE:`
     C. `CC:`
     D. `HTTP:`
@@ -226,7 +226,7 @@ Distribucion:
 | 21 | A | `Para` contiene los destinatarios principales. |
 | 22 | D | `CC` envia copia visible a otros destinatarios. |
 | 23 | B | Las reglas automatizan acciones como mover, marcar o reenviar mensajes. |
-| 24 | A | En Outlook en espanol, el reenvio suele marcarse con `RV:`. |
+| 24 | A | Clave historica del proyecto (pregunta `2025-E2-024`): reenvio va marcado como `FW:`. En Outlook en espanol tambien puede aparecer como `RV:` segun idioma/configuracion. |
 | 25 | C | Una convocatoria crea una reunion e invita asistentes en el calendario. |
 | 26 | B | Un equipo de Teams agrupa personas, canales, conversaciones y archivos. |
 | 27 | D | Los canales ordenan el trabajo dentro de un equipo. |

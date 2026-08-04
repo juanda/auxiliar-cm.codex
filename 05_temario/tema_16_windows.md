@@ -561,18 +561,18 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 1. ¿Qué combinación de teclas abre el Explorador de archivos en Windows 10?
    A. `Alt + Tab`
    B. `Ctrl + E`
-   C. `Windows + E`
-   D. `Alt + E`
+   C. `Alt + E`
+   D. `Windows + E`
 
 2. ¿Dónde se ve la ruta completa de una carpeta abierta en el Explorador?
-   A. Barra de direcciones
-   B. Panel de vista previa
-   C. Barra de estado
+   A. Panel de vista previa
+   B. Barra de estado
+   C. Barra de direcciones
    D. Papelera
 
 3. ¿Qué es la extensión de un archivo?
-   A. El nombre del usuario que lo creó
-   B. La parte final tras un punto que orienta sobre el tipo de archivo
+   A. La parte final tras un punto que orienta sobre el tipo de archivo
+   B. El nombre del usuario que lo creó
    C. El permiso de red del archivo
    D. El tamaño físico del disco
 
@@ -583,26 +583,26 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
    D. Crear usuarios
 
 5. En `Este equipo`, al abrir las propiedades de una unidad se puede ver:
-   A. El espacio usado y libre
-   B. La contraseña del usuario
-   C. Los correos enviados
+   A. La contraseña del usuario
+   B. Los correos enviados
+   C. El espacio usado y libre
    D. Las reglas de Outlook
 
 6. Compartir una carpeta significa:
-   A. Reducir su tamaño
-   B. Hacerla accesible a otros usuarios de la red
+   A. Hacerla accesible a otros usuarios de la red
+   B. Reducir su tamaño
    C. Cambiar su extensión
    D. Eliminarla de Acceso rápido
 
 7. ¿Por qué se recomienda quitar de forma segura una memoria USB?
-   A. Para evitar pérdida de datos
-   B. Para aumentar la memoria RAM
-   C. Para borrar archivos temporales
+   A. Para aumentar la memoria RAM
+   B. Para borrar archivos temporales
+   C. Para evitar pérdida de datos
    D. Para cambiar la letra de unidad
 
 8. Al agrupar archivos por tipo, el número entre paréntesis junto al grupo indica:
-   A. Número de orden del grupo
-   B. Número de archivos del grupo
+   A. Número de archivos del grupo
+   B. Número de orden del grupo
    C. Número de aplicaciones instaladas
    D. Número de usuarios conectados
 
@@ -613,8 +613,8 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
    D. La Papelera
 
 10. ¿Qué herramienta permite ver procesos activos en tiempo real?
-    A. Administrador de tareas
-    B. Bloc de notas
+    A. Bloc de notas
+    B. Administrador de tareas
     C. Paint
     D. Mapa de caracteres
 
@@ -626,75 +626,75 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 
 12. ¿Qué muestra principalmente `Acceso rápido`?
     A. Unidades físicas y particiones
-    B. Carpetas frecuentes o ancladas y archivos recientes
-    C. Sólo impresoras
+    B. Sólo impresoras
+    C. Carpetas frecuentes o ancladas y archivos recientes
     D. Sólo procesos activos
 
 13. Desanclar una carpeta de Acceso rápido:
-    A. Borra la carpeta del disco
-    B. La comprime
-    C. Quita el acceso sin borrar la carpeta real
+    A. Quita el acceso sin borrar la carpeta real
+    B. Borra la carpeta del disco
+    C. La comprime
     D. Cambia su extensión
 
 14. ¿Qué patrón de búsqueda localizaría archivos PDF?
-    A. `*.pdf`
-    B. `?pdf`
+    A. `?pdf`
+    B. `*.pdf`
     C. `pdf*.*.exe`
     D. `pdf:carpeta`
 
 15. En búsquedas, el comodín `?` sustituye:
     A. Cualquier cadena de caracteres
-    B. Un único carácter
-    C. Una unidad de disco
+    B. Una unidad de disco
+    C. Un único carácter
     D. Una carpeta personal
 
 16. ¿Qué diferencia hay entre ordenar y agrupar?
     A. Ordenar crea grupos; agrupar elimina archivos
-    B. Ordenar cambia el orden; agrupar crea bloques por categoría
-    C. Son exactamente lo mismo
+    B. Son exactamente lo mismo
+    C. Ordenar cambia el orden; agrupar crea bloques por categoría
     D. Agrupar sólo funciona en USB
 
 17. ¿Qué accesorio sirve para editar texto sin formato?
-    A. Bloc de notas
-    B. Paint
-    C. Calculadora
-    D. Administrador de tareas
+    A. Paint
+    B. Calculadora
+    C. Administrador de tareas
+    D. Bloc de notas
 
 18. ¿Qué accesorio permite capturar una parte de la pantalla?
-    A. Recortes / Recorte y anotación
-    B. Administrador de discos
-    C. Servicios
-    D. Programador de tareas
+    A. Administrador de discos
+    B. Servicios
+    C. Programador de tareas
+    D. Recortes / Recorte y anotación
 
 19. ¿Qué herramienta se usa para ver y gestionar hardware y controladores?
-    A. Administrador de dispositivos
-    B. WordPad
+    A. WordPad
+    B. Administrador de dispositivos
     C. Acceso rápido
     D. Barra de estado
 
 20. ¿Qué comando abre el Administrador de dispositivos?
     A. `diskmgmt.msc`
-    B. `devmgmt.msc`
-    C. `services.msc`
+    B. `services.msc`
+    C. `devmgmt.msc`
     D. `taskschd.msc`
 
 21. ¿Qué comando abre Servicios?
-    A. `services.msc`
-    B. `diskmgmt.msc`
-    C. `calc.exe`
-    D. `notepad.exe`
+    A. `diskmgmt.msc`
+    B. `calc.exe`
+    C. `notepad.exe`
+    D. `services.msc`
 
 22. ¿Qué comando abre el Programador de tareas?
-    A. `taskschd.msc`
-    B. `devmgmt.msc`
-    C. `mspaint.exe`
-    D. `explorer.exe`
+    A. `devmgmt.msc`
+    B. `mspaint.exe`
+    C. `explorer.exe`
+    D. `taskschd.msc`
 
 23. ¿Qué vista del Explorador resulta especialmente útil para ver columnas como tipo, fecha y tamaño?
-    A. Detalles
-    B. Iconos grandes
-    C. Diseño web
-    D. Presentación
+    A. Iconos grandes
+    B. Diseño web
+    C. Presentación
+    D. Detalles
 
 24. ¿Qué ocurre al cambiar manualmente una extensión?
     A. Siempre convierte el archivo correctamente
@@ -709,26 +709,26 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. Papelera
 
 26. ¿Qué herramienta permite consultar registros del sistema?
-    A. Visor de eventos
-    B. Paint
-    C. Bloc de notas
-    D. Calculadora
+    A. Paint
+    B. Bloc de notas
+    C. Calculadora
+    D. Visor de eventos
 
 27. ¿Qué herramienta puede ayudar a liberar espacio en Windows 10?
-    A. Sensor de almacenamiento
-    B. Mapa de caracteres
+    A. Mapa de caracteres
+    B. Sensor de almacenamiento
     C. Acceso rápido
     D. WordPad
 
 28. ¿Qué afirmación sobre `Este equipo` es correcta?
-    A. Muestra unidades, dispositivos y carpetas principales
-    B. Sólo muestra archivos recientes
+    A. Sólo muestra archivos recientes
+    B. Muestra unidades, dispositivos y carpetas principales
     C. Sólo sirve para abrir Paint
     D. Es igual que el Administrador de tareas
 
 29. ¿Qué función tiene la Papelera de reciclaje?
-    A. Guardar temporalmente muchos elementos eliminados para posible restauración
-    B. Mostrar procesos activos
+    A. Mostrar procesos activos
+    B. Guardar temporalmente muchos elementos eliminados para posible restauración
     C. Administrar particiones
     D. Cambiar extensiones automáticamente
 
@@ -745,26 +745,26 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. Abrirlo con otra aplicación
 
 32. ¿Qué significa copiar un archivo?
-    A. Crear un duplicado en otra ubicación
-    B. Eliminar el original necesariamente
-    C. Cambiar permisos de red
+    A. Eliminar el original necesariamente
+    B. Cambiar permisos de red
+    C. Crear un duplicado en otra ubicación
     D. Formatear la unidad
 
 33. ¿Qué hace la indexación de Windows?
-    A. Ayuda a acelerar búsquedas en ubicaciones incluidas
-    B. Elimina duplicados
+    A. Elimina duplicados
+    B. Ayuda a acelerar búsquedas en ubicaciones incluidas
     C. Cambia el tipo de archivo
     D. Desinstala aplicaciones
 
 34. ¿Qué aplicación básica se usa para cálculos?
-    A. Calculadora
-    B. Paint
-    C. WordPad
+    A. Paint
+    B. WordPad
+    C. Calculadora
     D. Visor de eventos
 
 35. ¿Qué afirmación sobre el panel de detalles es correcta?
-    A. Muestra información o propiedades del elemento seleccionado
-    B. Abre siempre el archivo
+    A. Abre siempre el archivo
+    B. Muestra información o propiedades del elemento seleccionado
     C. Borra el archivo seleccionado
     D. Formatea unidades externas
 
@@ -772,41 +772,41 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 
 | Nº | Respuesta | Explicación |
 | ---: | :---: | --- |
-| 1 | C | `Windows + E` abre el Explorador. |
-| 2 | A | La barra de direcciones muestra la ruta. |
-| 3 | B | La extensión va tras el punto final del nombre. |
+| 1 | D | `Windows + E` abre el Explorador. |
+| 2 | C | La barra de direcciones muestra la ruta. |
+| 3 | A | La extensión va tras el punto final del nombre. |
 | 4 | A | El panel de vista previa muestra contenido sin abrir. |
-| 5 | A | Las propiedades de unidad muestran espacio usado y libre. |
-| 6 | B | Compartir permite acceso de otros usuarios de red. |
-| 7 | A | La extracción segura evita pérdida de datos. |
-| 8 | B | El número indica cuántos archivos hay en el grupo. |
+| 5 | C | Las propiedades de unidad muestran espacio usado y libre. |
+| 6 | A | Compartir permite acceso de otros usuarios de red. |
+| 7 | C | La extracción segura evita pérdida de datos. |
+| 8 | A | El número indica cuántos archivos hay en el grupo. |
 | 9 | A | Windows pregunta con qué aplicación abrirlo. |
-| 10 | A | El Administrador de tareas muestra procesos activos. |
+| 10 | B | El Administrador de tareas muestra procesos activos. |
 | 11 | D | `diskmgmt.msc` abre el Administrador de discos. |
-| 12 | B | Acceso rápido muestra carpetas frecuentes/ancladas y recientes. |
-| 13 | C | Desanclar no borra la carpeta real. |
-| 14 | A | `*.pdf` localiza archivos con extensión PDF. |
-| 15 | B | `?` sustituye un carácter. |
-| 16 | B | Ordenar reordena; agrupar crea bloques. |
-| 17 | A | Bloc de notas edita texto sin formato. |
-| 18 | A | Recortes permite capturas. |
-| 19 | A | Dispositivos gestiona hardware y controladores. |
-| 20 | B | `devmgmt.msc` abre Administrador de dispositivos. |
-| 21 | A | `services.msc` abre Servicios. |
-| 22 | A | `taskschd.msc` abre Programador de tareas. |
-| 23 | A | Detalles muestra columnas informativas. |
+| 12 | C | Acceso rápido muestra carpetas frecuentes/ancladas y recientes. |
+| 13 | A | Desanclar no borra la carpeta real. |
+| 14 | B | `*.pdf` localiza archivos con extensión PDF. |
+| 15 | C | `?` sustituye un carácter. |
+| 16 | C | Ordenar reordena; agrupar crea bloques. |
+| 17 | D | Bloc de notas edita texto sin formato. |
+| 18 | D | Recortes permite capturas. |
+| 19 | B | Dispositivos gestiona hardware y controladores. |
+| 20 | C | `devmgmt.msc` abre Administrador de dispositivos. |
+| 21 | D | `services.msc` abre Servicios. |
+| 22 | D | `taskschd.msc` abre Programador de tareas. |
+| 23 | D | Detalles muestra columnas informativas. |
 | 24 | B | Cambiar extensión puede impedir abrirlo. |
 | 25 | A | La barra de estado resume información. |
-| 26 | A | El Visor de eventos muestra registros. |
-| 27 | A | Sensor de almacenamiento ayuda a liberar espacio. |
-| 28 | A | Este equipo muestra unidades y dispositivos. |
-| 29 | A | La Papelera permite restaurar muchos elementos eliminados. |
+| 26 | D | El Visor de eventos muestra registros. |
+| 27 | B | Sensor de almacenamiento ayuda a liberar espacio. |
+| 28 | B | Este equipo muestra unidades y dispositivos. |
+| 29 | B | La Papelera permite restaurar muchos elementos eliminados. |
 | 30 | A | Propiedades muestra datos del archivo. |
 | 31 | A | Mover cambia ubicación. |
-| 32 | A | Copiar crea duplicado. |
-| 33 | A | La indexación acelera búsquedas. |
-| 34 | A | Calculadora realiza cálculos. |
-| 35 | A | El panel de detalles muestra información del elemento. |
+| 32 | C | Copiar crea duplicado. |
+| 33 | B | La indexación acelera búsquedas. |
+| 34 | C | Calculadora realiza cálculos. |
+| 35 | B | El panel de detalles muestra información del elemento. |
 
 ## 8. Esquema final
 

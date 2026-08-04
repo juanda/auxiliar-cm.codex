@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escritorio y Power BI. Se combinan recurrencias históricas con puntos probables de convocatoria: tablas, consultas, formularios, informes, relaciones, importación/vinculación/exportación y Power BI.
 
+Tiempo recomendado: 50 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Cuál es la extensión predeterminada moderna de Access?
@@ -214,6 +216,54 @@ Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escrit
     C. Access sólo crea presentaciones
     D. No hay diferencia
 
+36. Antes de crear visualizaciones en Power BI, ¿qué fase debe completarse para tener los datos listos y relacionados?
+    A. Conectar, transformar y modelar los datos
+    B. Publicar directamente el archivo en Power BI Service
+    C. Crear primero el panel con los indicadores finales
+    D. Abrir Access para copiar las tablas manualmente
+
+37. ¿Qué componente de Power BI permite consultar un informe ya publicado desde un teléfono o tableta?
+    A. Power BI Desktop
+    B. Power Query
+    C. Power BI Service exclusivamente desde el navegador de escritorio
+    D. Power BI Mobile
+
+38. Si varios miembros de un equipo necesitan consultar el mismo informe actualizado desde la nube, ¿qué componente de Power BI resulta más adecuado para publicarlo y compartirlo?
+    A. Power BI Desktop
+    B. Power BI Service
+    C. Power Query
+    D. El modelo de datos
+
+39. Un opositor debe decidir entre Access y Power BI para llevar el control diario de expedientes con tablas relacionadas de solicitantes y trámites. ¿Cuál es la opción más adecuada?
+    A. Power BI Desktop, porque gestiona bases de datos relacionales
+    B. Power BI Service, porque almacena tablas
+    C. Access, porque está pensado para gestionar bases de datos relacionales
+    D. Power BI Mobile, porque permite editar tablas
+
+40. ¿Qué papel cumplen los conectores dentro de Power BI?
+    A. Definen la clave principal de las tablas de Access
+    B. Sustituyen a las medidas del modelo de datos
+    C. Convierten un informe en un formulario
+    D. Permiten traer datos desde orígenes como Excel, bases de datos o la web
+
+41. Un usuario quiere una vista resumida de varios indicadores clave, pensada especialmente para el servicio en la nube. ¿A qué elemento de Power BI corresponde?
+    A. Panel o dashboard
+    B. Conector
+    C. Modelo de datos
+    D. Power Query
+
+42. ¿Es correcto decir que Power BI Desktop, Power BI Service y Power BI Mobile son términos intercambiables sin matices?
+    A. Sí, los tres significan exactamente lo mismo
+    B. No: Desktop diseña, Service publica/comparte/programa actualizaciones y Mobile consulta
+    C. Sí, pero solo si el archivo es `.pbix`
+    D. No, porque Power BI Mobile sustituye a Access
+
+43. ¿Qué afirmación resume mejor la relación entre Access y Power BI según el temario?
+    A. Power BI sustituye completamente a Access como gestor de bases de datos
+    B. Access y Power BI son la misma herramienta con dos nombres distintos
+    C. Access almacena y gestiona datos; Power BI los conecta, transforma y visualiza, sin sustituir a Access como gestor
+    D. Power BI solo funciona si los datos proceden de Word
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -253,3 +303,11 @@ Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escrit
 | 33 | D | Históricamente se pregunta una base por instancia. |
 | 34 | C | Excel es hoja de cálculo. |
 | 35 | B | Access gestiona; Power BI analiza/visualiza. |
+| 36 | A | El flujo habitual es conectar, transformar y modelar antes de visualizar. |
+| 37 | D | Power BI Mobile consulta informes y paneles desde el móvil. |
+| 38 | B | Power BI Service publica, comparte y programa actualizaciones en la nube. |
+| 39 | C | Access está pensado para bases de datos relacionales con tablas vinculadas. |
+| 40 | D | Los conectores traen datos de Excel, bases de datos, web, etc. |
+| 41 | A | El panel resume indicadores, especialmente en el servicio. |
+| 42 | B | Desktop diseña; Service publica/comparte; Mobile consulta. |
+| 43 | C | Access gestiona datos; Power BI los conecta, transforma y visualiza sin sustituirlo. |

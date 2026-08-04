@@ -21,7 +21,7 @@ Materias presentes en 2023 y sin preguntas en 2025: Tema 5 (Acto administrativo)
 
 ## Materias nuevas o emergentes
 
-Materias con más preguntas en 2025 que en 2023: Tema 1 (Constitución Española de 1978: 2 -> 3), Tema 6 (Ley 39/2015: 3 -> 5), Tema 10 (EBEP y función pública: 2 -> 3), Tema 19 (Access y Power BI: 4 -> 7).
+Materias con más preguntas en 2025 que en 2023: Tema 1 (Constitución Española de 1978: 2 -> 3), Tema 6 (Ley 39/2015: 3 -> 5), Tema 10 (EBEP y función pública: 2 -> 3), Tema 19 (Access y Power BI: 5 -> 7).
 
 ## Psicotécnicos
 
@@ -40,7 +40,7 @@ Se observa un patrón estable en los ejercicios recientes de acceso libre: 30 ps
 | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 2017 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 2021 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 2023 | 35 | 6 | 6 | 6 | 4 | 6 | 7 |
+| 2023 | 35 | 6 | 6 | 6 | 5 | 5 | 7 |
 | 2025 | 35 | 6 | 5 | 6 | 7 | 6 | 5 |
 
 El bloque II aparece de forma clara en 2023 y 2025. En 2025 se actualiza el enfoque hacia Microsoft 365, Teams y SharePoint, manteniendo Windows, Word, Excel, Access y Outlook.

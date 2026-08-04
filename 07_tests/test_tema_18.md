@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
+Tiempo recomendado: 53 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Cómo se denomina el archivo de Excel que contiene una o varias hojas?
@@ -214,6 +216,66 @@ Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escrito
     C. Cambian el formato de archivo
     D. Sólo existen en Word
 
+36. En una tabla dinámica, el área `Filas` sirve para:
+    A. Realizar cálculos como suma o promedio
+    B. Limitar la información mostrada
+    C. Agrupar datos horizontalmente
+    D. Agrupar datos verticalmente
+
+37. En una tabla dinámica, el área `Columnas` sirve para:
+    A. Agrupar datos horizontalmente
+    B. Realizar cálculos como recuento o promedio
+    C. Filtrar visualmente los datos
+    D. Agrupar datos verticalmente
+
+38. Frente a una tabla dinámica, ordenar los datos de un rango normal:
+    A. Crea automáticamente una tabla dinámica
+    B. Solo cambia el orden de los datos, sin resumirlos ni reorganizar campos
+    C. Elimina los registros duplicados
+    D. Convierte el rango en gráfico dinámico
+
+39. Si tras crear una tabla dinámica cambian los datos de origen, para reflejar el cambio hay que:
+    A. Cambiar el tipo de gráfico
+    B. Aplicar formato condicional
+    C. Actualizar la tabla dinámica
+    D. Insertar una nueva hoja
+
+40. ¿Qué diferencia hay entre un gráfico y una tabla dinámica?
+    A. Son exactamente lo mismo con distinto nombre
+    B. La tabla dinámica solo sirve para imprimir
+    C. El gráfico solo funciona sobre tablas dinámicas
+    D. El gráfico representa visualmente los datos; la tabla dinámica los resume y reorganiza
+
+41. En un gráfico de Excel, el eje horizontal muestra habitualmente:
+    A. Las categorías o valores del eje X
+    B. El título del gráfico
+    C. La leyenda de series
+    D. Las etiquetas de datos
+
+42. Las etiquetas de datos de un gráfico sirven para:
+    A. Cambiar el tipo de gráfico automáticamente
+    B. Mostrar los valores junto a los puntos, columnas o sectores
+    C. Identificar las series de datos
+    D. Definir el rango de origen del gráfico
+
+43. Para mostrar qué parte representa una categoría sobre un total, con pocas categorías, es más apropiado un gráfico:
+    A. De dispersión
+    B. De líneas
+    C. Circular
+    D. De columnas apiladas
+
+44. Para mostrar una composición acumulada a lo largo del tiempo es adecuado un gráfico de:
+    A. Dispersión
+    B. Circular
+    C. Barras simples
+    D. Área o columnas apiladas
+
+45. ¿Qué diferencia hay entre un gráfico normal y un gráfico dinámico en cuanto a su origen de datos?
+    A. El dinámico se vincula a una tabla dinámica y cambia al reorganizar sus campos; el normal representa un rango o tabla fija
+    B. El normal solo puede ser circular
+    C. El dinámico no admite título ni leyenda
+    D. No existe ninguna diferencia real entre ambos
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -253,3 +315,13 @@ Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escrito
 | 33 | A | Diseño de página incluye impresión, márgenes y orientación. |
 | 34 | D | Una serie es un conjunto de valores representados. |
 | 35 | B | Filtrar oculta los que no cumplen criterios sin borrarlos. |
+| 36 | D | `Filas` agrupa datos verticalmente. |
+| 37 | A | `Columnas` agrupa datos horizontalmente. |
+| 38 | B | Ordenar solo cambia el orden, no resume ni reorganiza campos. |
+| 39 | C | Hay que actualizar la tabla dinámica tras cambiar el origen. |
+| 40 | D | El gráfico representa; la tabla dinámica resume y reorganiza. |
+| 41 | A | El eje horizontal muestra categorías o valores del eje X. |
+| 42 | B | Las etiquetas de datos muestran valores junto a los puntos. |
+| 43 | C | El circular es apropiado para partes de un total con pocas categorías. |
+| 44 | D | Área o columnas apiladas muestran composición acumulada. |
+| 45 | A | El dinámico se vincula a una tabla dinámica; el normal a un rango fijo. |

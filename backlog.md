@@ -206,12 +206,13 @@ Criterios de terminado:
 
 ### 17. Revision manual de preguntas visuales/tabulares
 
-- Estado: Pendiente
+- Estado: Hecho parcialmente (10/15)
 - Prioridad: Media
 - Fuente: `02_preguntas_extraidas/observaciones_extraccion.md`
 - Resultado esperado: corregir o completar las preguntas marcadas como `[ver PDF original]`.
+- Resultado: revisadas manualmente contra el PDF original. 10 de 15 eran texto/tablas numericas mal extraidas por maquetado; reconstruidas y verificadas contra la clave oficial (coinciden en las 10). Las 5 restantes (`2025-E1-016` a `2025-E1-020`) son series de figuras geometricas puramente graficas sin texto seleccionable en el PDF: se dejan como `[ver PDF original]` a proposito para no arriesgar una descripcion inexacta de las formas; su `respuesta_correcta` ya registrada sigue siendo valida.
 
-Ids afectados:
+Ids resueltos:
 
 - `2017-E1-016`
 - `2017-E1-037`
@@ -220,14 +221,17 @@ Ids afectados:
 - `2025-E1-011`
 - `2025-E1-012`
 - `2025-E1-013`
+- `2025-E1-022`
+- `2025-E1-023`
+- `2025-E1-025`
+
+Ids pendientes (contenido grafico, ver `02_preguntas_extraidas/observaciones_extraccion.md`):
+
 - `2025-E1-016`
 - `2025-E1-017`
 - `2025-E1-018`
 - `2025-E1-019`
 - `2025-E1-020`
-- `2025-E1-022`
-- `2025-E1-023`
-- `2025-E1-025`
 
 ## Orden de ejecucion recomendado
 

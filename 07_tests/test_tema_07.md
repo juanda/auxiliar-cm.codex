@@ -1,220 +1,220 @@
 # Test Tema 7. Jurisdiccion Contencioso-Administrativa
 
-Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
+Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_07_jurisdiccion_contencioso_administrativa.md`.
 
 ## Preguntas
 
-1. La jurisdicción contencioso-administrativa controla:
-   A. La actividad administrativa sometida al Derecho Administrativo.
-   B. Solo delitos cometidos por funcionarios.
-   C. Solo contratos privados entre particulares.
-   D. Solo conflictos laborales.
+1. La jurisdicción contencioso-administrativa es, además de judicial, una jurisdicción de tipo:
+   A. Meramente consultiva.
+   B. Exclusivamente sancionadora.
+   C. Revisora y de plena jurisdicción.
+   D. Arbitral.
 
-2. La Ley reguladora de la Jurisdicción Contencioso-administrativa es:
-   A. Ley 39/2015.
-   B. Ley 40/2015.
-   C. Ley 29/1998.
-   D. Ley 50/1997.
+2. El artículo 24 de la Constitución, en relación con este orden jurisdiccional, consagra:
+   A. La tutela judicial efectiva.
+   B. La potestad reglamentaria.
+   C. El silencio administrativo.
+   D. La responsabilidad patrimonial.
 
-3. Está incluida en el orden contencioso-administrativo:
-   A. Responsabilidad patrimonial de las Administraciones Públicas.
-   B. Recurso contencioso-disciplinario militar.
-   C. Cuestiones penales atribuidas expresamente al orden penal.
-   D. Conflictos de atribuciones entre órganos de una misma Administración.
+3. Según el artículo 106 CE, los Tribunales controlan:
+   A. Solo los reglamentos autonómicos.
+   B. Únicamente las sanciones penales.
+   C. Solo los actos de trámite.
+   D. La potestad reglamentaria y la legalidad de la actuación administrativa.
 
-4. Queda excluido del orden contencioso-administrativo:
-   A. Actos del Consejo General del Poder Judicial en materia de personal.
-   B. Protección de derechos fundamentales frente a Administración.
-   C. Recurso contencioso-disciplinario militar.
-   D. Responsabilidad patrimonial administrativa.
+4. ¿Cuál de las siguientes NO es una Administración Pública a efectos del artículo 1 LJCA?
+   A. La Administración General del Estado.
+   B. Un partido político.
+   C. Las Comunidades Autónomas.
+   D. Las entidades que integran la Administración Local.
 
-5. Los conflictos de jurisdicción entre Juzgados y Tribunales y Administración:
-   A. Son competencia ordinaria de cualquier Juzgado contencioso.
-   B. Quedan excluidos del orden contencioso-administrativo.
-   C. Siempre se resuelven por recurso de alzada.
-   D. Son competencia del Ministerio Fiscal.
+5. Los conflictos de atribuciones entre órganos de una misma Administración:
+   A. Se resuelven siempre por el orden contencioso-administrativo ordinario.
+   B. Los resuelve el Ministerio Fiscal.
+   C. Quedan excluidos del orden contencioso-administrativo.
+   D. Se acumulan siempre al recurso principal.
 
-6. La Sala de lo Contencioso-administrativo del Tribunal Supremo conoce de:
-   A. Recursos de casación en cualquiera de sus modalidades.
-   B. Todos los recursos de reposición.
-   C. Todos los expedientes administrativos.
-   D. Todos los recursos de alzada.
+6. Los Juzgados de lo Contencioso-administrativo tienen ámbito:
+   A. Provincial.
+   B. Municipal exclusivamente.
+   C. Europeo.
+   D. Solo autonómico.
 
-7. Los Juzgados Centrales de lo Contencioso-administrativo tienen sede:
-   A. En cada capital de provincia.
-   B. En Madrid.
-   C. En cada Comunidad Autónoma.
-   D. En Bruselas.
+7. Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia tienen ámbito:
+   A. Provincial.
+   B. Estatal exclusivamente.
+   C. Municipal.
+   D. Autonómico.
 
-8. En el proceso contencioso, la Administración autora del acto actúa normalmente como:
-   A. Tribunal.
-   B. Demandada.
-   C. Perito.
-   D. Ministerio Fiscal.
+8. En el proceso contencioso-administrativo, quien interpone el recurso recibe el nombre de:
+   A. Codemandado.
+   B. Demandante o recurrente.
+   C. Ministerio Fiscal.
+   D. Órgano jurisdiccional.
 
-9. Puede interponer recurso quien ostente:
-   A. Derecho o interés legítimo.
-   B. Simple curiosidad.
-   C. Interés político abstracto sin legitimación.
-   D. Solo nacionalidad española.
+9. Pueden ser codemandados en el proceso:
+   A. Solo el Ministerio Fiscal.
+   B. Solo funcionarios del órgano jurisdiccional.
+   C. Personas o entidades cuyos derechos o intereses legítimos puedan quedar afectados.
+   D. Únicamente asociaciones sin ánimo de lucro.
 
-10. Pueden impugnarse:
-    A. Disposiciones generales de rango inferior a ley.
-    B. Leyes orgánicas directamente ante cualquier Juzgado.
-    C. Sentencias penales.
-    D. Actos privados sin relación administrativa.
+10. Conforme a la LJCA, los menores de edad:
+    A. Pueden tener capacidad procesal para defender sus derechos e intereses legítimos cuando la ley lo permita.
+    B. Nunca pueden actuar en el proceso contencioso-administrativo.
+    C. Necesitan siempre autorización judicial expresa previa.
+    D. Solo pueden actuar como testigos.
 
-11. También puede impugnarse:
-    A. Inactividad de la Administración.
-    B. Una conversación informal sin efectos.
-    C. Cualquier noticia de prensa.
-    D. Una ley estatal.
+11. En los órganos judiciales unipersonales, la intervención de abogado es, con carácter general:
+    A. Innecesaria en todo caso.
+    B. Sustituida siempre por procurador.
+    C. Reservada a delitos penales.
+    D. Necesaria, con las excepciones legalmente previstas.
 
-12. Los actos de trámite solo son recurribles separadamente cuando:
-    A. Son actos de trámite cualificados.
-    B. Son todos recurribles siempre.
-    C. Nunca son recurribles.
-    D. Los firma un funcionario.
+12. No es un acto impugnable ante el orden contencioso-administrativo, con carácter general:
+    A. Un reglamento.
+    B. Un acto de trámite simple que no decide el fondo del asunto.
+    C. Un acto presunto por silencio.
+    D. Una actuación en vía de hecho.
 
-13. El plazo para interponer recurso contra acto expreso que pone fin a la vía administrativa es:
-    A. 10 días.
-    B. 1 mes.
-    C. 2 meses.
-    D. 6 meses.
+13. La inactividad de la Administración, como objeto de impugnación, consiste en:
+    A. Dictar una resolución expresa.
+    B. Publicar un reglamento.
+    C. No ejecutar una obligación concreta a la que está obligada.
+    D. Resolver un recurso de alzada.
 
-14. El plazo para recurso contra acto presunto es:
+14. El plazo para recurrir frente a la inactividad de la Administración es, con carácter general:
+    A. 2 meses desde el vencimiento del plazo o desde la reclamación, según el caso.
+    B. 6 meses.
+    C. 10 días.
+    D. 20 días.
+
+15. Si en la vía de hecho no hubo requerimiento previo, el plazo de interposición es de:
     A. 10 días.
     B. 2 meses.
     C. 6 meses.
-    D. 1 año.
+    D. 20 días desde que se inició la actuación en vía de hecho.
 
-15. En vía de hecho, si hubo requerimiento previo, el plazo puede ser:
-    A. 10 días desde el fin del plazo del requerimiento.
-    B. 2 meses siempre.
-    C. 6 meses siempre.
-    D. 30 días desde sentencia.
+16. Frente a litigios entre Administraciones Públicas, el plazo general de interposición es:
+    A. 6 meses, salvo requerimiento previo.
+    B. 2 meses, salvo requerimiento previo.
+    C. 20 días siempre.
+    D. 1 mes improrrogable.
 
-16. El procedimiento ordinario suele iniciarse mediante:
-    A. Escrito de interposición.
-    B. Recurso de alzada.
-    C. Decreto administrativo.
-    D. Denuncia penal.
+17. El escrito de interposición del recurso contencioso-administrativo tiene como función principal:
+    A. Formular ya toda la prueba documental.
+    B. Dictar sentencia provisional.
+    C. Identificar la actuación impugnada y solicitar que se tenga por interpuesto el recurso.
+    D. Sustituir a la demanda en todo caso.
 
-17. El emplazamiento a la Administración se entiende efectuado:
-    A. Por la reclamación del expediente.
-    B. Por la remisión del expediente.
-    C. Por la sentencia.
-    D. Por la vista.
+18. El expediente administrativo que se remite al órgano judicial debe estar:
+    A. Completo, foliado y autenticado, acompañado de índice.
+    B. Sin foliar, para agilizar el envío.
+    C. Resumido por la Administración a su criterio.
+    D. Firmado únicamente por el recurrente.
 
-18. El expediente administrativo debe remitirse:
-    A. Completo, foliado y acompañado de índice.
-    B. Solo verbalmente.
-    C. Sin documentos.
-    D. Solo si la Administración quiere.
+19. La demanda en el procedimiento ordinario debe contener necesariamente:
+    A. Solo la firma del recurrente.
+    B. Solo la identidad del juez.
+    C. Únicamente el sello del registro.
+    D. Hechos, fundamentos de Derecho, pretensiones y documentos que procedan.
 
-19. Tras recibir el expediente, el recurrente formula normalmente:
-    A. Demanda.
-    B. Contestación.
-    C. Sentencia.
-    D. Recurso de reposición.
-
-20. El plazo ordinario para formular demanda en el procedimiento ordinario es:
+20. La contestación a la demanda corresponde formularla, con carácter general, en un plazo de:
     A. 5 días.
-    B. 10 días.
-    C. 20 días.
-    D. 2 meses.
+    B. 20 días.
+    C. 2 meses.
+    D. 6 meses.
 
-21. La contestación a la demanda corresponde:
-    A. A la parte demandada y codemandados.
-    B. Al recurrente.
-    C. Al perito.
-    D. Al Registro.
+21. Puede examinarse como causa de inadmisión del recurso contencioso-administrativo:
+    A. Que el recurso se haya interpuesto dentro de plazo.
+    B. Que la Administración conteste en plazo.
+    C. Que exista falta de jurisdicción o de legitimación.
+    D. Que el expediente esté foliado.
 
-22. El proceso se recibe a prueba cuando:
-    A. Existen hechos relevantes discutidos.
-    B. Siempre que lo pida la Administración sin más.
-    C. Solo se discuten cuestiones jurídicas.
-    D. El acto es expreso.
+22. No se abre el periodo de prueba en el proceso contencioso-administrativo cuando:
+    A. Solo se discuten cuestiones jurídicas.
+    B. Existe disconformidad sobre hechos relevantes.
+    C. El recurrente lo solicita expresamente.
+    D. Hay varios codemandados.
 
-23. Desde que el pleito queda concluso, la sentencia se dictará en:
-    A. 7 días.
-    B. 10 días.
-    C. 15 días.
-    D. 20 días.
+23. Entre las pretensiones que puede formular el recurrente NO se encuentra:
+    A. La anulación del acto o disposición.
+    B. El reconocimiento de una situación jurídica individualizada.
+    C. La condena a indemnizar.
+    D. La imposición de una sanción penal al funcionario responsable.
 
-24. La sentencia puede:
-    A. Inadmitir, desestimar o estimar el recurso.
-    B. Dictar siempre un reglamento.
-    C. Resolver un recurso de alzada.
-    D. Nombrar funcionarios.
+24. Un pronunciamiento posible de la sentencia contencioso-administrativa es:
+    A. Convocar elecciones.
+    B. Reconocer una situación jurídica individualizada.
+    C. Aprobar los Presupuestos Generales del Estado.
+    D. Nombrar cargos públicos.
 
-25. El procedimiento abreviado se caracteriza por:
-    A. Mayor oralidad y concentración.
-    B. No tener sentencia.
-    C. Ser siempre ante el Tribunal Supremo.
-    D. Excluir prueba en todo caso.
+25. Las medidas cautelares en el proceso contencioso-administrativo tienen como finalidad principal:
+    A. Sustituir a la sentencia definitiva.
+    B. Anticipar el fallo sin necesidad de sentencia.
+    C. Evitar que el recurso pierda su finalidad legítima.
+    D. Suspender siempre cualquier actuación administrativa sin ponderación.
 
-26. El procedimiento especial de derechos fundamentales:
-    A. Está incluido en el orden contencioso-administrativo.
-    B. Está excluido del orden contencioso-administrativo.
-    C. Es un recurso administrativo.
-    D. Se tramita siempre ante órganos penales.
+26. Para acordar una medida cautelar, el órgano judicial debe ponderar, entre otros factores:
+    A. El interés general, los intereses de terceros y los perjuicios que puedan derivarse.
+    B. Solo la opinión del recurrente.
+    C. Exclusivamente el coste económico para la Administración.
+    D. Solo el tiempo transcurrido desde la interposición.
 
-27. Las medidas cautelares buscan:
-    A. Asegurar la eficacia de la sentencia.
-    B. Sustituir siempre a la sentencia.
-    C. Evitar toda demanda.
-    D. Convertir actos nulos en válidos.
+27. Las medidas cautelares pueden solicitarse:
+    A. Solo en el escrito de interposición.
+    B. Solo tras la sentencia.
+    C. Únicamente antes de reclamar el expediente.
+    D. En cualquier estado del proceso.
 
-28. Una pretensión posible del recurrente es:
-    A. Anulación del acto o disposición.
-    B. Imposición de una pena privativa de libertad.
-    C. Aprobación de una ley.
-    D. Elección de un alcalde.
+28. El procedimiento abreviado, frente al ordinario, se caracteriza especialmente por:
+    A. Prescindir siempre de sentencia.
+    B. Iniciarse directamente por demanda y concentrar los trámites en una vista.
+    C. Excluir cualquier posibilidad de prueba.
+    D. Tramitarse únicamente ante el Tribunal Supremo.
 
-29. Si se anula una disposición general, el fallo debe publicarse:
-    A. En el mismo periódico oficial en que se publicó la disposición anulada.
-    B. Solo en el tablón del Juzgado.
-    C. Solo en una web privada.
-    D. No debe publicarse.
+29. La cuestión de ilegalidad, como procedimiento especial, permite:
+    A. Anular directamente cualquier ley.
+    B. Sustituir el recurso de casación.
+    C. El control indirecto de un reglamento cuando se anula un acto por ilegalidad de la disposición general en que se basaba.
+    D. Suspender automáticamente cualquier expediente.
 
-30. ¿Cuál es la opción correcta?
-    A. Acto expreso: 2 meses; sentencia desde concluso: 10 días.
-    B. Acto expreso: 6 meses; sentencia desde concluso: 20 días.
-    C. Acto expreso: 1 mes; sentencia desde concluso: 15 días.
-    D. Acto expreso: 10 días; sentencia desde concluso: 2 meses.
+30. Respecto a los plazos de este tema, señala la afirmación correcta:
+    A. El plazo para recurrir un acto presunto (6 meses) es más largo que el de un acto expreso (2 meses).
+    B. El plazo para recurrir un acto presunto es más corto que el de un acto expreso.
+    C. Ambos plazos son idénticos e improrrogables.
+    D. El plazo de un acto presunto no está regulado.
 
 ## Respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | LJCA, art. 1 |
-| 2 | C | Ley 29/1998 |
-| 3 | A | LJCA, art. 2 |
-| 4 | C | LJCA, art. 3 |
-| 5 | B | LJCA, art. 3 |
-| 6 | A | LJCA, art. 12 |
-| 7 | B | Organización judicial |
+| 1 | C | LJCA, naturaleza revisora y de plena jurisdicción |
+| 2 | A | CE, art. 24 |
+| 3 | D | CE, art. 106 |
+| 4 | B | LJCA, art. 1 |
+| 5 | C | LJCA, art. 3 |
+| 6 | A | Organización judicial |
+| 7 | D | Organización judicial |
 | 8 | B | Partes |
-| 9 | A | LJCA, legitimación |
-| 10 | A | LJCA, art. 1 |
-| 11 | A | LJCA, art. 25 |
-| 12 | A | LJCA, actos impugnables |
-| 13 | C | LJCA, art. 46 |
-| 14 | C | LJCA, art. 46 |
-| 15 | A | LJCA, art. 46 |
-| 16 | A | LJCA, art. 45 |
-| 17 | A | LJCA, art. 48 |
+| 9 | C | Partes, codemandados |
+| 10 | A | LJCA, capacidad procesal |
+| 11 | D | LJCA, representación y defensa |
+| 12 | B | LJCA, actos impugnables |
+| 13 | C | LJCA, inactividad |
+| 14 | A | LJCA, art. 46 |
+| 15 | D | LJCA, art. 46 |
+| 16 | B | LJCA, art. 46 |
+| 17 | C | LJCA, art. 45 |
 | 18 | A | LJCA, art. 48 |
-| 19 | A | LJCA, art. 52 |
-| 20 | C | LJCA, art. 52 |
-| 21 | A | LJCA, art. 54 |
+| 19 | D | LJCA, arts. 52 y ss. |
+| 20 | B | LJCA, art. 54 |
+| 21 | C | LJCA, causas de inadmisión |
 | 22 | A | LJCA, art. 60 |
-| 23 | B | LJCA, art. 67 |
-| 24 | A | LJCA, sentencia |
-| 25 | A | LJCA, art. 78 |
-| 26 | A | LJCA, procedimiento especial |
-| 27 | A | LJCA, medidas cautelares |
-| 28 | A | LJCA, pretensiones |
-| 29 | A | LJCA, efectos de sentencia |
-| 30 | A | LJCA, arts. 46 y 67 |
+| 23 | D | LJCA, pretensiones |
+| 24 | B | LJCA, sentencia |
+| 25 | C | LJCA, medidas cautelares |
+| 26 | A | LJCA, medidas cautelares |
+| 27 | D | LJCA, medidas cautelares |
+| 28 | B | LJCA, art. 78 |
+| 29 | C | LJCA, cuestión de ilegalidad |
+| 30 | A | LJCA, art. 46 |

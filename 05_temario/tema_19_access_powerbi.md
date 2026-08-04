@@ -646,6 +646,7 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 
 | Id | Subtema | Qué preguntó | Respuesta |
 | --- | --- | --- | :---: |
+| `2023-E2-006` | Tablas Access | Qué es un Campo en una tabla de Access | C |
 | `2023-E2-010` | Access y Power BI | Bases abiertas en una instancia de Access | B |
 | `2023-E2-013` | Tablas Access | Uso de campo Autonumeración | B |
 | `2023-E2-016` | Tablas Access | Propiedades de campo | A |
@@ -673,26 +674,26 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
    D. Enviar correos
 
 3. ¿Qué es un registro?
-   A. Una columna
-   B. Una fila de una tabla
+   A. Una fila de una tabla
+   B. Una columna
    C. Una relación
    D. Un informe
 
 4. ¿Qué es un campo?
-   A. Una columna de una tabla
-   B. Una base de datos completa
-   C. Un formulario impreso
-   D. Un panel de Power BI
+   A. Una base de datos completa
+   B. Un formulario impreso
+   C. Un panel de Power BI
+   D. Una columna de una tabla
 
 5. ¿Qué identifica de forma única un registro?
-   A. Un campo de clave principal
-   B. Un campo de texto cualquiera
-   C. Un informe
-   D. Una máscara de entrada
+   A. Un campo de texto cualquiera
+   B. Un informe
+   C. Una máscara de entrada
+   D. Un campo de clave principal
 
 6. ¿Para qué se usa normalmente un campo Autonumeración?
-   A. Para proporcionar un valor único automático
-   B. Para dar formato a fechas
+   A. Para dar formato a fechas
+   B. Para proporcionar un valor único automático
    C. Para crear gráficos
    D. Para exportar a PDF
 
@@ -703,9 +704,9 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
    D. Vista Calendario
 
 8. `Formato`, `Título`, `Máscara de entrada` y `Valor predeterminado` son:
-   A. Propiedades de campo
-   B. Tipos de informe
-   C. Relaciones
+   A. Tipos de informe
+   B. Relaciones
+   C. Propiedades de campo
    D. Aplicaciones de Microsoft 365
 
 9. Una consulta permite:
@@ -721,20 +722,20 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. Comprimir la base de datos
 
 11. Un informe sirve principalmente para:
-    A. Presentar datos para imprimir, exportar o distribuir
-    B. Introducir datos en todas las tablas
-    C. Crear campos Autonumeración
-    D. Definir la extensión del archivo
+    A. Introducir datos en todas las tablas
+    B. Crear campos Autonumeración
+    C. Definir la extensión del archivo
+    D. Presentar datos para imprimir, exportar o distribuir
 
 12. Una relación en Access es:
-    A. Asociación lógica entre campos comunes de tablas
-    B. Un documento de texto
-    C. Un gráfico de PowerPoint
+    A. Un documento de texto
+    B. Un gráfico de PowerPoint
+    C. Asociación lógica entre campos comunes de tablas
     D. Un accesorio de Windows
 
 13. Importar datos significa:
-    A. Traer datos externos e incorporarlos a Access
-    B. Sacar datos de Access a Excel
+    A. Sacar datos de Access a Excel
+    B. Traer datos externos e incorporarlos a Access
     C. Borrar una tabla
     D. Cambiar una consulta a formulario
 
@@ -745,63 +746,63 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. Abrir Word
 
 15. Vincular datos significa:
-    A. Conectar con un origen externo manteniendo enlace
-    B. Copiar siempre todos los datos dentro de Access
-    C. Crear un informe impreso
+    A. Copiar siempre todos los datos dentro de Access
+    B. Crear un informe impreso
+    C. Conectar con un origen externo manteniendo enlace
     D. Eliminar duplicados
 
 16. ¿Qué aplicación se utiliza principalmente para documentos de texto?
-    A. Word
-    B. Access
-    C. Power BI
+    A. Access
+    B. Power BI
+    C. Word
     D. Excel
 
 17. Power BI se usa principalmente para:
-    A. Análisis y visualización de datos
-    B. Crear tablas de Access
-    C. Editar texto sin formato
-    D. Administrar discos
+    A. Crear tablas de Access
+    B. Editar texto sin formato
+    C. Administrar discos
+    D. Análisis y visualización de datos
 
 18. Power BI Desktop permite:
-    A. Crear informes y modelos de datos
-    B. Cambiar la clave principal de Access automáticamente
-    C. Abrir una sola tabla de Access
+    A. Cambiar la clave principal de Access automáticamente
+    B. Abrir una sola tabla de Access
+    C. Crear informes y modelos de datos
     D. Sustituir a Word
 
 19. ¿Qué elemento de Power BI permite limpiar y transformar datos?
-    A. Power Query
-    B. Clave principal
-    C. Máscara de entrada
-    D. Vista Diseño de Access
+    A. Clave principal
+    B. Máscara de entrada
+    C. Vista Diseño de Access
+    D. Power Query
 
 20. ¿Qué objeto de Access se usa más directamente para imprimir listados con agrupaciones y totales?
-    A. Informe
-    B. Formulario
-    C. Tabla
-    D. Campo
+    A. Formulario
+    B. Tabla
+    C. Campo
+    D. Informe
 
 21. ¿Qué tipo de consulta muestra datos que cumplen criterios?
-    A. Consulta de selección
-    B. Formulario
+    A. Formulario
+    B. Consulta de selección
     C. Informe
     D. Relación
 
 22. ¿Qué tipo de relación es la más habitual entre una tabla de clientes y una tabla de pedidos?
-    A. Uno a varios
-    B. Uno a uno siempre
-    C. Varios a varios sin tabla intermedia
-    D. Ninguna, Access no relaciona tablas
+    A. Uno a uno siempre
+    B. Varios a varios sin tabla intermedia
+    C. Ninguna, Access no relaciona tablas
+    D. Uno a varios
 
 23. La integridad referencial sirve para:
-    A. Mantener coherencia entre tablas relacionadas
-    B. Cambiar el color del formulario
+    A. Cambiar el color del formulario
+    B. Mantener coherencia entre tablas relacionadas
     C. Crear archivos `.xlsx`
     D. Convertir informes en consultas
 
 24. ¿Qué diferencia básica hay entre formulario e informe?
-    A. Formulario trabaja la entrada/consulta visual; informe presenta datos
-    B. El informe siempre almacena datos y el formulario nunca muestra nada
-    C. Son el mismo objeto con distinto nombre
+    A. El informe siempre almacena datos y el formulario nunca muestra nada
+    B. Son el mismo objeto con distinto nombre
+    C. Formulario trabaja la entrada/consulta visual; informe presenta datos
     D. El formulario sólo existe en Power BI
 
 25. ¿Qué diferencia básica hay entre tabla y consulta?
@@ -817,26 +818,26 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. `Ciudad`
 
 27. La máscara de entrada sirve para:
-    A. Guiar la forma de introducir datos
-    B. Crear informes visuales
+    A. Crear informes visuales
+    B. Guiar la forma de introducir datos
     C. Exportar a Power BI
     D. Abrir Word
 
 28. El valor predeterminado de un campo:
-    A. Es el valor que aparece por defecto al crear un registro
-    B. Es siempre la clave principal
+    A. Es siempre la clave principal
+    B. Es el valor que aparece por defecto al crear un registro
     C. Es una relación entre tablas
     D. Es una consulta de acción
 
 29. ¿Qué opción evita que un campo quede vacío si se configura así?
-    A. Requerido
-    B. Formulario
-    C. Informe
-    D. Exportar
+    A. Formulario
+    B. Informe
+    C. Exportar
+    D. Requerido
 
 30. ¿Qué significa `Indexado` en un campo?
-    A. Puede ayudar a búsquedas y evitar duplicados si se configura
-    B. Convierte el campo en informe
+    A. Convierte el campo en informe
+    B. Puede ayudar a búsquedas y evitar duplicados si se configura
     C. Elimina relaciones
     D. Cambia Access por Excel
 
@@ -847,28 +848,76 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     D. Sólo existe en Word
 
 32. ¿Qué formato puede ser destino de exportación desde Access?
-    A. Excel
-    B. Papelera
-    C. Administrador de tareas
+    A. Papelera
+    B. Administrador de tareas
+    C. Excel
     D. Panel de navegación
 
 33. ¿Qué archivo se asocia a Power BI Desktop?
-    A. `.pbix`
-    B. `.accdb`
+    A. `.accdb`
+    B. `.pbix`
     C. `.docx`
     D. `.txt`
 
 34. ¿Qué visual de Power BI sirve para filtrar interactivamente un informe?
-    A. Segmentador
-    B. Campo Autonumeración
-    C. Vista Diseño
+    A. Campo Autonumeración
+    B. Vista Diseño
+    C. Segmentador
     D. Máscara de entrada
 
 35. En Access, en una única instancia se trabaja normalmente con:
-    A. Una base de datos abierta
-    B. Diez bases obligatorias
-    C. Todas las bases disponibles
+    A. Diez bases obligatorias
+    B. Todas las bases disponibles
+    C. Una base de datos abierta
     D. Ninguna base de datos
+
+36. ¿Cuál es el orden habitual del flujo de trabajo en Power BI?
+    A. Visualizar, modelar, transformar, conectar
+    B. Modelar, conectar, visualizar, transformar
+    C. Conectar, transformar, modelar, visualizar
+    D. Publicar, conectar, transformar, modelar
+
+37. ¿Qué diferencia hay entre Power Query y el modelo de datos en Power BI?
+    A. Power Query transforma y limpia datos; el modelo de datos define relaciones y medidas entre tablas
+    B. Son el mismo componente con distinto nombre
+    C. Power Query crea visualizaciones; el modelo de datos importa archivos
+    D. El modelo de datos solo funciona en Power BI Service
+
+38. Un usuario necesita programar la actualización automática de un informe y compartirlo con su equipo desde la nube. ¿Qué componente de Power BI debe usar principalmente?
+    A. Power BI Desktop
+    B. Power Query
+    C. Power BI Mobile
+    D. Power BI Service
+
+39. Un opositor necesita crear una base de datos relacional para gestionar el alquiler de material de oficina, con tablas de artículos y préstamos vinculadas. ¿Qué herramienta es la más adecuada?
+    A. Power BI Desktop
+    B. Access
+    C. Power BI Service
+    D. Power BI Mobile
+
+40. ¿Qué permiten los conectores de Power BI?
+    A. Traer datos desde orígenes como Excel, bases de datos o la web
+    B. Cambiar la clave principal de una tabla de Access
+    C. Sustituir las relaciones del modelo de datos
+    D. Convertir un informe de Access en un formulario
+
+41. ¿Qué diferencia hay entre un informe y un panel (dashboard) en Power BI?
+    A. No hay diferencia, son sinónimos exactos
+    B. El informe es exclusivo de Power BI Mobile y el panel de Power BI Desktop
+    C. El informe es un conjunto de páginas visuales interactivas; el panel es una vista resumida de indicadores, especialmente en el servicio
+    D. El panel almacena los datos originales y el informe no
+
+42. ¿Qué afirmación es correcta sobre los tres componentes de Power BI?
+    A. Desktop publica y comparte; Service diseña modelos; Mobile edita datos
+    B. Los tres cumplen exactamente la misma función y son intercambiables
+    C. Mobile diseña modelos; Desktop consulta paneles; Service transforma datos
+    D. Desktop diseña modelos e informes; Service publica, comparte y programa actualizaciones; Mobile consulta desde el móvil
+
+43. ¿Es correcto afirmar que Power BI sustituye completamente a Access como base de datos?
+    A. Sí, Power BI almacena y gestiona datos igual que una base de datos relacional
+    B. No, Access gestiona bases de datos relacionales; Power BI analiza y visualiza datos, no las sustituye como gestor
+    C. Sí, pero solo en su versión Mobile
+    D. No, porque Power BI solo funciona con archivos de Word
 
 ### Plantilla
 
@@ -876,39 +925,47 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | ---: | :---: | --- |
 | 1 | B | `.accdb` es la extensión moderna de Access. |
 | 2 | A | La tabla almacena datos en filas y columnas. |
-| 3 | B | Un registro es una fila. |
-| 4 | A | Un campo es una columna. |
-| 5 | A | La clave principal identifica inequívocamente. |
-| 6 | A | Autonumeración proporciona valor único automático. |
+| 3 | A | Un registro es una fila. |
+| 4 | D | Un campo es una columna. |
+| 5 | D | La clave principal identifica inequívocamente. |
+| 6 | B | Autonumeración proporciona valor único automático. |
 | 7 | A | Vista Diseño define campos. |
-| 8 | A | Son propiedades de campo. |
+| 8 | C | Son propiedades de campo. |
 | 9 | A | La consulta obtiene, filtra, combina o calcula. |
 | 10 | A | El formulario facilita trabajo visual con datos. |
-| 11 | A | El informe presenta datos para salida. |
-| 12 | A | La relación vincula campos comunes. |
-| 13 | A | Importar trae datos externos. |
+| 11 | D | El informe presenta datos para salida. |
+| 12 | C | La relación vincula campos comunes. |
+| 13 | B | Importar trae datos externos. |
 | 14 | A | Exportar saca datos a otro formato/destino. |
-| 15 | A | Vincular mantiene conexión con origen externo. |
-| 16 | A | Word trabaja documentos de texto. |
-| 17 | A | Power BI analiza y visualiza datos. |
-| 18 | A | Power BI Desktop crea informes y modelos. |
-| 19 | A | Power Query transforma y limpia datos. |
-| 20 | A | Informes sirven para listados y salida. |
-| 21 | A | Selección muestra datos con criterios. |
-| 22 | A | Un cliente puede tener varios pedidos. |
-| 23 | A | Integridad referencial mantiene coherencia. |
-| 24 | A | Formulario introduce/consulta; informe presenta. |
+| 15 | C | Vincular mantiene conexión con origen externo. |
+| 16 | C | Word trabaja documentos de texto. |
+| 17 | D | Power BI analiza y visualiza datos. |
+| 18 | C | Power BI Desktop crea informes y modelos. |
+| 19 | D | Power Query transforma y limpia datos. |
+| 20 | D | Informes sirven para listados y salida. |
+| 21 | B | Selección muestra datos con criterios. |
+| 22 | D | Un cliente puede tener varios pedidos. |
+| 23 | B | Integridad referencial mantiene coherencia. |
+| 24 | C | Formulario introduce/consulta; informe presenta. |
 | 25 | A | Tabla almacena; consulta obtiene/transforma. |
 | 26 | A | Un identificador Autonumeración es clave artificial típica. |
-| 27 | A | La máscara guía la entrada de datos. |
-| 28 | A | Valor predeterminado aparece por defecto. |
-| 29 | A | Requerido impide dejar vacío. |
-| 30 | A | Indexado ayuda a búsquedas y duplicados. |
+| 27 | B | La máscara guía la entrada de datos. |
+| 28 | B | Valor predeterminado aparece por defecto. |
+| 29 | D | Requerido impide dejar vacío. |
+| 30 | B | Indexado ayuda a búsquedas y duplicados. |
 | 31 | A | Las consultas de acción modifican datos. |
-| 32 | A | Excel puede ser destino de exportación. |
-| 33 | A | `.pbix` es archivo de Power BI Desktop. |
-| 34 | A | Segmentador filtra visualmente. |
-| 35 | A | Históricamente se pregunta una base por instancia. |
+| 32 | C | Excel puede ser destino de exportación. |
+| 33 | B | `.pbix` es archivo de Power BI Desktop. |
+| 34 | C | Segmentador filtra visualmente. |
+| 35 | C | Históricamente se pregunta una base por instancia. |
+| 36 | C | El flujo habitual es conectar, transformar, modelar y visualizar. |
+| 37 | A | Power Query transforma datos; el modelo de datos define relaciones y medidas. |
+| 38 | D | Power BI Service publica, comparte y programa actualizaciones en la nube. |
+| 39 | B | Access es la herramienta para bases de datos relacionales con tablas vinculadas. |
+| 40 | A | Los conectores traen datos de Excel, bases de datos, web, etc. |
+| 41 | C | El informe agrupa páginas visuales; el panel resume indicadores, sobre todo en el servicio. |
+| 42 | D | Desktop diseña; Service publica/comparte; Mobile consulta. |
+| 43 | B | Power BI no sustituye a Access como gestor de bases de datos: analiza y visualiza. |
 
 ## 8. Esquema final
 

@@ -682,15 +682,15 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 
 1. En Excel, el archivo que contiene una o varias hojas se denomina:
    A. Celda
-   B. Libro
-   C. Rango
-   D. Fórmula
+   B. Rango
+   C. Fórmula
+   D. Libro
 
 2. Una celda es:
    A. Un archivo de Excel
    B. Una hoja completa
-   C. La intersección entre una fila y una columna
-   D. Un gráfico
+   C. Un gráfico
+   D. La intersección entre una fila y una columna
 
 3. ¿Qué símbolo se utiliza normalmente para iniciar una fórmula en Excel?
    A. `=`
@@ -699,10 +699,10 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
    D. `$`
 
 4. La barra de fórmulas sirve para:
-   A. Mostrar el contenido de la celda activa
-   B. Cambiar el nombre del libro
-   C. Abrir Outlook
-   D. Ordenar ventanas
+   A. Cambiar el nombre del libro
+   B. Abrir Outlook
+   C. Ordenar ventanas
+   D. Mostrar el contenido de la celda activa
 
 5. El conjunto de celdas `A1:A10` es:
    A. Un libro
@@ -711,45 +711,45 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
    D. Una tabla dinámica obligatoria
 
 6. La función `DERECHA` permite:
-   A. Alinear texto a la derecha
-   B. Extraer caracteres desde el final de una cadena
+   A. Extraer caracteres desde el final de una cadena
+   B. Alinear texto a la derecha
    C. Mover una hoja a la derecha
    D. Ordenar columnas de derecha a izquierda
 
 7. Una tabla dinámica sirve principalmente para:
-   A. Resumir y analizar datos interactivamente
-   B. Crear únicamente gráficos circulares
+   A. Crear únicamente gráficos circulares
+   B. Resumir y analizar datos interactivamente
    C. Borrar duplicados de forma irreversible
    D. Cambiar el idioma de Excel
 
 8. Un hipervínculo en Excel permite:
-   A. Saltar a otra ubicación o recurso
-   B. Crear una fórmula automáticamente
+   A. Crear una fórmula automáticamente
+   B. Saltar a otra ubicación o recurso
    C. Ocultar todas las hojas
    D. Cambiar el tipo de letra
 
 9. En Excel de Microsoft 365 escritorio, el número de hojas que puede contener un libro:
    A. Es siempre 1
    B. Es siempre 16
-   C. Es siempre 255
-   D. Depende de la memoria disponible del sistema
+   C. Depende de la memoria disponible del sistema
+   D. Es siempre 255
 
 10. Ordenar datos significa:
-    A. Cambiar su orden según un criterio
-    B. Ocultar los que no cumplen una condición
-    C. Convertirlos en gráfico automáticamente
+    A. Ocultar los que no cumplen una condición
+    B. Convertirlos en gráfico automáticamente
+    C. Cambiar su orden según un criterio
     D. Borrar los duplicados
 
 11. Filtrar datos significa:
     A. Cambiar el nombre del libro
-    B. Mostrar sólo los registros que cumplen criterios
-    C. Convertir fórmulas en texto
+    B. Convertir fórmulas en texto
+    C. Mostrar sólo los registros que cumplen criterios
     D. Crear una hoja nueva
 
 12. En Excel de Microsoft 365 escritorio, la organización horizontal de ventanas:
-    A. Organiza en horizontal las ventanas de Excel abiertas
-    B. Ordena las hojas del libro alfabéticamente
-    C. Divide una hoja en dos partes
+    A. Ordena las hojas del libro alfabéticamente
+    B. Divide una hoja en dos partes
+    C. Organiza en horizontal las ventanas de Excel abiertas
     D. Elimina ventanas ocultas
 
 13. Una función en Excel es:
@@ -765,26 +765,26 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     D. Guardar el libro
 
 15. En Excel en español, el separador habitual de argumentos en funciones es:
-    A. El punto y coma `;`
-    B. La almohadilla `#`
-    C. El símbolo del dólar `$`
+    A. La almohadilla `#`
+    B. El símbolo del dólar `$`
+    C. El punto y coma `;`
     D. La barra `/`
 
 16. Un gráfico de líneas se usa especialmente para:
-    A. Mostrar evolución temporal
-    B. Escribir fórmulas
-    C. Crear libros
+    A. Escribir fórmulas
+    B. Crear libros
+    C. Mostrar evolución temporal
     D. Proteger comentarios
 
 17. Un comentario o nota en una celda sirve para:
-    A. Añadir información asociada a esa celda
-    B. Convertir la celda en libro
+    A. Convertir la celda en libro
+    B. Añadir información asociada a esa celda
     C. Iniciar una fórmula
     D. Eliminar una hoja
 
 18. La celda activa es:
-    A. La celda seleccionada en ese momento
-    B. La primera celda de todas las hojas
+    A. La primera celda de todas las hojas
+    B. La celda seleccionada en ese momento
     C. La última celda con datos
     D. Una celda protegida obligatoriamente
 
@@ -796,9 +796,9 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 
 20. ¿Cuál de las siguientes fórmulas tiene estructura válida en Excel?
     A. `SUMA A1:A10`
-    B. `=SUMA(A1:A10)`
-    C. `SUMA=A1:A10`
-    D. `#SUMA(A1:A10)`
+    B. `SUMA=A1:A10`
+    C. `#SUMA(A1:A10)`
+    D. `=SUMA(A1:A10)`
 
 21. ¿Qué referencia queda fija en columna y fila al copiar una fórmula?
     A. `A1`
@@ -813,20 +813,20 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     D. Comentario
 
 23. En una tabla dinámica, el área `Valores` contiene normalmente:
-    A. Cálculos como suma, recuento o promedio
-    B. Sólo nombres de hojas
-    C. Comentarios del libro
-    D. Hipervínculos externos
+    A. Sólo nombres de hojas
+    B. Comentarios del libro
+    C. Hipervínculos externos
+    D. Cálculos como suma, recuento o promedio
 
 24. Un gráfico de columnas se usa principalmente para:
-    A. Comparar categorías
-    B. Editar fórmulas
-    C. Proteger una hoja
-    D. Cambiar el nombre del libro
+    A. Editar fórmulas
+    B. Proteger una hoja
+    C. Cambiar el nombre del libro
+    D. Comparar categorías
 
 25. El error `#DIV/0!` aparece normalmente cuando:
-    A. Se divide entre cero
-    B. Falta una hoja
+    A. Falta una hoja
+    B. Se divide entre cero
     C. Hay demasiados gráficos
     D. Se usa un hipervínculo
 
@@ -837,16 +837,16 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     D. Inserta una hoja nueva
 
 27. Inmovilizar paneles sirve para:
-    A. Mantener filas o columnas visibles al desplazarse
-    B. Bloquear todas las fórmulas para siempre
-    C. Cerrar el libro
+    A. Bloquear todas las fórmulas para siempre
+    B. Cerrar el libro
+    C. Mantener filas o columnas visibles al desplazarse
     D. Cambiar el separador decimal
 
 28. El formato de número permite:
-    A. Cambiar cómo se muestra un valor, por ejemplo como fecha o porcentaje
-    B. Cambiar siempre el valor real almacenado
-    C. Crear un hipervínculo
-    D. Eliminar una hoja
+    A. Cambiar siempre el valor real almacenado
+    B. Crear un hipervínculo
+    C. Eliminar una hoja
+    D. Cambiar cómo se muestra un valor, por ejemplo como fecha o porcentaje
 
 29. Una leyenda en un gráfico sirve para:
     A. Identificar series de datos
@@ -860,40 +860,110 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     C. Cambiar la orientación de impresión
     D. Borrar todos los gráficos
 
+31. ¿Cuál es el primer paso para crear una tabla dinámica según el procedimiento habitual?
+    A. Tener datos organizados con encabezados
+    B. Actualizar los datos de origen
+    C. Insertar un gráfico dinámico
+    D. Aplicar formato condicional
+
+32. Si los datos de origen de una tabla dinámica cambian, ¿qué ocurre con la tabla dinámica?
+    A. Se actualiza automáticamente sin ninguna acción
+    B. Hay que actualizarla para reflejar los cambios
+    C. Deja de funcionar y hay que crearla de nuevo
+    D. Los cambios solo afectan a los gráficos dinámicos, no a la tabla
+
+33. A diferencia de una tabla normal de Excel, una tabla dinámica:
+    A. No permite usar filtros
+    B. No puede tener encabezados
+    C. Resume y reorganiza los datos de forma interactiva, además de organizarlos
+    D. Solo admite datos numéricos
+
+34. Frente a una tabla dinámica, filtrar datos de un rango normal:
+    A. Es lo mismo que crear una tabla dinámica
+    B. Sustituye siempre a la tabla dinámica
+    C. Convierte automáticamente el rango en gráfico dinámico
+    D. Solo oculta registros que no cumplen un criterio, sin resumir ni reorganizar los datos
+
+35. En una tabla dinámica, el área `Filtros` sirve para:
+    A. Limitar la información mostrada en el conjunto de la tabla
+    B. Realizar cálculos como suma o promedio
+    C. Agrupar datos verticalmente
+    D. Agrupar datos horizontalmente
+
+36. Las segmentaciones de datos en una tabla dinámica son:
+    A. Fórmulas para calcular subtotales
+    B. Botones visuales que permiten filtrar de forma interactiva
+    C. Un tipo de gráfico dinámico
+    D. Una función de texto
+
+37. Un gráfico dinámico se actualiza automáticamente cuando:
+    A. Se cambia el tipo de letra del libro
+    B. Se guarda el libro con otro nombre
+    C. Se reorganizan los campos, filtros o segmentaciones de su tabla dinámica
+    D. Se cambia el número de hojas del libro
+
+38. A diferencia de un gráfico normal, un gráfico dinámico:
+    A. No puede tener título ni leyenda
+    B. Solo puede ser de tipo circular
+    C. No se puede imprimir
+    D. Está vinculado a una tabla dinámica y depende de sus campos
+
+39. ¿Qué tipo de gráfico es más adecuado para relacionar dos series numéricas entre sí?
+    A. Dispersión
+    B. Circular
+    C. Columnas
+    D. Área
+
+40. Un gráfico circular con demasiadas categorías:
+    A. Mejora automáticamente la claridad
+    B. Pierde claridad y no es adecuado para comparar evoluciones temporales
+    C. Se convierte automáticamente en gráfico de líneas
+    D. No puede tener leyenda
+
 ### Plantilla
 
 | Nº | Respuesta | Explicación |
 | ---: | :---: | --- |
-| 1 | B | El archivo de Excel se denomina libro. |
-| 2 | C | La celda es la intersección entre fila y columna. |
+| 1 | D | El archivo de Excel se denomina libro. |
+| 2 | D | La celda es la intersección entre fila y columna. |
 | 3 | A | Las fórmulas empiezan por `=`. |
-| 4 | A | La barra de fórmulas muestra y permite editar el contenido de la celda activa. |
+| 4 | D | La barra de fórmulas muestra y permite editar el contenido de la celda activa. |
 | 5 | B | `A1:A10` es un rango de celdas. |
-| 6 | B | `DERECHA` extrae caracteres desde el final del texto. |
-| 7 | A | La tabla dinámica resume y analiza datos. |
-| 8 | A | Un hipervínculo permite saltar a otro destino. |
-| 9 | D | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
-| 10 | A | Ordenar cambia el orden de los datos. |
-| 11 | B | Filtrar muestra sólo registros que cumplen criterios. |
-| 12 | A | La organización horizontal afecta a ventanas abiertas. |
+| 6 | A | `DERECHA` extrae caracteres desde el final del texto. |
+| 7 | B | La tabla dinámica resume y analiza datos. |
+| 8 | B | Un hipervínculo permite saltar a otro destino. |
+| 9 | C | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
+| 10 | C | Ordenar cambia el orden de los datos. |
+| 11 | C | Filtrar muestra sólo registros que cumplen criterios. |
+| 12 | C | La organización horizontal afecta a ventanas abiertas. |
 | 13 | A | Una función es una fórmula predefinida. |
 | 14 | B | `SI` evalúa una condición. |
-| 15 | A | En Excel español se usa habitualmente `;`. |
-| 16 | A | Las líneas son útiles para evolución temporal. |
-| 17 | A | Los comentarios o notas añaden información. |
-| 18 | A | La celda activa es la seleccionada. |
+| 15 | C | En Excel español se usa habitualmente `;`. |
+| 16 | C | Las líneas son útiles para evolución temporal. |
+| 17 | B | Los comentarios o notas añaden información. |
+| 18 | B | La celda activa es la seleccionada. |
 | 19 | A | `Datos` agrupa herramientas como ordenar y filtrar. |
-| 20 | B | Una fórmula empieza por `=` y usa función con paréntesis. |
+| 20 | D | Una fórmula empieza por `=` y usa función con paréntesis. |
 | 21 | B | `$A$1` fija columna y fila. |
 | 22 | A | La validación limita entradas permitidas. |
-| 23 | A | `Valores` contiene cálculos resumidos. |
-| 24 | A | Columnas compara categorías. |
-| 25 | A | `#DIV/0!` indica división entre cero. |
+| 23 | D | `Valores` contiene cálculos resumidos. |
+| 24 | D | Columnas compara categorías. |
+| 25 | B | `#DIV/0!` indica división entre cero. |
 | 26 | A | Quitar duplicados elimina repetidos si se confirma. |
-| 27 | A | Inmovilizar mantiene filas o columnas visibles. |
-| 28 | A | El formato cambia la visualización del valor. |
+| 27 | C | Inmovilizar mantiene filas o columnas visibles. |
+| 28 | D | El formato cambia la visualización del valor. |
 | 29 | A | La leyenda identifica series. |
 | 30 | A | Texto en columnas separa contenido en varias columnas. |
+| 31 | A | Se necesitan datos con encabezados antes de insertar la tabla dinámica. |
+| 32 | B | Los cambios de origen no se reflejan solos; hay que actualizar. |
+| 33 | C | La tabla dinámica resume y reorganiza, no solo organiza. |
+| 34 | D | Filtrar oculta registros, pero no resume ni reorganiza campos. |
+| 35 | A | `Filtros` limita la información mostrada en toda la tabla. |
+| 36 | B | Las segmentaciones son botones visuales de filtrado. |
+| 37 | C | El gráfico dinámico depende de los campos de su tabla dinámica. |
+| 38 | D | El gráfico dinámico está vinculado a una tabla dinámica. |
+| 39 | A | La dispersión relaciona dos series numéricas. |
+| 40 | B | Demasiadas categorías en un circular reducen su claridad. |
 
 ## 8. Esquema final
 

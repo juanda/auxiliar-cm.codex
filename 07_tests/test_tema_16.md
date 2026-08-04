@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento predictivo para Windows 10. Se combinan recurrencias históricas del Explorador con puntos probables de convocatoria: búsqueda, Este equipo, Acceso rápido, accesorios y herramientas del sistema.
 
+Tiempo recomendado: 41 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
 ## Preguntas
 
 1. ¿Qué combinación de teclas abre el Explorador de archivos?

@@ -1,246 +1,248 @@
 # Test Tema 11. Seguridad Social
 
-1. La norma que aprueba el texto refundido de la Ley General de la Seguridad Social es:
+Preguntas nuevas de entrenamiento, distintas del test embebido en `05_temario/tema_11_seguridad_social.md`.
 
-A. Real Decreto-ley 8/2015, de 30 de octubre.  
-B. Ley 8/2015, de 30 de octubre.  
-C. Real Decreto 8/2015, de 30 de octubre.  
-D. Real Decreto Legislativo 8/2015, de 30 de octubre.
+1. El principio de universalidad del sistema de Seguridad Social significa:
 
-2. Según el artículo 41 de la Constitución, los poderes públicos mantendrán:
+A. Protección limitada solo a trabajadores por cuenta ajena.  
+B. Financiación exclusiva mediante impuestos.  
+C. Gestión exclusivamente autonómica.  
+D. Vocación de cobertura amplia hacia todas las personas incluidas en el sistema.
 
-A. Un sistema privado obligatorio de previsión social.  
-B. Un régimen público de Seguridad Social para todos los ciudadanos.  
-C. Un régimen asistencial solo para trabajadores cotizantes.  
-D. Un sistema autonómico único de protección social.
+2. El principio de unidad del sistema implica que:
 
-3. NO es principio del sistema de Seguridad Social citado en el artículo 2.1 LGSS:
+A. El sistema funciona de forma coordinada e integrada, no como suma de seguros inconexos.  
+B. Cada régimen actúa de forma totalmente independiente.  
+C. Solo se aplica a los regímenes especiales.  
+D. Excluye la coordinación entre entidades gestoras.
 
-A. Universalidad.  
-B. Unidad.  
-C. Subsidiariedad.  
-D. Solidaridad.
+3. El principio de solidaridad del sistema se traduce en:
 
-4. El sistema de la Seguridad Social está integrado por:
+A. Reparto exclusivo entre trabajadores del mismo régimen.  
+B. Redistribución entre generaciones, territorios y situaciones de necesidad.  
+C. Aportación voluntaria de cada afiliado.  
+D. Compensación solo entre Comunidades Autónomas.
 
-A. Régimen General y regímenes especiales.  
+4. El principio de igualdad del sistema implica:
+
+A. Reconocimiento de prestaciones idénticas en importe para todos los casos.  
+B. Aplicación exclusiva a pensiones contributivas.  
+C. Prohibición de diferencias de trato injustificadas dentro del sistema.  
+D. Excepción para regímenes especiales.
+
+5. El régimen especial que corresponde específicamente a los trabajadores del mar es:
+
+A. Funcionarios civiles del Estado.  
+B. Trabajadores por cuenta propia o autónomos.  
+C. Minería del carbón.  
+D. Trabajadores del mar.
+
+6. El Régimen Especial de Trabajadores Autónomos (RETA) corresponde a:
+
+A. Trabajadores por cuenta propia o autónomos.  
+B. Trabajadores del mar.  
+C. Minería del carbón.  
+D. Funcionarios públicos.
+
+7. La estructura del sistema prevista en el artículo 9 LGSS NO se corresponde con la clasificación de:
+
+A. Régimen General.  
 B. Régimen contributivo y régimen asistencial.  
-C. Régimen único y régimen complementario.  
-D. Régimen General, entidades gestoras y servicios comunes.
+C. Regímenes especiales.  
+D. Régimen General y regímenes especiales conjuntamente.
 
-5. La afiliación a la Seguridad Social es:
+8. La Gerencia de Informática de la Seguridad Social se encarga principalmente de:
 
-A. Voluntaria, renovable y limitada a cada régimen.  
-B. Obligatoria, única y para toda la vida.  
-C. Obligatoria, pero debe renovarse al cambiar de actividad.  
-D. Potestativa si el trabajador ya cotizó anteriormente.
+A. Reconocimiento de prestaciones económicas.  
+B. Recaudación de cuotas en vía ejecutiva.  
+C. Sistemas de información y soporte tecnológico del sistema.  
+D. Gestión sanitaria en Ceuta y Melilla.
 
-6. La diferencia correcta entre afiliación y alta es:
+9. El Servicio Jurídico de la Administración de la Seguridad Social se ocupa de:
 
-A. La afiliación incorpora al sistema; el alta vincula a una actividad concreta.  
-B. La afiliación se produce cada mes; el alta solo una vez.  
-C. La afiliación corresponde a empresas; el alta a mutuas.  
-D. No existe diferencia.
+A. Gestión de la caja única.  
+B. Reconocimiento de pensiones no contributivas.  
+C. Inscripción de empresas.  
+D. Asistencia jurídica y representación o defensa en los términos legales.
 
-7. La Tesorería General de la Seguridad Social se asocia principalmente con:
+10. La distribución correcta de funciones entre entidad gestora y servicio común es:
 
-A. Gestión de prestaciones sanitarias.  
-B. Caja única, afiliación, cotización y recaudación.  
-C. Pensiones no contributivas exclusivamente.  
-D. Gestión del Régimen Especial del Mar.
+A. El INSS reconoce y controla prestaciones económicas; la TGSS gestiona la caja única, afiliación y recaudación.  
+B. La TGSS reconoce prestaciones económicas y el INSS gestiona la caja única.  
+C. Ambos organismos realizan exactamente las mismas funciones.  
+D. El INSS gestiona exclusivamente la recaudación ejecutiva.
 
-8. El INSS se asocia principalmente con:
+11. Las mutuas colaboradoras con la Seguridad Social NO son:
 
-A. Reconocimiento y control de prestaciones económicas.  
-B. Recaudación ejecutiva de cuotas.  
-C. Inscripción de empresas únicamente.  
-D. Gestión informática del sistema.
+A. Asociaciones privadas de empresarios.  
+B. Entidades gestoras del sistema.  
+C. Colaboradoras autorizadas por la Administración.  
+D. Entidades sin ánimo de lucro.
 
-9. Las mutuas colaboradoras con la Seguridad Social son:
+12. Entre las actividades atribuidas a las mutuas colaboradoras figura:
 
-A. Entidades gestoras estatales.  
-B. Asociaciones privadas autorizadas que colaboran en determinadas prestaciones.  
-C. Órganos autonómicos de recaudación.  
-D. Servicios comunes con caja única.
+A. Aprobación de la Ley General de la Seguridad Social.  
+B. Fijación anual del salario mínimo interprofesional.  
+C. Gestión de prestaciones derivadas de accidente de trabajo y enfermedad profesional.  
+D. Dictado de sentencias sobre prestaciones.
 
-10. Una actividad atribuida a las mutuas colaboradoras es:
+13. Entre las actividades atribuidas a las mutuas colaboradoras también figura:
 
-A. Aprobar la Ley General de la Seguridad Social.  
-B. Gestionar la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave.  
-C. Dictar sentencias sobre prestaciones.  
-D. Fijar anualmente el salario mínimo interprofesional.
+A. Gestión exclusiva de pensiones de jubilación.  
+B. Inscripción de empresas nuevas.  
+C. Aprobación del presupuesto de la Seguridad Social.  
+D. Prestaciones económicas por riesgo durante el embarazo o la lactancia natural, cuando proceda.
 
-11. Las bases de cotización tienen como tope máximo:
+14. Las mutuas colaboradoras también intervienen en:
 
-A. El salario mínimo interprofesional.  
-B. La cuantía fijada cada año por la Ley de Presupuestos Generales del Estado.  
-C. El 75% del salario mínimo interprofesional.  
-D. Una cuantía fijada por cada mutua.
+A. Colaboración en la gestión del cese de actividad de trabajadores autónomos.  
+B. Gestión exclusiva de la asistencia sanitaria pública.  
+C. Recaudación general de cuotas empresariales.  
+D. Aprobación de altas y bajas de oficio.
 
-12. Como regla general del artículo 19.2 LGSS, el tope mínimo de las bases de cotización se vincula a:
+15. La afiliación a la Seguridad Social se define como:
 
-A. El salario mínimo interprofesional vigente incrementado en un sexto, salvo disposición expresa.  
-B. El 50% del salario mínimo interprofesional.  
-C. La pensión media de jubilación.  
-D. La base máxima del año anterior.
+A. Un contrato privado entre trabajador y mutua.  
+B. El acto administrativo por el que una persona queda incorporada al sistema de la Seguridad Social.  
+C. Una obligación exclusivamente tributaria.  
+D. Un trámite voluntario y renovable cada año.
 
-13. La cuota de Seguridad Social es:
+16. ¿Debe renovarse la afiliación cada vez que una persona cambia de régimen?
 
-A. La suma de todas las prestaciones reconocidas.  
-B. El resultado de aplicar el tipo de cotización a la base.  
-C. La edad ordinaria de jubilación.  
-D. El número de afiliación.
+A. Es cierto: cada régimen exige una nueva afiliación.  
+B. Es cierto, salvo para autónomos.  
+C. Es falso: la afiliación es única y no se renueva al cambiar de régimen.  
+D. Depende de si el cambio es voluntario o forzoso.
 
-14. El derecho de la Administración de la Seguridad Social para determinar deudas por cuotas mediante liquidación prescribe, como regla histórica preguntada, a los:
+17. Respecto a la práctica de oficio de la afiliación:
 
-A. 2 años.  
-B. 3 años.  
-C. 4 años.  
-D. 5 años.
+A. No, solo puede practicarla el trabajador.  
+B. No, solo puede practicarla el empresario.  
+C. No, requiere siempre resolución judicial.  
+D. Sí puede practicarse de oficio por la Administración.
 
-15. La recaudación de cuotas de la Seguridad Social corresponde principalmente a:
+18. La inscripción de empresa en la Seguridad Social afecta principalmente:
 
-A. INSS.  
-B. TGSS.  
-C. IMSERSO.  
-D. INGESA.
+A. Al empresario, que queda identificado como empleador ante la Seguridad Social.  
+B. Al trabajador, que queda incorporado al sistema.  
+C. A la mutua colaboradora.  
+D. Al pensionista no contributivo.
 
-16. Una contingencia profesional es:
+19. El alta en la Seguridad Social comunica:
 
-A. Enfermedad común.  
-B. Accidente no laboral.  
-C. Enfermedad profesional.  
-D. Jubilación no contributiva.
+A. La incorporación única y vitalicia al sistema.  
+B. El inicio o la reanudación de una actividad concreta encuadrada en el sistema.  
+C. El cese definitivo en toda actividad.  
+D. La inscripción del empresario.
 
-17. Una contingencia común es:
+20. La baja en la Seguridad Social comunica:
 
-A. Accidente de trabajo.  
-B. Enfermedad profesional.  
-C. Enfermedad común.  
-D. Riesgo laboral durante lactancia.
+A. El inicio de una nueva actividad.  
+B. La incorporación por primera vez al sistema.  
+C. El cese en una actividad concreta.  
+D. La identificación del empleador.
 
-18. El percibo de la pensión de jubilación es compatible con trabajos por cuenta propia cuyos ingresos anuales totales:
+21. La variación de datos en la Seguridad Social sirve para:
 
-A. No superen el 75% del SMI anual.  
-B. No superen el salario mínimo interprofesional en cómputo anual.  
-C. Superen la base máxima de cotización.  
-D. No existe compatibilidad en ningún caso.
+A. Dar de baja definitivamente a la empresa.  
+B. Solicitar una prestación económica.  
+C. Iniciar la vía ejecutiva de recaudación.  
+D. Comunicar cambios relevantes de la empresa o del trabajador.
 
-19. El IMSERSO se asocia especialmente con:
+22. La cotización, en cuanto obligación periódica, significa que:
 
-A. Pensiones no contributivas y servicios sociales complementarios.  
-B. Caja única y recaudación.  
-C. Gestión exclusiva de desempleo.  
-D. Inscripción de empresas.
+A. Se realiza por periodos de liquidación.  
+B. Se realiza una única vez en la vida del trabajador.  
+C. Solo se exige a los trabajadores autónomos.  
+D. Depende de la voluntad del empresario.
 
-20. El ISM está vinculado al:
+23. Que la cotización esté sujeta a topes significa que:
 
-A. Régimen Especial de Trabajadores del Mar.  
-B. Régimen Especial de Minería del Carbón exclusivamente.  
-C. Régimen General de empleados públicos.  
-D. Ingreso mínimo vital exclusivamente.
+A. No existe ningún límite a las bases de cotización.  
+B. Existen bases máximas y mínimas de cotización.  
+C. El tope depende exclusivamente de cada mutua.  
+D. Solo se aplican topes a los autónomos.
 
-21. El Régimen Especial de Trabajadores Autónomos es un:
+24. La base de cotización se define como:
 
-A. Servicio común.  
-B. Régimen especial.  
-C. Entidad gestora.  
-D. Concepto de recaudación conjunta.
+A. El resultado final de aplicar el tipo a la base.  
+B. El porcentaje que se aplica a la base.  
+C. La magnitud económica sobre la que se aplica el tipo de cotización.  
+D. El número de afiliación del trabajador.
 
-22. En trabajo por cuenta ajena, la empresa:
+25. El tipo de cotización se define como:
 
-A. Ingresa solo la aportación empresarial.  
-B. Ingresa la aportación empresarial y la del trabajador.  
-C. No interviene en la cotización.  
-D. Solo comunica la jubilación.
+A. La magnitud económica sobre la que se calcula la cuota.  
+B. El resultado final de aplicar el porcentaje a la base.  
+C. El plazo de prescripción de la deuda.  
+D. El porcentaje aplicable a la base de cotización.
 
-23. La acción protectora de la Seguridad Social comprende:
+26. Son conceptos de recaudación conjunta, entre otros:
 
-A. Solo prestaciones sanitarias.  
-B. Solo pensiones contributivas.  
-C. Prestaciones frente a contingencias y situaciones de necesidad legalmente protegidas.  
-D. Solo ayudas autonómicas.
+A. Cantidades como desempleo, formación profesional o FOGASA, cuando proceda, recaudadas junto a las cuotas.  
+B. Solo las cuotas de accidente de trabajo.  
+C. Exclusivamente sanciones administrativas.  
+D. Solo las aportaciones voluntarias del trabajador.
 
-24. El desempleo aparece en el artículo 41 CE como:
+27. La recaudación en periodo voluntario y en vía ejecutiva consisten, respectivamente, en:
 
-A. Supuesto especialmente mencionado.  
-B. Prestación complementaria libre exclusivamente.  
-C. Materia ajena a la Seguridad Social.  
-D. Competencia exclusiva municipal.
+A. Dos fases idénticas sin diferencia práctica.  
+B. El ingreso dentro del plazo reglamentario y la actuación forzosa ante la falta de ingreso, respectivamente.  
+C. Dos procedimientos que solo afectan a autónomos.  
+D. Dos trámites gestionados exclusivamente por el INSS.
 
-25. Las prestaciones complementarias, según el artículo 41 CE:
+28. La acción para imponer sanciones por incumplimiento de normas de Seguridad Social:
 
-A. Serán libres.  
-B. Están prohibidas.  
-C. Sustituyen al régimen público.  
-D. Son obligatorias para todos los ciudadanos.
+A. Prescribe siempre en el mismo plazo de 4 años que las cuotas.  
+B. No prescribe nunca.  
+C. Se rige por su propia normativa sancionadora y no debe confundirse con el plazo de prescripción de las cuotas.  
+D. Prescribe a los 10 años en todo caso.
 
-26. Las entidades gestoras:
+29. La modalidad contributiva de las prestaciones se caracteriza porque:
 
-A. Son lo mismo que los regímenes de Seguridad Social.  
-B. Gestionan prestaciones o ámbitos del sistema según sus competencias.  
-C. Recaudan siempre todas las cuotas empresariales.  
-D. Son exclusivamente autonómicas.
+A. Protege situaciones de necesidad sin exigir cotización.  
+B. Se financia exclusivamente con impuestos.  
+C. Solo se aplica a autónomos.  
+D. Exige cotización previa o una relación profesional incluida en el sistema.
 
-27. La inscripción de empresas afecta principalmente:
+30. Las prestaciones no contributivas y los complementos asumidos por presupuesto se financian principalmente con:
 
-A. Al empresario.  
-B. Al pensionista no contributivo.  
-C. A la mutua.  
-D. Al órgano judicial.
-
-28. El alta en Seguridad Social comunica:
-
-A. La primera incorporación vitalicia al sistema.  
-B. El inicio o reanudación de una actividad concreta.  
-C. La aprobación de una prestación.  
-D. La extinción del sistema.
-
-29. La modalidad no contributiva se caracteriza por:
-
-A. Exigir siempre cotización previa máxima.  
-B. Proteger situaciones de necesidad aunque no exista cotización suficiente.  
-C. Ser un régimen especial del artículo 9.  
-D. Depender de la libre contratación privada.
-
-30. ¿Cuál es la asociación correcta?
-
-A. TGSS - caja única y recaudación.  
-B. INSS - salario mínimo interprofesional.  
-C. Mutuas - aprobación de leyes.  
-D. IMSERSO - recaudación ejecutiva de cuotas.
+A. Aportaciones del Estado.  
+B. Exclusivamente cotizaciones sociales.  
+C. Solo recargos y sanciones.  
+D. Únicamente rendimientos patrimoniales.
 
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | D | RDL 8/2015 |
-| 2 | B | CE, art. 41 |
-| 3 | C | LGSS, art. 2 |
-| 4 | A | LGSS, art. 9 |
-| 5 | B | LGSS, arts. 15-16 |
-| 6 | A | RD 84/1996 |
-| 7 | B | TGSS |
-| 8 | A | INSS |
-| 9 | B | Mutuas colaboradoras |
-| 10 | B | LGSS, mutuas |
-| 11 | B | LGSS, art. 19 |
-| 12 | A | LGSS, art. 19 |
-| 13 | B | Cotización |
-| 14 | C | LGSS, art. 24 |
-| 15 | B | LGSS, art. 21 |
-| 16 | C | Contingencias profesionales |
-| 17 | C | Contingencias comunes |
-| 18 | B | LGSS, art. 213.4 |
-| 19 | A | IMSERSO |
-| 20 | A | ISM |
-| 21 | B | Regímenes especiales |
-| 22 | B | Cotización cuenta ajena |
-| 23 | C | Acción protectora |
-| 24 | A | CE, art. 41 |
-| 25 | A | CE, art. 41 |
-| 26 | B | Gestión del sistema |
-| 27 | A | Inscripción |
-| 28 | B | Alta |
-| 29 | B | Modalidad no contributiva |
-| 30 | A | TGSS |
+| 1 | D | LGSS, principios |
+| 2 | A | LGSS, art. 2 |
+| 3 | B | LGSS, art. 2 |
+| 4 | C | LGSS, art. 2 |
+| 5 | D | Regímenes especiales |
+| 6 | A | RETA |
+| 7 | B | LGSS, art. 9 |
+| 8 | C | Servicios comunes |
+| 9 | D | Servicios comunes |
+| 10 | A | INSS / TGSS |
+| 11 | B | Mutuas colaboradoras |
+| 12 | C | Mutuas colaboradoras |
+| 13 | D | Mutuas colaboradoras |
+| 14 | A | Mutuas colaboradoras |
+| 15 | B | LGSS, afiliación |
+| 16 | C | LGSS, afiliación |
+| 17 | D | LGSS, afiliación |
+| 18 | A | RD 84/1996 |
+| 19 | B | RD 84/1996 |
+| 20 | C | RD 84/1996 |
+| 21 | D | RD 84/1996 |
+| 22 | A | LGSS, cotización |
+| 23 | B | LGSS, art. 19 |
+| 24 | C | LGSS, cotización |
+| 25 | D | LGSS, cotización |
+| 26 | A | LGSS, recaudación conjunta |
+| 27 | B | LGSS, recaudación |
+| 28 | C | LGSS, prescripción |
+| 29 | D | Modalidad contributiva |
+| 30 | A | Financiación |

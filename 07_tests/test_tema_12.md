@@ -1,246 +1,248 @@
 # Test Tema 12. Hacienda Publica y Presupuestos
 
-1. Según la Constitución, el Estado tiene competencia exclusiva sobre:
+Preguntas nuevas de entrenamiento, distintas del test embebido en `05_temario/tema_12_hacienda_presupuestos.md`.
 
-A. Hacienda general y Deuda del Estado.  
-B. Solo legislación básica sobre Hacienda general.  
-C. Hacienda general de las Comunidades Autónomas y Haciendas Locales.  
-D. Presupuestos autonómicos y locales.
+1. El artículo 31 de la Constitución establece el deber de:
 
-2. La potestad originaria para establecer tributos corresponde:
+A. Contribuir únicamente mediante tasas municipales.  
+B. Contribuir al sostenimiento de los gastos públicos según su capacidad económica, mediante un sistema tributario justo, progresivo y no confiscatorio.  
+C. Contribuir solo si se es funcionario público.  
+D. Contribuir exclusivamente a través de la Seguridad Social.
 
-A. Exclusivamente al Estado, mediante ley.  
-B. Exclusivamente a las Comunidades Autónomas.  
-C. A los municipios, mediante ordenanza.  
-D. Al Gobierno, mediante reglamento.
+2. Según el artículo 134 de la Constitución, los Presupuestos Generales del Estado:
 
-3. Son principios históricos de actuación de la Comunidad de Madrid en Hacienda Pública:
+A. Los elabora y aprueba directamente el Congreso sin intervención del Gobierno.  
+B. Los aprueba el Tribunal de Cuentas.  
+C. Los elabora el Gobierno y los examina, enmienda y aprueba las Cortes Generales, con carácter anual.  
+D. Tienen carácter plurianual obligatorio.
 
-A. Legalidad, eficiencia, control, universalidad, solidaridad interregional y coordinación.  
-B. Legalidad, eficacia, control, universalidad, solidaridad intrarregional y coordinación.  
-C. Legalidad, transparencia, economía, plurianualidad y coordinación.  
-D. Eficiencia, productividad, rentabilidad y caja única.
+3. El artículo 156 de la Constitución reconoce a las Comunidades Autónomas:
 
-4. La Consejería de Hacienda, según la pregunta histórica sobre la Ley 9/1990, es:
+A. Independencia total respecto de la Hacienda estatal.  
+B. Autonomía financiera exclusivamente en materia tributaria local.  
+C. Subordinación absoluta a la Hacienda estatal sin autonomía.  
+D. Autonomía financiera para el desarrollo y ejecución de sus competencias, coordinada con la Hacienda estatal y con solidaridad.
 
-A. El órgano superior de la Administración de la Comunidad en materias objeto de la Ley.  
-B. El órgano que aprueba la Ley de Presupuestos.  
-C. El órgano que sustituye a la Asamblea en materia presupuestaria.  
-D. Un órgano externo de fiscalización.
+4. El artículo 157 de la Constitución se refiere principalmente a:
 
-5. La Tesorería de la Comunidad de Madrid se inspira en:
+A. El artículo constitucional que regula los recursos de las Comunidades Autónomas.  
+B. El artículo que regula la Deuda del Estado en exclusiva.  
+C. El artículo que atribuye la Hacienda general al Estado.  
+D. El artículo que regula los Presupuestos Generales del Estado.
 
-A. El principio de máximo rendimiento.  
-B. Los principios de equidad y productividad.  
-C. El principio de caja única.  
-D. El principio de especialidad cualitativa.
+5. La LOFCA, en materia de financiación autonómica:
 
-6. La Ley de Presupuestos Generales de la Comunidad de Madrid la aprueba:
+A. Suprime la autonomía financiera autonómica.  
+B. Reconoce la autonomía financiera de las Comunidades Autónomas ejercida de forma coordinada con la Hacienda estatal.  
+C. Regula exclusivamente los tributos locales.  
+D. Solo se aplica a la Comunidad de Madrid.
 
-A. La Asamblea de Madrid.  
-B. El Consejo de Gobierno.  
-C. La Consejería de Hacienda.  
-D. La Intervención General.
+6. El concepto de Hacienda Pública, según el tema:
 
-7. El Consejo de Gobierno interviene en el ciclo presupuestario aprobando:
+A. Se limita exclusivamente a los impuestos recaudados.  
+B. Se limita a la gestión de la deuda pública.  
+C. Incluye ingresos, gastos, presupuesto, tesorería, contabilidad y control, no solo impuestos.  
+D. Solo comprende el presupuesto de gastos.
 
-A. La Ley definitiva.  
-B. El proyecto de Ley de Presupuestos para remitirlo a la Asamblea.  
-C. La cuenta general como órgano externo.  
-D. Las enmiendas parlamentarias.
+7. La Ley 47/2003, General Presupuestaria:
 
-8. El presupuesto de la Comunidad de Madrid, según la fórmula histórica, es:
+A. Sustituye íntegramente a la Ley 9/1990 en la Comunidad de Madrid.  
+B. Solo regula los tributos autonómicos.  
+C. Es una norma exclusivamente municipal.  
+D. Es la referencia estatal de principios presupuestarios y no desplaza a la Ley 9/1990 en la Comunidad de Madrid.
 
-A. Bianual, por capítulos y aprobado por Consejo de Gobierno.  
-B. Anual, único, por programas y aprobado por la Asamblea.  
-C. Semestral, por objetivos y aprobado por la Consejería.  
-D. Anual, múltiple y excluye organismos autónomos.
+8. La Hacienda de la Comunidad de Madrid comprende:
 
-9. Si no se aprueba la Ley de Presupuestos antes del primer día del ejercicio:
+A. La Administración de la Comunidad de Madrid, sus organismos autónomos y las empresas públicas coordinadas con la Hacienda autonómica.  
+B. Solo la Administración General del Estado en territorio madrileño.  
+C. Exclusivamente los ayuntamientos de la Comunidad de Madrid.  
+D. Solo las empresas privadas concesionarias.
 
-A. Se paraliza toda la actividad de gasto.  
-B. Se prorrogan automáticamente los presupuestos anteriores hasta publicación en BOCM y entrada en vigor de los nuevos.  
-C. Se prorrogan hasta publicación en BOE.  
-D. Se aprueban por decreto de la Mesa de la Asamblea.
+9. Dentro de la estructura material de la Ley 9/1990, el bloque de "obligaciones económicas" regula:
 
-10. La publicación relevante de la Ley de Presupuestos autonómica, según la pregunta histórica, es en:
+A. Elaboración, aprobación y liquidación de los presupuestos.  
+B. Nacimiento, exigibilidad, pago y prescripción de las obligaciones.  
+C. Caja única y gestión de cobros y pagos.  
+D. Fiscalización previa y control financiero.
 
-A. BOE.  
-B. BOCM.  
-C. Diario Oficial de la Unión Europea.  
-D. Boletín municipal.
+10. Dentro de la estructura material de la Ley 9/1990, el bloque de "responsabilidades" se refiere a:
 
-11. ¿Cuál de los siguientes supuestos fue la opción sometida a intervención previa en la pregunta histórica de 2017?
+A. La responsabilidad penal de los diputados.  
+B. La responsabilidad civil entre particulares.  
+C. La responsabilidad por daños causados a la Hacienda autonómica.  
+D. La responsabilidad disciplinaria general de los funcionarios.
 
-A. Contratos menores.  
-B. Subvenciones nominativas.  
-C. Gastos mayores de 5.000 euros por anticipos de caja fija.  
-D. Gastos periódicos una vez intervenido el gasto inicial.
+11. Sobre los principios históricos de actuación de la Comunidad de Madrid en Hacienda Pública:
 
-12. La intervención previa es:
+A. Eficiencia es el término correcto de la fórmula histórica.  
+B. Ambos términos son intercambiables en la Ley 9/1990.  
+C. Ninguno de los dos términos aparece en los principios.  
+D. Eficacia, no eficiencia, es el principio recogido en la fórmula histórica.
 
-A. Un control interno anterior a la aprobación o eficacia económica de ciertos actos.  
-B. Un control judicial penal.  
-C. La aprobación parlamentaria del presupuesto.  
-D. La publicación del presupuesto.
+12. Sobre la solidaridad como principio de actuación de la Comunidad de Madrid en Hacienda Pública:
 
-13. La Cámara de Cuentas realiza principalmente:
+A. La fórmula histórica usa solidaridad intrarregional, no interregional.  
+B. La fórmula histórica usa solidaridad interregional, no intrarregional.  
+C. Se usan ambos términos indistintamente.  
+D. Ninguno de los dos términos forma parte de los principios.
 
-A. Control externo.  
-B. Ordenación de pagos.  
-C. Aprobación de créditos iniciales.  
-D. Elaboración del anteproyecto.
+13. NO corresponde al Consejo de Gobierno, sino a la Asamblea de Madrid:
 
-14. La Intervención General se vincula principalmente a:
+A. Aprobar el proyecto de Ley de Presupuestos.  
+B. Aprobar definitivamente la Ley de Presupuestos.  
+C. Dirigir la política económica del Gobierno autonómico.  
+D. Elevar el anteproyecto integrado al trámite correspondiente.
 
-A. Control interno.  
-B. Control externo parlamentario.  
-C. Aprobación de leyes.  
-D. Gestión electoral.
+14. El presupuesto de la Comunidad de Madrid, en cuanto a su alcance:
 
-15. Un crédito presupuestario es:
+A. Excluye siempre a los organismos autónomos.  
+B. Solo incluye a la Administración General de la Comunidad.  
+C. Incluye la totalidad de ingresos y gastos del sector público de la Comunidad de Madrid, sin excluir organismos autónomos.  
+D. Excluye a las empresas públicas en todo caso.
 
-A. Una autorización máxima para gastar en una finalidad.  
-B. Una deuda privada del empleado público.  
-C. Un ingreso patrimonial.  
-D. Una sanción tributaria.
+15. El principio de especialidad cualitativa del presupuesto implica que:
 
-16. Si existe gasto necesario y no hay crédito, procede:
+A. El crédito puede usarse para cualquier finalidad.  
+B. El crédito puede superarse libremente si hay necesidad.  
+C. El crédito se extiende automáticamente a ejercicios futuros.  
+D. El crédito debe destinarse a la finalidad concreta para la que fue aprobado.
 
-A. Suplemento de crédito.  
-B. Crédito extraordinario.  
-C. Transferencia corriente.  
-D. Baja contable automática.
+16. El principio de especialidad cuantitativa del presupuesto implica que:
 
-17. Si existe crédito pero resulta insuficiente, procede:
+A. No puede gastarse por encima del crédito autorizado.  
+B. El gasto puede superar libremente el crédito autorizado.  
+C. El crédito autorizado es solo orientativo.  
+D. El límite cuantitativo solo se aplica a inversiones.
 
-A. Crédito extraordinario.  
-B. Suplemento de crédito.  
-C. Prórroga presupuestaria.  
-D. Caja única.
+17. El principio de especialidad temporal del presupuesto implica que:
 
-18. La clasificación orgánica del presupuesto responde a:
+A. El crédito puede emplearse en cualquier ejercicio sin límite temporal.  
+B. El crédito debe emplearse dentro del ejercicio correspondiente, salvo las excepciones previstas.  
+C. El crédito caduca a los seis meses en todo caso.  
+D. El crédito solo puede emplearse en el primer trimestre.
 
-A. Quién gasta.  
-B. Para qué política se gasta.  
-C. En qué naturaleza económica se gasta.  
-D. En qué mes se gasta.
+18. El principio de publicidad presupuestaria exige que:
 
-19. La clasificación por programas responde principalmente a:
+A. El presupuesto es un documento reservado internamente.  
+B. Solo se publica un resumen a petición de parte.  
+C. La Ley de Presupuestos debe publicarse oficialmente.  
+D. La publicidad solo afecta al estado de ingresos.
 
-A. Objetivos o políticas de gasto.  
-B. Titularidad de la tesorería.  
-C. Vencimiento de la deuda.  
-D. Publicación oficial.
+19. La diferencia entre el estado de gastos y el estado de ingresos del presupuesto es:
 
-20. El capítulo 1 de gastos se corresponde habitualmente con:
+A. Ambos estados recogen exclusivamente los mismos datos.  
+B. El estado de gastos recoge los derechos a liquidar.  
+C. El estado de ingresos recoge los créditos para obligaciones.  
+D. El estado de gastos recoge los créditos necesarios para las obligaciones; el estado de ingresos, los derechos económicos a liquidar.
 
-A. Gastos de personal.  
-B. Inversiones reales.  
-C. Transferencias de capital.  
-D. Pasivos financieros.
+20. En vocabulario presupuestario, un "programa" es:
 
-21. El capítulo 6 de gastos se corresponde habitualmente con:
+A. Conjunto de créditos orientados al cumplimiento de objetivos.  
+B. Clasificación económica de ingresos o gastos.  
+C. Unidad orgánica responsable de un crédito.  
+D. Actuación concreta dentro de una inversión.
 
-A. Gastos corrientes.  
-B. Inversiones reales.  
-C. Gastos financieros.  
-D. Transferencias corrientes.
+21. En vocabulario presupuestario, un "capítulo" es:
 
-22. El capítulo 1 de ingresos se corresponde habitualmente con:
+A. Conjunto de créditos orientados a objetivos.  
+B. Clasificación económica de ingresos o gastos.  
+C. Unidad orgánica responsable de un crédito.  
+D. Documento de rendición de cuentas.
+
+22. En vocabulario presupuestario, un "servicio" es:
+
+A. La clasificación económica del gasto.  
+B. El conjunto de créditos por programa.  
+C. La unidad orgánica responsable de la gestión de un crédito.  
+D. El documento de liquidación final.
+
+23. El capítulo 2 de ingresos se corresponde habitualmente con:
 
 A. Impuestos directos.  
 B. Tasas y precios públicos.  
 C. Transferencias corrientes.  
-D. Pasivos financieros.
+D. Impuestos indirectos.
 
-23. En la ejecución del gasto, el reconocimiento de la obligación significa:
+24. El capítulo 4 de gastos se corresponde habitualmente con:
 
-A. Que se acredita que procede pagar.  
-B. Que se aprueba la Ley de Presupuestos.  
-C. Que se publica el presupuesto.  
-D. Que se liquida un impuesto estatal.
+A. Transferencias corrientes.  
+B. Gastos de personal.  
+C. Inversiones reales.  
+D. Activos financieros.
 
-24. La ordenación del pago se sitúa:
+25. En la fase de elaboración del presupuesto intervienen principalmente:
 
-A. Antes de reconocer la obligación en todo caso.  
-B. Después del reconocimiento de la obligación.  
-C. Antes de autorizar el gasto.  
-D. Fuera de la ejecución presupuestaria.
+A. Exclusivamente la Asamblea de Madrid.  
+B. Las Consejerías, integradas por la Consejería de Hacienda.  
+C. La Cámara de Cuentas.  
+D. El Tribunal de Cuentas.
 
-25. El principio de universalidad presupuestaria exige:
+26. En la fase de tramitación parlamentaria del presupuesto tienen lugar:
 
-A. Incluir todos los ingresos y gastos.  
-B. Aprobar el presupuesto cada cuatro años.  
-C. Separar el presupuesto en leyes distintas.  
-D. Excluir organismos autónomos.
+A. Aprobación directa por el Consejo de Gobierno sin debate.  
+B. Fiscalización exclusiva por la Intervención General.  
+C. Enmiendas, debate y aprobación de la Ley por la Asamblea de Madrid.  
+D. Publicación inmediata sin trámite parlamentario.
 
-26. El principio de anualidad significa que:
+27. La diferencia entre anteproyecto, proyecto y ley de presupuestos es:
 
-A. El presupuesto se refiere a un ejercicio económico.  
-B. El presupuesto dura necesariamente cuatro años.  
-C. Los créditos son ilimitados.  
-D. No cabe prórroga.
+A. Los tres términos son sinónimos intercambiables.  
+B. El proyecto lo aprueba la Asamblea y la Ley el Consejo de Gobierno.  
+C. El anteproyecto ya tiene rango de Ley.  
+D. El anteproyecto es trabajo interno administrativo; el proyecto lo aprueba el Consejo de Gobierno y lo remite a la Asamblea; la Ley la aprueba y publica la Asamblea.
 
-27. La LOFCA desarrolla principalmente:
+28. En la ejecución del gasto, la fase de autorización significa que:
 
-A. La financiación de las Comunidades Autónomas.  
-B. El régimen electoral municipal.  
-C. La jurisdicción contencioso-administrativa.  
-D. El procedimiento sancionador común.
+A. Se acuerda realizar un gasto por un importe máximo determinado.  
+B. Se realiza el pago material al acreedor.  
+C. Se reconoce que procede pagar.  
+D. Se compromete el gasto frente a un tercero concreto.
 
-28. Los recursos de una Comunidad Autónoma pueden incluir:
+29. En la ejecución del gasto, la fase de disposición o compromiso significa que:
 
-A. Tributos propios y tributos cedidos.  
-B. Solo multas penales.  
-C. Solo ingresos privados de sus empleados.  
-D. Exclusivamente deuda municipal.
+A. Se acuerda el importe máximo del gasto.  
+B. Se compromete el gasto frente a un tercero determinado.  
+C. Se ordena materialmente el pago.  
+D. Se produce la salida efectiva de fondos.
 
-29. La liquidación del presupuesto muestra:
+30. La diferencia entre transferencia de crédito y generación de crédito es:
 
-A. El resultado de la ejecución al cierre del ejercicio.  
-B. El nombramiento de altos cargos.  
-C. La convocatoria de elecciones.  
-D. La estructura de las Consejerías.
-
-30. ¿Cuál es la asociación correcta?
-
-A. Asamblea - aprueba la Ley de Presupuestos.  
-B. Consejo de Gobierno - aprueba definitivamente la Ley.  
-C. Intervención General - publica el BOCM.  
-D. Tesorería - control externo parlamentario.
+A. Ambas figuras significan exactamente lo mismo.  
+B. La generación mueve crédito entre partidas y la transferencia se financia con ingresos específicos.  
+C. La transferencia mueve crédito entre partidas; la generación se financia con ingresos específicos.  
+D. Ninguna de las dos altera la cuantía del presupuesto.
 
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | A | CE, art. 149.1.14 |
-| 2 | A | CE, art. 133 |
-| 3 | B | Ley 9/1990, principios |
-| 4 | A | Ley 9/1990, art. 9 |
-| 5 | C | Ley 9/1990, art. 13 |
-| 6 | A | Presupuestos CM |
-| 7 | B | Ciclo presupuestario |
-| 8 | B | Pregunta 2017 |
-| 9 | B | Prórroga presupuestaria |
-| 10 | B | Publicación autonómica |
-| 11 | C | Intervención previa |
-| 12 | A | Control interno |
-| 13 | A | Control externo |
-| 14 | A | Intervención |
-| 15 | A | Crédito presupuestario |
-| 16 | B | Modificaciones |
-| 17 | B | Modificaciones |
-| 18 | A | Clasificación orgánica |
-| 19 | A | Programas |
-| 20 | A | Clasificación económica |
-| 21 | B | Clasificación económica |
-| 22 | A | Clasificación económica |
-| 23 | A | Ejecución del gasto |
-| 24 | B | Ejecución del gasto |
-| 25 | A | Universalidad |
-| 26 | A | Anualidad |
-| 27 | A | LOFCA |
-| 28 | A | Recursos CCAA |
-| 29 | A | Liquidación |
-| 30 | A | Órganos presupuestarios |
+| 1 | B | CE, art. 31 |
+| 2 | C | CE, art. 134 |
+| 3 | D | CE, art. 156 |
+| 4 | A | CE, art. 157 |
+| 5 | B | LOFCA |
+| 6 | C | Hacienda Pública, concepto |
+| 7 | D | Ley 47/2003 |
+| 8 | A | Hacienda CM, ámbito |
+| 9 | B | Ley 9/1990, estructura |
+| 10 | C | Ley 9/1990, estructura |
+| 11 | D | Ley 9/1990, principios |
+| 12 | A | Ley 9/1990, principios |
+| 13 | B | Órganos presupuestarios |
+| 14 | C | Presupuestos CM |
+| 15 | D | Principios presupuestarios |
+| 16 | A | Principios presupuestarios |
+| 17 | B | Principios presupuestarios |
+| 18 | C | Principios presupuestarios |
+| 19 | D | Contenido del presupuesto |
+| 20 | A | Vocabulario presupuestario |
+| 21 | B | Vocabulario presupuestario |
+| 22 | C | Vocabulario presupuestario |
+| 23 | D | Clasificación económica |
+| 24 | A | Clasificación económica |
+| 25 | B | Ciclo presupuestario |
+| 26 | C | Ciclo presupuestario |
+| 27 | D | Ciclo presupuestario |
+| 28 | A | Ejecución del gasto |
+| 29 | B | Ejecución del gasto |
+| 30 | C | Modificaciones presupuestarias |
