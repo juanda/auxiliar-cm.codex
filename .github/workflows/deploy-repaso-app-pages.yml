@@ -1,4 +1,4 @@
-name: Publicar anki-app en GitHub Pages
+name: Publicar repaso-app en GitHub Pages
 
 "on":
   push:
@@ -25,9 +25,10 @@ jobs:
       - name: Preparar el contenido a publicar
         run: |
           set -e
-          mkdir -p site/anki-app site/08_flashcards
-          cp anki-app/index.html anki-app/style.css anki-app/app.js site/anki-app/
+          mkdir -p site/repaso-app site/08_flashcards site/07_tests
+          cp repaso-app/index.html repaso-app/style.css repaso-app/common.js repaso-app/flashcards.js repaso-app/quiz.js site/repaso-app/
           cp 08_flashcards/*.csv site/08_flashcards/
+          cp 07_tests/*.md site/07_tests/
 
       - name: Configurar GitHub Pages
         uses: actions/configure-pages@v5

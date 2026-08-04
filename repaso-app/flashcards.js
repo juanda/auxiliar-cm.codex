@@ -2,7 +2,7 @@
 
 /* ---------- Config ---------- */
 
-const STORAGE_KEY = "ankiApp.cards.v1";
+const STORAGE_KEY = "repasoApp.cards.v1";
 
 // Nombres de fichero conocidos en 08_flashcards/, para la carga automática
 // (solo funciona si esta página se sirve por http, no con doble clic / file://).
@@ -32,26 +32,11 @@ const KNOWN_DECK_FILES = [
 
 /* ---------- Utilidades ---------- */
 
-const $ = (sel) => document.querySelector(sel);
-const $$ = (sel) => Array.from(document.querySelectorAll(sel));
-
 function prettifyDeckId(deckId) {
   return deckId
     .replace(/^anki_/, "")
     .replace(/_/g, " ")
     .replace(/\b\w/g, (c) => c.toUpperCase());
-}
-
-function todayMs() {
-  return Date.now();
-}
-
-function formatInterval(days) {
-  if (days < 1) return "<1 día";
-  if (days === 1) return "1 día";
-  if (days < 30) return Math.round(days) + " días";
-  if (days < 365) return Math.round(days / 30) + " meses";
-  return Math.round(days / 365) + " años";
 }
 
 /* ---------- Parser CSV (RFC 4180: comillas, comas y saltos de línea dentro de campos) ---------- */
@@ -183,32 +168,6 @@ function removeDeck(deckId) {
   saveCards();
 }
 
-/* ---------- Algoritmo de repetición espaciada (SM-2) ---------- */
-
-function computeNext(card, quality) {
-  let { repetition, interval, efactor } = card;
-  efactor = Math.max(
-    1.3,
-    efactor + (0.1 - (5 - quality) * (0.08 + (5 - quality) * 0.02))
-  );
-  if (quality < 3) {
-    repetition = 0;
-    interval = 1;
-  } else {
-    if (repetition === 0) interval = 1;
-    else if (repetition === 1) interval = 6;
-    else interval = Math.round(interval * efactor);
-    repetition += 1;
-  }
-  return { repetition, interval, efactor };
-}
-
-function previewLabel(card, quality) {
-  if (quality < 3) return "hoy";
-  const next = computeNext(card, quality);
-  return formatInterval(next.interval);
-}
-
 function rateCard(card, quality) {
   const next = computeNext(card, quality);
   card.repetition = next.repetition;
@@ -226,12 +185,6 @@ let session = null; // { queue, index, reviewed, again, revealed }
 
 /* ---------- Vistas ---------- */
 
-function showView(name) {
-  $("#view-home").classList.toggle("hidden", name !== "home");
-  $("#view-review").classList.toggle("hidden", name !== "review");
-  $("#view-summary").classList.toggle("hidden", name !== "summary");
-}
-
 function getDeckIds() {
   const set = new Set();
   for (const id in cardsStore) set.add(cardsStore[id].deck);
@@ -246,7 +199,7 @@ function deckLabel(deckId) {
 
 function getSelectedDecks() {
   return new Set(
-    $$("#deck-list input[type=checkbox]:checked").map((el) => el.value)
+    $$("#fc-deck-list input[type=checkbox]:checked").map((el) => el.value)
   );
 }
 
@@ -268,13 +221,13 @@ function getFilteredCards({ ignoreDue }) {
 
 function renderDeckList() {
   const deckIds = getDeckIds();
-  const container = $("#deck-list");
+  const container = $("#fc-deck-list");
   if (deckIds.length === 0) {
     container.innerHTML = '<p class="hint">Todavía no has cargado ningún mazo.</p>';
     return;
   }
   const previouslySelected = new Set(
-    $$("#deck-list input[type=checkbox]:checked").map((el) => el.value)
+    $$("#fc-deck-list input[type=checkbox]:checked").map((el) => el.value)
   );
   const firstRender = container.dataset.rendered !== "1";
 
@@ -293,10 +246,10 @@ function renderDeckList() {
     .join("");
   container.dataset.rendered = "1";
 
-  $$("#deck-list input[type=checkbox]").forEach((el) =>
+  $$("#fc-deck-list input[type=checkbox]").forEach((el) =>
     el.addEventListener("change", renderStats)
   );
-  $$(".deck-remove").forEach((btn) =>
+  $$("#fc-deck-list .deck-remove").forEach((btn) =>
     btn.addEventListener("click", () => {
       const deckId = btn.dataset.deck;
       if (confirm(`¿Eliminar el mazo "${deckLabel(deckId)}" y todo su progreso?`)) {
@@ -315,32 +268,23 @@ function renderStats() {
     (c) => c.repetition > 0
   ).length;
 
-  $("#stat-total").textContent = total;
-  $("#stat-due").textContent = due;
-  $("#stat-learned").textContent = learned;
+  $("#fc-stat-total").textContent = total;
+  $("#fc-stat-due").textContent = due;
+  $("#fc-stat-learned").textContent = learned;
 
-  const cram = $("#cram-toggle").checked;
-  $("#start-btn").disabled = cram ? total === 0 : due === 0;
-}
-
-function shuffle(arr) {
-  const a = arr.slice();
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
+  const cram = $("#fc-cram-toggle").checked;
+  $("#fc-start-btn").disabled = cram ? total === 0 : due === 0;
 }
 
 /* ---------- Repaso ---------- */
 
 function startReview() {
-  const cram = $("#cram-toggle").checked;
+  const cram = $("#fc-cram-toggle").checked;
   const queue = shuffle(getFilteredCards({ ignoreDue: cram }));
   if (queue.length === 0) return;
 
   session = { queue, index: 0, reviewed: 0, again: 0, revealed: false };
-  showView("review");
+  showView("fc-review");
   renderCard();
 }
 
@@ -404,7 +348,7 @@ function rateCurrentCard(quality) {
 function endSession() {
   $("#summary-reviewed").textContent = session.reviewed;
   $("#summary-again").textContent = session.again;
-  showView("summary");
+  showView("fc-summary");
   renderDeckList();
   renderStats();
 }
@@ -451,11 +395,11 @@ function finishImport(added, updated, errors) {
   renderStats();
   let msg = `${added} tarjetas nuevas, ${updated} actualizadas.`;
   if (errors.length) msg += " Errores: " + errors.join("; ");
-  $("#autoload-msg").textContent = msg;
+  $("#fc-autoload-msg").textContent = msg;
 }
 
 async function autoloadFromFolder() {
-  const msg = $("#autoload-msg");
+  const msg = $("#fc-autoload-msg");
   msg.textContent = "Buscando archivos en ../08_flashcards/ ...";
 
   let found = 0;
@@ -496,32 +440,32 @@ async function autoloadFromFolder() {
 
 /* ---------- Eventos ---------- */
 
-$("#file-input").addEventListener("change", (e) => importFiles(e.target.files));
+$("#fc-file-input").addEventListener("change", (e) => importFiles(e.target.files));
 
-const dropzone = $("#dropzone");
+const fcDropzone = $("#fc-dropzone");
 ["dragenter", "dragover"].forEach((evt) =>
-  dropzone.addEventListener(evt, (e) => {
+  fcDropzone.addEventListener(evt, (e) => {
     e.preventDefault();
-    dropzone.classList.add("dragover");
+    fcDropzone.classList.add("dragover");
   })
 );
 ["dragleave", "drop"].forEach((evt) =>
-  dropzone.addEventListener(evt, (e) => {
+  fcDropzone.addEventListener(evt, (e) => {
     e.preventDefault();
-    dropzone.classList.remove("dragover");
+    fcDropzone.classList.remove("dragover");
   })
 );
-dropzone.addEventListener("drop", (e) => importFiles(e.dataTransfer.files));
+fcDropzone.addEventListener("drop", (e) => importFiles(e.dataTransfer.files));
 
-$("#autoload-btn").addEventListener("click", autoloadFromFolder);
+$("#fc-autoload-btn").addEventListener("click", autoloadFromFolder);
 
 $$(".diff-filter").forEach((el) => el.addEventListener("change", renderStats));
-$("#cram-toggle").addEventListener("change", renderStats);
+$("#fc-cram-toggle").addEventListener("change", renderStats);
 
-$("#start-btn").addEventListener("click", startReview);
-$("#exit-review-btn").addEventListener("click", () => {
+$("#fc-start-btn").addEventListener("click", startReview);
+$("#fc-exit-review-btn").addEventListener("click", () => {
   session = null;
-  showView("home");
+  showView("fc-home");
   renderDeckList();
   renderStats();
 });
@@ -533,12 +477,12 @@ $$(".rate").forEach((btn) =>
 );
 
 $("#review-more-btn").addEventListener("click", startReview);
-$("#back-home-btn").addEventListener("click", () => {
+$("#fc-back-home-btn").addEventListener("click", () => {
   session = null;
-  showView("home");
+  showView("fc-home");
 });
 
-$("#reset-progress-btn").addEventListener("click", () => {
+$("#fc-reset-progress-btn").addEventListener("click", () => {
   if (!confirm("Esto reinicia el progreso de repaso de todas las tarjetas (no borra los mazos). ¿Continuar?"))
     return;
   const now = todayMs();
@@ -554,21 +498,21 @@ $("#reset-progress-btn").addEventListener("click", () => {
   renderStats();
 });
 
-$("#wipe-all-btn").addEventListener("click", () => {
+$("#fc-wipe-all-btn").addEventListener("click", () => {
   if (!confirm("Esto borra TODOS los mazos y todo el progreso guardado en este navegador. ¿Continuar?"))
     return;
   cardsStore = {};
   saveCards();
   renderDeckList();
   renderStats();
-  $("#autoload-msg").textContent = "";
+  $("#fc-autoload-msg").textContent = "";
 });
 
 document.addEventListener("keydown", (e) => {
-  if ($("#view-review").classList.contains("hidden")) return;
+  if ($("#view-fc-review").classList.contains("hidden")) return;
   if (e.code === "Escape") {
     session = null;
-    showView("home");
+    showView("fc-home");
     renderDeckList();
     renderStats();
     return;
