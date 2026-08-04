@@ -860,6 +860,66 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
     C. Cambiar la orientación de impresión
     D. Borrar todos los gráficos
 
+31. ¿Cuál es el primer paso para crear una tabla dinámica según el procedimiento habitual?
+    A. Tener datos organizados con encabezados
+    B. Actualizar los datos de origen
+    C. Insertar un gráfico dinámico
+    D. Aplicar formato condicional
+
+32. Si los datos de origen de una tabla dinámica cambian, ¿qué ocurre con la tabla dinámica?
+    A. Se actualiza automáticamente sin ninguna acción
+    B. Hay que actualizarla para reflejar los cambios
+    C. Deja de funcionar y hay que crearla de nuevo
+    D. Los cambios solo afectan a los gráficos dinámicos, no a la tabla
+
+33. A diferencia de una tabla normal de Excel, una tabla dinámica:
+    A. No permite usar filtros
+    B. No puede tener encabezados
+    C. Resume y reorganiza los datos de forma interactiva, además de organizarlos
+    D. Solo admite datos numéricos
+
+34. Frente a una tabla dinámica, filtrar datos de un rango normal:
+    A. Es lo mismo que crear una tabla dinámica
+    B. Sustituye siempre a la tabla dinámica
+    C. Convierte automáticamente el rango en gráfico dinámico
+    D. Solo oculta registros que no cumplen un criterio, sin resumir ni reorganizar los datos
+
+35. En una tabla dinámica, el área `Filtros` sirve para:
+    A. Limitar la información mostrada en el conjunto de la tabla
+    B. Realizar cálculos como suma o promedio
+    C. Agrupar datos verticalmente
+    D. Agrupar datos horizontalmente
+
+36. Las segmentaciones de datos en una tabla dinámica son:
+    A. Fórmulas para calcular subtotales
+    B. Botones visuales que permiten filtrar de forma interactiva
+    C. Un tipo de gráfico dinámico
+    D. Una función de texto
+
+37. Un gráfico dinámico se actualiza automáticamente cuando:
+    A. Se cambia el tipo de letra del libro
+    B. Se guarda el libro con otro nombre
+    C. Se reorganizan los campos, filtros o segmentaciones de su tabla dinámica
+    D. Se cambia el número de hojas del libro
+
+38. A diferencia de un gráfico normal, un gráfico dinámico:
+    A. No puede tener título ni leyenda
+    B. Solo puede ser de tipo circular
+    C. No se puede imprimir
+    D. Está vinculado a una tabla dinámica y depende de sus campos
+
+39. ¿Qué tipo de gráfico es más adecuado para relacionar dos series numéricas entre sí?
+    A. Dispersión
+    B. Circular
+    C. Columnas
+    D. Área
+
+40. Un gráfico circular con demasiadas categorías:
+    A. Mejora automáticamente la claridad
+    B. Pierde claridad y no es adecuado para comparar evoluciones temporales
+    C. Se convierte automáticamente en gráfico de líneas
+    D. No puede tener leyenda
+
 ### Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -894,6 +954,16 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | 28 | D | El formato cambia la visualización del valor. |
 | 29 | A | La leyenda identifica series. |
 | 30 | A | Texto en columnas separa contenido en varias columnas. |
+| 31 | A | Se necesitan datos con encabezados antes de insertar la tabla dinámica. |
+| 32 | B | Los cambios de origen no se reflejan solos; hay que actualizar. |
+| 33 | C | La tabla dinámica resume y reorganiza, no solo organiza. |
+| 34 | D | Filtrar oculta registros, pero no resume ni reorganiza campos. |
+| 35 | A | `Filtros` limita la información mostrada en toda la tabla. |
+| 36 | B | Las segmentaciones son botones visuales de filtrado. |
+| 37 | C | El gráfico dinámico depende de los campos de su tabla dinámica. |
+| 38 | D | El gráfico dinámico está vinculado a una tabla dinámica. |
+| 39 | A | La dispersión relaciona dos series numéricas. |
+| 40 | B | Demasiadas categorías en un circular reducen su claridad. |
 
 ## 8. Esquema final
 

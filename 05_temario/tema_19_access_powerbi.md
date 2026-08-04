@@ -870,6 +870,54 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
     C. Una base de datos abierta
     D. Ninguna base de datos
 
+36. ¿Cuál es el orden habitual del flujo de trabajo en Power BI?
+    A. Visualizar, modelar, transformar, conectar
+    B. Modelar, conectar, visualizar, transformar
+    C. Conectar, transformar, modelar, visualizar
+    D. Publicar, conectar, transformar, modelar
+
+37. ¿Qué diferencia hay entre Power Query y el modelo de datos en Power BI?
+    A. Power Query transforma y limpia datos; el modelo de datos define relaciones y medidas entre tablas
+    B. Son el mismo componente con distinto nombre
+    C. Power Query crea visualizaciones; el modelo de datos importa archivos
+    D. El modelo de datos solo funciona en Power BI Service
+
+38. Un usuario necesita programar la actualización automática de un informe y compartirlo con su equipo desde la nube. ¿Qué componente de Power BI debe usar principalmente?
+    A. Power BI Desktop
+    B. Power Query
+    C. Power BI Mobile
+    D. Power BI Service
+
+39. Un opositor necesita crear una base de datos relacional para gestionar el alquiler de material de oficina, con tablas de artículos y préstamos vinculadas. ¿Qué herramienta es la más adecuada?
+    A. Power BI Desktop
+    B. Access
+    C. Power BI Service
+    D. Power BI Mobile
+
+40. ¿Qué permiten los conectores de Power BI?
+    A. Traer datos desde orígenes como Excel, bases de datos o la web
+    B. Cambiar la clave principal de una tabla de Access
+    C. Sustituir las relaciones del modelo de datos
+    D. Convertir un informe de Access en un formulario
+
+41. ¿Qué diferencia hay entre un informe y un panel (dashboard) en Power BI?
+    A. No hay diferencia, son sinónimos exactos
+    B. El informe es exclusivo de Power BI Mobile y el panel de Power BI Desktop
+    C. El informe es un conjunto de páginas visuales interactivas; el panel es una vista resumida de indicadores, especialmente en el servicio
+    D. El panel almacena los datos originales y el informe no
+
+42. ¿Qué afirmación es correcta sobre los tres componentes de Power BI?
+    A. Desktop publica y comparte; Service diseña modelos; Mobile edita datos
+    B. Los tres cumplen exactamente la misma función y son intercambiables
+    C. Mobile diseña modelos; Desktop consulta paneles; Service transforma datos
+    D. Desktop diseña modelos e informes; Service publica, comparte y programa actualizaciones; Mobile consulta desde el móvil
+
+43. ¿Es correcto afirmar que Power BI sustituye completamente a Access como base de datos?
+    A. Sí, Power BI almacena y gestiona datos igual que una base de datos relacional
+    B. No, Access gestiona bases de datos relacionales; Power BI analiza y visualiza datos, no las sustituye como gestor
+    C. Sí, pero solo en su versión Mobile
+    D. No, porque Power BI solo funciona con archivos de Word
+
 ### Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -909,6 +957,14 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | 33 | B | `.pbix` es archivo de Power BI Desktop. |
 | 34 | C | Segmentador filtra visualmente. |
 | 35 | C | Históricamente se pregunta una base por instancia. |
+| 36 | C | El flujo habitual es conectar, transformar, modelar y visualizar. |
+| 37 | A | Power Query transforma datos; el modelo de datos define relaciones y medidas. |
+| 38 | D | Power BI Service publica, comparte y programa actualizaciones en la nube. |
+| 39 | B | Access es la herramienta para bases de datos relacionales con tablas vinculadas. |
+| 40 | A | Los conectores traen datos de Excel, bases de datos, web, etc. |
+| 41 | C | El informe agrupa páginas visuales; el panel resume indicadores, sobre todo en el servicio. |
+| 42 | D | Desktop diseña; Service publica/comparte; Mobile consulta. |
+| 43 | B | Power BI no sustituye a Access como gestor de bases de datos: analiza y visualiza. |
 
 ## 8. Esquema final
 
