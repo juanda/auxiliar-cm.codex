@@ -1,220 +1,220 @@
 # Test Tema 9. Contratos del Sector Publico
 
-Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
+Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_09_contratos_sector_publico.md`.
 
 ## Preguntas
 
-1. La Ley 9/2017 regula:
-   A. Solo el procedimiento administrativo común.
-   B. Solo subvenciones.
-   C. Solo empleo público.
-   D. La contratación del sector público.
+1. En la contratación del sector público, un poder adjudicador que no tiene la consideración de Administración Pública:
+   A. Queda completamente excluido de la Ley 9/2017.
+   B. Tiene exactamente el mismo régimen que una Administración Pública en todo caso.
+   C. Nunca puede celebrar contratos administrativos ni privados.
+   D. Se somete a un régimen contractual público con particularidades propias.
 
-2. La contratación pública debe ajustarse a los principios de:
-   A. Jerarquía, disciplina y obediencia.
-   B. Secreto, rapidez y adjudicación directa.
-   C. Libertad de acceso, publicidad, transparencia, no discriminación e igualdad de trato.
-   D. Mérito, capacidad y antigüedad.
+2. Las relaciones laborales del personal al servicio del sector público:
+   A. Se rigen por la Ley 9/2017 como cualquier contrato de servicios.
+   B. Se rigen por la normativa laboral, no por la LCSP.
+   C. Requieren siempre licitación pública.
+   D. Se consideran contrato menor automáticamente.
 
-3. En toda contratación pública se incorporarán transversalmente:
-   A. Criterios profesionales sin relación con el objeto.
-   B. Solo criterios económicos.
-   C. Solo criterios políticos.
-   D. Criterios sociales y medioambientales vinculados al objeto.
+3. Los convenios y encomiendas de gestión con régimen propio:
+   A. Están siempre sometidos íntegramente a la LCSP como un contrato más.
+   B. Son siempre nulos de pleno derecho.
+   C. Pueden quedar excluidos si cumplen los requisitos legales previstos.
+   D. Solo pueden celebrarse entre particulares.
 
-4. Los contratos excluidos de la LCSP incluyen:
-   A. Contrato de suministros.
-   B. Contrato de servicios ordinario.
-   C. Servicios de arbitraje y conciliación.
-   D. Concesión de obras.
+4. El órgano de contratación, dentro de las partes del contrato público:
+   A. Representa al ente del sector público y tramita o adjudica el contrato.
+   B. Es siempre una empresa privada.
+   C. Ejecuta materialmente la prestación contratada.
+   D. Sustituye al contratista en caso de incumplimiento.
 
-5. La libertad de pactos permite incluir cláusulas si no son contrarias:
-   A. Al interés público, ordenamiento jurídico y principios de buena administración.
-   B. Al interés privado y a la buena fe.
-   C. Solo a la Constitución.
-   D. A la voluntad del contratista.
+5. Entre los requisitos exigibles al contratista se encuentra:
+   A. Ser necesariamente una Administración Pública.
+   B. Carecer de solvencia técnica.
+   C. Estar incurso en causa de prohibición de contratar.
+   D. Tener capacidad de obrar y no estar incurso en prohibición de contratar.
 
-6. La contratación verbal:
-   A. Está permitida siempre.
-   B. Está permitida si la autoriza cualquier funcionario.
-   C. Está prohibida salvo contratos de emergencia.
-   D. Es obligatoria en contratos menores.
+6. La clasificación del contratista es exigible:
+   A. En todos los contratos sin excepción.
+   B. En determinados contratos, especialmente obras, según los casos legalmente previstos.
+   C. Únicamente en contratos menores.
+   D. Solo para personas físicas.
 
-7. El contrato menor de obras tiene valor estimado inferior a:
-   A. 15.000 euros.
-   B. 40.000 euros.
-   C. 20.000 euros.
-   D. 100.000 euros.
+7. El objeto del contrato público, conforme a la LCSP:
+   A. Puede fraccionarse libremente para reducir su cuantía y evitar publicidad.
+   B. Es irrelevante para el expediente de contratación.
+   C. Debe ser determinado y responder a una necesidad pública.
+   D. No necesita justificarse en ningún documento.
 
-8. El contrato menor de servicios tiene valor estimado inferior a:
-   A. 40.000 euros.
-   B. 60.000 euros.
-   C. 100.000 euros.
-   D. 15.000 euros.
+8. El presupuesto base de licitación, a diferencia del valor estimado:
+   A. Se entiende, con carácter general, IVA incluido salvo desglose.
+   B. Nunca incluye impuestos.
+   C. Es siempre inferior al valor estimado.
+   D. No sirve para determinar el régimen jurídico del contrato.
 
-9. Los importes de contrato menor se entienden:
-   A. Sin IVA, como valor estimado.
-   B. Con IVA incluido siempre.
-   C. Solo con impuestos locales.
-   D. Sin relación con el valor estimado.
+9. El valor estimado del contrato es la magnitud que sirve principalmente para:
+   A. Fijar el sueldo del personal del órgano de contratación.
+   B. Sustituir al precio final abonado al contratista.
+   C. Calcular exclusivamente el IVA repercutido.
+   D. Determinar el régimen jurídico y el procedimiento aplicable al contrato.
 
-10. El contrato de suministro tiene por objeto:
-    A. Ejecución de una obra.
-    B. Gestión de un servicio con riesgo operacional.
-    C. Servicios de arbitraje.
-    D. Adquisición o arrendamiento de productos o bienes muebles.
+10. La duración del contrato debe establecerse teniendo en cuenta, entre otros factores:
+    A. Solo la antigüedad del órgano de contratación.
+    B. La naturaleza de las prestaciones, la financiación y la necesidad de someter periódicamente el contrato a concurrencia.
+    C. Exclusivamente el criterio personal del contratista.
+    D. El número de empleados de la empresa adjudicataria.
 
-11. No se consideran suministro:
-    A. Bienes muebles.
-    B. Arrendamiento financiero de productos.
-    C. Propiedades incorporales o valores negociables.
-    D. Arrendamiento con opción de compra de bienes muebles.
+11. El pliego que regula las características técnicas de la prestación es el:
+    A. Pliego de cláusulas administrativas particulares.
+    B. Pliego de condiciones laborales.
+    C. Pliego de prescripciones técnicas.
+    D. Pliego de solvencia económica.
 
-12. El contrato de obras tiene por objeto:
-    A. Ejecución de una obra.
-    B. Prestación de servicios intelectuales únicamente.
-    C. Compra de material de oficina.
-    D. Arbitraje.
+12. El pliego de cláusulas administrativas particulares regula, entre otros aspectos:
+    A. Los derechos, obligaciones y criterios de adjudicación aplicables al contrato.
+    B. Únicamente las características técnicas de la prestación.
+    C. Solo la ubicación geográfica de la obra.
+    D. Exclusivamente el organigrama de la empresa contratista.
 
-13. La concesión de servicios se caracteriza por:
-    A. Prohibición de explotación.
-    B. Transferencia de riesgo operacional.
-    C. Ser siempre contrato menor.
-    D. No tener licitación.
+13. La perfección de los contratos del sector público se produce, con carácter general:
+    A. Con la mera presentación de la oferta.
+    B. Con la publicación del anuncio de licitación.
+    C. Con el inicio de la ejecución material.
+    D. Con su formalización, salvo excepciones legalmente previstas.
 
-14. La concesión de obras combina:
-    A. Solo compra de muebles.
-    B. Obra y explotación con riesgo operacional.
-    C. Solo asesoramiento.
-    D. Solo servicios financieros excluidos.
+14. Si el contratista solicita elevar el contrato a escritura pública:
+    A. La Administración lo asume siempre a su costa.
+    B. Puede hacerlo, pero a su propia costa.
+    C. Está prohibido por la LCSP.
+    D. Se convierte automáticamente en contrato privado.
 
-15. En el procedimiento abierto:
-    A. Solo presentan oferta los candidatos invitados tras selección previa.
-    B. Se negocia siempre con un único empresario.
-    C. Todo empresario interesado puede presentar proposición.
-    D. No hay publicidad.
+15. La memoria justificativa, dentro del expediente de contratación, tiene como función:
+    A. Sustituir al pliego de prescripciones técnicas.
+    B. Fijar el precio definitivo del contrato.
+    C. Justificar la necesidad e idoneidad del contrato.
+    D. Resolver los recursos que se presenten contra la adjudicación.
 
-16. En el procedimiento restringido:
-    A. Cualquier empresa puede solicitar participar, pero solo las seleccionadas presentan oferta.
-    B. Todo empresario interesado puede presentar proposición directamente.
-    C. Se adjudica verbalmente.
-    D. Solo se usa para emergencias.
+16. Cuando un contrato no se divide en lotes, el expediente debe incluir:
+    A. La justificación de la no división en lotes, si procede.
+    B. Un informe favorable del contratista.
+    C. La renuncia expresa de todos los licitadores.
+    D. La autorización previa del Tribunal de Cuentas en todo caso.
 
-17. En el procedimiento negociado:
-    A. Nunca hay negociación.
-    B. Siempre gana el precio más bajo sin más.
-    C. Se negocian condiciones con uno o varios candidatos.
-    D. Solo se usa para contratos laborales.
+17. La fiscalización previa, dentro de la tramitación del expediente de contratación:
+    A. Nunca es necesaria.
+    B. Sustituye a la aprobación del gasto.
+    C. Solo se aplica a contratos privados.
+    D. Es un control económico que procede cuando corresponde legalmente.
 
-18. El diálogo competitivo se usa especialmente:
-    A. Para comprar bienes muebles simples.
-    B. Para contratos verbales.
-    C. Para sanciones.
-    D. Para contratos complejos en los que se dialoga para definir soluciones.
+18. El contrato de concesión de obras se caracteriza, frente al contrato de obras ordinario, por:
+    A. No incluir nunca ejecución de obra.
+    B. Transferir al concesionario el riesgo operacional derivado de la explotación.
+    C. Excluir cualquier contraprestación económica.
+    D. Ser siempre un contrato menor.
 
-19. La asociación para la innovación sirve para:
-    A. Desarrollar productos, servicios u obras innovadores y adquirirlos después.
-    B. Resolver recursos administrativos.
-    C. Elegir funcionarios.
-    D. Sustituir todo procedimiento.
+19. En la concesión de servicios, el elemento distintivo frente al contrato de servicios ordinario es:
+    A. La ausencia total de pliegos.
+    B. La imposibilidad de que exista un poder adjudicador.
+    C. La transferencia de riesgo operacional al concesionario en la gestión del servicio.
+    D. La prohibición de licitación pública.
 
-20. La adjudicación debe basarse normalmente en:
-    A. Antigüedad del licitador.
-    B. Mejor relación calidad-precio.
-    C. Nacionalidad del empresario.
-    D. Sorteo.
+20. Un contrato mixto es aquel que:
+    A. Contiene prestaciones correspondientes a distintos tipos contractuales.
+    B. Solo puede celebrarse de forma verbal.
+    C. Excluye cualquier régimen jurídico aplicable.
+    D. Es siempre nulo de pleno derecho.
 
-21. Los criterios de adjudicación deben estar:
-    A. Vinculados al objeto del contrato.
-    B. Desvinculados del contrato.
-    C. Basados solo en preferencias personales.
-    D. Ocultos a los licitadores.
+21. Los contratos privados del sector público, a diferencia de los administrativos:
+    A. Nunca pueden celebrarlos las Administraciones Públicas.
+    B. Quedan excluidos íntegramente de la LCSP.
+    C. No requieren nunca licitación pública.
+    D. Se rigen, en su preparación y adjudicación, por normas públicas, y en sus efectos y extinción por el Derecho privado en lo que proceda.
 
-22. El perfil de contratante se relaciona con:
-    A. Registro civil.
-    B. Expediente sancionador penal.
-    C. Publicidad y transparencia contractual.
-    D. Nóminas de empleados.
+22. El procedimiento abierto simplificado se caracteriza por ser:
+    A. Un procedimiento exclusivo para contratos de emergencia.
+    B. Una variante ágil del procedimiento abierto para contratos que cumplen determinados requisitos de cuantía y criterios.
+    C. Un procedimiento sin ningún tipo de publicidad.
+    D. Un procedimiento reservado a la Unión Europea.
 
-23. El objeto del contrato:
-    A. Puede fraccionarse indebidamente para evitar publicidad.
-    B. Debe ser determinado.
-    C. No debe responder a necesidad pública.
-    D. Es irrelevante.
+23. El concurso de proyectos, como procedimiento de contratación, se emplea especialmente para:
+    A. Contratos de suministro de bienes muebles.
+    B. Contratos menores de servicios.
+    C. Seleccionar planes o proyectos, especialmente en arquitectura, urbanismo o ingeniería.
+    D. Adquirir productos financieros.
 
-24. El valor estimado:
-    A. Incluye siempre IVA.
-    B. Es lo mismo que factura final siempre.
-    C. Solo existe en obras.
-    D. No incluye IVA.
+24. Los criterios cualitativos de adjudicación pueden valorar, entre otros aspectos:
+    A. La calidad, el valor técnico, la accesibilidad y las características sociales o ambientales.
+    B. Únicamente el precio más bajo.
+    C. Solo la antigüedad de la empresa.
+    D. Exclusivamente el domicilio social del licitador.
 
-25. El pliego de cláusulas administrativas particulares regula:
-    A. Solo dibujos técnicos.
-    B. Derechos, obligaciones y reglas administrativas del contrato.
-    C. Solo normativa penal.
-    D. Solo organigrama del órgano.
+25. Los criterios de adjudicación deben, entre otros requisitos:
+    A. Permanecer ocultos a los licitadores hasta la adjudicación.
+    B. Ser ajenos por completo al objeto del contrato.
+    C. Basarse únicamente en preferencias personales del órgano de contratación.
+    D. Estar vinculados al objeto del contrato y formularse de forma objetiva.
 
-26. El pliego de prescripciones técnicas regula:
-    A. Solo recursos administrativos.
-    B. Solo solvencia económica.
-    C. Solo nombramientos.
-    D. Características técnicas de la prestación.
+26. En las fases del procedimiento de contratación, la formalización corresponde a la fase de:
+    A. Preparación.
+    B. Perfección del contrato, tras la adjudicación.
+    C. Ejecución.
+    D. Extinción.
 
-27. La solvencia del empresario acredita:
-    A. Capacidad económica, financiera, técnica o profesional para ejecutar.
-    B. Que siempre es Administración Pública.
-    C. Que no hay que licitar.
-    D. Que el contrato es verbal.
+27. Entre las prerrogativas de la Administración en los contratos administrativos se encuentra:
+    A. Eliminar cualquier derecho del contratista sin procedimiento.
+    B. Actuar sin sujeción a la ley.
+    C. Modificar el contrato por razones de interés público, dentro de los límites legales.
+    D. Resolver el contrato sin necesidad de audiencia al contratista en ningún caso.
 
-28. Las prerrogativas administrativas en contratos administrativos:
-    A. Permiten actuar sin ley.
-    B. Deben ejercerse con procedimiento y audiencia cuando proceda.
-    C. Eliminan los derechos del contratista.
-    D. Solo existen en contratos privados.
+28. El ejercicio de las prerrogativas administrativas en los contratos exige, con carácter general:
+    A. Procedimiento y audiencia al contratista.
+    B. Aprobación previa del contratista afectado.
+    C. Autorización del Tribunal Supremo en cada caso.
+    D. Ausencia total de control posterior.
 
-29. El contrato mixto:
-    A. Es siempre nulo.
-    B. Contiene prestaciones de distintos tipos contractuales.
-    C. Es un contrato verbal.
-    D. Solo puede ser laboral.
+29. La fase de selección, dentro del procedimiento de contratación, incluye principalmente:
+    A. La aprobación de los Presupuestos Generales del Estado.
+    B. La firma del contrato formalizado.
+    C. La ejecución material de la obra.
+    D. La comprobación de capacidad y solvencia y la valoración de las ofertas presentadas.
 
-30. ¿Cuál es la opción correcta?
-    A. Abierto: todos pueden presentar oferta; restringido: solo seleccionados presentan oferta.
-    B. Abierto: solo seleccionados; restringido: todos presentan oferta.
-    C. Ambos son contratación verbal.
-    D. Ninguno exige publicidad nunca.
+30. Respecto a los contratos excluidos de la LCSP, señala la afirmación correcta:
+    A. Los servicios de arbitraje y conciliación están incluidos como contrato de servicios ordinario.
+    B. Las relaciones laborales del personal se rigen por su normativa específica y no por la LCSP.
+    C. Los negocios patrimoniales nunca pueden quedar sujetos a otra legislación.
+    D. Los convenios nunca pueden tener régimen propio distinto de la LCSP.
 
 ## Respuestas
 
 | Nº | Respuesta | Referencia |
 | ---: | :---: | --- |
-| 1 | D | LCSP |
-| 2 | C | LCSP, art. 1 |
-| 3 | D | LCSP, art. 1 |
-| 4 | C | LCSP, exclusiones |
-| 5 | A | LCSP, art. 34 |
-| 6 | C | LCSP, art. 37 |
-| 7 | B | LCSP, art. 118 |
-| 8 | D | LCSP, art. 118 |
-| 9 | A | LCSP, valor estimado |
-| 10 | D | LCSP, art. 16 |
-| 11 | C | LCSP, art. 16 |
-| 12 | A | LCSP, art. 13 |
-| 13 | B | LCSP, art. 15 |
-| 14 | B | LCSP, art. 14 |
-| 15 | C | Procedimiento abierto |
-| 16 | A | Procedimiento restringido |
-| 17 | C | Procedimiento negociado |
-| 18 | D | Diálogo competitivo |
-| 19 | A | Asociación para innovación |
-| 20 | B | LCSP, criterios |
-| 21 | A | LCSP, art. 145 |
-| 22 | C | LCSP, perfil de contratante |
-| 23 | B | LCSP, objeto |
-| 24 | D | LCSP, valor estimado |
-| 25 | B | Pliegos |
-| 26 | D | Pliegos |
-| 27 | A | Solvencia |
-| 28 | B | Prerrogativas |
-| 29 | B | Contrato mixto |
-| 30 | A | Procedimientos |
+| 1 | D | LCSP, sector público |
+| 2 | B | LCSP, exclusiones |
+| 3 | C | LCSP, exclusiones |
+| 4 | A | LCSP, órgano de contratación |
+| 5 | D | LCSP, requisitos del contratista |
+| 6 | B | LCSP, clasificación |
+| 7 | C | LCSP, objeto del contrato |
+| 8 | A | LCSP, presupuesto base de licitación |
+| 9 | D | LCSP, valor estimado |
+| 10 | B | LCSP, duración |
+| 11 | C | LCSP, pliegos |
+| 12 | A | LCSP, pliegos |
+| 13 | D | LCSP, perfección y forma |
+| 14 | B | LCSP, formalización |
+| 15 | C | LCSP, expediente de contratación |
+| 16 | A | LCSP, expediente de contratación |
+| 17 | D | LCSP, fiscalización previa |
+| 18 | B | LCSP, art. 14, concesión de obras |
+| 19 | C | LCSP, art. 15, concesión de servicios |
+| 20 | A | LCSP, contratos mixtos |
+| 21 | D | LCSP, contratos privados |
+| 22 | B | LCSP, procedimiento abierto simplificado |
+| 23 | C | LCSP, concurso de proyectos |
+| 24 | A | LCSP, art. 145 |
+| 25 | D | LCSP, art. 145 |
+| 26 | B | LCSP, fases del procedimiento |
+| 27 | C | LCSP, prerrogativas |
+| 28 | A | LCSP, prerrogativas |
+| 29 | D | LCSP, fases del procedimiento |
+| 30 | B | LCSP, exclusiones |
