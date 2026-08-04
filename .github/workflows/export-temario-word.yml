@@ -1,0 +1,44 @@
+name: Exportar temario a Word
+
+"on":
+  push:
+    branches:
+      - "**"
+
+permissions:
+  contents: read
+
+jobs:
+  export-word:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar pandoc
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y pandoc
+
+      - name: Convertir cada tema de 05_temario/ a .docx
+        run: |
+          set -e
+          mkdir -p dist/temario_word
+          shopt -s nullglob
+          files=(05_temario/*.md)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No se encontraron archivos .md en 05_temario/"
+            exit 1
+          fi
+          for f in "${files[@]}"; do
+            base="$(basename "$f" .md)"
+            echo "Convirtiendo $f -> dist/temario_word/${base}.docx"
+            pandoc "$f" -o "dist/temario_word/${base}.docx"
+          done
+
+      - name: Subir los .docx como artefacto
+        uses: actions/upload-artifact@v4
+        with:
+          name: temario-word
+          path: dist/temario_word/*.docx
+          if-no-files-found: error
