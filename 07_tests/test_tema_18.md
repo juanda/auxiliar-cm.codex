@@ -2,7 +2,9 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
-Tiempo recomendado: 53 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 88 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
+Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Excel para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de la Administración General del Estado (2015-2024) sobre Excel (el error `#####`, referencias entre hojas y libros, `Combinar y centrar` con datos, funciones lógicas `Y`/`O`, categorías de funciones, mecánica del formato porcentaje, autodetección de fechas, ordenación de números como texto y opciones de escala de impresión), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -276,6 +278,186 @@ Tiempo recomendado: 53 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. El dinámico no admite título ni leyenda
     D. No existe ninguna diferencia real entre ambos
 
+46. El error `#####` que aparece en una celda de Excel normalmente indica que:
+    A. La fórmula tiene un error de sintaxis
+    B. El valor de la celda no es numérico
+    C. La celda está protegida
+    D. La columna es demasiado estrecha para mostrar el contenido
+
+47. El contenido de una celda que NO va precedido del signo `=` se denomina:
+    A. Función
+    B. Referencia
+    C. Argumento
+    D. Constante
+
+48. El icono `fx`, situado junto a la barra de fórmulas, sirve para:
+    A. Formatear el texto en cursiva
+    B. Fijar una referencia como absoluta
+    C. Abrir el asistente o buscador de funciones de Excel
+    D. Congelar la fila superior
+
+49. ¿Qué combinación de teclas oculta las filas seleccionadas en Excel?
+    A. `Ctrl + 0`
+    B. `Ctrl + 9`
+    C. `Ctrl + F8`
+    D. `Ctrl + F6`
+
+50. Para referirse, desde la Hoja1, a la celda A1 de la Hoja2 del mismo libro, la sintaxis correcta es:
+    A. `Hoja2:A1`
+    B. `Hoja2;A1`
+    C. `Hoja2$A1`
+    D. `Hoja2!A1`
+
+51. Si se seleccionan tres celdas de una fila que contienen datos y se aplica `Combinar y centrar`, el resultado es:
+    A. Se suman automáticamente los tres valores en la celda combinada
+    B. Se muestran los tres valores separados por un espacio
+    C. Se conserva únicamente el valor de la celda situada más a la izquierda; el resto se pierde
+    D. Aparece un error y no se combinan las celdas
+
+52. Para que una celda muestre `Bajo` si un valor es menor o igual a 15, `Medio` si está entre 16 y 25, y `Alto` si es mayor de 25, una forma correcta de construir la fórmula es anidando `SI`, por ejemplo:
+    A. `=SI(A1<=15;"Bajo";A1<=25;"Medio";A1>25;"Alto")`
+    B. `=SI(A1;"Bajo";"Medio";"Alto")`
+    C. `=SI("Bajo";"Medio";"Alto";A1<=15)`
+    D. `=SI(A1<=15;"Bajo";SI(A1<=25;"Medio";"Alto"))`
+
+53. La función `SI.CONJUNTO`, disponible en Excel de Microsoft 365, se utiliza principalmente para:
+    A. Sumar valores que cumplen varias condiciones
+    B. Contar celdas no vacías
+    C. Evaluar varias condiciones sucesivas y devolver un resultado distinto para cada una, como alternativa a anidar varios `SI`
+    D. Buscar un valor en una tabla y devolver otro dato relacionado
+
+54. ¿Qué diferencia hay entre las funciones `Y` y `O` en Excel?
+    A. `Y` solo admite dos condiciones; `O` admite cualquier número
+    B. `Y` exige que todas las condiciones sean verdaderas; `O` exige que al menos una lo sea
+    C. `O` exige que todas las condiciones sean verdaderas; `Y` exige que al menos una lo sea
+    D. Son exactamente equivalentes
+
+55. ¿Qué función de Excel devuelve el día del mes (un número de 1 a 31) a partir de una fecha?
+    A. `=AHORA()`
+    B. `=MES()`
+    C. `=DIAS()`
+    D. `=DIA()`
+
+56. ¿Qué función permite obtener el número correspondiente al día de la semana de una fecha?
+    A. `=HOY()`
+    B. `=AÑO()`
+    C. `=DIASEM()`
+    D. `=DIA.LAB()`
+
+57. La función `MODA`, aplicada sobre un conjunto de valores numéricos, devuelve:
+    A. El valor medio de todos ellos
+    B. El valor más alto
+    C. El valor más bajo
+    D. El valor que más veces se repite
+
+58. ¿Cuál de los siguientes grupos de funciones pertenece a la categoría `Matemáticas y Trigonométricas` de Excel?
+    A. `SUMA`, `PROMEDIO`, `CONTAR`
+    B. `RAÍZ`, `POTENCIA`, `ENTERO`
+    C. `VNA`, `TIR`, `PAGO`
+    D. `BUSCARV`, `BUSCARX`, `COINCIDIR`
+
+59. Las funciones `VNA` y `TIR` de Excel pertenecen a la categoría:
+    A. Funciones de texto
+    B. Funciones lógicas
+    C. Funciones financieras
+    D. Funciones de base de datos
+
+60. Al ordenar una columna de Excel que mezcla números almacenados como números y números almacenados como texto, ¿qué ocurre?
+    A. Excel muestra un error y no permite ordenar
+    B. Los números almacenados como texto se ordenan siempre antes que los números reales
+    C. Excel convierte automáticamente el texto a número antes de ordenar
+    D. Los números almacenados como números se ordenan antes que los almacenados como texto
+
+61. Si en una hoja de Excel hay varias tablas y solo se quiere imprimir una de ellas, tras seleccionarla conviene elegir en `Imprimir`:
+    A. Imprimir todo el libro
+    B. Imprimir hojas activas
+    C. Imprimir selección
+    D. Imprimir todas las hojas
+
+62. Para que una hoja ancha, con muchas columnas pero pocas filas, se imprima siempre en una sola página de ancho, conviene elegir la opción de escala:
+    A. Ajustar todas las filas en una página
+    B. Sin escalado
+    C. Ajustar hoja en una página, forzando también una sola fila
+    D. Ajustar todas las columnas en una página
+
+63. Una celda tiene aplicado el formato `General`. Se quiere que, al cambiar su formato a `Porcentaje`, muestre `21,00 %`. ¿Qué valor hay que haber introducido antes con el formato `General`?
+    A. `21`
+    B. `0,21`
+    C. `2100`
+    D. `0,0021`
+
+64. En una celda sin ningún formato aplicado previamente, se escribe `20-2` y se pulsa `Intro`. En Excel en español, lo habitual es que la celda:
+    A. Muestre el texto `20-2` sin interpretarlo
+    B. Devuelva un error de formato
+    C. Reconozca el patrón como una fecha y la muestre como `20-feb`
+    D. Reste 2 a 20 y muestre `18`
+
+65. El operador `&` en una fórmula de Excel se utiliza para:
+    A. Fijar una referencia como absoluta
+    B. Comparar dos valores
+    C. Indicar un rango de celdas
+    D. Unir o concatenar texto de distintas celdas
+
+66. La función `CONCAT`, en Excel de Microsoft 365, permite:
+    A. Contar celdas que cumplen una condición
+    B. Buscar un valor en un rango
+    C. Unir el contenido de varias celdas en un único texto
+    D. Redondear un número
+
+67. Si se seleccionan tres celdas consecutivas con los valores `5`, `10` y `15`, y se arrastra el controlador de relleno hacia abajo dos celdas más, lo habitual es que Excel:
+    A. Repita el valor `15` en ambas celdas
+    B. Continúe la progresión, mostrando `20` y `25`
+    C. Deje ambas celdas vacías
+    D. Muestre la suma `30` en cada una de las dos celdas
+
+68. `Transponer`, dentro de `Pegado especial`, permite:
+    A. Convertir un rango en tabla dinámica
+    B. Sumar automáticamente los valores copiados
+    C. Ordenar alfabéticamente el rango copiado
+    D. Cambiar filas por columnas, o columnas por filas, al pegar
+
+69. Si se escribe `enero` en una celda y se arrastra el controlador de relleno hacia la derecha, Excel:
+    A. Repite `enero` en todas las celdas
+    B. Muestra un error, porque no es un valor numérico
+    C. Continúa la serie con `febrero`, `marzo`, etc.
+    D. Convierte automáticamente el texto en una fecha fija
+
+70. En la fórmula `=D1+$B$1`, copiada desde D1 hacia abajo por toda la columna E, la referencia `$B$1`:
+    A. Cambia de fila en cada celda copiada
+    B. Se convierte en relativa automáticamente
+    C. Provoca un error de referencia
+    D. Permanece fija en `B1` en todas las copias
+
+71. La función de texto `SUSTITUIR` permite:
+    A. Ordenar alfabéticamente un rango
+    B. Reemplazar parte de un texto por otro texto indicado
+    C. Combinar dos celdas en una
+    D. Buscar un valor en una tabla
+
+72. La función `DIVIDIRTEXTO`, en Excel de Microsoft 365, permite:
+    A. Dividir aritméticamente dos valores numéricos
+    B. Dividir una hoja en dos paneles
+    C. Separar el texto de una celda en varias celdas, según un carácter delimitador
+    D. Reducir el tamaño de una fuente
+
+73. Además de `Ajustar todas las columnas en una página`, Excel ofrece la opción combinada:
+    A. `Ajustar hoja en una página`, que reduce la escala para que quepa tanto en ancho como en alto
+    B. `Sin escalado`, que amplía automáticamente el contenido
+    C. `Imprimir selección`, que ajusta la escala automáticamente
+    D. `Área de impresión`, que combina filas y columnas en una sola página
+
+74. Para introducir códigos postales en una columna sin que Excel elimine ceros a la izquierda ni los trate como cálculo, es más adecuado un formato de celda:
+    A. Especial (o Texto)
+    B. Número
+    C. General
+    D. Científica
+
+75. ¿Cuál de las siguientes NO es información que ofrezca de forma directa la barra de fórmulas de Excel?
+    A. El contenido real de la celda activa, incluida la fórmula si la tiene
+    B. El botón `fx` para insertar una función
+    C. El nombre o referencia de la celda activa (en el cuadro de nombres)
+    D. El resultado calculado de todas las fórmulas del libro a la vez
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -325,3 +507,33 @@ Tiempo recomendado: 53 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 43 | C | El circular es apropiado para partes de un total con pocas categorías. |
 | 44 | D | Área o columnas apiladas muestran composición acumulada. |
 | 45 | A | El dinámico se vincula a una tabla dinámica; el normal a un rango fijo. |
+| 46 | D | `#####` indica columna estrecha, no un error de fórmula. |
+| 47 | D | Un dato sin `=` delante es una constante. |
+| 48 | C | `fx` abre el buscador de funciones. |
+| 49 | B | `Ctrl + 9` oculta las filas seleccionadas. |
+| 50 | D | La sintaxis entre hojas del mismo libro usa `!`. |
+| 51 | C | Combinar y centrar conserva solo el valor superior izquierdo. |
+| 52 | D | Anidar `SI` permite más de dos resultados posibles. |
+| 53 | C | `SI.CONJUNTO` evalúa condiciones sucesivas sin anidar tantos `SI`. |
+| 54 | B | `Y` exige todas las condiciones; `O` exige alguna. |
+| 55 | D | `DIA` devuelve el día del mes. |
+| 56 | C | `DIASEM` devuelve el día de la semana. |
+| 57 | D | `MODA` devuelve el valor más repetido. |
+| 58 | B | `RAÍZ`, `POTENCIA` y `ENTERO` son matemáticas y trigonométricas. |
+| 59 | C | `VNA` y `TIR` son funciones financieras. |
+| 60 | D | Los números reales se ordenan antes que los almacenados como texto. |
+| 61 | C | `Imprimir selección` imprime solo el rango ya seleccionado. |
+| 62 | D | `Ajustar todas las columnas en una página` fuerza el ancho a una página. |
+| 63 | B | Hay que introducir `0,21` para que el porcentaje muestre `21,00 %`. |
+| 64 | C | Excel autodetecta el patrón como fecha. |
+| 65 | D | `&` une o concatena texto. |
+| 66 | C | `CONCAT` une el contenido de varias celdas. |
+| 67 | B | El controlador de relleno continúa la progresión numérica. |
+| 68 | D | `Transponer` cambia filas por columnas al pegar. |
+| 69 | C | Excel reconoce `enero` como parte de una serie de meses. |
+| 70 | D | `$B$1` permanece fija en todas las copias. |
+| 71 | B | `SUSTITUIR` reemplaza parte de un texto por otro. |
+| 72 | C | `DIVIDIRTEXTO` separa texto en varias celdas según un delimitador. |
+| 73 | A | `Ajustar hoja en una página` combina ancho y alto en una sola página. |
+| 74 | A | El formato `Especial` o `Texto` evita perder ceros a la izquierda. |
+| 75 | D | La barra de fórmulas no resume todas las fórmulas del libro a la vez. |

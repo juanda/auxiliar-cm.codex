@@ -151,6 +151,14 @@ Para editar una celda se puede escribir directamente sobre ella, usar la barra d
 
 Trampa importante: el formato puede cambiar cómo se ve un dato, pero no siempre cambia el valor real almacenado. Una fecha, un porcentaje o una moneda pueden mostrarse con formatos distintos.
 
+Trampa del formato porcentaje: si una celda tiene formato `General` y se le aplica después el formato `Porcentaje`, el valor mostrado depende del valor decimal ya almacenado, no de lo que se quiera ver. Para que una celda muestre `21,00 %` tras aplicar el formato, el valor que debía estar introducido antes (en formato `General`) es `0,21`, no `21`; Excel multiplica el valor almacenado por 100 y añade el símbolo `%`, no lo divide.
+
+Trampa de autodetección de fechas: al escribir en una celda sin formato previo un patrón como `20-2` y pulsar `Intro`, Excel de Microsoft 365 en español suele reconocerlo como una fecha (por ejemplo, `20-feb`) en lugar de tratarlo como texto o como una resta. Conviene fijarse en si el enunciado pide justo el resultado de esa interpretación automática.
+
+Trampa al combinar celdas con datos: si se seleccionan varias celdas que ya contienen valores y se aplica `Combinar y centrar`, Excel conserva únicamente el valor de la celda situada más arriba a la izquierda de la selección; el resto de valores se pierde, sin sumarlos ni concatenarlos.
+
+Trampa al ordenar: si una columna mezcla números almacenados como números y números almacenados como texto (alineados normalmente a la izquierda en vez de a la derecha), al ordenar de forma ascendente los números reales se sitúan antes que los almacenados como texto, aunque su valor numérico sea mayor.
+
 #### Autorrelleno, pegado especial y series
 
 Excel permite acelerar la edición mediante el controlador de relleno y las opciones de pegado.
@@ -180,6 +188,8 @@ El cuadro `Formato de celdas` permite ajustar cómo se muestran y presentan los 
 | Relleno | Color de fondo. |
 | Proteger | Bloqueo u ocultación, eficaz cuando la hoja está protegida. |
 
+Las categorías reales de la pestaña `Número` incluyen, entre otras, `General`, `Número`, `Moneda`, `Fecha`, `Texto` y `Personalizada`. Para datos como códigos postales, que no deben perder ceros a la izquierda ni interpretarse como cálculo, conviene usar el formato `Especial` (si existe una opción específica para el dato) o, en su defecto, `Texto`, en vez de `General` o `Número`.
+
 El `Formato condicional` aplica formatos automáticamente cuando se cumple una regla: valores mayores que una cifra, duplicados, escalas de color, barras de datos, conjuntos de iconos o fórmulas personalizadas.
 
 | Formato condicional | Validación de datos |
@@ -195,6 +205,8 @@ Trampa: formato condicional no es lo mismo que validación. Uno avisa visualment
 #### Fórmulas
 
 Una fórmula es una expresión que calcula un resultado. En Excel, las fórmulas comienzan por el signo igual `=`.
+
+El contenido de una celda que no va precedido de `=` se denomina constante: un dato fijo (texto, número o fecha) que Excel no interpreta como cálculo. Si se escribe una expresión como `5+3` sin el signo `=` delante, Excel no la calcula: la trata como constante de texto o número, según pueda interpretarla, pero no como una operación.
 
 Ejemplos:
 
@@ -219,6 +231,17 @@ Las referencias indican qué celdas usa una fórmula.
 
 Es un punto clásico de hojas de cálculo aunque no haya aparecido aún en las preguntas históricas clasificadas.
 
+#### Referencias entre hojas y entre libros
+
+Para referirse, desde una fórmula, a una celda de otra hoja del mismo libro se usa el nombre de la hoja seguido de `!` y la referencia de celda:
+
+| Referencia | Significado |
+| --- | --- |
+| `Hoja2!A1` | Celda A1 de la hoja `Hoja2`, dentro del mismo libro donde está la fórmula. |
+| `=Hoja1!B1+Hoja2!B1` | Suma el valor de B1 de `Hoja1` con el de B1 de `Hoja2`, ambas del libro actual. |
+
+Trampa: una fórmula puede sumar o combinar celdas de hojas distintas del mismo libro sin ningún problema; no hace falta que la fórmula esté en una de esas dos hojas concretas. Para referirse a una celda de **otro libro** (otro archivo) hace falta además el nombre del libro entre corchetes, por ejemplo `[Presupuesto.xlsx]Hoja1!A1`; la sintaxis `Hoja2!A1`, sin corchetes, siempre apunta a una hoja del libro actual.
+
 #### Funciones
 
 Una función es una fórmula predefinida. Tiene un nombre y unos argumentos entre paréntesis.
@@ -230,12 +253,26 @@ Una función es una fórmula predefinida. Tiene un nombre y unos argumentos entr
 | `MAX` | Devuelve el valor máximo. |
 | `MIN` | Devuelve el valor mínimo. |
 | `SI` | Devuelve un resultado si se cumple una condición y otro si no. |
-| `Y` | Comprueba si varias condiciones son verdaderas. |
+| `SI.CONJUNTO` | Evalúa varias condiciones sucesivas y devuelve un resultado distinto para cada una, como alternativa a anidar varios `SI`. |
+| `Y` | Comprueba si **todas** las condiciones indicadas son verdaderas. |
+| `O` | Comprueba si **al menos una** de las condiciones indicadas es verdadera. |
 | `DERECHA` | Devuelve caracteres desde el final de una cadena de texto. |
+| `SUSTITUIR` | Reemplaza dentro de un texto una cadena por otra indicada. |
+| `CONCAT` | Une el contenido de varias celdas en un único texto (alternativa moderna al operador `&`). |
+| `DIVIDIRTEXTO` | Separa el texto de una celda en varias celdas, según un carácter delimitador. |
 | `CONTAR` | Cuenta celdas con números. |
 | `CONTARA` | Cuenta celdas no vacías. |
+| `MODA` | Devuelve el valor que más veces se repite en un conjunto de datos. |
+| `DIA` | Devuelve el día del mes (1-31) de una fecha. |
+| `DIASEM` | Devuelve el número correspondiente al día de la semana de una fecha. |
 | `BUSCARX` | Busca valores en un rango o matriz. |
 | `SI.ERROR` | Devuelve un valor alternativo si una fórmula da error. |
+
+Trampa: `Y` exige que se cumplan todas las condiciones a la vez; `O` solo exige que se cumpla alguna. Son funciones lógicas distintas y es habitual que el examen las intercambie como distractor.
+
+El operador `&` también une texto de distintas celdas (por ejemplo `=A1&" "&B1`), de forma equivalente a `CONCAT` o a la función clásica `CONCATENAR`; no debe confundirse con `Y`, que es una función lógica y no sirve para unir texto.
+
+Cuando una condición tiene más de dos resultados posibles, una forma clásica de resolverlo es anidar varios `SI` uno dentro del otro, por ejemplo `=SI(A1<=15;"Bajo";SI(A1<=25;"Medio";"Alto"))`; `SI.CONJUNTO`, disponible en Microsoft 365, permite el mismo resultado sin anidar tantos `SI`.
 
 #### Función DERECHA
 
@@ -278,6 +315,9 @@ Pregunta histórica: `2023-E2-018`.
 | `#¿NOMBRE?` | Nombre de función o rango no reconocido. |
 | `#¡VALOR!` | Tipo de dato incorrecto en la fórmula. |
 | `#¡REF!` | Referencia de celda no válida. |
+| `#####` | No es un error de cálculo: la columna es demasiado estrecha para mostrar el contenido (frecuente con fechas o números largos). Ampliar el ancho de columna soluciona el aviso. |
+
+Trampa: `#####` es el error que con más frecuencia se confunde con un fallo de fórmula, cuando en realidad no afecta al valor calculado, solo a su visualización.
 
 #### Operadores y prioridad de cálculo
 
@@ -306,6 +346,23 @@ No todas han aparecido históricamente, pero son funciones básicas de Microsoft
 | Búsqueda | `BUSCARX`, `BUSCARV` | Localizar datos por clave. |
 
 Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones.
+
+#### Categorías de funciones
+
+Excel agrupa sus funciones por categorías, visibles en el buscador de funciones (icono `fx`, junto a la barra de fórmulas, que abre el asistente para localizar e insertar una función).
+
+| Categoría | Ejemplos |
+| --- | --- |
+| Matemáticas y trigonométricas | `SUMA`, `RAÍZ`, `POTENCIA`, `ENTERO`, `REDONDEAR` |
+| Estadísticas | `PROMEDIO`, `MAX`, `MIN`, `MODA`, `CONTAR` |
+| Lógicas | `SI`, `SI.CONJUNTO`, `Y`, `O`, `SI.ERROR` |
+| Texto | `DERECHA`, `IZQUIERDA`, `EXTRAE`, `SUSTITUIR`, `CONCAT` |
+| Fecha y hora | `HOY`, `AHORA`, `DIA`, `DIASEM`, `MES`, `AÑO` |
+| Búsqueda y referencia | `BUSCARX`, `BUSCARV`, `COINCIDIR`, `ÍNDICE` |
+| Financieras | `VNA`, `TIR`, `PAGO` |
+| Base de datos | `BDSUMA`, `BDMAX`, `BDCONTAR` |
+
+Trampa: `VNA` y `TIR` son funciones financieras, no matemáticas ni estadísticas; `RAÍZ`, `POTENCIA` y `ENTERO` sí son matemáticas y trigonométricas.
 
 #### Auditoría de fórmulas y nombres definidos
 
@@ -363,6 +420,31 @@ El programa oficial menciona configuración, por lo que hay que dominar las opci
 | Líneas de cuadrícula | Pueden mostrarse en pantalla y, si se configura, imprimirse. |
 
 No confundir ajustar el zoom de pantalla con escalar para impresión: el zoom sólo cambia la visualización; la escala afecta a la salida impresa.
+
+Entre las opciones de escala de impresión conviene distinguir:
+
+| Opción de escala | Efecto |
+| --- | --- |
+| Sin escalado | Imprime al 100 %, sin ajustar el contenido a la página. |
+| Ajustar hoja en una página | Reduce la escala para que toda la hoja quepa en una sola página, tanto en ancho como en alto. |
+| Ajustar todas las columnas en una página | Fuerza que quepan todas las columnas en el ancho de una página, aunque el resultado ocupe varias páginas de largo. |
+| Ajustar todas las filas en una página | Fuerza que quepan todas las filas en el alto de una página, aunque el resultado ocupe varias páginas de ancho. |
+
+Si además solo interesa imprimir una tabla o rango concreto ya seleccionado, en `Archivo` -> `Imprimir` -> `Configuración` se elige `Imprimir selección`, distinto de `Imprimir hojas activas` (imprime toda la hoja visible) y de `Imprimir todo el libro` (imprime todas las hojas).
+
+#### Atajos de teclado en Excel
+
+| Atajo | Acción |
+| --- | --- |
+| `Ctrl + 9` | Oculta las filas seleccionadas. |
+| `Ctrl + 0` | Oculta las columnas seleccionadas. |
+| `Ctrl + 1` | Abre `Formato de celdas`. |
+| `Ctrl + Inicio` | Va a la celda `A1`. |
+| `Ctrl + Fin` | Va a la última celda usada de la hoja. |
+| `F2` | Edita el contenido de la celda activa. |
+| `F4` | Repite la última acción; dentro de una fórmula, alterna el tipo de referencia (relativa/absoluta/mixta) de la referencia seleccionada. |
+| `Ctrl + ;` | Inserta la fecha actual. |
+| `Ctrl + D` | Rellena hacia abajo con el contenido de la celda superior. |
 
 ### 2.6. Gestión de datos
 
@@ -611,6 +693,22 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | Formato de número | Controla cómo se muestra un dato | Medio |
 | Área de impresión | Rango que se imprimirá | Medio |
 | Escala de impresión | Ajusta salida a páginas | Medio |
+| `#####` | Columna demasiado estrecha; no es error de fórmula | Medio |
+| Constante | Dato fijo sin `=` delante | Medio |
+| Referencia entre hojas (`Hoja2!A1`) | Apunta a una celda de otra hoja del mismo libro | Medio |
+| `SI.CONJUNTO` | Evalúa condiciones sucesivas, alternativa a `SI` anidados | Medio |
+| `Y` frente a `O` | `Y` exige todas las condiciones; `O` exige alguna | Alto |
+| `MODA` | Valor que más se repite | Bajo |
+| `DIA` / `DIASEM` | Día del mes / día de la semana de una fecha | Bajo |
+| Categorías de funciones | Matemáticas, estadísticas, lógicas, texto, fecha, financieras... | Medio |
+| `fx` | Botón que abre el buscador de funciones | Bajo |
+| Combinar y centrar con datos | Conserva solo el valor de la celda superior izquierda | Alto |
+| Formato porcentaje | El valor almacenado debe ser decimal (`0,21`), no `21` | Medio |
+| Autodetección de fechas | Un patrón como `20-2` puede interpretarse como fecha | Medio |
+| Ordenar números como texto | Se ordenan después que los números reales | Bajo |
+| `Ctrl + 9` / `Ctrl + 0` | Ocultan filas / columnas seleccionadas | Bajo |
+| Imprimir selección | Imprime solo el rango ya seleccionado | Bajo |
+| Ajustar columnas/filas en una página | Fuerza el ancho o el alto a una sola página, no ambos | Medio |
 
 ## 4. Artículos importantes
 
@@ -660,6 +758,15 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Confundir organizar ventanas con dividir hoja | Organizar ventanas afecta a ventanas abiertas; dividir afecta a la vista de la hoja. |
 | Pensar que el número de hojas es siempre 255 | En Excel de Microsoft 365 escritorio depende de la memoria disponible. |
 | Usar coma en fórmulas españolas de examen cuando la opción correcta usa punto y coma | En Excel español suele usarse `;` como separador. |
+| Confundir `#####` con un error de fórmula | Solo indica que la columna es demasiado estrecha para mostrar el contenido. |
+| Pensar que una fórmula entre hojas necesita estar en una de esas hojas | Puede estar en cualquier hoja del mismo libro. |
+| Confundir `Y` con `O` | `Y` exige que se cumplan todas las condiciones; `O` exige que se cumpla alguna. |
+| Confundir el operador `&` con la función `Y` | `&` une texto; `Y` es una función lógica. |
+| Pensar que `Combinar y centrar` suma o une los valores de las celdas | Solo conserva el valor de la celda superior izquierda; el resto se pierde. |
+| Introducir `21` para que un `Porcentaje` muestre `21,00 %` | Hay que introducir `0,21` en formato `General` antes de aplicar `Porcentaje`. |
+| Pensar que Excel nunca reinterpreta lo que se escribe | Un patrón como `20-2` puede autodetectarse como fecha. |
+| Suponer que los números guardados como texto se ordenan igual que los números reales | Al ordenar, los números reales se sitúan antes que los almacenados como texto. |
+| Usar formato `Número` para códigos postales | Puede perder ceros a la izquierda; conviene `Especial` o `Texto`. |
 
 ## 6. Preguntas históricas
 
