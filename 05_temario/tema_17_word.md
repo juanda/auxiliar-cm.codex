@@ -124,6 +124,35 @@ La sangría izquierda desplaza el párrafo hacia la derecha respecto al margen i
 
 Pregunta histórica: `2025-E2-010`.
 
+#### Tipos de sangría
+
+Word distingue varios tipos de sangría, no solo la izquierda:
+
+| Tipo de sangría | Efecto |
+| --- | --- |
+| Izquierda | Desplaza todo el párrafo desde el margen izquierdo. |
+| Derecha | Desplaza todo el párrafo desde el margen derecho. |
+| Primera línea | Solo la primera línea del párrafo se desplaza hacia dentro. |
+| Francesa | Todas las líneas excepto la primera se desplazan hacia dentro. |
+
+Trampa: "sangría centrada" no es un tipo de sangría real; la sangría francesa desplaza todo salvo la primera línea, justo lo contrario de la sangría de primera línea.
+
+#### Selección rápida de texto
+
+| Acción | Selecciona |
+| --- | --- |
+| Doble clic sobre una palabra | La palabra completa. |
+| Triple clic dentro de un párrafo | El párrafo completo. |
+| `Ctrl` + clic sobre una frase | La frase completa. |
+| Clic en el margen izquierdo, junto a una línea | La línea completa. |
+| `Ctrl + E` | Todo el documento. |
+
+#### Marca de párrafo y mostrar todo
+
+Cada párrafo termina con una marca de párrafo (¶), normalmente invisible. El botón `Mostrar todo` (`Ctrl + *`, asterisco del teclado numérico o `Ctrl + Mayús + 8` según teclado) muestra las marcas de párrafo, los saltos de línea, los espacios y otros caracteres no imprimibles, sin que eso afecte al documento impreso.
+
+Trampa: `Intro` crea un párrafo nuevo; `Mayús + Intro` crea un salto de línea manual dentro del mismo párrafo, que conserva el mismo formato de párrafo pero empieza una línea nueva sin generar una marca de párrafo distinta. Esta diferencia afecta, por ejemplo, a numeraciones o interlineados que se aplican por párrafo.
+
 #### Listas con viñetas y listas numeradas
 
 | Tipo | Uso | Inicio de cada párrafo |
@@ -193,6 +222,15 @@ Aunque las preguntas históricas se han centrado en texto, el epígrafe oficial 
 
 En imágenes y objetos gráficos es importante distinguir el ajuste del texto. Una imagen `En línea con el texto` se comporta de forma parecida a un carácter dentro del párrafo. Con ajustes como `Cuadrado`, `Estrecho`, `Detrás del texto` o `Delante del texto`, la imagen se coloca con más libertad respecto al texto.
 
+#### Símbolos, capturas y marca de agua
+
+| Elemento | Dónde está | Para qué sirve | Trampa |
+| --- | --- | --- | --- |
+| Símbolo | `Insertar` -> grupo `Símbolos` -> `Símbolo` | Insertar caracteres especiales, como `©` o `€`, que no están en el teclado. | No confundir con `Elementos rápidos`, que inserta bloques de texto reutilizables. |
+| Captura / Recorte de pantalla | `Insertar` -> grupo `Ilustraciones` -> `Captura` | Insertar una instantánea de una ventana abierta o de una parte de la pantalla directamente en el documento, sin salir de Word. | No es la misma herramienta que `Recortes` de Windows (véase Tema 16), aunque el resultado visual sea similar. |
+| Sombreado | `Inicio` -> grupo `Párrafo` -> `Sombreado` | Colorea el fondo del texto o párrafo seleccionado. | No crea sombra en las letras ni en el marco; eso seria un efecto de texto o un borde. |
+| Marca de agua | `Diseño` -> grupo `Fondo de página` -> `Marca de agua` | Inserta un texto o imagen tenue de fondo, como `Borrador` o `Confidencial`, repetido en las páginas. | No está en `Insertar` ni en `Disposición`, sino en la pestaña `Diseño`. |
+
 #### Referencias
 
 La pestaña `Referencias` agrupa herramientas para documentos largos o formalizados. No todas han aparecido históricamente, pero completan el epígrafe de creación y estructuración.
@@ -211,6 +249,8 @@ La pestaña `Referencias` agrupa herramientas para documentos largos o formaliza
 
 Idea de examen: la tabla de contenido se apoya en estilos de título; el índice alfabético se apoya en entradas marcadas; la referencia cruzada apunta a un elemento existente.
 
+Trampa ampliada: la referencia cruzada no se limita a texto suelto; puede apuntar a títulos, marcadores, notas al pie o al final, y a elementos con rótulo como tablas e ilustraciones. El índice (alfabético) muestra palabras clave marcadas junto con el número de página en que aparecen; no debe confundirse con la tabla de contenido, que se genera a partir de los estilos de título y no de entradas marcadas manualmente.
+
 #### Combinación de correspondencia
 
 La combinación de correspondencia permite crear documentos personalizados en serie, por ejemplo cartas, etiquetas, sobres o mensajes de correo a partir de una lista de destinatarios.
@@ -226,6 +266,8 @@ La combinación de correspondencia permite crear documentos personalizados en se
 
 Trampa: la combinación de correspondencia no es una simple lista numerada. Une un documento principal con una fuente de datos.
 
+Al `Seleccionar destinatarios`, las opciones reales del menú son `Escribir una lista nueva`, `Usar una lista existente` y `Elegir de los contactos de Outlook`. No existe una opción directa de menú llamada "Contactos de Excel" ni "Conectar con Access": un libro de Excel o una tabla de Access pueden usarse como fuente de datos, pero se seleccionan a través de `Usar una lista existente`, buscando el archivo correspondiente, no como una opción con nombre propio en el menú.
+
 #### Revisión, ortografía y control de cambios
 
 Word incluye herramientas de revisión que pueden aparecer como distractores frente a formato, búsqueda o impresión.
@@ -233,13 +275,20 @@ Word incluye herramientas de revisión que pueden aparecer como distractores fre
 | Herramienta | Función |
 | --- | --- |
 | Ortografía y gramática | Detecta posibles errores lingüísticos. |
+| Editor (Microsoft 365) | Revisa ortografía, gramática y sugerencias de estilo y claridad de forma unificada, con una puntuación general del documento. |
 | Autocorrección | Sustituye automáticamente ciertos textos o errores frecuentes. |
+| Sinónimos / Tesauro | Muestra alternativas de una palabra seleccionada; se abre con `Mayús + F7`. |
+| Traducir | Traduce texto seleccionado o el documento completo; está en la pestaña `Revisar`. |
+| Leer en voz alta | Lee el documento en voz alta; está en la pestaña `Revisar`, como herramienta de accesibilidad. |
+| Contar palabras | Muestra páginas, palabras, caracteres con y sin espacios, párrafos y líneas del documento. |
 | Comentarios | Permiten anotar sin alterar directamente el texto principal. |
 | Control de cambios | Registra inserciones, eliminaciones y modificaciones. |
 | Aceptar/Rechazar cambios | Confirma o descarta modificaciones registradas. |
 | Comparar documentos | Contrasta versiones de documentos. |
 
 Trampa: el control de cambios no es lo mismo que el historial de versiones. El control de cambios registra modificaciones dentro del documento; el historial de versiones depende del archivo guardado, especialmente si está en OneDrive o SharePoint.
+
+Trampa: "Contar palabras" no informa del número de objetos o imágenes insertadas; su recuento se limita a páginas, palabras, caracteres, párrafos y líneas.
 
 ### 2.3. Gestión, grabación y recuperación de ficheros
 
@@ -262,10 +311,13 @@ Word de Microsoft 365 escritorio trabaja normalmente con documentos `.docx`. Tam
 | --- | --- |
 | `.docx` | Documento moderno de Word. |
 | `.docm` | Documento de Word con macros. |
-| `.dotx` | Plantilla de Word. |
+| `.dotx` | Plantilla de Word sin macros. |
+| `.dotm` | Plantilla de Word que sí puede contener macros. |
 | `.pdf` | Formato para distribuir o imprimir sin editar fácilmente. |
 | `.rtf` | Texto enriquecido compatible con distintos programas. |
 | `.txt` | Texto sin formato. |
+
+Trampa: la "m" final (`.docm`, `.dotm`) indica que el archivo puede contener macros, tanto si es documento como si es plantilla; la "x" final (`.docx`, `.dotx`) indica que no las contiene.
 
 No confundir `Guardar como` con `Exportar`: ambos pueden crear una copia en otro formato, pero `Exportar` se asocia especialmente a PDF/XPS y a generar una versión para distribución.
 
@@ -314,6 +366,10 @@ En `Archivo` -> `Información` pueden aparecer opciones relacionadas con prepara
 | Comprobar compatibilidad | Avisar de funciones que podrían no verse igual en versiones anteriores. |
 
 Trampa histórica: si preguntan por añadir propiedades personalizadas, la ruta relevante es `Propiedades` -> `Propiedades avanzadas`, no `Inspeccionar documento`.
+
+`Comprobar si hay problemas` (dentro de `Proteger documento`) agrupa exactamente `Inspeccionar documento`, `Comprobar accesibilidad` y `Comprobar compatibilidad`. `Restringir edición` no forma parte de ese grupo: es una opción distinta, también dentro de `Proteger documento`, pero orientada a limitar qué puede modificar quien reciba el archivo.
+
+`Marcar como final` informa a quien abra el documento de que es una versión definitiva y lo convierte en documento de solo lectura mientras esa marca esté activa. Trampa: no pide contraseña para abrirlo ni impide reactivar la edición; quien reciba el archivo puede desactivar la marca y seguir editando. No debe confundirse con proteger con contraseña ni con restringir edición mediante permisos.
 
 #### Insertar un documento dentro de otro
 
@@ -371,6 +427,8 @@ El panel de navegación permite moverse por resultados de búsqueda, páginas o 
 
 Trampa: `Reemplazar todo` modifica todas las coincidencias encontradas; no es una simple búsqueda.
 
+El panel de navegación organiza su contenido en tres pestañas: `Títulos` (estructura por estilos de título), `Páginas` (miniaturas de cada página) y `Resultados` (coincidencias de la búsqueda activa).
+
 ### 2.5. Vistas e impresión
 
 Word permite ver el documento de distintas formas. La vista clave para examen es `Diseño de impresión`.
@@ -418,6 +476,8 @@ La impresión depende de la configuración de página. Muchas preguntas mezclan 
 
 Idea de examen: los márgenes y la orientación pertenecen al diseño/configuración de página; elegir impresora y copias pertenece a `Archivo` -> `Imprimir`.
 
+De mayor a menor tamaño, entre los formatos de papel habituales: `A3` es mayor que `A4`, que a su vez es distinto de `Carta` y de `Ejecutivo` (los tamaños `Carta` y `Ejecutivo` son formatos norteamericanos, más pequeños que A3 y de dimensiones distintas a A4). El tamaño A4 es el habitual en la Administración española.
+
 ### 2.6. Personalización del entorno de trabajo
 
 Aunque las preguntas históricas se han centrado más en gestión documental, conviene conocer la lógica general:
@@ -442,6 +502,14 @@ La personalización preguntable se concentra en:
 
 No confundir personalizar el entorno con modificar el documento: cambiar el zoom, la cinta o la barra de acceso rápido afecta a la forma de trabajar; cambiar márgenes, estilos o interlineado afecta al documento.
 
+#### Cinta, KeyTips y barra de estado
+
+La pestaña `Programador` no está visible por defecto en la cinta de opciones; para verla hay que activarla desde `Archivo` -> `Opciones` -> `Personalizar cinta` y marcar su casilla. Se usa sobre todo para macros y controles de formulario.
+
+Al mantener pulsada la tecla `Alt`, Word muestra pequeñas letras o números superpuestos sobre la cinta (KeyTips): pulsando esa letra se activa el comando correspondiente sin usar el ratón.
+
+La barra de estado, en la parte inferior de la ventana, muestra información como el número de página actual, el recuento de palabras o el idioma del documento; un clic con el botón derecho sobre ella permite elegir qué datos mostrar.
+
 #### Atajos de teclado en Word en español
 
 Algunos atajos son especialmente útiles porque en la interfaz española no siempre coinciden con la inicial inglesa.
@@ -464,10 +532,17 @@ Algunos atajos son especialmente útiles porque en la interfaz española no siem
 | `Ctrl + D` | Alinear a la derecha. |
 | `Ctrl + J` | Justificar. |
 | `F7` | Ortografía y gramática. |
-| `Mayús + F7` | Sinónimos. |
+| `Mayús + F7` | Sinónimos (Tesauro). |
 | `Ctrl + Intro` | Salto de página. |
+| `Mayús + Intro` | Salto de línea manual, dentro del mismo párrafo. |
+| `F5` | Abre `Buscar y reemplazar` (pestaña `Ir a`). |
+| `Ctrl + *` | Muestra u oculta marcas de párrafo y caracteres no imprimibles. |
+| `Mayús + F3` | Alterna mayúsculas/minúsculas del texto seleccionado. |
+| `Ctrl + <` / `Ctrl + >` | Reduce/aumenta el tamaño de la fuente seleccionada. |
 
 Trampa: `Ctrl + S` en Word español suele ser `Subrayado`, no `Guardar`.
+
+Trampa: `F5` no ejecuta una búsqueda simple; abre el cuadro `Buscar y reemplazar`, en la pestaña `Ir a`, que permite saltar directamente a una página, sección o línea concreta.
 
 ### 2.7. Cobertura de la convocatoria
 
@@ -481,7 +556,8 @@ Trampa: `Ctrl + S` en Word español suele ser `Subrayado`, no `Guardar`.
 | Grabación de ficheros | Guardar, Guardar como, formatos `.docx`, `.docm`, `.dotx`, PDF y ubicación. |
 | Recuperación de ficheros | Autoguardado, Autorrecuperación, historial de versiones y `Administrar documento`. |
 | Impresión de ficheros | Vista Diseño de impresión, `Archivo` -> `Imprimir`, impresora, copias, páginas, márgenes y orientación. |
-| Personalización del entorno | Cinta, barra de acceso rápido, opciones, revisión, guardado, zoom y vistas. |
+| Personalización del entorno | Cinta, barra de acceso rápido, opciones, revisión, guardado, zoom, vistas, KeyTips y barra de estado. |
+| Principales funciones y utilidades (ampliación) | Tipos de sangría, selección rápida, salto de línea frente a párrafo nuevo, símbolos, capturas, marca de agua, sombreado, Editor, Traducir, Leer en voz alta, Contar palabras. |
 
 ## 3. Conceptos clave
 
@@ -515,6 +591,18 @@ Trampa: `Ctrl + S` en Word español suele ser `Subrayado`, no `Guardar`.
 | Imprimir | Gestiona impresora, copias, páginas y márgenes | Confundir con Diseño de impresión |
 | Configuración de página | Márgenes, orientación, tamaño y saltos | Confundir con selección de impresora |
 | Personalización | Ajusta cinta, acceso rápido, opciones, zoom y vistas | Confundir con modificar el contenido |
+| Sangría francesa | Desplaza todas las líneas salvo la primera | Confundir con sangría de primera línea (justo lo contrario) |
+| Triple clic | Selecciona el párrafo completo | Confundir con doble clic (selecciona una palabra) |
+| `Mayús + Intro` | Salto de línea dentro del mismo párrafo | Confundir con `Intro` (crea párrafo nuevo) |
+| Marca de agua | Texto o imagen de fondo, en la pestaña `Diseño` | Confundir con encabezado o con marca de párrafo |
+| Captura de pantalla (Word) | Inserta una instantánea desde `Insertar` -> `Ilustraciones` | Confundir con `Recortes` de Windows |
+| `Marcar como final` | Aviso informativo + solo lectura reversible | Pensar que pide contraseña o impide reactivar la edición |
+| `Restringir edición` | Limita qué puede modificar quien recibe el archivo | Confundir con `Comprobar si hay problemas` |
+| `.dotm` | Plantilla de Word con macros | Confundir con `.dotx` (sin macros) |
+| Panel de navegación (pestañas) | `Títulos`, `Páginas` y `Resultados` | Pensar que solo muestra resultados de búsqueda |
+| Editor (Microsoft 365) | Revisión unificada de ortografía, gramática y estilo | Confundir con la ortografía clásica únicamente |
+| `F5` en Word | Abre `Buscar y reemplazar`, pestaña `Ir a` | Confundir con actualizar la vista |
+| Destinatarios de correspondencia | `Escribir lista nueva`, `Usar lista existente`, `Contactos de Outlook` | Pensar que existe una opción de menú llamada "Contactos de Excel" |
 
 ## 4. Artículos importantes
 
@@ -562,6 +650,14 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Pensar que el zoom cambia el documento | Cambia la visualización, no el contenido |
 | Estudiar Word 2016 como versión base | La convocatoria 2026 fija Microsoft 365 versión escritorio |
 | Descartar preguntas históricas de Word 2016 | Sirven como referencia de recurrencia si tratan funciones que siguen existiendo |
+| Confundir sangría francesa con sangría de primera línea | La francesa mueve todo salvo la primera línea; la de primera línea solo mueve la primera. |
+| Pensar que `Mayús + Intro` crea un párrafo nuevo | Crea un salto de línea dentro del mismo párrafo. |
+| Pensar que `Marcar como final` protege con contraseña | Solo informa y pone el documento en solo lectura reversible. |
+| Confundir `Restringir edición` con `Comprobar si hay problemas` | Son opciones distintas dentro de `Proteger documento`. |
+| Buscar la marca de agua en `Insertar` | Está en la pestaña `Diseño`, grupo `Fondo de página`. |
+| Confundir la Captura de pantalla de Word con Recortes de Windows | Son herramientas distintas, aunque el resultado se parezca. |
+| Pensar que existe una opción de menú "Contactos de Excel" al combinar correspondencia | Un Excel se usa a través de `Usar una lista existente`, no como opción con nombre propio. |
+| Confundir `.dotx` con `.dotm` | `.dotm` admite macros; `.dotx` no. |
 
 ## 6. Preguntas históricas
 
@@ -811,3 +907,8 @@ No aplica legislación específica. Para el examen, las referencias relevantes s
 | Buscar | Localiza palabras en documento abierto |
 | Comodín `!` | Excluye caracteres dentro de corchetes |
 | Vista | `Diseño de impresión` muestra el aspecto impreso |
+| Salto de línea vs párrafo | `Intro` = párrafo nuevo; `Mayús + Intro` = salto de línea |
+| Sangría francesa | Todas las líneas salvo la primera |
+| Marca de agua | Pestaña `Diseño`, no `Insertar` |
+| Marcar como final | Aviso + solo lectura reversible, sin contraseña |
+| `.dotm` | Plantilla con macros; `.dotx` sin macros |
