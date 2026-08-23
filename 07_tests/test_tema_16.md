@@ -2,9 +2,11 @@
 
 Preguntas nuevas de entrenamiento predictivo para Windows 10. Se combinan recurrencias históricas del Explorador con puntos probables de convocatoria: búsqueda, Este equipo, Acceso rápido, accesorios y herramientas del sistema.
 
-Tiempo recomendado: 76 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 94 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, escritas para que las cuatro opciones sean plausibles dentro del propio tema (sin distractores absurdos o ajenos a Windows) y evitar así el acierto por descarte evidente. Su estilo se ha contrastado con el de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Windows 10 (vistas del Explorador, accesos directos, organización de ventanas, atajos de teclado y búsqueda avanzada), adaptando siempre el contenido a la versión oficial de esta convocatoria. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (comandos de red básicos, Windows Hello, Cortana, el editor del registro, gestión de pantallas múltiples y accesos de Configuración), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -398,6 +400,96 @@ Las preguntas 36 a 65 son de elaboración propia, escritas para que las cuatro o
     C. El botón `Nuevo escritorio` dentro de Vista de tareas
     D. El Administrador de discos
 
+66. ¿Qué comando se utiliza para comprobar la comunicación (conectividad) del equipo local con otro equipo remoto que use IP?
+    A. `ipconfig`
+    B. `netstat`
+    C. `address`
+    D. `ping`
+
+67. ¿Qué comando muestra la configuración de red del equipo local, como su dirección IP?
+    A. `ipconfig`
+    B. `ping`
+    C. `netstat`
+    D. `regedit`
+
+68. El protocolo que asigna automáticamente una dirección IP a un equipo dentro de una red se denomina:
+    A. HTTPS
+    B. FTP
+    C. DHCP
+    D. DNS
+
+69. El llamado "Modo Dios" de Windows 10:
+    A. Es un menú oficial accesible desde `Configuración`
+    B. Es una función exclusiva de Microsoft Store
+    C. Permite acceder directamente a la BIOS del equipo
+    D. No es una función oficial documentada de Windows 10, sino un truco no oficial
+
+70. `Windows Hello` es:
+    A. Un traductor integrado en Windows 10
+    B. El sistema de autenticación biométrica de Windows 10 (huella, rostro o PIN)
+    C. Un protocolo de red
+    D. Un asistente virtual
+
+71. ¿Qué herramienta permite acceder a la base de datos jerárquica de configuración de Windows 10?
+    A. Programador de tareas
+    B. Visor de eventos
+    C. Editor del registro (`regedit`)
+    D. Monitor de recursos
+
+72. El comando `certmgr.msc` abre:
+    A. El Administrador de dispositivos
+    B. El Programador de tareas
+    C. El Administrador de discos
+    D. La Administración de certificados
+
+73. Para conectarse a una red inalámbrica disponible en Windows 10, lo habitual es:
+    A. Abrir el Administrador de tareas
+    B. Usar el icono de red de la barra de tareas
+    C. Abrir el Liberador de espacio
+    D. Usar el Visor de eventos
+
+74. Para consultar las especificaciones del equipo (procesador, RAM) y la versión de Windows instalada, se accede a:
+    A. Panel de control -> Programas
+    B. Configuración -> Privacidad
+    C. Configuración -> Sistema -> Acerca de
+    D. Administrador de tareas -> Rendimiento
+
+75. Las opciones para configurar el PIN, la contraseña o el reconocimiento facial para iniciar sesión se encuentran en:
+    A. Configuración -> Cuentas -> Opciones de inicio de sesión
+    B. Configuración -> Dispositivos
+    C. Panel de control -> Programas
+    D. Configuración -> Privacidad
+
+76. ¿Qué comando muestra en una ventana la versión exacta de Windows instalada?
+    A. `msconfig`
+    B. `taskschd.msc`
+    C. `services.msc`
+    D. `winver`
+
+77. En el Explorador de archivos, ¿qué vista ofrece habitualmente más información sobre cada elemento (nombre, fecha, tipo, tamaño) en columnas?
+    A. Iconos pequeños
+    B. Iconos medianos
+    C. Detalles
+    D. Mosaicos
+
+78. Con dos pantallas conectadas, si se selecciona `Duplicar estas pantallas`:
+    A. Se crea una copia del contenido en el disco duro
+    B. Cada pantalla muestra contenido distinto
+    C. La segunda pantalla queda en negro
+    D. Ambas pantallas muestran exactamente el mismo contenido
+
+79. Cortana, en Windows 10, es:
+    A. Una hoja de cálculo integrada
+    B. Un asistente virtual accesible desde la barra de tareas
+    C. Un editor de texto sin formato
+    D. Un sistema gestor de bases de datos
+
+80. Cuando se restaura un archivo desde la Papelera de reciclaje, ese archivo:
+    A. Vuelve a su ubicación original antes de ser eliminado
+    B. Se guarda en el Escritorio, independientemente de su origen
+    C. No puede recuperarse en ningún caso
+    D. Se abre automáticamente con la aplicación asociada
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -467,3 +559,18 @@ Las preguntas 36 a 65 son de elaboración propia, escritas para que las cuatro o
 | 63 | D | Hacer clic en un tramo de la ruta navega directamente a esa carpeta. |
 | 64 | D | Las unidades de red y los dispositivos extraíbles suelen eliminar sin pasar por la Papelera. |
 | 65 | C | El botón `Nuevo escritorio` de Vista de tareas crea un escritorio virtual. |
+| 66 | D | `ping` comprueba la conectividad con un equipo remoto. |
+| 67 | A | `ipconfig` muestra la configuración de red local. |
+| 68 | C | DHCP asigna IP automáticamente. |
+| 69 | D | El "Modo Dios" no es una función oficial documentada de Windows 10. |
+| 70 | B | Windows Hello es el sistema de autenticación biométrica. |
+| 71 | C | `regedit` accede a la base de datos jerárquica de configuración. |
+| 72 | D | `certmgr.msc` abre la Administración de certificados. |
+| 73 | B | El icono de red de la barra de tareas permite conectar a redes Wi-Fi. |
+| 74 | C | `Configuración -> Sistema -> Acerca de` muestra especificaciones y versión. |
+| 75 | A | Las opciones de inicio de sesión están en `Configuración -> Cuentas`. |
+| 76 | D | `winver` muestra la versión exacta de Windows instalada. |
+| 77 | C | La vista Detalles muestra columnas con más información. |
+| 78 | D | Duplicar pantallas repite el mismo contenido en ambas. |
+| 79 | B | Cortana es el asistente virtual de Windows 10. |
+| 80 | A | La Papelera restaura el archivo a su ubicación original. |

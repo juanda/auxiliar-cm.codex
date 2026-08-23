@@ -124,6 +124,8 @@ En un libro pueden crearse, eliminarse, cambiarse de nombre, moverse, copiarse, 
 
 Trampa: eliminar una hoja borra su contenido; ocultarla sólo la deja fuera de la vista.
 
+`Proteger hoja` y `Proteger libro` no son lo mismo. `Proteger hoja` limita qué se puede hacer con las celdas de esa hoja concreta (editar, dar formato, etc.). `Proteger libro`, con la opción `Estructura`, impide mover, eliminar, ocultar, mostrar o cambiar de nombre las hojas del libro, pero no bloquea el contenido de las celdas: para eso sigue haciendo falta `Proteger hoja`.
+
 ### 2.3. Introducción y edición de datos
 
 En una celda pueden introducirse:
@@ -146,7 +148,8 @@ Para editar una celda se puede escribir directamente sobre ella, usar la barra d
 | Borrar contenido | Elimina el contenido sin necesariamente borrar formato. |
 | Borrar formato | Mantiene el dato pero elimina formato aplicado. |
 | Formato de número | Cambia cómo se muestra el dato: moneda, porcentaje, fecha, decimal. |
-| Ajustar texto | Muestra varias líneas dentro de una celda. |
+| Ajustar texto | Muestra varias líneas dentro de una celda, aumentando su alto si hace falta. |
+| Reducir hasta ajustar | Reduce automáticamente el tamaño de la fuente para que el contenido quepa en la celda, sin cambiar el alto ni el ancho. |
 | Combinar celdas | Une varias celdas visualmente. |
 
 Trampa importante: el formato puede cambiar cómo se ve un dato, pero no siempre cambia el valor real almacenado. Una fecha, un porcentaje o una moneda pueden mostrarse con formatos distintos.
@@ -190,7 +193,7 @@ El cuadro `Formato de celdas` permite ajustar cómo se muestran y presentan los 
 
 Las categorías reales de la pestaña `Número` incluyen, entre otras, `General`, `Número`, `Moneda`, `Fecha`, `Texto` y `Personalizada`. Para datos como códigos postales, que no deben perder ceros a la izquierda ni interpretarse como cálculo, conviene usar el formato `Especial` (si existe una opción específica para el dato) o, en su defecto, `Texto`, en vez de `General` o `Número`.
 
-El `Formato condicional` aplica formatos automáticamente cuando se cumple una regla: valores mayores que una cifra, duplicados, escalas de color, barras de datos, conjuntos de iconos o fórmulas personalizadas.
+El `Formato condicional` aplica formatos automáticamente cuando se cumple una regla: valores mayores que una cifra, duplicados, escalas de color, barras de datos, conjuntos de iconos o fórmulas personalizadas. "Líneas" no es una de las opciones reales del formato condicional; conviene no confundirlo con "barras de datos", que sí lo es.
 
 | Formato condicional | Validación de datos |
 | --- | --- |
@@ -345,7 +348,9 @@ No todas han aparecido históricamente, pero son funciones básicas de Microsoft
 | Fecha | `HOY`, `AHORA`, `DÍA`, `MES`, `AÑO` | Trabajar con fechas. |
 | Búsqueda | `BUSCARX`, `BUSCARV` | Localizar datos por clave. |
 
-Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones.
+`BUSCARV` busca un valor en la primera columna (la más a la izquierda) de un rango y devuelve el valor de otra columna de esa misma fila. Por ejemplo, `=BUSCARV(2020;A5:C7;3)` busca `2020` en la primera columna del rango `A5:C7` y, en la fila donde lo encuentra, devuelve el valor de la tercera columna del rango (la columna C).
+
+Idea de examen: una función siempre tiene nombre y argumentos; una fórmula puede combinar operadores, referencias y funciones. También es habitual que el examen incluya como distractor el nombre de una función que no existe en Excel, mezclada con nombres de funciones reales: conviene reconocer los nombres de funciones estudiados en vez de asumir que cualquier nombre con apariencia de función es válido.
 
 #### Categorías de funciones
 
@@ -390,6 +395,16 @@ La configuración de Excel permite adaptar el entorno de trabajo. Son zonas preg
 | Barra de fórmulas | Muestra y permite editar el contenido de la celda activa. |
 | Opciones de Excel | Configuración general del programa. |
 | Vistas | Cambian la forma de visualizar el libro. |
+
+Excel ofrece varias vistas del libro, en la pestaña `Vista`:
+
+| Vista | Para qué sirve |
+| --- | --- |
+| Normal | Vista de trabajo habitual, sin mostrar cómo quedará impresa la hoja. |
+| Diseño de página | Muestra la hoja tal como se imprimirá, con encabezados y pies visibles. |
+| Vista previa de salto de página | Muestra dónde se producen los saltos de página, permitiendo ajustarlos arrastrándolos. |
+
+Trampa: `Diseño de página` no es lo mismo que `Vista previa de salto de página`; la primera muestra el aspecto completo de impresión, la segunda se centra en dónde caen los saltos.
 
 La configuración del libro y de la hoja incluye:
 
@@ -709,6 +724,11 @@ No debe confundirse con dividir una hoja en paneles ni con ordenar hojas dentro 
 | `Ctrl + 9` / `Ctrl + 0` | Ocultan filas / columnas seleccionadas | Bajo |
 | Imprimir selección | Imprime solo el rango ya seleccionado | Bajo |
 | Ajustar columnas/filas en una página | Fuerza el ancho o el alto a una sola página, no ambos | Medio |
+| Proteger libro (Estructura) | Bloquea mover/eliminar/ocultar hojas, no las celdas | Medio |
+| Formato condicional | Sus opciones reales no incluyen "Líneas" | Bajo |
+| Vista Diseño de página | Muestra la hoja como se imprimirá | Medio |
+| Reducir hasta ajustar | Reduce la fuente para que quepa en la celda | Bajo |
+| `BUSCARV` | Busca en la 1ª columna, devuelve otra columna de esa fila | Alto |
 
 ## 4. Artículos importantes
 
@@ -767,6 +787,10 @@ No hay artículos legales aplicables a este tema. Es materia práctica de ofimá
 | Pensar que Excel nunca reinterpreta lo que se escribe | Un patrón como `20-2` puede autodetectarse como fecha. |
 | Suponer que los números guardados como texto se ordenan igual que los números reales | Al ordenar, los números reales se sitúan antes que los almacenados como texto. |
 | Usar formato `Número` para códigos postales | Puede perder ceros a la izquierda; conviene `Especial` o `Texto`. |
+| Pensar que `Proteger libro` bloquea también las celdas | Solo la opción `Estructura` afecta a mover/eliminar/ocultar hojas; las celdas se protegen con `Proteger hoja`. |
+| Pensar que "Líneas" es una opción del formato condicional | Las opciones reales incluyen escalas de color, barras de datos, conjuntos de iconos y reglas de resaltado. |
+| Confundir la vista `Diseño de página` con `Vista previa de salto de página` | La primera muestra el aspecto de impresión completo; la segunda se centra en dónde caen los saltos. |
+| Confundir `Ajustar texto` con `Reducir hasta ajustar` | `Ajustar texto` aumenta el alto de la celda; `Reducir hasta ajustar` reduce la fuente. |
 
 ## 6. Preguntas históricas
 

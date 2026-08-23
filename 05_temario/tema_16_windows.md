@@ -531,6 +531,44 @@ Windows 10 mantiene dos zonas de configuración: `Configuración`, de diseño mo
 | Panel de control | `control.exe` o búsqueda | Herramientas clásicas como opciones de indización, programas, cuentas o sistema. |
 | Windows Update | Configuración -> Actualización y seguridad | Actualizaciones del sistema. |
 | Seguridad de Windows | Configuración -> Actualización y seguridad | Antivirus, firewall y protección. |
+| Ver especificaciones del equipo y versión de Windows | Configuración -> Sistema -> Acerca de | Muestra procesador, RAM, edición y versión de Windows. |
+| Opciones de inicio de sesión | Configuración -> Cuentas -> Opciones de inicio de sesión | PIN, contraseña, reconocimiento facial o huella. |
+| Comando `winver` | Buscar `winver` y pulsar Intro | Muestra en una ventana la versión exacta de Windows instalada. |
+| Editor del registro (`regedit`) | Buscar `regedit` | Accede a la base de datos jerárquica de configuración del sistema; su modificación incorrecta puede afectar al funcionamiento de Windows. |
+| Administrador de certificados (`certmgr.msc`) | Buscar `certmgr.msc` | Administra certificados digitales del usuario o del sistema. |
+
+Trampa: el llamado "Modo Dios" no es una función oficial documentada de Windows 10 con ese nombre en los menús; es un truco no oficial (crear una carpeta con un identificador especial) que reúne accesos a paneles de control dispersos. Para examen, la respuesta segura ante una pregunta cerrada sobre su existencia oficial es que no forma parte de la interfaz estándar de Windows 10.
+
+#### Windows Hello y autenticación
+
+`Windows Hello` es el sistema de autenticación biométrica de Windows 10: permite iniciar sesión con huella dactilar, reconocimiento facial o un PIN vinculado al dispositivo, como alternativa a la contraseña tradicional.
+
+#### Cortana
+
+`Cortana` es el asistente virtual integrado en Windows 10, accesible desde la barra de tareas o por voz, que permite realizar búsquedas, abrir aplicaciones o gestionar recordatorios.
+
+#### Redes básicas en Windows
+
+| Elemento | Para qué sirve |
+| --- | --- |
+| `ping` | Comprueba la comunicación (conectividad) con un equipo remoto que use IP. |
+| `ipconfig` | Muestra la configuración de red del equipo local (IP, máscara, puerta de enlace). |
+| `netstat` | Muestra las conexiones de red activas del equipo. |
+| DHCP | Protocolo que asigna automáticamente una dirección IP a un equipo de la red. |
+
+Para conectarse a una red inalámbrica disponible, el camino habitual es el icono de red de la barra de tareas, que despliega las redes Wi-Fi visibles y permite conectar.
+
+#### Varias pantallas
+
+Al conectar un segundo monitor, Windows 10 ofrece varios modos de proyección, entre ellos:
+
+| Modo | Efecto |
+| --- | --- |
+| Duplicar estas pantallas | Ambas pantallas muestran exactamente el mismo contenido. |
+| Extender estas pantallas | Cada pantalla muestra una parte distinta del escritorio, ampliando el espacio de trabajo. |
+| Mostrar solo en 1 / Mostrar solo en 2 | El contenido se muestra únicamente en una de las pantallas. |
+
+Trampa: "Duplicar" no crea una copia en disco ni dos escritorios independientes; solo repite la misma imagen en ambas pantallas.
 
 Los sistemas de archivos aparecen al consultar o formatear unidades. No son el centro del epígrafe, pero sí una pregunta posible de Windows.
 
@@ -636,6 +674,15 @@ Una Jump List es la lista que aparece al hacer clic derecho (o arrastrar hacia a
 | Sensor de almacenamiento | Libera espacio de forma automática y periódica | Confundir con el Liberador de espacio (manual) |
 | Restaurar sistema | Revierte configuración a un punto anterior | Pensar que recupera archivos concretos borrados |
 | Atributo Sistema | Archivos propios del sistema, ocultos por defecto | Confundir con atributo Oculto sin más |
+| Windows Hello | Autenticación biométrica (huella, cara, PIN) | Confundir con antivirus |
+| Cortana | Asistente virtual de Windows 10 | Confundir con la búsqueda de la barra de tareas |
+| `ping` | Comprueba conectividad con un equipo remoto | Confundir con `ipconfig` |
+| `ipconfig` | Muestra la configuración de red local | Confundir con `ping` |
+| DHCP | Asigna IP automáticamente | Confundir con DNS |
+| `regedit` | Base de datos jerárquica de configuración | Confundir con Panel de control |
+| Duplicar pantallas | Mismo contenido en ambas pantallas | Confundir con Extender pantallas |
+| "Modo Dios" | Truco no oficial, no es función documentada | Pensar que es un menú estándar de Windows 10 |
+| Configuración -> Sistema -> Acerca de | Ver especificaciones y versión de Windows | Confundir con Panel de control clásico |
 
 ## 4. Artículos importantes
 

@@ -2,9 +2,11 @@
 
 Preguntas nuevas de entrenamiento predictivo para Word de Microsoft 365 escritorio. Se priorizan contenidos no agotados por los exámenes históricos: estilos, secciones, impresión, exportación, revisión, vistas y personalización.
 
-Tiempo recomendado: 76 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 94 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Word para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Word (tipos de sangría, selección de texto, salto de línea frente a párrafo nuevo, referencias cruzadas, combinación de correspondencia, protección de documentos y personalización de la cinta), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (nota al pie, opciones de tabla, números de línea, ubicación de las opciones de impresión, Contar palabras, Editor/Traducir/Leer en voz alta, estilos personales, Tesauro, selección de frase y modo de compatibilidad), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -398,6 +400,96 @@ Las preguntas 36 a 65 son de elaboración propia, con las cuatro opciones plante
     C. Copiar únicamente el color de fondo de una tabla
     D. Aplicar a otro texto el mismo formato de fuente y párrafo de un texto ya seleccionado
 
+66. ¿Qué combinación de teclas inserta una nota al pie en Word?
+    A. `Alt + Ctrl + C`
+    B. `Alt + Ctrl + A`
+    C. `Alt + Ctrl + W`
+    D. `Alt + Ctrl + O`
+
+67. La opción `Dibujar tabla`, dentro de `Insertar` -> `Tabla`, permite:
+    A. Crear una tabla trazando sus bordes a mano con el ratón, con filas o columnas irregulares
+    B. Insertar automáticamente una tabla con formato predefinido
+    C. Convertir un párrafo en una lista numerada
+    D. Dibujar un gráfico a partir de una tabla existente
+
+68. Al ajustar el ancho de una tabla, la opción `Autoajustar a la ventana`:
+    A. Mantiene siempre el mismo ancho de columna, cambie o no el contenido
+    B. Adapta cada columna únicamente al texto que contiene
+    C. Redimensiona la tabla para ocupar el ancho disponible, útil de cara a una vista o exportación web
+    D. Convierte la tabla en un gráfico dinámico
+
+69. La opción `Números de línea`, dentro de `Disposición` -> `Configurar página`, sirve para:
+    A. Numerar automáticamente las páginas del documento
+    B. Insertar una lista numerada en el párrafo actual
+    C. Contar cuántas líneas tiene el documento en el cuadro `Contar palabras`
+    D. Mostrar un número junto a cada línea de texto, útil para poder citar líneas concretas
+
+70. Dentro de `Archivo` -> `Opciones`, las `Opciones de impresión` se encuentran en la categoría:
+    A. Revisión
+    B. Mostrar
+    C. Idioma
+    D. General
+
+71. La herramienta `Contar palabras` de Word muestra estadísticas de:
+    A. Únicamente el número total de palabras
+    B. Palabras, imágenes y tablas insertadas
+    C. Páginas, palabras, caracteres con y sin espacios, párrafos y líneas
+    D. Solo el número de caracteres sin espacios
+
+72. La función `Editor`, disponible en Word de Microsoft 365, se caracteriza por:
+    A. Traducir automáticamente el documento completo
+    B. Insertar automáticamente una tabla de contenido
+    C. Comparar dos versiones distintas de un documento
+    D. Revisar de forma unificada ortografía, gramática y sugerencias de estilo y claridad
+
+73. La herramienta `Traducir` de Word se encuentra en la pestaña:
+    A. Insertar
+    B. Revisar
+    C. Diseño
+    D. Vista
+
+74. `Leer en voz alta`, como herramienta de accesibilidad de Word, se encuentra en la pestaña:
+    A. Inicio
+    B. Ayuda
+    C. Revisar
+    D. Diseño
+
+75. Sobre los estilos personales en Word, es correcto afirmar que:
+    A. Word permite crearlos a partir de estilos ya predefinidos, sin tener que definirlos siempre desde cero
+    B. Word no permite crear estilos personales
+    C. Solo pueden aplicarse a un único párrafo del documento
+    D. No tienen ninguna utilidad práctica para el examen
+
+76. El `Tesauro` de Word (accesible con `Mayús + F7`) es:
+    A. El corrector ortográfico
+    B. Un traductor automático
+    C. La herramienta de control de cambios
+    D. El diccionario de sinónimos
+
+77. En un documento de Word, un doble clic sobre una palabra la selecciona completa; para seleccionar una frase completa lo habitual es:
+    A. Hacer un solo clic sobre cualquier palabra de la frase
+    B. Pulsar `Mayús + Intro`
+    C. Mantener pulsado `Ctrl` y hacer clic en cualquier punto de la frase
+    D. Pulsar `F2`
+
+78. Las referencias cruzadas en Word pueden aplicarse a:
+    A. Únicamente a textos sueltos, sin formato
+    B. Únicamente a tablas
+    C. Únicamente a ilustraciones
+    D. Textos, tablas e ilustraciones, entre otros elementos con rótulo o título
+
+79. La diferencia entre `Símbolo` y `Elementos rápidos`, ambos en la pestaña `Insertar`, es que:
+    A. Son exactamente la misma herramienta con dos nombres distintos
+    B. `Símbolo` inserta caracteres especiales sueltos; `Elementos rápidos` inserta bloques de texto reutilizables
+    C. `Elementos rápidos` solo funciona con imágenes
+    D. `Símbolo` inserta documentos completos
+
+80. Cuando Word muestra que un documento está en `Modo de compatibilidad`, esto indica que:
+    A. El archivo procede de una versión o formato anterior de Word
+    B. El documento no puede editarse hasta actualizarlo
+    C. El documento contiene macros bloqueadas
+    D. El documento está protegido con contraseña
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -467,3 +559,18 @@ Las preguntas 36 a 65 son de elaboración propia, con las cuatro opciones plante
 | 63 | D | La barra de estado puede mostrar página, palabras e idioma. |
 | 64 | B | A3 es mayor que A4, Carta y Ejecutivo. |
 | 65 | D | Copiar formato aplica el mismo formato de fuente y párrafo a otro texto. |
+| 66 | D | `Alt + Ctrl + O` inserta una nota al pie. |
+| 67 | A | `Dibujar tabla` traza bordes a mano, con filas o columnas irregulares. |
+| 68 | C | `Autoajustar a la ventana` redimensiona la tabla al ancho disponible. |
+| 69 | D | `Números de línea` muestra un número junto a cada línea. |
+| 70 | B | Las opciones de impresión están en la categoría `Mostrar`. |
+| 71 | C | Contar palabras muestra páginas, palabras, caracteres, párrafos y líneas. |
+| 72 | D | El Editor unifica ortografía, gramática y sugerencias de estilo. |
+| 73 | B | `Traducir` está en la pestaña `Revisar`. |
+| 74 | C | `Leer en voz alta` está en la pestaña `Revisar`. |
+| 75 | A | Los estilos personales pueden crearse a partir de estilos predefinidos. |
+| 76 | D | El Tesauro es el diccionario de sinónimos. |
+| 77 | C | `Ctrl` + clic selecciona la frase completa. |
+| 78 | D | Las referencias cruzadas pueden apuntar a textos, tablas e ilustraciones. |
+| 79 | B | `Símbolo` inserta caracteres; `Elementos rápidos` inserta bloques reutilizables. |
+| 80 | A | El modo de compatibilidad indica un formato o versión anterior. |

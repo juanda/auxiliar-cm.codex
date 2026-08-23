@@ -215,6 +215,7 @@ Aunque las preguntas históricas se han centrado en texto, el epígrafe oficial 
 | Tabla | Organizar información en filas y columnas. | No es una hoja de cálculo de Excel. |
 | Imagen | Incorporar contenido gráfico. | Puede ajustarse al texto. |
 | Cuadro de texto | Colocar texto en un contenedor independiente. | No inserta un documento entero. |
+| Dibujar tabla | Crear una tabla trazando sus bordes a mano con el ratón. | No es una plantilla predefinida; permite filas y columnas irregulares. |
 | Objeto | Insertar o vincular contenido de otro archivo. | Es la ruta histórica para insertar otro documento. |
 | Hipervínculo | Saltar a web, archivo, correo o marcador. | No es comentario. |
 | Nota al pie | Aclaración al final de página. | No es pie de página. |
@@ -230,6 +231,9 @@ En imágenes y objetos gráficos es importante distinguir el ajuste del texto. U
 | Captura / Recorte de pantalla | `Insertar` -> grupo `Ilustraciones` -> `Captura` | Insertar una instantánea de una ventana abierta o de una parte de la pantalla directamente en el documento, sin salir de Word. | No es la misma herramienta que `Recortes` de Windows (véase Tema 16), aunque el resultado visual sea similar. |
 | Sombreado | `Inicio` -> grupo `Párrafo` -> `Sombreado` | Colorea el fondo del texto o párrafo seleccionado. | No crea sombra en las letras ni en el marco; eso seria un efecto de texto o un borde. |
 | Marca de agua | `Diseño` -> grupo `Fondo de página` -> `Marca de agua` | Inserta un texto o imagen tenue de fondo, como `Borrador` o `Confidencial`, repetido en las páginas. | No está en `Insertar` ni en `Disposición`, sino en la pestaña `Diseño`. |
+| Dibujar tabla | `Insertar` -> `Tabla` -> `Dibujar tabla` | Crea una tabla trazando sus bordes a mano con el ratón, útil para filas o columnas irregulares. | No es una tabla de plantilla predefinida ni una tabla insertada por número de filas/columnas. |
+
+Al ajustar el ancho de una tabla ya insertada, conviene distinguir: `Autoajustar al contenido` adapta cada columna al texto que contiene; `Autoajustar a la ventana` (relevante para que la tabla se vea completa en una vista o exportación web) redimensiona la tabla para ocupar el ancho disponible; `Ancho de columna fijo` mantiene un ancho constante aunque cambie el contenido.
 
 #### Referencias
 
@@ -473,6 +477,7 @@ La impresión depende de la configuración de página. Muchas preguntas mezclan 
 | Saltos | Página, columna o sección. |
 | Encabezado y pie | Zonas superior e inferior repetibles. |
 | Numeración de página | Inserta números automáticos. |
+| Números de línea | Muestra un número junto a cada línea de texto, dentro de `Disposición` -> grupo `Configurar página` -> `Números de línea`; útil en documentos donde hay que citar líneas concretas. |
 
 Idea de examen: los márgenes y la orientación pertenecen al diseño/configuración de página; elegir impresora y copias pertenece a `Archivo` -> `Imprimir`.
 
@@ -499,6 +504,7 @@ La personalización preguntable se concentra en:
 | Opciones de guardado | Formato predeterminado y autorrecuperación. |
 | Opciones avanzadas | Edición, visualización, impresión y compatibilidad. |
 | Zoom y vistas | Adaptar la visualización sin cambiar el documento. |
+| Opciones de impresión | Dentro de `Archivo` -> `Opciones` -> `Mostrar`, no en una categoría separada llamada "Impresión". |
 
 No confundir personalizar el entorno con modificar el documento: cambiar el zoom, la cinta o la barra de acceso rápido afecta a la forma de trabajar; cambiar márgenes, estilos o interlineado afecta al documento.
 
@@ -539,6 +545,7 @@ Algunos atajos son especialmente útiles porque en la interfaz española no siem
 | `Ctrl + *` | Muestra u oculta marcas de párrafo y caracteres no imprimibles. |
 | `Mayús + F3` | Alterna mayúsculas/minúsculas del texto seleccionado. |
 | `Ctrl + <` / `Ctrl + >` | Reduce/aumenta el tamaño de la fuente seleccionada. |
+| `Alt + Ctrl + O` | Inserta una nota al pie. |
 
 Trampa: `Ctrl + S` en Word español suele ser `Subrayado`, no `Guardar`.
 

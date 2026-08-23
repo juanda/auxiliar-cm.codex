@@ -2,9 +2,11 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
-Tiempo recomendado: 88 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 105 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Excel para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de la Administración General del Estado (2015-2024) sobre Excel (el error `#####`, referencias entre hojas y libros, `Combinar y centrar` con datos, funciones lógicas `Y`/`O`, categorías de funciones, mecánica del formato porcentaje, autodetección de fechas, ordenación de números como texto y opciones de escala de impresión), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 76 a 90 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (`Proteger libro` frente a `Proteger hoja`, opciones reales del formato condicional, vista `Diseño de página`, `Reducir hasta ajustar`, ejemplos trabajados de `BUSCARV`/`EXTRAE`/`CONCAT`/`SI`/`O`, funciones inexistentes como distractor y atajos de teclado adicionales), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -458,6 +460,96 @@ Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones plante
     C. El nombre o referencia de la celda activa (en el cuadro de nombres)
     D. El resultado calculado de todas las fórmulas del libro a la vez
 
+76. ¿Qué diferencia hay entre `Proteger hoja` y la opción `Estructura` de `Proteger libro`?
+    A. Son exactamente la misma protección con dos nombres distintos
+    B. `Estructura` protege el contenido de las celdas; `Proteger hoja` protege el orden de las hojas
+    C. Ninguna de las dos impide mover o eliminar hojas
+    D. `Estructura` impide mover, eliminar u ocultar hojas del libro; `Proteger hoja` limita los cambios sobre las celdas de esa hoja
+
+77. ¿Cuál de las siguientes NO es una opción real del `Formato condicional` de Excel?
+    A. Líneas
+    B. Escalas de color
+    C. Barras de datos
+    D. Conjuntos de iconos
+
+78. La vista `Diseño de página`, en la pestaña `Vista` de Excel, muestra:
+    A. Únicamente las fórmulas de la hoja, en vez de sus resultados
+    B. Los saltos de página, sin mostrar encabezados ni pies
+    C. La hoja tal como se imprimirá, con encabezados y pies visibles
+    D. Las hojas ocultas del libro
+
+79. La `Vista previa de salto de página` permite principalmente:
+    A. Cambiar el formato de número de las celdas
+    B. Proteger la hoja frente a cambios
+    C. Ver el contenido de la celda activa
+    D. Ver y ajustar, arrastrándolos, dónde se producen los saltos de página
+
+80. Frente a `Ajustar texto`, la opción `Reducir hasta ajustar` de la alineación de celda:
+    A. Aumenta el alto de la celda para mostrar varias líneas
+    B. Reduce el tamaño de la fuente para que el contenido quepa en la celda, sin cambiar su tamaño
+    C. Combina la celda con las adyacentes
+    D. Convierte el texto en varias celdas independientes
+
+81. La celda A5 contiene el valor `2020`. ¿Qué devuelve la fórmula `=BUSCARV(2020;A5:C7;3)`?
+    A. Sustituye el valor `2020` por `3` en la celda A5
+    B. Devuelve las tres primeras celdas de la fila donde aparece 2020
+    C. Busca `2020` en la primera columna del rango `A5:C7` y devuelve el valor de la tercera columna de esa fila
+    D. Busca `2020` en cualquier celda del rango, sin importar la columna
+
+82. ¿Cuál de las siguientes NO es una función real de Excel?
+    A. `SI`
+    B. `BUSCAR`
+    C. `PRUEBA.F.N`
+    D. `PRUEBA`
+
+83. Para sumar el contenido de las celdas A1 a A5 en Excel, la fórmula correcta es:
+    A. `=SUMA(A1,A5)`
+    B. `=SUMA(A1:A5)`
+    C. `=A1+A5`
+    D. `=+A1:+A5`
+
+84. La celda A1 contiene el texto `Referencia 01`. ¿Qué devuelve la fórmula `=EXTRAE(A1;12;2)`?
+    A. `Referencia`
+    B. `Re`
+    C. `01`
+    D. `Referencia 01`
+
+85. En la celda B5 hay el texto `Número:` y en C5 el número `215`. ¿Qué fórmula en D5 muestra `Número:215`?
+    A. `=CONCAT(B5;C5)`
+    B. `=SUMA(B5;C5)`
+    C. `=IGUAL(B5;C5)`
+    D. `=B5+C5`
+
+86. Si la celda E6 vale `18`, ¿qué devuelve la fórmula `=SI(E6>10;"Alto";"Bajo")`?
+    A. `10`
+    B. `18`
+    C. `Bajo`
+    D. `Alto`
+
+87. Las celdas A1 y B1 contienen valores numéricos. La celda C1 tiene la fórmula `=O(A1>B1;A1=B1;A1<B1)`. ¿Qué valor devuelve C1?
+    A. `FALSO`, solo si A1 es menor que B1
+    B. `VERDADERO`, solo si A1 es mayor que B1
+    C. `VERDADERO` en todos los casos, porque siempre se cumple alguna de las tres condiciones
+    D. `FALSO` en todos los casos
+
+88. ¿Qué combinación de teclas rellena hacia abajo el contenido de la celda superior?
+    A. `Ctrl + R`
+    B. `Ctrl + ;`
+    C. `F4`
+    D. `Ctrl + D`
+
+89. ¿Qué combinación de teclas inserta la fecha actual en una celda?
+    A. `Ctrl + D`
+    B. `Ctrl + ;`
+    C. `Ctrl + 1`
+    D. `F2`
+
+90. Dentro de una fórmula, seleccionar una referencia de celda y pulsar `F4`:
+    A. Alterna el tipo de referencia entre relativa, absoluta y mixta
+    B. Repite la última fórmula introducida en otra celda
+    C. Abre el Formato de celdas
+    D. Inserta la fecha actual
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -537,3 +629,18 @@ Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones plante
 | 73 | A | `Ajustar hoja en una página` combina ancho y alto en una sola página. |
 | 74 | A | El formato `Especial` o `Texto` evita perder ceros a la izquierda. |
 | 75 | D | La barra de fórmulas no resume todas las fórmulas del libro a la vez. |
+| 76 | D | `Estructura` protege las hojas del libro; `Proteger hoja` protege las celdas. |
+| 77 | A | "Líneas" no es una opción real del formato condicional. |
+| 78 | C | `Diseño de página` muestra la hoja como se imprimirá. |
+| 79 | D | La vista de salto de página permite ver y ajustar los saltos. |
+| 80 | B | `Reducir hasta ajustar` reduce la fuente sin cambiar el tamaño de la celda. |
+| 81 | C | `BUSCARV` busca en la primera columna y devuelve otra columna de esa fila. |
+| 82 | D | `PRUEBA` no es una función real de Excel. |
+| 83 | B | `=SUMA(A1:A5)` es la sintaxis correcta para sumar el rango. |
+| 84 | C | `EXTRAE(A1;12;2)` devuelve `01`, dos caracteres desde la posición 12. |
+| 85 | A | `CONCAT` une el texto de B5 y C5. |
+| 86 | D | `18 > 10`, por lo que devuelve `Alto`. |
+| 87 | C | Siempre se cumple alguna de las tres comparaciones, así que `O` devuelve `VERDADERO`. |
+| 88 | D | `Ctrl + D` rellena hacia abajo. |
+| 89 | B | `Ctrl + ;` inserta la fecha actual. |
+| 90 | A | `F4` alterna el tipo de referencia de la celda seleccionada. |
