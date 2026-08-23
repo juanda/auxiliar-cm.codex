@@ -57,10 +57,30 @@ Partes principales:
 | Panel de vista previa | Muestra contenido de ciertos archivos sin abrirlos. |
 | Panel de detalles | Muestra propiedades básicas del elemento seleccionado. |
 | Barra de estado | Ofrece información resumida de la selección o carpeta. |
+| Cinta de opciones (Ribbon) | Agrupa las funciones en pestañas: `Archivo`, `Inicio`, `Compartir` y `Vista`, más pestañas contextuales según el elemento seleccionado. |
 
 La ruta completa de una carpeta se ve en la barra de direcciones.
 
 Pregunta histórica: `2025-E2-004`.
+
+#### Cinta de opciones (Ribbon)
+
+Desde Windows 8.1/10, el Explorador organiza sus funciones en una cinta de opciones similar a la de Office, con pestañas fijas (`Archivo`, `Inicio`, `Compartir`, `Vista`) y pestañas contextuales que aparecen solo con ciertos elementos seleccionados (por ejemplo, `Herramientas de imagen` con una foto, o `Herramientas de unidad` con un disco).
+
+Trampa: la pestaña `Vista` es la que controla el tipo de vista, mostrar/ocultar extensiones y elementos ocultos, y el panel de vista previa o de detalles; no confundirla con la pestaña `Compartir`, que se centra en enviar, comprimir o compartir en red.
+
+#### Opciones de carpeta y de búsqueda
+
+El cuadro `Opciones de carpeta y de búsqueda` (accesible desde la pestaña `Vista` de la cinta) permite configurar el comportamiento general del Explorador.
+
+| Opción | Efecto |
+| --- | --- |
+| Mostrar archivos, carpetas y unidades ocultos | Hace visibles elementos marcados como ocultos. |
+| Ocultar las extensiones de archivo para tipos de archivo conocidos | Si está activada, Windows no muestra la extensión de archivos con tipo reconocido. |
+| Abrir cada carpeta en su propia ventana | Cambia si al navegar se reutiliza la ventana o se abren nuevas. |
+| Buscar siempre nombres y contenido de archivos | Amplía el alcance de la búsqueda a costa de velocidad. |
+
+Trampa: por defecto, Windows 10 **oculta** las extensiones de los tipos de archivo conocidos; hay que desactivar esa opción para verlas siempre, lo cual explica por qué a veces un archivo `informe.docx` se muestra en el Explorador simplemente como `informe`.
 
 #### Acceso rápido
 
@@ -139,8 +159,28 @@ Antes de copiar, mover o eliminar hay que seleccionar elementos. Windows permite
 | `Ctrl + V` | Pega en la ubicación actual. |
 | `Supr` | Envía a la Papelera, salvo excepciones. |
 | `Mayús + Supr` | Elimina sin pasar por la Papelera, si se confirma. |
+| `F2` | Renombra el elemento seleccionado. |
+| `Ctrl + Mayús + N` | Crea una carpeta nueva en la ubicación actual. |
+| `Alt + Enter` | Abre las Propiedades del elemento seleccionado. |
+| `Ctrl + Mayús + Esc` | Abre directamente el Administrador de tareas. |
 
-Trampa: copiar conserva el original; cortar y pegar lo desplaza. Arrastrar dentro de la misma unidad suele mover; arrastrar entre unidades puede copiar. Si el examen pregunta con seguridad, hay que fijarse en el verbo: copiar, mover, eliminar, restaurar o crear acceso directo.
+Trampa: copiar conserva el original; cortar y pegar lo desplaza. Si el examen pregunta con seguridad, hay que fijarse en el verbo: copiar, mover, eliminar, restaurar o crear acceso directo.
+
+Trampa con `Ctrl + Alt + Supr`: esa combinación no abre el Administrador de tareas directamente, sino una pantalla intermedia con varias opciones (entre ellas, Administrador de tareas). Para abrirlo sin pasos intermedios se usa `Ctrl + Mayús + Esc`.
+
+#### Arrastrar con el ratón y teclas modificadoras
+
+El resultado de arrastrar un elemento con el ratón depende de si el origen y el destino están en la misma unidad y de si se mantiene pulsada una tecla modificadora:
+
+| Situación | Resultado por defecto |
+| --- | --- |
+| Arrastrar dentro de la misma unidad (p. ej. `C:` a `C:`) | Mueve el elemento. |
+| Arrastrar entre unidades distintas (p. ej. `C:` a un USB) | Copia el elemento; el original permanece. |
+| Arrastrar manteniendo `Ctrl` | Fuerza copiar, sea cual sea la unidad. |
+| Arrastrar manteniendo `Mayús` | Fuerza mover, sea cual sea la unidad. |
+| Arrastrar manteniendo `Alt` | Crea un acceso directo en el destino. |
+
+Trampa habitual de examen: la regla de "misma unidad mueve, distinta unidad copia" solo aplica cuando no se pulsa ninguna tecla modificadora; con `Ctrl` o `Mayús` pulsados el comportamiento se invierte de forma forzada.
 
 #### Nombres y extensiones
 
@@ -171,6 +211,21 @@ Windows no permite cualquier carácter en nombres de archivos o carpetas. Es pre
 | Extensión visible u oculta | Depende de las opciones del Explorador. |
 
 Trampa: `informe.docx` e `informe.pdf` pueden coexistir porque la extensión forma parte del nombre completo del archivo.
+
+#### Accesos directos
+
+Un acceso directo es un enlace a un archivo, carpeta o programa; no es el elemento original. Se reconoce en el icono por una pequeña flecha superpuesta en la esquina inferior izquierda.
+
+| Acción sobre el acceso directo | Efecto sobre el original |
+| --- | --- |
+| Eliminar el acceso directo | El original no se ve afectado. |
+| Mover el acceso directo | El original permanece en su ubicación. |
+| Abrir el acceso directo | Abre el elemento original. |
+| Acceso directo roto (el original se movió o borró) | El acceso directo deja de funcionar, pero sigue existiendo como archivo. |
+
+Trampa: eliminar un acceso directo del Escritorio **no** elimina ni desinstala el programa o archivo al que apunta.
+
+El submenú `Enviar a` del menú contextual permite copiar o crear rápidamente un acceso a destinos habituales: el Escritorio (como acceso directo), una carpeta comprimida, una unidad extraíble conectada o un destinatario de correo, sin tener que navegar manualmente hasta ese destino.
 
 #### Asociación de archivos
 
@@ -205,12 +260,15 @@ El cuadro `Propiedades` de un archivo, carpeta o unidad es una zona muy pregunta
 | Compartir | Opciones de uso compartido en red. |
 | Atributo `Solo lectura` | Dificulta modificar el archivo, pero no equivale siempre a protección absoluta. |
 | Atributo `Oculto` | Puede ocultar el elemento si el Explorador no muestra ocultos. |
+| Atributo `Sistema` | Marca archivos propios del sistema operativo; suelen estar ocultos por defecto y modificarlos o eliminarlos puede afectar al funcionamiento de Windows. |
 
 Permisos y uso compartido no son lo mismo. Los permisos de seguridad controlan lo que un usuario puede hacer sobre el archivo o carpeta; compartir determina si se ofrece acceso por red. En carpetas compartidas pueden intervenir ambos niveles.
 
 #### Papelera y eliminación
 
-La Papelera almacena elementos eliminados de ubicaciones habituales del disco local para que puedan restaurarse. No todo pasa necesariamente por la Papelera: unidades de red, dispositivos extraíbles, archivos muy grandes o eliminación con `Mayús + Supr` pueden no quedar recuperables desde ella.
+La Papelera almacena elementos eliminados de ubicaciones habituales del disco local para que puedan restaurarse. No todo pasa necesariamente por la Papelera: unidades de red, dispositivos extraíbles (como una memoria USB), archivos muy grandes o eliminación con `Mayús + Supr` pueden no quedar recuperables desde ella.
+
+El icono de la Papelera en el escritorio cambia de aspecto según si contiene o no elementos eliminados (vacía o llena), pero ese icono no indica el tamaño ni el número exacto de elementos que contiene.
 
 | Acción | Efecto |
 | --- | --- |
@@ -256,10 +314,13 @@ El Explorador permite cambiar cómo se muestran los elementos.
 
 | Vista | Utilidad |
 | --- | --- |
-| Iconos grandes/medianos/pequeños | Reconocer elementos visualmente. |
+| Iconos extra grandes / grandes / medianos / pequeños | Reconocer elementos visualmente, con distinto tamaño de icono. |
 | Lista | Mostrar muchos elementos de forma compacta. |
 | Detalles | Ver columnas como nombre, fecha, tipo y tamaño. |
-| Mosaicos/contenido | Mostrar información ampliada. |
+| Mosaicos | Icono mediano junto con datos básicos (tipo, tamaño) en cada elemento. |
+| Contenido | Muestra información ampliada por elemento, en formato de lista con más detalle que Lista. |
+
+Las ocho vistas anteriores son las que ofrece la cinta `Vista` del Explorador en Windows 10. Trampa habitual: "Miniaturas" no es el nombre de una vista independiente en el menú del Explorador; el efecto de miniatura se consigue con las vistas de iconos, no con una vista llamada así.
 
 #### Agrupar y ordenar
 
@@ -319,6 +380,20 @@ Ejemplos:
 | `*.pdf` | Archivos PDF. |
 | `informe*` | Archivos que empiezan por informe. |
 | `foto?.jpg` | `foto1.jpg`, `foto2.jpg`, etc. |
+
+#### Operadores de búsqueda avanzados
+
+Además de los comodines `*` y `?`, el cuadro de búsqueda admite operadores que afinan el resultado:
+
+| Operador | Ejemplo | Qué hace |
+| --- | --- | --- |
+| Comillas `" "` | `"informe final"` | Busca exactamente esa frase completa, en ese orden, en vez de las palabras por separado. |
+| Signo menos `-` | `informe -borrador` | Excluye de los resultados los elementos que contengan la palabra que sigue al `-`. |
+| `AND`, `OR`, `NOT` | `factura AND 2025` | Combina criterios; en mayúsculas para que Windows los interprete como operadores y no como texto literal. |
+
+Trampa: unas comillas alrededor del texto **no** amplían la búsqueda ni la limitan por tipo de archivo; sirven para exigir la coincidencia exacta de la frase completa.
+
+Además, al hacer clic en el cuadro de búsqueda aparece una pestaña contextual `Buscar` en la cinta de opciones, con herramientas para acotar por ubicación (incluir subcarpetas o no), fecha, tipo o tamaño sin tener que escribir el filtro a mano.
 
 #### Indexación
 
@@ -415,9 +490,17 @@ No confundir comandos:
 | Programador de tareas | Automatizar tareas. |
 | Visor de eventos | Consultar registros del sistema. |
 | Información del sistema | Ver datos de hardware, componentes y software. |
-| Liberador de espacio / Sensor de almacenamiento | Ayudar a liberar espacio. |
-| Restaurar sistema | Volver a un punto anterior si está configurado. |
+| Liberador de espacio en disco | Elimina archivos temporales y de descarga cuando el usuario lo ejecuta manualmente. |
+| Sensor de almacenamiento (Storage Sense) | Libera espacio de forma automática y periódica, según la configuración, sin que el usuario lo ejecute cada vez. |
+| Restaurar sistema | Volver a un punto de restauración anterior de la configuración del sistema, si está configurado. |
+| Configuración del sistema (`msconfig`) | Configurar opciones de arranque, servicios e inicio del sistema. |
+| Símbolo del sistema (`cmd`) | Introducir órdenes de texto para el sistema operativo. |
+| Desfragmentar y optimizar unidades | Reorganiza los datos de una unidad para mejorar su rendimiento; se accede también desde la pestaña `Herramientas` de las Propiedades de la unidad. |
 | Seguridad de Windows | Antivirus, firewall y protección del sistema. |
+
+Trampa: el Liberador de espacio y el Sensor de almacenamiento no son la misma herramienta. El Liberador actúa cuando el usuario lo lanza; el Sensor de almacenamiento puede ejecutarse solo, en segundo plano, con la periodicidad que se configure.
+
+Trampa: `Restaurar sistema` no recupera archivos concretos borrados por el usuario (para eso está la Papelera); revierte cambios de configuración, controladores o programas instalados a un punto anterior.
 
 #### Herramientas de mantenimiento y administración
 
@@ -431,8 +514,12 @@ Además de reconocer el nombre de la herramienta, conviene saber cuándo usarla:
 | Revisar hardware instalado y controladores | Administrador de dispositivos. |
 | Consultar errores del sistema o aplicaciones | Visor de eventos. |
 | Automatizar una tarea en una fecha u hora | Programador de tareas. |
-| Liberar espacio de archivos temporales | Liberador de espacio o Sensor de almacenamiento. |
+| Liberar espacio de archivos temporales bajo demanda | Liberador de espacio en disco. |
+| Liberar espacio de forma automática y periódica | Sensor de almacenamiento (Storage Sense). |
 | Comprobar protección antivirus y firewall | Seguridad de Windows. |
+| Revertir la configuración a un momento anterior | Restaurar sistema. |
+| Cambiar qué programas o servicios arrancan con Windows a bajo nivel | Configuración del sistema (`msconfig`). |
+| Mejorar el rendimiento de una unidad fragmentada | Desfragmentar y optimizar unidades. |
 
 #### Configuración, Panel de control y sistemas de archivos
 
@@ -455,7 +542,41 @@ Los sistemas de archivos aparecen al consultar o formatear unidades. No son el c
 
 Trampa: NTFS permite permisos de seguridad; FAT32 no ofrece esos permisos NTFS.
 
-### 2.7. Cobertura de la convocatoria
+### 2.7. Ventanas, barra de tareas y escritorios virtuales
+
+Aunque no son "el Explorador" en sentido estricto, la gestión de ventanas forma parte del manejo básico de Windows 10 que la convocatoria puede preguntar dentro de este tema.
+
+#### Organización de ventanas
+
+Al hacer clic derecho sobre un hueco vacío de la barra de tareas aparecen opciones para organizar las ventanas abiertas:
+
+| Opción | Efecto |
+| --- | --- |
+| Cascada | Superpone las ventanas escalonadas, mostrando la barra de título de cada una. |
+| Mostrar ventanas apiladas | Reparte las ventanas en franjas horizontales. |
+| Mostrar ventanas en paralelo | Reparte las ventanas en franjas verticales, una junto a otra. |
+| Mostrar el escritorio | Minimiza todas las ventanas a la vez. |
+
+Trampa: "Mostrar ventanas en cuadrícula" no es una de las opciones reales del menú contextual de la barra de tareas en Windows 10.
+
+#### Atajos de ventana y escritorio
+
+| Combinación | Efecto |
+| --- | --- |
+| `Windows + D` | Minimiza todas las ventanas y muestra el escritorio (repetirla las restaura). |
+| `Windows + flecha izquierda/derecha` | Ancla la ventana activa a la mitad de la pantalla (Aero Snap). |
+| `Windows + Tab` | Abre la Vista de tareas: muestra las ventanas abiertas y permite gestionar escritorios virtuales. |
+| `Alt + Tab` | Cambia entre ventanas abiertas. |
+
+#### Escritorios virtuales
+
+Windows 10 permite crear varios escritorios virtuales independientes desde la Vista de tareas (`Windows + Tab`), con el botón `Nuevo escritorio`. Cada escritorio virtual puede tener sus propias ventanas abiertas, lo que ayuda a separar tareas sin usar varios monitores.
+
+#### Jump Lists
+
+Una Jump List es la lista que aparece al hacer clic derecho (o arrastrar hacia arriba) sobre el icono de un programa anclado en la barra de tareas o en el menú Inicio. Muestra accesos rápidos a archivos o acciones usadas recientemente o frecuentemente con ese programa, sin tener que abrirlo primero y buscar el archivo.
+
+### 2.8. Cobertura de la convocatoria
 
 | Punto oficial | Dónde se trabaja |
 | --- | --- |
@@ -465,7 +586,11 @@ Trampa: NTFS permite permisos de seguridad; FAT32 no ofrece esos permisos NTFS.
 | Este equipo | Unidades, propiedades, espacio libre, carpetas principales. |
 | Acceso rápido | Carpetas frecuentes, ancladas y archivos recientes. |
 | Accesorios | Bloc de notas, WordPad, Paint, Recortes, Calculadora, etc. |
-| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas, eventos, configuración, Panel de control, seguridad, actualización y mantenimiento. |
+| Herramientas del sistema | Administrador de tareas, discos, dispositivos, servicios, tareas, eventos, configuración, Panel de control, seguridad, actualización, `msconfig`, `cmd`, Restaurar sistema, desfragmentación y mantenimiento. |
+| Gestión de carpetas y archivos (ampliación) | Accesos directos, `Enviar a`, atributo Sistema, arrastrar con `Ctrl`/`Mayús`/`Alt`. |
+| Operaciones de búsqueda (ampliación) | Comillas para frase exacta, exclusión con `-`, pestaña contextual `Buscar`. |
+| Explorador de Windows (ampliación) | Cinta de opciones, `Opciones de carpeta y de búsqueda`, extensiones ocultas por defecto, ocho vistas del Explorador. |
+| Gestión de ventanas | Cascada, apiladas, en paralelo, `Windows + D`, Aero Snap, Vista de tareas, escritorios virtuales, Jump Lists. |
 
 ## 3. Conceptos clave
 
@@ -496,6 +621,21 @@ Trampa: NTFS permite permisos de seguridad; FAT32 no ofrece esos permisos NTFS.
 | FAT32 | Sistema compatible con límite de 4 GB por archivo | Pensar que admite archivos enormes |
 | Administrador de tareas | Procesos y rendimiento en tiempo real | Confundir con servicios |
 | `diskmgmt.msc` | Administrador de discos | Confundir con `devmgmt.msc` |
+| Flecha en el icono | Indica acceso directo | Confundir con archivo comprimido u oculto |
+| Eliminar acceso directo | No afecta al original | Pensar que borra o desinstala el archivo/programa |
+| `F2` | Renombra el elemento seleccionado | Confundir con `F5` (actualizar) |
+| `Ctrl + Mayús + N` | Crea carpeta nueva | Confundir con `Ctrl + N` |
+| `Alt + Enter` | Abre Propiedades del elemento | Confundir con `Ctrl + Alt + Supr` |
+| `Ctrl + Mayús + Esc` | Abre el Administrador de tareas directamente | Pensar que `Ctrl + Alt + Supr` lo abre directamente |
+| Arrastrar con `Ctrl` | Fuerza copiar | Confundir con `Mayús`, que fuerza mover |
+| Comillas en la búsqueda | Buscan la frase exacta completa | Pensar que amplían o filtran por tipo |
+| Extensiones ocultas por defecto | Windows 10 las oculta salvo que se desactive la opción | Pensar que siempre se ven |
+| `Windows + D` | Muestra el escritorio | Confundir con `Windows + Tab` |
+| Vista de tareas (`Windows + Tab`) | Ventanas abiertas y escritorios virtuales | Confundir con Administrador de tareas |
+| Jump List | Accesos recientes de una app anclada en la barra de tareas | Confundir con Acceso rápido |
+| Sensor de almacenamiento | Libera espacio de forma automática y periódica | Confundir con el Liberador de espacio (manual) |
+| Restaurar sistema | Revierte configuración a un punto anterior | Pensar que recupera archivos concretos borrados |
+| Atributo Sistema | Archivos propios del sistema, ocultos por defecto | Confundir con atributo Oculto sin más |
 
 ## 4. Artículos importantes
 
@@ -538,6 +678,14 @@ No hay artículos legales aplicables. Es materia práctica de ofimática. Las re
 | Confundir Administrador de tareas con Administrador de discos | Tareas muestra procesos; discos gestiona volúmenes. |
 | Confundir `diskmgmt.msc` con `devmgmt.msc` | `diskmgmt.msc` abre discos; `devmgmt.msc` dispositivos. |
 | Confundir FAT32 y NTFS | FAT32 limita archivos grandes; NTFS admite permisos de seguridad. |
+| Pensar que eliminar un acceso directo borra el original | El acceso directo es solo un enlace; el original no se ve afectado. |
+| Creer que `Ctrl + Alt + Supr` abre el Administrador de tareas directamente | Esa combinación abre una pantalla intermedia; `Ctrl + Mayús + Esc` sí lo abre directamente. |
+| Pensar que arrastrar siempre mueve o siempre copia | Depende de si es la misma unidad y de si se pulsa `Ctrl`, `Mayús` o `Alt`. |
+| Creer que las comillas en la búsqueda amplían resultados | Las comillas buscan la frase exacta, lo que normalmente reduce resultados. |
+| Pensar que las extensiones siempre se ven en el Explorador | Windows 10 las oculta por defecto para tipos de archivo conocidos. |
+| Confundir el Liberador de espacio con el Sensor de almacenamiento | El Liberador es manual; el Sensor de almacenamiento actúa solo, de forma periódica. |
+| Pensar que Restaurar sistema recupera archivos borrados por el usuario | Restaurar sistema revierte configuración, no sustituye a la Papelera. |
+| Confundir Vista de tareas con Administrador de tareas | Vista de tareas gestiona ventanas y escritorios virtuales; Administrador de tareas gestiona procesos. |
 
 ## 6. Preguntas históricas
 
@@ -840,3 +988,9 @@ Repaso de máxima prioridad:
 - Panel de vista previa = ver contenido sin abrir.
 - Administrador de tareas = procesos activos.
 - `diskmgmt.msc` = Administrador de discos.
+- Un acceso directo (flecha en el icono) no es el original: borrarlo no borra el archivo o programa.
+- `Ctrl + Mayús + Esc` abre el Administrador de tareas directamente; `Ctrl + Alt + Supr` no.
+- Arrastrar: misma unidad mueve, distinta unidad copia; `Ctrl` fuerza copiar, `Mayús` fuerza mover.
+- Las extensiones de tipos conocidos están ocultas por defecto en el Explorador.
+- `Windows + D` muestra el escritorio; `Windows + Tab` abre la Vista de tareas y los escritorios virtuales.
+- El Sensor de almacenamiento libera espacio solo; el Liberador de espacio hay que ejecutarlo.
