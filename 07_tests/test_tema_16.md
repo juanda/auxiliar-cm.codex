@@ -2,13 +2,13 @@
 
 Preguntas nuevas de entrenamiento predictivo para Windows 10. Se combinan recurrencias históricas del Explorador con puntos probables de convocatoria: búsqueda, Este equipo, Acceso rápido, accesorios y herramientas del sistema.
 
-Tiempo recomendado: 120 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 100 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, escritas para que las cuatro opciones sean plausibles dentro del propio tema (sin distractores absurdos o ajenos a Windows) y evitar así el acierto por descarte evidente. Su estilo se ha contrastado con el de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Windows 10 (vistas del Explorador, accesos directos, organización de ventanas, atajos de teclado y búsqueda avanzada), adaptando siempre el contenido a la versión oficial de esta convocatoria. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
-Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (comandos de red básicos, Windows Hello, Cortana, el editor del registro, gestión de pantallas múltiples y accesos de Configuración), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+Las preguntas 66 a 74 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (el editor del registro, la administración de certificados, especificaciones del equipo, opciones de inicio de sesión, la versión de Windows y la gestión de pantallas múltiples), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid. Un grupo de preguntas de esta misma ronda que se alejaba de "Herramientas del sistema" hacia Windows en general (comandos de red básicos, Windows Hello y Cortana) se ha retirado de este test tras una revisión de encaje con el epígrafe oficial.
 
-Las preguntas 81 a 103 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (pestañas del Administrador de tareas, categorías reales de Configuración y de Personalizar, atajos de Lupa y de captura de pantalla, Aero Peek, energía y suspensión, comprobador de errores en disco, ficha Compartir del Explorador y atributos de Propiedades de carpeta), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+Las preguntas 75 a 86 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (pestañas del Administrador de tareas, especificaciones del equipo, atajos de Lupa y de captura de pantalla, Aero Peek, comprobador de errores en disco, ficha Compartir del Explorador y atributos de Propiedades de carpeta), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid. Igual que en la ronda anterior, se ha retirado un grupo de preguntas de Configuración y Personalización generales (pantalla, energía, cuentas, barra de tareas, menú Inicio, OneDrive y otras) que no encajaban en ningún punto del epígrafe oficial del tema.
 
 ## Preguntas
 
@@ -402,233 +402,131 @@ Las preguntas 81 a 103 son de elaboración propia, inspiradas en el tipo de cont
     C. El botón `Nuevo escritorio` dentro de Vista de tareas
     D. El Administrador de discos
 
-66. ¿Qué comando se utiliza para comprobar la comunicación (conectividad) del equipo local con otro equipo remoto que use IP?
-    A. `ipconfig`
-    B. `netstat`
-    C. `address`
-    D. `ping`
-
-67. ¿Qué comando muestra la configuración de red del equipo local, como su dirección IP?
-    A. `ipconfig`
-    B. `ping`
-    C. `netstat`
-    D. `regedit`
-
-68. El protocolo que asigna automáticamente una dirección IP a un equipo dentro de una red se denomina:
-    A. HTTPS
-    B. FTP
-    C. DHCP
-    D. DNS
-
-69. El llamado "Modo Dios" de Windows 10:
+66. El llamado "Modo Dios" de Windows 10:
     A. Es un menú oficial accesible desde `Configuración`
     B. Es una función exclusiva de Microsoft Store
     C. Permite acceder directamente a la BIOS del equipo
     D. No es una función oficial documentada de Windows 10, sino un truco no oficial
 
-70. `Windows Hello` es:
-    A. Un traductor integrado en Windows 10
-    B. El sistema de autenticación biométrica de Windows 10 (huella, rostro o PIN)
-    C. Un protocolo de red
-    D. Un asistente virtual
-
-71. ¿Qué herramienta permite acceder a la base de datos jerárquica de configuración de Windows 10?
+67. ¿Qué herramienta permite acceder a la base de datos jerárquica de configuración de Windows 10?
     A. Programador de tareas
     B. Visor de eventos
     C. Editor del registro (`regedit`)
     D. Monitor de recursos
 
-72. El comando `certmgr.msc` abre:
+68. El comando `certmgr.msc` abre:
     A. El Administrador de dispositivos
     B. El Programador de tareas
     C. El Administrador de discos
     D. La Administración de certificados
 
-73. Para conectarse a una red inalámbrica disponible en Windows 10, lo habitual es:
-    A. Abrir el Administrador de tareas
-    B. Usar el icono de red de la barra de tareas
-    C. Abrir el Liberador de espacio
-    D. Usar el Visor de eventos
-
-74. Para consultar las especificaciones del equipo (procesador, RAM) y la versión de Windows instalada, se accede a:
+69. Para consultar las especificaciones del equipo (procesador, RAM) y la versión de Windows instalada, se accede a:
     A. Panel de control -> Programas
     B. Configuración -> Privacidad
     C. Configuración -> Sistema -> Acerca de
     D. Administrador de tareas -> Rendimiento
 
-75. Las opciones para configurar el PIN, la contraseña o el reconocimiento facial para iniciar sesión se encuentran en:
+70. Las opciones para configurar el PIN, la contraseña o el reconocimiento facial para iniciar sesión se encuentran en:
     A. Configuración -> Cuentas -> Opciones de inicio de sesión
     B. Configuración -> Dispositivos
     C. Panel de control -> Programas
     D. Configuración -> Privacidad
 
-76. ¿Qué comando muestra en una ventana la versión exacta de Windows instalada?
+71. ¿Qué comando muestra en una ventana la versión exacta de Windows instalada?
     A. `msconfig`
     B. `taskschd.msc`
     C. `services.msc`
     D. `winver`
 
-77. En el Explorador de archivos, ¿qué vista ofrece habitualmente más información sobre cada elemento (nombre, fecha, tipo, tamaño) en columnas?
+72. En el Explorador de archivos, ¿qué vista ofrece habitualmente más información sobre cada elemento (nombre, fecha, tipo, tamaño) en columnas?
     A. Iconos pequeños
     B. Iconos medianos
     C. Detalles
     D. Mosaicos
 
-78. Con dos pantallas conectadas, si se selecciona `Duplicar estas pantallas`:
+73. Con dos pantallas conectadas, si se selecciona `Duplicar estas pantallas`:
     A. Se crea una copia del contenido en el disco duro
     B. Cada pantalla muestra contenido distinto
     C. La segunda pantalla queda en negro
     D. Ambas pantallas muestran exactamente el mismo contenido
 
-79. Cortana, en Windows 10, es:
-    A. Una hoja de cálculo integrada
-    B. Un asistente virtual accesible desde la barra de tareas
-    C. Un editor de texto sin formato
-    D. Un sistema gestor de bases de datos
-
-80. Cuando se restaura un archivo desde la Papelera de reciclaje, ese archivo:
+74. Cuando se restaura un archivo desde la Papelera de reciclaje, ese archivo:
     A. Vuelve a su ubicación original antes de ser eliminado
     B. Se guarda en el Escritorio, independientemente de su origen
     C. No puede recuperarse en ningún caso
     D. Se abre automáticamente con la aplicación asociada
 
-81. En el Administrador de tareas de Windows 10, ¿en qué pestaña se consultan las gráficas de uso de la tarjeta de red (por ejemplo Ethernet o Wi-Fi)?
+75. En el Administrador de tareas de Windows 10, ¿en qué pestaña se consultan las gráficas de uso de la tarjeta de red (por ejemplo Ethernet o Wi-Fi)?
     A. Procesos
     B. Rendimiento
     C. Historial de aplicaciones
     D. Detalles
 
-82. En `Configuración > Sistema > Pantalla`, ¿cuál de las siguientes opciones NO aparece en esa ventana?
-    A. Resolución de pantalla
-    B. Orientación de la pantalla
-    C. Tamaño del texto
-    D. Fondos de escritorio
-
-83. En `Configuración > Sistema > Acerca de`, ¿cuál de los siguientes datos NO se muestra?
+76. En `Configuración > Sistema > Acerca de`, ¿cuál de los siguientes datos NO se muestra?
     A. Procesador
     B. Memoria RAM instalada
     C. Placa base (modelo del fabricante)
     D. Nombre del equipo
 
-84. Dentro de `Configuración > Sistema`, en el panel lateral izquierdo aparecen varias categorías. ¿Cuál de las siguientes NO es una de ellas?
-    A. Sonido
-    B. Pantalla
-    C. Asistente de concentración
-    D. Rendimiento
-
-85. ¿Qué combinación de teclas abre la herramienta Lupa en Windows 10?
+77. ¿Qué combinación de teclas abre la herramienta Lupa en Windows 10?
     A. `Windows + Mayús + +`
     B. `Windows + +`
     C. `Alt + +`
     D. `Ctrl + +`
 
-86. ¿Desde dónde se consulta el correo electrónico asociado a la cuenta de usuario de Windows 10?
-    A. `Configuración -> Sistema -> Correo electrónico`
-    B. `Configuración -> Privacidad -> Correo electrónico y cuentas`
-    C. `Configuración -> Cuentas -> Correo electrónico y cuentas`
-    D. `Configuración -> Información personal -> Correo electrónico`
-
-87. Al hacer clic con el botón secundario en el Escritorio y elegir `Personalizar`, ¿cuál de las siguientes categorías NO aparece?
-    A. Fondo
-    B. Temas
-    C. Cursores
-    D. Fuentes
-
-88. La función Aero Peek de Windows 10 permite:
+78. La función Aero Peek de Windows 10 permite:
     A. Minimizar todas las ventanas abiertas
     B. Visualizar el Escritorio sin minimizar las ventanas abiertas
     C. Cerrar todas las ventanas abiertas
     D. Anclar la ventana activa a la mitad de la pantalla
 
-89. ¿Cuál de las siguientes opciones NO aparece como categoría en la ventana de Configuración de Windows 10?
-    A. Privacidad
-    B. Sistema
-    C. Cuentas
-    D. Administrador de dispositivos
-
-90. Al hacer clic con el botón secundario en el botón de Inicio de Windows 10 aparece un menú con varias herramientas. ¿Cuál de las siguientes NO figura en ese menú?
-    A. Opciones de energía
-    B. Conexiones de red
-    C. Ejecutar
-    D. Microsoft Edge
-
-91. En `Configuración > Sistema > Energía y suspensión` aparecen dos categorías de opciones. ¿Cuáles son?
-    A. Hibernar y Apagar
-    B. Suspender y Apagar
-    C. Pantalla y Suspensión
-    D. Batería y Rendimiento
-
-92. OneDrive, integrado en Windows 10, es principalmente:
-    A. Un servicio de almacenamiento en la nube
-    B. Un reproductor de música en línea
-    C. Un programa de edición de imágenes
-    D. Un navegador web integrado
-
-93. Señala la afirmación INCORRECTA sobre el comprobador de errores en disco de Windows 10:
+79. Señala la afirmación INCORRECTA sobre el comprobador de errores en disco de Windows 10:
     A. Equivale al comando `CHKDSK`
     B. Se puede restringir a determinadas unidades
     C. No se puede desactivar la comprobación de una unidad en el arranque de Windows
     D. Se puede desactivar la comprobación de una unidad en el arranque de Windows
 
-94. ¿Desde dónde se personaliza la barra de tareas de Windows 10?
-    A. `Configuración -> Ajustes -> Barra de tareas`
-    B. `Configuración -> Temas -> Barra de tareas`
-    C. `Configuración -> Personalización -> Barra de tareas`
-    D. Sólo desde el Panel de control clásico
-
-95. Una ventana modal en Windows 10 es:
-    A. Una ventana que muestra vistas previas de todas las aplicaciones abiertas
-    B. Una ventana que bloquea la interacción con el resto hasta que se resuelve, típica de alertas o confirmaciones
-    C. Una ventana que sólo aparece en pantalla completa
-    D. Una ventana que permite varias acciones a la vez y puede minimizarse
-
-96. ¿Qué combinación de teclas hace una captura de pantalla completa y la guarda automáticamente en la carpeta Imágenes?
+80. ¿Qué combinación de teclas hace una captura de pantalla completa y la guarda automáticamente en la carpeta Imágenes?
     A. `Impr Pant`
     B. `Windows + Impr Pant`
     C. `Alt + Impr Pant`
     D. `Ctrl + Impr Pant`
 
-97. El Centro de actividades (Centro de notificaciones) de Windows 10 se caracteriza principalmente por:
-    A. Dar acceso rápido a las aplicaciones instaladas
-    B. Gestionar la configuración avanzada del sistema operativo
-    C. Mostrar notificaciones y accesos directos a ajustes rápidos en un solo lugar
-    D. Realizar copias de seguridad de archivos y carpetas
-
-98. En el Explorador de archivos de Windows 10, la Papelera de reciclaje puede vaciarse o abrirse desde un botón de la cinta situado en la ficha:
+81. En el Explorador de archivos de Windows 10, la Papelera de reciclaje puede vaciarse o abrirse desde un botón de la cinta situado en la ficha:
     A. Vista
     B. Compartir
     C. Inicio
     D. Herramientas
 
-99. Desfragmentar una unidad consiste en:
+82. Desfragmentar una unidad consiste en:
     A. Eliminar archivos y programas innecesarios para liberar espacio
     B. Organizar y reorganizar los archivos en el disco para mejorar la velocidad de acceso a los datos
     C. Cifrar archivos confidenciales para restringir su acceso
     D. Realizar copias de seguridad periódicas en una unidad externa
 
-100. En la ficha `Compartir` del Explorador de archivos de Windows 10, ¿cuál de las siguientes opciones NO aparece?
-     A. Correo electrónico
-     B. Comprimir
-     C. Publicar en Internet
-     D. Fax
+83. En la ficha `Compartir` del Explorador de archivos de Windows 10, ¿cuál de las siguientes opciones NO aparece?
+    A. Correo electrónico
+    B. Comprimir
+    C. Publicar en Internet
+    D. Fax
 
-101. ¿Qué extensión utiliza de forma nativa Windows 10 para comprimir archivos y carpetas?
-     A. `.rar`
-     B. `.zip`
-     C. `.tar`
-     D. `.7z`
+84. ¿Qué extensión utiliza de forma nativa Windows 10 para comprimir archivos y carpetas?
+    A. `.rar`
+    B. `.zip`
+    C. `.tar`
+    D. `.7z`
 
-102. Si se arrastra un archivo hasta un hueco vacío de la barra de tareas de Windows 10, sin soltarlo sobre ningún icono anclado, lo habitual es que:
-     A. El archivo se ancle directamente a la barra de tareas
-     B. No ocurra nada, ya que esa función se eliminó a partir de Windows 8
-     C. Se cree un acceso directo del archivo en el Escritorio
-     D. El archivo se mueva a la barra de tareas
+85. Si se arrastra un archivo hasta un hueco vacío de la barra de tareas de Windows 10, sin soltarlo sobre ningún icono anclado, lo habitual es que:
+    A. El archivo se ancle directamente a la barra de tareas
+    B. No ocurra nada, ya que esa función se eliminó a partir de Windows 8
+    C. Se cree un acceso directo del archivo en el Escritorio
+    D. El archivo se mueva a la barra de tareas
 
-103. Al abrir las `Propiedades` de una carpeta en Windows 10, la casilla para marcarla como `Oculta` se encuentra en la pestaña:
-     A. Seguridad
-     B. Personalizar
-     C. General
-     D. Avanzada
+86. Al abrir las `Propiedades` de una carpeta en Windows 10, la casilla para marcarla como `Oculta` se encuentra en la pestaña:
+    A. Seguridad
+    B. Personalizar
+    C. General
+    D. Avanzada
 
 ## Plantilla
 
@@ -699,41 +597,24 @@ Las preguntas 81 a 103 son de elaboración propia, inspiradas en el tipo de cont
 | 63 | D | Hacer clic en un tramo de la ruta navega directamente a esa carpeta. |
 | 64 | D | Las unidades de red y los dispositivos extraíbles suelen eliminar sin pasar por la Papelera. |
 | 65 | C | El botón `Nuevo escritorio` de Vista de tareas crea un escritorio virtual. |
-| 66 | D | `ping` comprueba la conectividad con un equipo remoto. |
-| 67 | A | `ipconfig` muestra la configuración de red local. |
-| 68 | C | DHCP asigna IP automáticamente. |
-| 69 | D | El "Modo Dios" no es una función oficial documentada de Windows 10. |
-| 70 | B | Windows Hello es el sistema de autenticación biométrica. |
-| 71 | C | `regedit` accede a la base de datos jerárquica de configuración. |
-| 72 | D | `certmgr.msc` abre la Administración de certificados. |
-| 73 | B | El icono de red de la barra de tareas permite conectar a redes Wi-Fi. |
-| 74 | C | `Configuración -> Sistema -> Acerca de` muestra especificaciones y versión. |
-| 75 | A | Las opciones de inicio de sesión están en `Configuración -> Cuentas`. |
-| 76 | D | `winver` muestra la versión exacta de Windows instalada. |
-| 77 | C | La vista Detalles muestra columnas con más información. |
-| 78 | D | Duplicar pantallas repite el mismo contenido en ambas. |
-| 79 | B | Cortana es el asistente virtual de Windows 10. |
-| 80 | A | La Papelera restaura el archivo a su ubicación original. |
-| 81 | B | La pestaña Rendimiento muestra las gráficas de red, además de CPU, memoria y disco. |
-| 82 | D | Fondos de escritorio se configura desde Personalización, no desde Sistema > Pantalla. |
-| 83 | C | Acerca de muestra procesador, RAM y nombre del equipo, pero no el modelo de la placa base. |
-| 84 | D | "Rendimiento" no es una categoría de Configuración > Sistema. |
-| 85 | B | `Windows + +` abre la Lupa. |
-| 86 | C | El correo asociado se gestiona en Cuentas > Correo electrónico y cuentas. |
-| 87 | D | "Fuentes" no aparece como categoría de Personalizar; sí Fondo, Colores, Temas y Pantalla de bloqueo. |
-| 88 | B | Aero Peek muestra el Escritorio sin minimizar las ventanas abiertas. |
-| 89 | D | El Administrador de dispositivos es una herramienta aparte, no una categoría de Configuración. |
-| 90 | D | Microsoft Edge no forma parte de ese menú contextual. |
-| 91 | C | Energía y suspensión ofrece las categorías Pantalla y Suspensión. |
-| 92 | A | OneDrive es el servicio de almacenamiento en la nube de Microsoft. |
-| 93 | C | Sí es posible desactivar la comprobación de una unidad en el arranque; la afirmación C es la incorrecta. |
-| 94 | C | La barra de tareas se personaliza desde Configuración > Personalización > Barra de tareas. |
-| 95 | B | Una ventana modal bloquea la interacción con el resto hasta resolverse. |
-| 96 | B | `Windows + Impr Pant` guarda la captura automáticamente en Imágenes. |
-| 97 | C | El Centro de actividades reúne notificaciones y accesos rápidos. |
-| 98 | C | El botón de la Papelera está en la ficha Inicio de la cinta del Explorador. |
-| 99 | B | Desfragmentar reorganiza los archivos del disco para mejorar la velocidad de acceso. |
-| 100 | C | "Publicar en Internet" no es una opción real de la ficha Compartir. |
-| 101 | B | Windows 10 comprime de forma nativa con extensión `.zip`. |
-| 102 | B | Arrastrar un archivo a un hueco vacío de la barra de tareas no tiene efecto desde Windows 8. |
-| 103 | C | El atributo Oculto se marca desde la pestaña General de Propiedades. |
+| 66 | D | El "Modo Dios" no es una función oficial documentada de Windows 10. |
+| 67 | C | `regedit` accede a la base de datos jerárquica de configuración. |
+| 68 | D | `certmgr.msc` abre la Administración de certificados. |
+| 69 | C | `Configuración -> Sistema -> Acerca de` muestra especificaciones y versión. |
+| 70 | A | Las opciones de inicio de sesión están en `Configuración -> Cuentas`. |
+| 71 | D | `winver` muestra la versión exacta de Windows instalada. |
+| 72 | C | La vista Detalles muestra columnas con más información. |
+| 73 | D | Duplicar pantallas repite el mismo contenido en ambas. |
+| 74 | A | La Papelera restaura el archivo a su ubicación original. |
+| 75 | B | La pestaña Rendimiento muestra las gráficas de red, además de CPU, memoria y disco. |
+| 76 | C | Acerca de muestra procesador, RAM y nombre del equipo, pero no el modelo de la placa base. |
+| 77 | B | `Windows + +` abre la Lupa. |
+| 78 | B | Aero Peek muestra el Escritorio sin minimizar las ventanas abiertas. |
+| 79 | C | Sí es posible desactivar la comprobación de una unidad en el arranque; la afirmación C es la incorrecta. |
+| 80 | B | `Windows + Impr Pant` guarda la captura automáticamente en Imágenes. |
+| 81 | C | El botón de la Papelera está en la ficha Inicio de la cinta del Explorador. |
+| 82 | B | Desfragmentar reorganiza los archivos del disco para mejorar la velocidad de acceso. |
+| 83 | C | "Publicar en Internet" no es una opción real de la ficha Compartir. |
+| 84 | B | Windows 10 comprime de forma nativa con extensión `.zip`. |
+| 85 | B | Arrastrar un archivo a un hueco vacío de la barra de tareas no tiene efecto desde Windows 8. |
+| 86 | C | El atributo Oculto se marca desde la pestaña General de Propiedades. |

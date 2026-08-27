@@ -206,6 +206,31 @@ Uso recomendado:
 - Crear práctica adicional.
 - No usarlo como estadística oficial de recurrencia.
 
+### Preguntas inspiradas en el test aleatorio de opofimaticaestado.com
+
+Algunas preguntas de `07_tests/test_tema_16.md` a `test_tema_21.md` son de elaboración propia,
+inspiradas en los contenidos del test aleatorio público de la academia opofimaticaestado.com
+(Windows 10, Word, Excel, Access, Outlook e Internet). No son enunciados copiados literalmente:
+se localizó qué contenidos y trampas no estaban ya cubiertos y se redactaron preguntas nuevas,
+verificando cada dato contra el comportamiento real de la aplicación. Cada test indica en su
+cabecera el rango exacto de preguntas afectado.
+
+En el Tema 16 se retiraron después 11 de esas preguntas (y otras 6 de una ronda anterior) tras
+comprobar que se alejaban del epígrafe oficial ("El explorador de Windows...") hacia Windows en
+general (Configuración, Personalización, redes básicas, Windows Hello, Cortana, OneDrive); el
+rango que queda ya refleja esa depuración.
+
+| Tema | Preguntas añadidas | Cantidad | Contenidos cubiertos |
+| --- | :---: | ---: | --- |
+| 16 Windows | 75-86 | 12 | Administrador de tareas, especificaciones del equipo, atajos de Lupa y de captura de pantalla, Aero Peek, comprobador de errores en disco, ficha Compartir del Explorador, Propiedades de carpeta |
+| 17 Word | 81-98 | 18 | Atajo de hipervínculo, efectos de fuente en la cinta, espaciado real entre párrafos, tipos de tabulación, Autoguardado, Backstage, sangría de primera línea, función `RAND`, Proteger documento |
+| 18 Excel | 91-105 | 15 | R cuadrado, botón Seleccionar datos, celda bloqueada vs hoja protegida, referencias mixtas, `DIA.LAB`, argumentos de `BUSCARV`, protección de Estructura, funciones de matriz dinámica (`FILTRAR`, `ORDENARPOR`) |
+| 19 Access y Power BI | 44-66 | 23 | Tipos reales de consulta, tamaños de campo numérico, funciones de dominio, Regla de validación vs Criterio, Documentador de base de datos, propiedad Indexado, máscaras de entrada, Texto largo |
+| 20 Outlook | 41-65 | 25 | IMAP vs POP3, ubicación de `Ejecutar reglas ahora`/`Autoarchivar`, Backstage sin Exchange, grupo Refinar, Archivar vs Carpeta de búsqueda, acciones de reglas, extensiones `.pst`/`.msg`/`.vcf` |
+| 21 M365 e Internet | 31-55 | 25 | SSL, Extranet, direcciones IP, DNS, arquitectura cliente-servidor, topologías de red, ARP/IMAP, atajos de Microsoft Edge, origen histórico de Internet |
+
+**Total: 118 preguntas nuevas** repartidas entre los 6 tests del Bloque II.
+
 ### Preguntas visuales o tabulares pendientes
 
 Hay preguntas psicotecnicas visuales/tabulares que requieren revisión manual desde PDF original. Estan documentadas en:
