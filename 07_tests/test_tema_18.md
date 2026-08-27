@@ -2,13 +2,15 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
-Tiempo recomendado: 122 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 135 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Excel para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de la Administración General del Estado (2015-2024) sobre Excel (el error `#####`, referencias entre hojas y libros, `Combinar y centrar` con datos, funciones lógicas `Y`/`O`, categorías de funciones, mecánica del formato porcentaje, autodetección de fechas, ordenación de números como texto y opciones de escala de impresión), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 76 a 90 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (`Proteger libro` frente a `Proteger hoja`, opciones reales del formato condicional, vista `Diseño de página`, `Reducir hasta ajustar`, ejemplos trabajados de `BUSCARV`/`EXTRAE`/`CONCAT`/`SI`/`O`, funciones inexistentes como distractor y atajos de teclado adicionales), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 91 a 105 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (R cuadrado en líneas de tendencia, el botón `Seleccionar datos` de un gráfico, la diferencia entre celda bloqueada y hoja protegida, ejemplos trabajados con referencias mixtas y con `DIA.LAB`, argumentos obligatorios de `BUSCARV`, la protección de `Estructura` del libro, funciones de matriz dinámica de Excel 365 como `FILTRAR` y `ORDENARPOR`, y la categoría real de la función `HALLAR`), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 106 a 116 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (Power Query, la función `ENCOL`, el Administrador de nombres, ejemplos trabajados con `MEDIANA` e `IZQUIERDA`, la categoría de `CONTARA`, el formato de número personalizado con unidad, el relleno automático de series alfanuméricas, `SUMAR.SI.CONJUNTO` con criterios de fecha, la función `REGEXPRUEBA` y la recuperación automática de libros), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -642,6 +644,72 @@ Las preguntas 91 a 105 son de elaboración propia, inspiradas en el tipo de cont
      C. FILTRAR
      D. No es posible ordenar por varios criterios con una sola función
 
+106. ¿Qué herramienta de Excel permite combinar, transformar y limpiar datos procedentes de distintas fuentes antes de importarlos a una hoja?
+     A. Macros de VBA
+     B. Power Query
+     C. Escenarios
+     D. Solver
+
+107. En Excel 365, ¿qué obtenemos al escribir la fórmula `=ENCOL(A1:C4)`?
+     A. Una copia exacta del rango A1:C4 desplazada a otra columna
+     B. Un error, porque la función exige obligatoriamente dos argumentos
+     C. Una única columna con todos los valores del rango original, dispuestos uno debajo de otro
+     D. Una única fila con todos los valores del rango especificado
+
+108. ¿Cómo se llama la herramienta de Excel donde se almacenan y gestionan los nombres que se han definido para celdas y rangos?
+     A. Administrador de celdas
+     B. Administrador de variables
+     C. Administrador de rangos
+     D. Administrador de nombres
+
+109. En el rango A1:A4 de Excel hay los valores 1, 2, 3 y 4. ¿Qué devuelve la fórmula `=MEDIANA(A1:A4)`?
+     A. 3
+     B. 4
+     C. 2,5
+     D. 3,5
+
+110. En las celdas A1 y A2 de Excel hay los textos `OPO` y `OFIMÁTICA`. ¿Qué fórmula muestra el texto `OPOFIMÁTICA`?
+     A. `=A1&A2`
+     B. `=IZQUIERDA(A1)&A2`
+     C. `=EXTRAE(A1;2)&A2`
+     D. `=IZQUIERDA(A1;2)&A2`
+
+111. ¿A qué categoría de funciones de Excel pertenece `CONTARA`?
+     A. Matemáticas y trigonométricas
+     B. Estadísticas
+     C. Información
+     D. Búsqueda y referencia
+
+112. Se quiere que una celda de Excel muestre el valor numérico seguido del texto ` kg` (por ejemplo, `25 kg`), sin que la celda deje de comportarse como un número para poder operar con ella. ¿Qué debe usarse?
+     A. Formato condicional
+     B. Máscara de entrada
+     C. Formato de número personalizado
+     D. No es posible mostrar un texto junto al valor de una celda numérica
+
+113. Se escribe `ENERO25` en una celda de Excel y se arrastra el controlador de relleno dos celdas hacia abajo. ¿Qué es lo esperable?
+     A. Se repite `ENERO25` en ambas celdas
+     B. Se muestran `ENERO26` y `ENERO27`, continuando la serie
+     C. Se muestran `FEBRERO26` y `MARZO27`
+     D. Aparece un error, porque el texto combina letras y números
+
+114. En una hoja de Excel, la columna A contiene fechas y la columna B los importes correspondientes. ¿Qué realiza la fórmula `=SUMAR.SI.CONJUNTO(B2:B10;A2:A10;">=01/01/2025";A2:A10;"<=31/12/2025")`?
+     A. Suma los importes de B2:B10 cuya fecha en A2:A10 esté comprendida entre el 01/01/2025 y el 31/12/2025, ambos incluidos
+     B. Da error, porque no se puede combinar `>=` y `<=` sobre el mismo rango de criterio
+     C. Suma todos los importes de B2:B10, sin tener en cuenta la fecha
+     D. Cuenta cuántas fechas de A2:A10 están dentro de ese intervalo, sin sumar los importes
+
+115. ¿Qué hace la función `REGEXPRUEBA`, disponible en Excel de Microsoft 365?
+     A. Reemplaza en un texto las coincidencias de una expresión regular
+     B. Extrae de un texto la primera coincidencia de una expresión regular
+     C. Comprueba si un texto coincide con un patrón (expresión regular) y devuelve VERDADERO o FALSO
+     D. Divide un texto en varias celdas según una expresión regular
+
+116. Si Excel se cierra de forma inesperada (por ejemplo, por un corte de luz) antes de guardar un libro nuevo, ¿es posible recuperarlo?
+     A. No, si el archivo nunca se guardó, toda la información se pierde sin posibilidad de recuperación
+     B. Sí: si Excel guardó copias de recuperación automática, pueden recuperarse desde `Archivo -> Información -> Administrar libro`
+     C. Sí, pero únicamente si el archivo estaba guardado previamente en un pendrive o disco externo
+     D. Sí, Excel guarda cada cambio de forma permanente de manera automática, aunque el archivo nunca se haya guardado
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -751,3 +819,14 @@ Las preguntas 91 a 105 son de elaboración propia, inspiradas en el tipo de cont
 | 103 | A | El texto se alinea a la izquierda por defecto. |
 | 104 | D | `Vista de hoja` está en la ficha Vista. |
 | 105 | B | `ORDENARPOR` ordena una matriz dinámica según varios criterios. |
+| 106 | B | Power Query combina, transforma y limpia datos antes de importarlos. |
+| 107 | C | `ENCOL` apila los valores del rango en una única columna. |
+| 108 | D | El Administrador de nombres gestiona los nombres de celdas y rangos. |
+| 109 | C | La mediana de 1, 2, 3 y 4 es 2,5. |
+| 110 | D | `IZQUIERDA(A1;2)&A2` une los 2 primeros caracteres de A1 con A2. |
+| 111 | B | `CONTARA` pertenece a las funciones Estadísticas. |
+| 112 | C | Un formato de número personalizado añade texto fijo sin cambiar el valor numérico. |
+| 113 | B | El relleno reconoce el número dentro del texto y continúa la serie. |
+| 114 | A | Suma los importes cuya fecha está comprendida entre ambas fechas, incluidas. |
+| 115 | C | `REGEXPRUEBA` comprueba si el texto coincide con un patrón y devuelve VERDADERO/FALSO. |
+| 116 | B | Las copias de recuperación automática se gestionan desde Administrar libro. |

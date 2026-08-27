@@ -2,13 +2,15 @@
 
 Preguntas nuevas de entrenamiento predictivo para Windows 10. Se combinan recurrencias históricas del Explorador con puntos probables de convocatoria: búsqueda, Este equipo, Acceso rápido, accesorios y herramientas del sistema.
 
-Tiempo recomendado: 100 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 104 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, escritas para que las cuatro opciones sean plausibles dentro del propio tema (sin distractores absurdos o ajenos a Windows) y evitar así el acierto por descarte evidente. Su estilo se ha contrastado con el de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Windows 10 (vistas del Explorador, accesos directos, organización de ventanas, atajos de teclado y búsqueda avanzada), adaptando siempre el contenido a la versión oficial de esta convocatoria. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 66 a 74 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (el editor del registro, la administración de certificados, especificaciones del equipo, opciones de inicio de sesión, la versión de Windows y la gestión de pantallas múltiples), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid. Un grupo de preguntas de esta misma ronda que se alejaba de "Herramientas del sistema" hacia Windows en general (comandos de red básicos, Windows Hello y Cortana) se ha retirado de este test tras una revisión de encaje con el epígrafe oficial.
 
 Las preguntas 75 a 86 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (pestañas del Administrador de tareas, especificaciones del equipo, atajos de Lupa y de captura de pantalla, Aero Peek, comprobador de errores en disco, ficha Compartir del Explorador y atributos de Propiedades de carpeta), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid. Igual que en la ronda anterior, se ha retirado un grupo de preguntas de Configuración y Personalización generales (pantalla, energía, cuentas, barra de tareas, menú Inicio, OneDrive y otras) que no encajaban en ningún punto del epígrafe oficial del tema.
+
+Las preguntas 87 a 89 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (atajo de teclado para abrir Ejecutar, pestañas del Administrador de tareas y deshacer una acción en el Explorador de archivos), adaptando siempre el contenido a Windows 10 y evitando reproducir enunciados literales. Del resto de contenido de esas fuentes se ha descartado explícitamente todo lo relativo a Windows 11 y a Configuración/Personalización general, por no encajar en el epígrafe oficial del tema. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -528,6 +530,24 @@ Las preguntas 75 a 86 son de elaboración propia, inspiradas en el tipo de conte
     C. General
     D. Avanzada
 
+87. ¿Qué combinación de teclas abre la ventana `Ejecutar` en Windows 10?
+    A. `Windows + E`
+    B. `Windows + R`
+    C. `Windows + J`
+    D. `Windows + Q`
+
+88. En el Administrador de tareas de Windows 10, ¿cuál de las siguientes NO es una pestaña real de esa ventana?
+    A. Procesos
+    B. Tareas
+    C. Detalles
+    D. Usuarios
+
+89. En el Explorador de archivos de Windows 10, ¿qué combinación de teclas deshace la última acción realizada (por ejemplo, mover o eliminar un archivo)?
+    A. `Ctrl + Y`
+    B. `Ctrl + Retroceso`
+    C. `Ctrl + Z`
+    D. `Ctrl + U`
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -618,3 +638,6 @@ Las preguntas 75 a 86 son de elaboración propia, inspiradas en el tipo de conte
 | 84 | B | Windows 10 comprime de forma nativa con extensión `.zip`. |
 | 85 | B | Arrastrar un archivo a un hueco vacío de la barra de tareas no tiene efecto desde Windows 8. |
 | 86 | C | El atributo Oculto se marca desde la pestaña General de Propiedades. |
+| 87 | B | `Windows + R` abre la ventana Ejecutar. |
+| 88 | B | "Tareas" no es una pestaña real del Administrador de tareas. |
+| 89 | C | `Ctrl + Z` deshace la última acción en el Explorador. |

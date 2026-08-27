@@ -2,13 +2,15 @@
 
 Preguntas nuevas de entrenamiento predictivo para Word de Microsoft 365 escritorio. Se priorizan contenidos no agotados por los exámenes históricos: estilos, secciones, impresión, exportación, revisión, vistas y personalización.
 
-Tiempo recomendado: 114 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 126 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Word para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Word (tipos de sangría, selección de texto, salto de línea frente a párrafo nuevo, referencias cruzadas, combinación de correspondencia, protección de documentos y personalización de la cinta), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (nota al pie, opciones de tabla, números de línea, ubicación de las opciones de impresión, Contar palabras, Editor/Traducir/Leer en voz alta, estilos personales, Tesauro, selección de frase y modo de compatibilidad), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 81 a 98 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (atajo de hipervínculo, efectos de fuente activables desde la cinta, mecánica real del espaciado entre párrafos, tipos de tabulación, Autoguardado en OneDrive, ventana Backstage, opciones de `Convertir texto en tabla`, sangría especial de primera línea, ajuste de texto de iconos, la función `RAND`, inserción de comentarios, barra de estado y las opciones reales de `Proteger documento`), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 99 a 108 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (Letra capital, el límite del Portapapeles, las pestañas de `Buscar y reemplazar`, el atajo de un salto de sección, los valores de `Columnas`, la ubicación de `Tabla de contenido`, el comportamiento por defecto de una forma insertada, el campo condicional `Si... Entonces... Si no` de una combinación de correspondencia, el atajo `Ctrl + B` en español y la accesibilidad del texto alternativo), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -600,6 +602,66 @@ Las preguntas 81 a 98 son de elaboración propia, inspiradas en el tipo de conte
     C. Aplicar estilos
     D. Combinar correspondencia
 
+99. ¿Qué herramienta de Word permite que la primera letra de un párrafo ocupe varias líneas de alto, a modo decorativo?
+    A. Superíndice
+    B. Letra capital
+    C. Negrita destacada
+    D. WordArt
+
+100. ¿Cuántos elementos puede almacenar como máximo el Portapapeles de Office en Word?
+    A. 20
+    B. 24
+    C. 25
+    D. 30
+
+101. En Word, la ventana `Buscar y reemplazar` organiza su contenido en tres pestañas. ¿Cuáles son?
+    A. Buscar, Reemplazar y Eliminar
+    B. Buscar, Reemplazar e Ir a
+    C. Buscar, Reemplazar y Avanzado
+    D. Únicamente existen dos: Buscar y Reemplazar
+
+102. ¿Qué combinación de teclas crea un salto de sección en Word?
+    A. `Intro`
+    B. `Mayús + Intro`
+    C. `Ctrl + Intro`
+    D. Word no asigna ninguna combinación de teclas para esa acción; hay que insertarlo desde la cinta
+
+103. Al hacer clic en `Columnas`, dentro de la ficha `Disposición` de Word, ¿qué valores predefinidos se pueden elegir?
+    A. Una, dos y tres
+    B. Una, dos, izquierda y derecha
+    C. Una, dos, tres, izquierda y derecha
+    D. Una, dos, tres y simétricas
+
+104. ¿En qué ficha de la cinta de opciones de Word se encuentra la herramienta `Tabla de contenido`?
+    A. Insertar
+    B. Diseño
+    C. Revisar
+    D. Referencias
+
+105. Al insertar una forma (autoforma) en Word, si queremos moverla libremente por la página, ¿qué debemos hacer?
+    A. Cambiar su ajuste de texto a `Delante del texto`
+    B. Usar la herramienta `Alinear`
+    C. Nada adicional: a diferencia de una imagen o un icono, la forma ya se inserta como objeto flotante y se puede mover libremente
+    D. Es imposible mover una forma sin antes agrupar varios elementos
+
+106. En una combinación de correspondencia de Word, para que un texto (por ejemplo, "Vencido") solo aparezca si se cumple una condición, se utiliza el campo:
+    A. Siguiente registro si
+    B. Si... Entonces... Si no
+    C. Saltar registro si
+    D. Rellenar
+
+107. En Word configurado en español, ¿qué ocurre al pulsar `Ctrl + B` dentro de un documento?
+    A. Se aplica formato de negrita al texto seleccionado
+    B. Se abre el cuadro `Buscar y reemplazar`, ya que en español `B` corresponde a Buscar
+    C. Se guarda el documento con un nuevo nombre
+    D. Se inserta una nota al pie
+
+108. ¿Cuál de las siguientes acciones mejora la accesibilidad de un documento de Word?
+    A. Agregar texto alternativo a las imágenes y otros objetos visuales
+    B. Utilizar tablas para organizar el contenido en vez de listas
+    C. Escribir la URL completa de una página web en el texto
+    D. Utilizar colores de fuente con poco contraste sobre el fondo
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -702,3 +764,13 @@ Las preguntas 81 a 98 son de elaboración propia, inspiradas en el tipo de conte
 | 96 | C | Inspeccionar documento pertenece a Comprobar si hay problemas, no a Proteger documento. |
 | 97 | B | `Ctrl + B` (Buscar) también abre el panel con esas tres pestañas. |
 | 98 | D | Combinar correspondencia genera copias personalizadas a partir de una lista de destinatarios. |
+| 99 | B | Letra capital agranda y extiende la primera letra del párrafo varias líneas. |
+| 100 | B | El Portapapeles de Office almacena hasta 24 elementos. |
+| 101 | B | Las tres pestañas son Buscar, Reemplazar e Ir a. |
+| 102 | D | Word no asigna un atajo de teclado propio para insertar un salto de sección. |
+| 103 | C | Los valores predefinidos son Una, dos, tres, izquierda y derecha. |
+| 104 | D | Tabla de contenido está en la ficha Referencias. |
+| 105 | C | Una forma se inserta ya como objeto flotante, a diferencia de imágenes e iconos. |
+| 106 | B | El campo `Si... Entonces... Si no` muestra texto de forma condicional. |
+| 107 | B | En español, `Ctrl + B` abre Buscar y reemplazar (B de Buscar). |
+| 108 | A | El texto alternativo en imágenes y objetos visuales mejora la accesibilidad. |

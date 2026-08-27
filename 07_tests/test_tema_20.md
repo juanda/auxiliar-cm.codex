@@ -2,9 +2,11 @@
 
 Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Banco de preguntas distinto del test embebido en `05_temario/tema_20_outlook.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
 
-Tiempo recomendado: 76 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 88 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 41 a 65 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (diferencia entre IMAP y POP3, ubicación real de `Ejecutar reglas ahora` y de `Autoarchivar` en la cinta, opciones del Backstage sin cuenta Exchange, botones reales del Panel de navegación, el grupo `Refinar` de la búsqueda, atajos de teclado, la diferencia entre `Archivar` y una Carpeta de búsqueda, las acciones reales configurables en una regla y las extensiones `.pst`/`.msg`/`.vcf`), adaptando siempre el contenido a Outlook de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 66 a 75 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (`Delegar acceso`, el atajo para marcar un correo como no leído, la personalización de categorías de color, la ubicación real de los botones de Panel de carpetas y de Leído/No leído, el atajo del módulo Contactos, `Retrasar entrega`, deshacer un envío, restringir acciones del destinatario al cifrar un mensaje y el Asistente de programación de reuniones), adaptando siempre el contenido a Outlook de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -398,6 +400,66 @@ Las preguntas 41 a 65 son de elaboración propia, inspiradas en el tipo de conte
     C. El correo se duplica en los demás dispositivos
     D. Sólo se elimina si se usa el mismo dispositivo que lo recibió
 
+66. ¿Para qué sirve la herramienta `Delegar acceso` de Outlook, disponible desde la ventana Backstage (`Archivo`)?
+    A. Para conceder a otra persona permiso para gestionar en nuestro nombre el correo, el calendario u otras carpetas
+    B. Para reenviar automáticamente todos los correos a otra cuenta
+    C. Para compartir la contraseña de la cuenta con otro usuario
+    D. Para crear una regla que mueva correos a otra carpeta
+
+67. ¿Qué combinación de teclas marca como no leído un correo ya leído en Outlook?
+    A. `Ctrl + Q`
+    B. `Ctrl + U`
+    C. `Ctrl + I`
+    D. `Ctrl + O`
+
+68. Respecto a las categorías de color en Outlook, es correcto afirmar que:
+    A. Solo pueden aplicarse a mensajes de correo, no a citas ni contactos
+    B. Se pueden personalizar los nombres de las categorías y asignarles colores y atajos de teclado
+    C. Una vez aplicada una categoría a un elemento, no se puede cambiar
+    D. Son obligatorias para poder enviar un correo
+
+69. ¿En qué ficha de la cinta de opciones de Outlook se encuentra el botón para activar o desactivar el Panel de carpetas?
+    A. Inicio
+    B. Vista
+    C. Carpeta
+    D. Enviar y recibir
+
+70. ¿En qué ficha de la cinta de opciones de Outlook se encuentra el botón para marcar un mensaje como `Leído` o `No leído`?
+    A. Inicio
+    B. Vista
+    C. Carpeta
+    D. Enviar y recibir
+
+71. ¿Qué combinación de teclas cambia al módulo Contactos (Personas) en Outlook?
+    A. `Ctrl + 1`
+    B. `Ctrl + 2`
+    C. `Ctrl + 3`
+    D. `Ctrl + 4`
+
+72. Un usuario quiere redactar ahora un correo, pero que se envíe automáticamente mañana a las 9:00. ¿Qué debe utilizar?
+    A. Guardarlo en Borradores y confiar en enviarlo manualmente a esa hora
+    B. La opción `Retrasar entrega`, disponible en Opciones del mensaje
+    C. Crear una regla que active el envío a esa hora
+    D. No es posible programar el envío de un correo en Outlook
+
+73. Justo después de pulsar `Enviar` en Outlook 365, ¿es posible impedir que el mensaje llegue al destinatario?
+    A. No, en cuanto se pulsa Enviar el mensaje sale del servidor sin posibilidad de intervención
+    B. Sí, siempre y en cualquier momento, sin ninguna limitación de tiempo
+    C. Sí, pero solo durante un breve margen de segundos tras el envío, mediante la opción de deshacer envío
+    D. Solo si el destinatario usa también Outlook 365 en la misma organización
+
+74. Al cifrar un mensaje en Outlook 365 y elegir una plantilla de permisos como `No reenviar`, ¿qué se consigue?
+    A. Cambiar el formato del mensaje a texto sin formato
+    B. Restringir acciones del destinatario sobre el correo, como reenviarlo, imprimirlo o copiar su texto
+    C. Que el mensaje se elimine automáticamente al cabo de 24 horas
+    D. Enviar una copia oculta a un buzón de auditoría
+
+75. Al organizar una reunión en el calendario de Outlook, ¿qué utilidad permite consultar la disponibilidad de los asistentes para elegir una franja horaria libre para todos?
+    A. Panel de lectura
+    B. Asistente de programación
+    C. Carpeta de búsqueda
+    D. Reglas y alertas
+
 ## Plantilla
 
 | Número | Respuesta | Explicación |
@@ -467,3 +529,13 @@ Las preguntas 41 a 65 son de elaboración propia, inspiradas en el tipo de conte
 | 63 | D | "Oculto" no es una opción real del botón Panel de carpetas. |
 | 64 | A | Las vistas son formas de mostrar la información de las carpetas. |
 | 65 | B | Con IMAP, eliminar en un dispositivo elimina también en el servidor y en los demás al sincronizar. |
+| 66 | A | Delegar acceso permite que otra persona gestione en nuestro nombre correo, calendario u otras carpetas. |
+| 67 | B | `Ctrl + U` marca el correo como no leído. |
+| 68 | B | Las categorías permiten personalizar nombre, color y atajo. |
+| 69 | B | El Panel de carpetas se activa/desactiva desde la ficha Vista. |
+| 70 | A | Leído/No leído está en la ficha Inicio. |
+| 71 | C | `Ctrl + 3` cambia al módulo Contactos/Personas. |
+| 72 | B | `Retrasar entrega` programa el envío para una fecha y hora concretas. |
+| 73 | C | Deshacer envío solo funciona durante un breve margen de segundos tras pulsar Enviar. |
+| 74 | B | Cifrar con `No reenviar` restringe reenviar, imprimir o copiar el contenido. |
+| 75 | B | El Asistente de programación muestra la disponibilidad de los asistentes. |

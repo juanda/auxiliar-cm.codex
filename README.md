@@ -231,6 +231,35 @@ rango que queda ya refleja esa depuración.
 
 **Total: 118 preguntas nuevas** repartidas entre los 6 tests del Bloque II.
 
+### Preguntas inspiradas en simulacros y en un examen oficial de la AGE (opofimaticaestado.com)
+
+Además del test aleatorio, opofimaticaestado.com publica gratis 3 simulacros completos de examen
+(Abril 2026, Diciembre 2024 y Diciembre 2025, con preguntas de informática, Internet, Windows,
+Word, Excel, Access y Outlook mezcladas) y un examen oficial reciente de la AGE (Administración
+General del Estado, no de la Comunidad de Madrid) con su plantilla de corrección del INAP. El resto
+de secciones de la plataforma ("Histórico de tests", "Otros exámenes" y casi todos los "Tests
+mensuales") todavía no están activas en la web.
+
+Se recorrieron esas 4 fuentes y, de nuevo, se redactaron preguntas de elaboración propia inspiradas
+en su contenido (sin copiar enunciados literales), descartando explícitamente:
+
+- Todo el contenido de informática general sin encaje en ningún tema (hardware, historia de la
+  computación, unidades de medida) — no tiene sección propia en este temario.
+- Todo el contenido específico de Windows 11 y de Configuración/Personalización general de
+  Windows, por el mismo motivo que llevó a depurar el Tema 16 (ver tabla anterior): la versión
+  oficial de la convocatoria es Windows 10 y el epígrafe del Tema 16 es "El explorador de Windows".
+
+| Tema | Preguntas añadidas | Cantidad | Contenidos cubiertos |
+| --- | :---: | ---: | --- |
+| 16 Windows | 87-89 | 3 | Atajo `Windows + R`, pestañas del Administrador de tareas, deshacer una acción en el Explorador |
+| 17 Word | 99-108 | 10 | Letra capital, límite del Portapapeles, pestañas de Buscar y reemplazar, atajo de salto de sección, valores de Columnas, ubicación de Tabla de contenido, forma flotante por defecto, campo condicional de combinación de correspondencia, `Ctrl + B` en español, texto alternativo |
+| 18 Excel | 106-116 | 11 | Power Query, función `ENCOL`, Administrador de nombres, `MEDIANA` e `IZQUIERDA`, categoría de `CONTARA`, formato de número personalizado, relleno de series alfanuméricas, `SUMAR.SI.CONJUNTO` con fechas, función `REGEXPRUEBA`, recuperación automática de libros |
+| 19 Access y Power BI | 67-74 | 8 | Sintaxis de un campo calculado, tipo de dato Sí/No, función `DCONT`, tipos de dato reales de un campo, lenguaje SQL de las consultas, función `CADENA`, combinación Y de criterios, Regla de validación vs Texto de validación |
+| 20 Outlook | 66-75 | 10 | Delegar acceso, atajo para marcar como no leído, categorías de color, ubicación de Panel de carpetas y de Leído/No leído, atajo del módulo Contactos, Retrasar entrega, deshacer un envío, restringir acciones al cifrar, Asistente de programación |
+| 21 M365 e Internet | 56-60 | 5 | Keylogger, tipos reales de red, VPN, función de un servidor DHCP, Microsoft To Do |
+
+**Total: 47 preguntas nuevas** repartidas entre los 6 tests del Bloque II.
+
 ### Preguntas visuales o tabulares pendientes
 
 Hay preguntas psicotecnicas visuales/tabulares que requieren revisión manual desde PDF original. Estan documentadas en:

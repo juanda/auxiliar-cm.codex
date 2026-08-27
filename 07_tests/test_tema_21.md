@@ -2,9 +2,11 @@
 
 Banco de preguntas distinto del test embebido en `05_temario/tema_21_m365.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
 
-Tiempo recomendado: 64 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 70 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 31 a 55 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com sobre Internet y redes (SSL, extranet, direcciones IP, DNS, arquitectura cliente-servidor, topologías de red, protocolos ARP/IMAP, servidores y clientes FTP, gestores de contenidos, atajos de teclado de Microsoft Edge y el origen histórico de Internet), un contenido conectado con el epígrafe oficial del tema al tratarse de conceptos generales de navegación, redes y protocolos ya aparecidos en convocatorias anteriores. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 56 a 60 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (el keylogger como tipo de malware, los tipos reales de red según su extensión geográfica, la VPN, la función de un servidor DHCP y Microsoft To Do dentro del ecosistema de Microsoft 365), un contenido igualmente conectado con conceptos generales de redes, seguridad y colaboración ya aparecidos en convocatorias anteriores. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -338,6 +340,36 @@ Las preguntas 31 a 55 son de elaboración propia, inspiradas en el tipo de conte
     C. WWAN
     D. NSFNet
 
+56. ¿Qué tipo de malware registra las teclas que pulsa el usuario para robar contraseñas u otra información confidencial?
+    A. Adware
+    B. Rootkit
+    C. Spyware
+    D. Keylogger
+
+57. ¿Cuál de las siguientes NO es un tipo real de red según su extensión geográfica?
+    A. LAN
+    B. MAN
+    C. RAN
+    D. WAN
+
+58. ¿Cómo se denomina la conexión que permite crear una red privada y cifrada a través de una red pública como Internet, ocultando el tráfico y los datos que se envían?
+    A. Enrutador
+    B. Red privada virtual (VPN)
+    C. Punto de acceso
+    D. Modo avión
+
+59. ¿Cuál es la función principal de un servidor DHCP en una red local?
+    A. Traducir nombres de dominio en direcciones IP
+    B. Filtrar el tráfico malicioso procedente de Internet
+    C. Asignar automáticamente direcciones IP a los dispositivos que se conectan
+    D. Almacenar páginas web para que carguen más rápido
+
+60. ¿Cuál es la función principal de Microsoft To Do dentro del ecosistema de Microsoft 365?
+    A. Diseñar diapositivas interactivas y presentaciones
+    B. Organizar tareas diarias y gestionar el tiempo mediante listas personalizables y sincronizadas
+    C. Realizar cálculos estadísticos avanzados y gestionar bases de datos relacionales
+    D. Almacenar archivos en la nube como complemento de OneDrive
+
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Explicación breve |
@@ -397,3 +429,8 @@ Las preguntas 31 a 55 son de elaboración propia, inspiradas en el tipo de conte
 | 53 | A | Gemini es el bot conversacional de IA multimodal de Google. |
 | 54 | B | La cadena de custodia protege evidencias digitales para un procedimiento judicial. |
 | 55 | D | NSFNet sustituyó históricamente a ARPANET. |
+| 56 | D | El Keylogger registra las teclas pulsadas para robar información. |
+| 57 | C | "RAN" no es un tipo real de red; sí existen LAN, MAN y WAN. |
+| 58 | B | La VPN crea una conexión privada y cifrada sobre una red pública. |
+| 59 | C | El servidor DHCP asigna automáticamente direcciones IP. |
+| 60 | B | Microsoft To Do organiza tareas y gestiona el tiempo con listas sincronizadas. |

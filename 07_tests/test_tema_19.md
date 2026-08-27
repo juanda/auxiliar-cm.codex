@@ -2,9 +2,11 @@
 
 Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escritorio y Power BI. Se combinan recurrencias históricas con puntos probables de convocatoria: tablas, consultas, formularios, informes, relaciones, importación/vinculación/exportación y Power BI.
 
-Tiempo recomendado: 78 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 86 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 44 a 66 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (tipos reales de consulta del asistente, tamaños de campo numérico, la categoría de las funciones de dominio como `DSuma`, la diferencia entre `Regla de validación` y `Criterio`, la ubicación del Documentador de base de datos, las distribuciones reales de un informe, la sintaxis de una consulta de parámetros, las propiedades reales de un campo, los valores de la propiedad `Indexado`, las máscaras de entrada y el tipo de dato `Texto largo`), adaptando siempre el contenido a Access de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 67 a 74 son de elaboración propia, inspiradas en tres simulacros de examen gratuitos y en un examen oficial de la AGE publicados por opofimaticaestado.com (la sintaxis de un campo calculado, el tipo de dato Sí/No, la función `DCONT`, los tipos de dato reales de un campo, el lenguaje SQL de las consultas, la función `CADENA`, la combinación Y de criterios en la misma fila y la diferencia entre `Regla de validación` y `Texto de validación`), adaptando siempre el contenido a Access de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -404,6 +406,54 @@ Las preguntas 44 a 66 son de elaboración propia, inspiradas en el tipo de conte
     C. Consulta de actualización
     D. Consulta de búsqueda de no coincidentes
 
+67. En una tabla `Alumno` de Access queremos crear un campo calculado llamado `NOTA` que sume los campos `NOTA1` y `NOTA2`. ¿Qué expresión es correcta?
+    A. `[NOTA1]+[NOTA2]`
+    B. `=NOTA:[NOTA1]+[NOTA2]`
+    C. `=[NOTA1]+[NOTA2]`
+    D. `=NOTA1+NOTA2`
+
+68. ¿Qué tipo de dato elegiremos en Access para almacenar un valor que solo puede ser verdadero o falso?
+    A. Booleano
+    B. Sí/No
+    C. Lógico
+    D. Objeto OLE
+
+69. ¿A qué categoría de funciones de Access pertenece `DCONT`?
+    A. Agregada de SQL
+    B. Estadística
+    C. Agregada de dominio
+    D. Matemática
+
+70. ¿Cuál de los siguientes NO es un tipo de dato real de un campo en Access?
+    A. Moneda
+    B. Número corto
+    C. Texto corto
+    D. Texto largo
+
+71. ¿En qué lenguaje están escritas internamente las consultas de Microsoft Access?
+    A. VBA
+    B. SQL
+    C. HTML
+    D. XML
+
+72. ¿Qué devuelve la siguiente expresión de Access? `=CADENA(3;"CASA")`
+    A. CASA
+    B. CASACASACASA
+    C. CASA CASA CASA
+    D. CCC
+
+73. En la cuadrícula de diseño de una consulta de Access, si se escriben criterios para dos campos distintos en la misma fila, Access los combina mediante:
+    A. El operador O (al menos uno debe cumplirse)
+    B. El operador Y (deben cumplirse todos)
+    C. Ningún operador; hay que escribirlo explícitamente
+    D. Siempre da error si hay más de un criterio
+
+74. ¿Qué diferencia hay entre la `Regla de validación` y el `Texto de validación` de un campo de Access?
+    A. Son la misma propiedad con dos nombres distintos
+    B. El Texto de validación define la condición; la Regla de validación es el mensaje mostrado si se incumple
+    C. La Regla de validación define la condición que deben cumplir los valores; el Texto de validación es el mensaje que se muestra si no la cumplen
+    D. Ninguna de las dos afecta a los datos ya introducidos
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -474,3 +524,11 @@ Las preguntas 44 a 66 son de elaboración propia, inspiradas en el tipo de conte
 | 64 | C | `CONMUTADOR` equivale a `SI.CONJUNTO` de Excel. |
 | 65 | C | La clave externa se sitúa en la tabla del lado "varios". |
 | 66 | B | La consulta de selección lista datos sin modificarlos. |
+| 67 | C | El campo calculado se escribe con `=` y los nombres de campo entre corchetes. |
+| 68 | B | Sí/No es el tipo de dato para valores verdadero/falso. |
+| 69 | C | `DCONT` es una función Agregada de dominio. |
+| 70 | B | "Número corto" no es un tipo de dato real; existen Número, Texto corto y Texto largo. |
+| 71 | B | Las consultas de Access se basan en SQL. |
+| 72 | D | `CADENA` repite el primer carácter del texto: `CCC`. |
+| 73 | B | Los criterios en la misma fila se combinan con Y (deben cumplirse todos). |
+| 74 | C | La Regla de validación define la condición; el Texto de validación es el aviso al incumplirla. |
