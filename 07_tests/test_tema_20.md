@@ -2,7 +2,9 @@
 
 Preguntas nuevas de entrenamiento predictivo para Outlook de Microsoft 365 escritorio. Banco de preguntas distinto del test embebido en `05_temario/tema_20_outlook.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
 
-Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 76 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
+Las preguntas 41 a 65 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (diferencia entre IMAP y POP3, ubicación real de `Ejecutar reglas ahora` y de `Autoarchivar` en la cinta, opciones del Backstage sin cuenta Exchange, botones reales del Panel de navegación, el grupo `Refinar` de la búsqueda, atajos de teclado, la diferencia entre `Archivar` y una Carpeta de búsqueda, las acciones reales configurables en una regla y las extensiones `.pst`/`.msg`/`.vcf`), adaptando siempre el contenido a Outlook de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -246,6 +248,156 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Microsoft 365 versión escritorio
     D. Una versión web no indicada como base
 
+41. ¿Cuál es la diferencia principal entre los protocolos IMAP y POP3 para el correo electrónico?
+    A. POP3 sincroniza los mensajes en tiempo real con el servidor
+    B. IMAP mantiene los mensajes en el servidor y los sincroniza con el cliente
+    C. IMAP es un protocolo más antiguo que POP3
+    D. POP3 sirve únicamente para enviar correo, no para recibirlo
+
+42. ¿En qué ficha de la cinta de opciones de Outlook se encuentra el botón `Ejecutar reglas ahora`?
+    A. Vista
+    B. Carpeta
+    C. Inicio
+    D. Programador
+
+43. Al hacer clic con el botón secundario sobre un contacto y elegir `Reenviar contacto`, ¿qué dos opciones ofrece Outlook?
+    A. Como tarjeta de presentación y como contacto de Outlook
+    B. Como tarjeta de visita y como contacto de la agenda
+    C. Como archivo `.pst` y como archivo `.vcf`
+    D. Como mensaje nuevo y como cita
+
+44. ¿En qué ficha de la cinta de opciones de Outlook se configura el tiempo de `Autoarchivar` de una carpeta?
+    A. Inicio
+    B. Enviar y recibir
+    C. Vista
+    D. Carpeta
+
+45. Si se abre la ventana Backstage (`Archivo`) de Outlook con una cuenta que no es de Microsoft Exchange, ¿qué ocurre?
+    A. No se puede acceder a la ventana Backstage con ese tipo de cuentas
+    B. Aparecen exactamente las mismas opciones que con una cuenta Exchange
+    C. Desaparecen opciones como Respuestas automáticas o Administrador de complementos
+    D. Se solicita la contraseña de nuevo cada vez que se abre
+
+46. ¿Cómo se denomina la zona de la ventana de Outlook donde se puede leer el contenido del correo seleccionado sin abrirlo en una ventana aparte?
+    A. Panel de correo
+    B. Panel de detalles
+    C. Panel de visualización
+    D. Panel de lectura
+
+47. ¿Cuál de las siguientes opciones NO corresponde a un botón real del Panel de navegación de Outlook?
+    A. Correo
+    B. Personas
+    C. Eventos
+    D. Tareas
+
+48. ¿Qué formato de mensaje viene configurado por defecto en Outlook de Microsoft 365?
+    A. Texto sin formato
+    B. HTML
+    C. RTF (Formato de texto enriquecido)
+    D. Markdown
+
+49. Al buscar un texto en Outlook y activarse la ficha contextual `Buscar`, en el grupo `Refinar` aparecen varias opciones, como `Asunto` o `Sin leer`. ¿Cuál de las siguientes NO aparece en ese grupo?
+    A. Etiqueta
+    B. Asunto
+    C. Importante
+    D. Sin leer
+
+50. ¿Qué tecla permite enviar y recibir correo en todas las carpetas configuradas en Outlook?
+    A. F5
+    B. F9
+    C. F12
+    D. F10
+
+51. Un mensaje que muestra un signo de exclamación en rojo indica que:
+    A. Es un mensaje personal
+    B. Tiene marcada importancia alta
+    C. Es confidencial
+    D. Contiene un archivo adjunto
+
+52. ¿Qué diferencia hay entre `Archivar` un correo y usar una `Carpeta de búsqueda` en Outlook?
+    A. Ambas opciones realizan exactamente la misma función
+    B. `Archivar` mueve el correo a otra ubicación; la Carpeta de búsqueda sólo muestra mensajes que cumplen un criterio, sin moverlos
+    C. La Carpeta de búsqueda elimina los correos originales
+    D. `Archivar` se utiliza únicamente para imprimir mensajes
+
+53. ¿Para qué sirve la acción `Combinar correspondencia`, disponible desde la pestaña Inicio de los Contactos de Outlook?
+    A. Fusionar varios correos recibidos para ahorrar espacio en disco
+    B. Redirigir automáticamente los mensajes de varias cuentas a la principal
+    C. Crear un correo electrónico o carta modelo para enviarlo, de forma individualizada, a un conjunto de contactos
+    D. Crear una carpeta donde agrupar correos de distintas cuentas
+
+54. ¿Cuál es la función principal del campo `Asunto` en un mensaje de correo electrónico?
+    A. Identificar al remitente del mensaje
+    B. Indicar el tema o contenido del mensaje
+    C. Establecer la prioridad del mensaje
+    D. Adjuntar un archivo al mensaje
+
+55. Dentro del grupo `Eliminar` de la cinta de Outlook, ¿cuál de las siguientes opciones NO aparece?
+    A. Eliminar
+    B. Archivar
+    C. Ignorar
+    D. Enviar a la papelera
+
+56. ¿En qué zona del panel de carpetas de Outlook se sitúa la carpeta `Favoritos`?
+    A. En la parte inferior
+    B. En la parte derecha
+    C. En la parte superior
+    D. Outlook no tiene carpeta de Favoritos
+
+57. ¿Qué tipo de archivo utiliza Outlook para almacenar de forma local el correo, los contactos y las citas de una cuenta?
+    A. `.msg`
+    B. `.pst`
+    C. `.bak`
+    D. `.oft`
+
+58. Si se guarda un único mensaje de correo, ya abierto, como archivo independiente en el disco, ¿qué extensión recibe ese archivo?
+    A. `.pst`
+    B. `.vcf`
+    C. `.msg`
+    D. `.oft`
+
+59. ¿Qué extensión de archivo se genera al exportar un contacto de Outlook a disco desde el panel Contactos?
+    A. `.cont`
+    B. `.vcf`
+    C. `.xlm`
+    D. `.msg`
+
+60. Al configurar una regla de mensaje en Outlook 365, ¿cuál de las siguientes NO es una acción configurable dentro de la propia regla?
+    A. Categorizar
+    B. Mover a una carpeta
+    C. Reenviar a
+    D. Resumir el mensaje con inteligencia artificial
+
+61. En Outlook, ¿es posible aplicar más de una categoría a un mismo mensaje de correo?
+    A. No, sólo se permite una categoría por mensaje
+    B. Sí, se pueden aplicar varias categorías sin un límite fijo
+    C. Sí, pero como máximo dos
+    D. Sí, pero como máximo tres
+
+62. ¿Qué combinación de teclas se utiliza en Outlook para responder a un mensaje de correo electrónico?
+    A. `Ctrl + 2`
+    B. `Ctrl + U`
+    C. `Ctrl + R`
+    D. `Ctrl + F`
+
+63. Dentro del botón `Panel de carpetas`, en la ficha Vista de Outlook, ¿cuál de las siguientes opciones NO se puede elegir?
+    A. Normal
+    B. Minimizado
+    C. Desactivado
+    D. Oculto
+
+64. En Outlook, ¿qué son las Vistas?
+    A. Formas de mostrar la información de las carpetas
+    B. Formas de personalizar la cinta de opciones
+    C. Opciones de configuración para proteger elementos del correo
+    D. Opciones de configuración de los contactos
+
+65. Un usuario configura su cuenta con IMAP en varios dispositivos. Si elimina un correo desde el móvil, ¿qué es lo esperable que ocurra en el resto de dispositivos?
+    A. Nada, IMAP no sincroniza cambios entre dispositivos
+    B. El correo se elimina también en el servidor y, por tanto, en los demás dispositivos al sincronizar
+    C. El correo se duplica en los demás dispositivos
+    D. Sólo se elimina si se usa el mismo dispositivo que lo recibió
+
 ## Plantilla
 
 | Número | Respuesta | Explicación |
@@ -290,3 +442,28 @@ Tiempo recomendado: 47 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 38 | B | Gestionar contactos o listas no es propio del Calendario. |
 | 39 | A | CCO protege la visibilidad de las direcciones. |
 | 40 | C | La convocatoria 2026 fija Microsoft 365 versión escritorio. |
+| 41 | B | IMAP mantiene los mensajes en el servidor y sincroniza con el cliente. |
+| 42 | C | `Ejecutar reglas ahora` está en la ficha Inicio. |
+| 43 | A | Reenviar contacto ofrece "como tarjeta de presentación" y "como contacto de Outlook". |
+| 44 | D | `Autoarchivar` se configura desde la ficha Carpeta. |
+| 45 | C | Sin cuenta Exchange desaparecen opciones como Respuestas automáticas o Administrador de complementos. |
+| 46 | D | Esa zona se llama Panel de lectura. |
+| 47 | C | "Eventos" no es un botón real del Panel de navegación. |
+| 48 | B | HTML es el formato predeterminado de los mensajes. |
+| 49 | C | "Importante" no aparece en el grupo Refinar. |
+| 50 | B | `F9` envía y recibe correo de todas las carpetas. |
+| 51 | B | La exclamación roja indica importancia alta. |
+| 52 | B | Archivar mueve el correo; la Carpeta de búsqueda solo muestra sin mover. |
+| 53 | C | Combinar correspondencia crea un correo o carta modelo individualizado por contacto. |
+| 54 | B | El Asunto indica el tema del mensaje. |
+| 55 | D | "Enviar a la papelera" no es el nombre real de ese botón. |
+| 56 | C | Favoritos se sitúa en la parte superior del panel de carpetas. |
+| 57 | B | `.pst` almacena correo, contactos y citas de forma local. |
+| 58 | C | Un mensaje guardado individualmente usa la extensión `.msg`. |
+| 59 | B | Exportar un contacto genera un archivo `.vcf`. |
+| 60 | D | "Resumir con IA" no es una acción configurable de una regla. |
+| 61 | B | Se pueden aplicar varias categorías sin límite fijo. |
+| 62 | C | `Ctrl + R` responde al mensaje. |
+| 63 | D | "Oculto" no es una opción real del botón Panel de carpetas. |
+| 64 | A | Las vistas son formas de mostrar la información de las carpetas. |
+| 65 | B | Con IMAP, eliminar en un dispositivo elimina también en el servidor y en los demás al sincronizar. |
