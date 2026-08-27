@@ -2,11 +2,13 @@
 
 Preguntas nuevas de entrenamiento predictivo para Word de Microsoft 365 escritorio. Se priorizan contenidos no agotados por los exámenes históricos: estilos, secciones, impresión, exportación, revisión, vistas y personalización.
 
-Tiempo recomendado: 94 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 114 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 36 a 65 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Word para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de Cuerpos Auxiliares Administrativos de otras comunidades autónomas y de la Administración General del Estado sobre Word (tipos de sangría, selección de texto, salto de línea frente a párrafo nuevo, referencias cruzadas, combinación de correspondencia, protección de documentos y personalización de la cinta), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (nota al pie, opciones de tabla, números de línea, ubicación de las opciones de impresión, Contar palabras, Editor/Traducir/Leer en voz alta, estilos personales, Tesauro, selección de frase y modo de compatibilidad), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 81 a 98 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (atajo de hipervínculo, efectos de fuente activables desde la cinta, mecánica real del espaciado entre párrafos, tipos de tabulación, Autoguardado en OneDrive, ventana Backstage, opciones de `Convertir texto en tabla`, sangría especial de primera línea, ajuste de texto de iconos, la función `RAND`, inserción de comentarios, barra de estado y las opciones reales de `Proteger documento`), adaptando siempre el contenido a Word de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -490,6 +492,114 @@ Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de conte
     C. El documento contiene macros bloqueadas
     D. El documento está protegido con contraseña
 
+81. En Word, por defecto, ¿qué combinación de teclas abre la ventana para insertar un hipervínculo?
+    A. `Alt + K`
+    B. `Ctrl + Mayús + Q`
+    C. `Alt + Q`
+    D. `Ctrl + Alt + K`
+
+82. Si un documento no contiene ningún salto de sección y se cambia la orientación a horizontal desde `Disposición -> Orientación`, ¿qué ocurre?
+    A. Sólo cambia la orientación de la página donde está el punto de inserción
+    B. Cambia la orientación de todo el documento, al no existir secciones independientes
+    C. Word crea automáticamente un salto de sección
+    D. La orientación no puede cambiarse sin usar columnas
+
+83. ¿Cuál de los siguientes efectos de fuente puede activarse directamente con un botón de la cinta de opciones, sin abrir el cuadro `Fuente`?
+    A. Doble tachado
+    B. Versalitas
+    C. Oculto
+    D. Superíndice
+
+84. Un párrafo tiene un espaciado posterior de 12 pt y el siguiente párrafo tiene un espaciado anterior de 18 pt. ¿Qué separación real mostrará Word entre ambos párrafos?
+    A. 30 pt, porque Word suma ambos espaciados
+    B. 18 pt, porque Word aplica el mayor de los dos valores, no la suma
+    C. 12 pt, porque Word aplica siempre el espaciado posterior
+    D. 0 pt, porque los espaciados de párrafos consecutivos se anulan
+
+85. ¿Cuál de las siguientes NO es un tipo real de alineación de tabulación en Word?
+    A. Izquierda
+    B. Decimal
+    C. Justificada
+    D. Barra
+
+86. La herramienta `Lector inmersivo` (Immersive Reader) de Word se encuentra en la ficha:
+    A. Inicio
+    B. Revisar
+    C. Referencias
+    D. Vista
+
+87. En Word de Microsoft 365, el `Autoguardado` situado junto al nombre del archivo permite:
+    A. Guardar automáticamente el documento en la nube de OneDrive mientras se edita
+    B. Crear una copia impresa automática cada pocos minutos
+    C. Guardar automáticamente sólo al cerrar Word
+    D. Convertir el documento a PDF de forma periódica
+
+88. ¿Qué extensión utiliza Word para las copias de recuperación automática de documentos que aún no se han guardado?
+    A. `.csd`
+    B. `.rtf`
+    C. `.asd`
+    D. `.docx`
+
+89. En la ventana Backstage de Word (al pulsar `Archivo`), en la parte izquierda aparecen varios botones. ¿Cuál de las siguientes opciones NO es uno de esos botones, sino la pestaña que da acceso a la propia ventana?
+    A. Compartir
+    B. Exportar
+    C. Información
+    D. Archivo
+
+90. Al usar la herramienta `Convertir texto en tabla`, se abre una ventana con varias opciones configurables. ¿Cuál de las siguientes NO es una de ellas?
+    A. Elegir el número de filas y columnas
+    B. Separar el texto mediante párrafos, tabulaciones u otro carácter
+    C. Autoajustar la anchura de la tabla
+    D. Definir el formato de los valores numéricos de la tabla
+
+91. En una sangría especial de `Primera línea`, ¿desde dónde toma Word el punto de partida para desplazar esa primera línea?
+    A. Desde el margen izquierdo de la página
+    B. Desde la sangría izquierda ya aplicada al párrafo
+    C. Desde el margen derecho de la página
+    D. Desde la sangría derecha del párrafo
+
+92. Al insertar un icono en Word, ¿qué tipo de ajuste de texto viene configurado por defecto?
+    A. Detrás del texto
+    B. En línea con el texto
+    C. Delante del texto
+    D. Cuadrado
+
+93. Al escribir `=rand()` sin parámetros y pulsar `Intro` en Word, se genera automáticamente:
+    A. Un párrafo de texto de ejemplo
+    B. Tres párrafos de texto de ejemplo
+    C. Un mensaje de error, porque Word no admite esa función
+    D. Una tabla con datos aleatorios
+
+94. Para introducir un nuevo comentario en un documento de Word de Microsoft 365, se puede acudir al grupo `Comentarios` de la ficha:
+    A. Vista
+    B. Inicio
+    C. Insertar
+    D. Diseño
+
+95. ¿Cuál de las siguientes opciones NO aparece habitualmente en la barra de estado (parte inferior de la ventana) de Word 365?
+    A. Número de página
+    B. Recuento de palabras
+    C. Idioma del documento
+    D. Historial de versiones
+
+96. Dentro de `Archivo -> Información -> Proteger documento`, ¿cuál de las siguientes opciones NO aparece en ese menú, por pertenecer en realidad a `Comprobar si hay problemas`?
+    A. Cifrar con contraseña
+    B. Restringir edición
+    C. Inspeccionar documento
+    D. Agregar una firma digital
+
+97. En Word en español, además de `F5`, ¿qué otra combinación de teclas abre el panel de búsqueda con las pestañas Títulos, Páginas y Resultados?
+    A. `Ctrl + N`
+    B. `Ctrl + B`
+    C. `Ctrl + U`
+    D. `Ctrl + K`
+
+98. ¿Qué función de Word permite combinar una lista de destinatarios con un documento principal para generar automáticamente varias copias personalizadas (por ejemplo, cartas con nombre y dirección distintos)?
+    A. Guardar como PDF
+    B. Insertar vínculos
+    C. Aplicar estilos
+    D. Combinar correspondencia
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -574,3 +684,21 @@ Las preguntas 66 a 80 son de elaboración propia, inspiradas en el tipo de conte
 | 78 | D | Las referencias cruzadas pueden apuntar a textos, tablas e ilustraciones. |
 | 79 | B | `Símbolo` inserta caracteres; `Elementos rápidos` inserta bloques reutilizables. |
 | 80 | A | El modo de compatibilidad indica un formato o versión anterior. |
+| 81 | A | `Alt + K` abre la ventana de hipervínculo. |
+| 82 | B | Sin secciones, el cambio de orientación afecta a todo el documento. |
+| 83 | D | Superíndice tiene botón propio en la cinta; los demás requieren el cuadro Fuente. |
+| 84 | B | Word aplica el mayor de los dos espaciados adyacentes, no la suma. |
+| 85 | C | "Justificada" no es un tipo de alineación de tabulación. |
+| 86 | D | El Lector inmersivo está en la ficha Vista. |
+| 87 | A | El Autoguardado guarda el documento en OneDrive mientras se edita. |
+| 88 | C | `.asd` es la extensión de las copias de recuperación automática. |
+| 89 | D | `Archivo` es la pestaña que abre Backstage, no un botón dentro de él. |
+| 90 | D | No existe opción para definir el formato de los valores al convertir texto en tabla. |
+| 91 | B | La primera línea se desplaza desde la sangría izquierda ya aplicada al párrafo. |
+| 92 | B | El ajuste por defecto de un icono insertado es En línea con el texto. |
+| 93 | B | `=rand()` sin parámetros genera tres párrafos de ejemplo. |
+| 94 | C | El grupo Comentarios está en la ficha Insertar. |
+| 95 | D | El historial de versiones no aparece en la barra de estado. |
+| 96 | C | Inspeccionar documento pertenece a Comprobar si hay problemas, no a Proteger documento. |
+| 97 | B | `Ctrl + B` (Buscar) también abre el panel con esas tres pestañas. |
+| 98 | D | Combinar correspondencia genera copias personalizadas a partir de una lista de destinatarios. |

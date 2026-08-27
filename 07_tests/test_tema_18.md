@@ -2,11 +2,13 @@
 
 Preguntas nuevas de entrenamiento predictivo para Excel de Microsoft 365 escritorio. Se priorizan contenidos probables no agotados por los exámenes históricos: referencias, errores, validación, gestión de datos, tablas dinámicas, gráficos y configuración.
 
-Tiempo recomendado: 105 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 122 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
 
 Las preguntas 46 a 75 son de elaboración propia, con las cuatro opciones planteadas dentro del propio dominio de Excel para evitar el acierto por descarte evidente. Su selección de contenidos se ha contrastado con el tipo de preguntas reales publicadas de convocatorias de la Administración General del Estado (2015-2024) sobre Excel (el error `#####`, referencias entre hojas y libros, `Combinar y centrar` con datos, funciones lógicas `Y`/`O`, categorías de funciones, mecánica del formato porcentaje, autodetección de fechas, ordenación de números como texto y opciones de escala de impresión), adaptando siempre el contenido a Microsoft 365 versión escritorio. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 Las preguntas 76 a 90 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en preguntas reales de demos públicas de academias especializadas en informática para oposiciones (`Proteger libro` frente a `Proteger hoja`, opciones reales del formato condicional, vista `Diseño de página`, `Reducir hasta ajustar`, ejemplos trabajados de `BUSCARV`/`EXTRAE`/`CONCAT`/`SI`/`O`, funciones inexistentes como distractor y atajos de teclado adicionales), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
+
+Las preguntas 91 a 105 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (R cuadrado en líneas de tendencia, el botón `Seleccionar datos` de un gráfico, la diferencia entre celda bloqueada y hoja protegida, ejemplos trabajados con referencias mixtas y con `DIA.LAB`, argumentos obligatorios de `BUSCARV`, la protección de `Estructura` del libro, funciones de matriz dinámica de Excel 365 como `FILTRAR` y `ORDENARPOR`, y la categoría real de la función `HALLAR`), adaptando siempre el contenido a Excel de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -550,6 +552,96 @@ Las preguntas 76 a 90 son de elaboración propia, inspiradas en el tipo de conte
     C. Abre el Formato de celdas
     D. Inserta la fecha actual
 
+91. En un gráfico de Excel con línea de tendencia, si se activa la casilla `Presentar el valor R cuadrado en el gráfico`, ¿qué es cierto sobre ese valor?
+    A. Representa el término al cuadrado de una ecuación de segundo grado
+    B. Es un valor estadístico relacionado únicamente con la media
+    C. No existe esa opción en los gráficos de Excel
+    D. Es un valor comprendido entre 0 y 1
+
+92. ¿Cómo se llama el botón de la cinta de opciones que permite añadir más filas o series de datos a un gráfico ya creado en Excel?
+    A. Cambiar fila/columna
+    B. Seleccionar datos
+    C. Agregar datos
+    D. Añadir tabla
+
+93. Si una celda tiene activada la propiedad `Bloqueada` (su valor por defecto), ¿cuándo impide realmente que se escriba en ella?
+    A. Siempre, aunque la hoja no esté protegida
+    B. Únicamente cuando además se protege la hoja
+    C. Nunca, esa propiedad no tiene efecto
+    D. Sólo si el libro tiene contraseña de apertura
+
+94. En las celdas A1, A2, A3 y A4 hay los valores 1, 2, 3 y 4. En C1 se escribe `=$A$1+$A$2+A$3+A4`. Si se copia y pega C1 en C4, ¿qué resultado se obtiene?
+    A. 3
+    B. 6
+    C. 7
+    D. 10
+
+95. La celda A1 contiene la fecha `01/05/2023` (lunes). ¿Qué devuelve la fórmula `=DIA.LAB(A1;1)`, convertido el resultado a formato de fecha?
+    A. `02/05/2023`
+    B. `03/05/2023`
+    C. `Falso`
+    D. Un error de tipo `#¡VALOR!`
+
+96. ¿Cuántos argumentos obligatorios tiene la función `BUSCARV` de Excel?
+    A. 4
+    B. 5
+    C. 3
+    D. 2
+
+97. Al convertir un rango de datos en una tabla de Excel (`Insertar -> Tabla`), una de las consecuencias directas es que:
+    A. Se activa una nueva ficha exclusiva llamada `TABLA`
+    B. Se habilitan cabeceras con filtro, desde las que se puede filtrar y buscar
+    C. Se crea automáticamente una tabla en una base de datos local de Excel
+    D. Se añade siempre una columna auxiliar con totales por fila
+
+98. Si la `Estructura` de un libro de Excel está protegida, ¿cuál de las siguientes acciones sigue estando permitida sobre sus hojas?
+    A. Insertar una hoja nueva
+    B. Cambiar el nombre de una hoja
+    C. Mover o copiar una hoja a otro libro
+    D. Seleccionar todas las hojas para verlas
+
+99. ¿Qué devuelve la fórmula `=ELEGIR(0;1;2;3)` en Excel?
+    A. `1`, el primer valor de la lista
+    B. `0`, el índice indicado
+    C. Un error, porque el índice de `ELEGIR` debe ser 1 o mayor
+    D. `3`, el último valor de la lista
+
+100. ¿A qué categoría de funciones de Excel pertenece `HALLAR`?
+     A. Búsqueda y referencia
+     B. Matemáticas y trigonométricas
+     C. De texto
+     D. Estadísticas
+
+101. ¿Cuál de las siguientes funciones de Excel 2021/365 devuelve una matriz dinámica que se expande automáticamente en varias celdas?
+     A. `BUSCARV`
+     B. `FILTRAR`
+     C. `BUSCAR`
+     D. `SUMAR.SI.CONJUNTO`
+
+102. ¿Qué realiza la fórmula `=SUMAR.SI.CONJUNTO(A2:A17;A2:A17;">20")`?
+     A. Da error porque el rango se ha indicado dos veces
+     B. Suma todos los valores del rango A2:A17 que sean superiores a 20
+     C. Calcula la suma total del rango y sólo la muestra si supera 20
+     D. Suma el rango completo y muestra únicamente los valores que superen 20, sin sumarlos entre sí
+
+103. Al escribir texto (por ejemplo, una palabra) en una celda sin formato previo y pulsar `Intro`, Excel lo alinea por defecto:
+     A. A la izquierda
+     B. A la derecha
+     C. Centrado
+     D. Justificado
+
+104. La herramienta `Vista de hoja`, disponible en Excel de Microsoft 365, se encuentra en la ficha:
+     A. Datos
+     B. Revisar
+     C. Inicio
+     D. Vista
+
+105. En Excel 2021/365, ¿qué función de matriz dinámica permite ordenar los resultados según varios criterios a la vez?
+     A. ORDENAR
+     B. ORDENARPOR
+     C. FILTRAR
+     D. No es posible ordenar por varios criterios con una sola función
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -644,3 +736,18 @@ Las preguntas 76 a 90 son de elaboración propia, inspiradas en el tipo de conte
 | 88 | D | `Ctrl + D` rellena hacia abajo. |
 | 89 | B | `Ctrl + ;` inserta la fecha actual. |
 | 90 | A | `F4` alterna el tipo de referencia de la celda seleccionada. |
+| 91 | D | El R cuadrado de una línea de tendencia es un valor entre 0 y 1. |
+| 92 | B | `Seleccionar datos` añade filas o series a un gráfico existente. |
+| 93 | B | Bloqueada sólo impide editar si además se protege la hoja. |
+| 94 | B | Al copiar a C4 en la misma columna, `A4` pasa a `A7` (vacía = 0): 1+2+3+0 = 6. |
+| 95 | A | `DIA.LAB(A1;1)` devuelve el siguiente día laborable, `02/05/2023`. |
+| 96 | C | `BUSCARV` tiene 3 argumentos obligatorios; el 4º (ordenado) es opcional. |
+| 97 | B | Crear una tabla habilita cabeceras con filtro y búsqueda. |
+| 98 | D | Con la Estructura protegida aún se pueden seleccionar y ver todas las hojas. |
+| 99 | C | El índice de `ELEGIR` debe ser 1 o mayor; `0` produce error. |
+| 100 | C | `HALLAR` es una función de la categoría De texto. |
+| 101 | B | `FILTRAR` devuelve una matriz dinámica que se expande automáticamente. |
+| 102 | B | Suma del rango A2:A17 los valores que superan 20, al coincidir rango de suma y de criterio. |
+| 103 | A | El texto se alinea a la izquierda por defecto. |
+| 104 | D | `Vista de hoja` está en la ficha Vista. |
+| 105 | B | `ORDENARPOR` ordena una matriz dinámica según varios criterios. |

@@ -2,7 +2,9 @@
 
 Preguntas nuevas de entrenamiento predictivo para Access de Microsoft 365 escritorio y Power BI. Se combinan recurrencias históricas con puntos probables de convocatoria: tablas, consultas, formularios, informes, relaciones, importación/vinculación/exportación y Power BI.
 
-Tiempo recomendado: 50 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 78 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
+Las preguntas 44 a 66 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com (tipos reales de consulta del asistente, tamaños de campo numérico, la categoría de las funciones de dominio como `DSuma`, la diferencia entre `Regla de validación` y `Criterio`, la ubicación del Documentador de base de datos, las distribuciones reales de un informe, la sintaxis de una consulta de parámetros, las propiedades reales de un campo, los valores de la propiedad `Indexado`, las máscaras de entrada y el tipo de dato `Texto largo`), adaptando siempre el contenido a Access de Microsoft 365 escritorio y evitando reproducir enunciados literales. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -264,6 +266,144 @@ Tiempo recomendado: 50 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Access almacena y gestiona datos; Power BI los conecta, transforma y visualiza, sin sustituir a Access como gestor
     D. Power BI solo funciona si los datos proceden de Word
 
+44. En Access, si con el botón secundario del ratón hacemos clic sobre la pestaña de un informe abierto y elegimos cambiar de vista, la vista previa de impresión aparece con el nombre:
+    A. Vista preliminar
+    B. Informe preliminar
+    C. Vista previa de impresión
+    D. Vista preliminar de impresión
+
+45. ¿Cuál es la función principal de un formulario en Access?
+    A. Crear relaciones entre tablas
+    B. Eliminar registros automáticamente
+    C. Facilitar la introducción y visualización de datos de forma amigable
+    D. Generar consultas SQL
+
+46. En Access, ¿es posible marcar como Clave principal dos campos de una misma tabla?
+    A. No, sólo puede marcarse un único campo como clave principal
+    B. Sí, seleccionando ambos campos a la vez y marcándolos juntos, formando una clave principal compuesta
+    C. Sí, pero al marcar el segundo se desmarca automáticamente el primero
+    D. No, la clave principal sólo puede definirse mediante código
+
+47. ¿Cuál de los siguientes tamaños de campo NO existe para un campo de tipo Número en Access?
+    A. Byte
+    B. Entero
+    C. Entero largo
+    D. Bit
+
+48. La función `DSuma` de Access pertenece a la categoría de funciones:
+    A. Agregada de SQL
+    B. Financiera
+    C. Agregada de dominio
+    D. Matemáticas
+
+49. ¿Qué diferencia hay entre la propiedad `Regla de validación` de un campo y la propiedad `Criterio` de una consulta?
+    A. Son exactamente la misma propiedad con dos nombres distintos
+    B. `Regla de validación` limita los valores que se pueden introducir en el campo de la tabla; `Criterio` filtra los registros ya existentes al ejecutar una consulta
+    C. `Criterio` se aplica al diseñar la tabla; `Regla de validación` sólo existe en las consultas
+    D. Ninguna de las dos afecta a los datos ya introducidos
+
+50. Entre las opciones que ofrece el Asistente para consultas de Access está `Buscar datos no coincidentes`. ¿Cuál de las siguientes NO es un tipo real de consulta del asistente?
+    A. Consulta de tabla de referencias cruzadas
+    B. Consulta de búsqueda de valores coincidentes
+    C. Consulta de búsqueda de duplicados
+    D. Consulta sencilla
+
+51. ¿Para qué sirve una consulta de datos anexados en Access?
+    A. Para unir registros de dos o más tablas en una sola vista
+    B. Para eliminar registros duplicados
+    C. Para agregar registros de una tabla (u otro origen) al final de otra tabla
+    D. Para actualizar registros ya existentes
+
+52. Si en la Vista Formulario de Access se modifica el valor de un cuadro de texto vinculado a un campo, ¿qué ocurre?
+    A. El cambio sólo se aplica en el formulario, sin afectar a la tabla
+    B. Se modifican los datos de la tabla original en la que se basa el formulario
+    C. Aparece un error, porque los formularios son de solo lectura
+    D. Se crea una copia del registro en una tabla temporal
+
+53. Una consulta que se emplea para agregar, actualizar o eliminar registros de una base de datos de Access se denomina:
+    A. Consulta de Unión
+    B. Consulta de Selección
+    C. Consulta de Resumen
+    D. Consulta de Acción
+
+54. ¿En qué ficha de la cinta de opciones de Access se encuentra la herramienta `Documentador de base de datos`?
+    A. Inicio
+    B. Crear
+    C. Herramientas de base de datos
+    D. Archivo
+
+55. Al crear un informe con el asistente de Access y definir su distribución, ¿cuál de las siguientes distribuciones NO es una opción real?
+    A. Tabular
+    B. En columnas
+    C. Justificado
+    D. En filas
+
+56. ¿Qué función cumple el comando `SELECT` dentro de una consulta SQL de Access?
+    A. Recuperar datos de una o varias tablas
+    B. Actualizar los registros existentes
+    C. Agregar nuevos registros
+    D. Eliminar registros
+
+57. En una consulta de parámetros de Access, el texto que se muestra al usuario para pedirle un valor se escribe:
+    A. Entre paréntesis, como `(código de cliente)`
+    B. Entre corchetes, como `[Introduzca el código de cliente]`
+    C. Precedido de una almohadilla, como `#código#`
+    D. Entre comillas dobles dentro del nombre del campo
+
+58. ¿Qué propiedad hay que cambiar para que Access no permita editar los valores de los campos mostrados en un formulario?
+    A. Hoja de propiedades -> Datos -> Origen del registro
+    B. Hoja de propiedades -> Otros -> Etiqueta dependiente
+    C. Hoja de propiedades -> Datos -> Permitir ediciones (a `No`)
+    D. Hoja de propiedades -> Formato -> Visible
+
+59. ¿Cuál de las siguientes opciones NO es una propiedad real de un campo de una tabla de Access?
+    A. Título
+    B. Indexado
+    C. Formato
+    D. Diseño
+
+60. La propiedad `Indexado` de un campo de Access puede tomar varios valores. ¿Cuál de los siguientes NO es uno de ellos?
+    A. No
+    B. Sí (Sin duplicados)
+    C. Sí (Con duplicados)
+    D. Sí (Solo lectura)
+
+61. Se quiere que un campo obligue a introducir exactamente 3 dígitos seguidos de 2 letras. ¿Qué máscara de entrada es correcta?
+    A. `999##`
+    B. `000LL`
+    C. `000??`
+    D. `999LL`
+
+62. Desde la versión 2019 de Access, el tipo de dato pensado para almacenar texto extenso (más de 255 caracteres) se denomina:
+    A. Memo
+    B. Texto largo
+    C. Texto extendido
+    D. Nota
+
+63. En una consulta de selección con el campo `[id]` y el criterio `ENTRE 1 Y 10`, si se desactiva la casilla `Mostrar` de ese campo, ¿qué ocurre con los registros visualizados?
+    A. Se visualizan todos los registros, porque al desactivar `Mostrar` el criterio deja de aplicarse
+    B. El criterio sigue aplicándose como filtro, aunque la columna `id` no se muestre en el resultado
+    C. Access no permite ejecutar la consulta si `Mostrar` está desactivado
+    D. Sólo se aplica el criterio si el campo se muestra
+
+64. ¿Qué función de Access equivale, en su comportamiento, a la función `SI.CONJUNTO` de Excel?
+    A. SI.VARIOS
+    B. SI.CONJUNTO
+    C. CONMUTADOR
+    D. ELEGIR
+
+65. En una relación uno a varios entre dos tablas de Access, ¿en qué tabla se sitúa la clave externa?
+    A. En la tabla del lado "uno" (la tabla principal)
+    B. En una tabla intermedia obligatoria
+    C. En la tabla del lado "varios" (la tabla secundaria)
+    D. En ambas tablas por igual
+
+66. ¿Qué tipo de consulta es la más adecuada para obtener, por ejemplo, un listado completo con los nombres de todos los trabajadores de una empresa, sin modificar ningún dato?
+    A. Consulta de texto
+    B. Consulta de selección
+    C. Consulta de actualización
+    D. Consulta de búsqueda de no coincidentes
+
 ## Plantilla
 
 | Nº | Respuesta | Explicación |
@@ -311,3 +451,26 @@ Tiempo recomendado: 50 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 41 | A | El panel resume indicadores, especialmente en el servicio. |
 | 42 | B | Desktop diseña; Service publica/comparte; Mobile consulta. |
 | 43 | C | Access gestiona datos; Power BI los conecta, transforma y visualiza sin sustituirlo. |
+| 44 | D | Esa vista se llama "Vista preliminar de impresión". |
+| 45 | C | El formulario facilita introducir y visualizar datos de forma amigable. |
+| 46 | B | Seleccionando ambos campos a la vez se crea una clave principal compuesta. |
+| 47 | D | "Bit" no es un tamaño de campo Número; sí existen Byte, Entero y Entero largo. |
+| 48 | C | `DSuma` pertenece a las funciones Agregadas de dominio. |
+| 49 | B | La Regla de validación limita valores al introducirlos; el Criterio filtra al consultar. |
+| 50 | B | El asistente ofrece "Buscar datos no coincidentes", no "valores coincidentes". |
+| 51 | C | La consulta de datos anexados agrega registros a otra tabla. |
+| 52 | B | El formulario está vinculado a la tabla; modificar un cuadro de texto cambia el dato original. |
+| 53 | D | La Consulta de Acción agrega, actualiza o elimina registros. |
+| 54 | C | El Documentador de base de datos está en Herramientas de base de datos. |
+| 55 | D | "En filas" no es una distribución real del asistente de informes. |
+| 56 | A | `SELECT` recupera datos de una o varias tablas. |
+| 57 | B | El texto del mensaje se escribe entre corchetes. |
+| 58 | C | `Permitir ediciones` a `No`, dentro de Datos, impide editar los valores. |
+| 59 | D | "Diseño" no es una propiedad de campo, sino una vista de la tabla. |
+| 60 | D | "Sí (Solo lectura)" no es un valor real de la propiedad Indexado. |
+| 61 | B | `000LL` exige 3 dígitos obligatorios y 2 letras obligatorias. |
+| 62 | B | Desde Access 2019 el tipo se llama Texto largo (antes Memo). |
+| 63 | B | El criterio sigue filtrando aunque la columna no se muestre. |
+| 64 | C | `CONMUTADOR` equivale a `SI.CONJUNTO` de Excel. |
+| 65 | C | La clave externa se sitúa en la tabla del lado "varios". |
+| 66 | B | La consulta de selección lista datos sin modificarlos. |

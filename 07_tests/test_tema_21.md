@@ -2,7 +2,9 @@
 
 Banco de preguntas distinto del test embebido en `05_temario/tema_21_m365.md`: mismos puntos del programa oficial, formulaciones y trampas distintas.
 
-Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+Tiempo recomendado: 64 minutos (ritmo del segundo ejercicio real: ~70 segundos por pregunta). Criterio de corrección: `aciertos - errores / 3`.
+
+Las preguntas 31 a 55 son de elaboración propia, inspiradas en el tipo de contenidos que aparecen en el test aleatorio público de la academia opofimaticaestado.com sobre Internet y redes (SSL, extranet, direcciones IP, DNS, arquitectura cliente-servidor, topologías de red, protocolos ARP/IMAP, servidores y clientes FTP, gestores de contenidos, atajos de teclado de Microsoft Edge y el origen histórico de Internet), un contenido conectado con el epígrafe oficial del tema al tratarse de conceptos generales de navegación, redes y protocolos ya aparecidos en convocatorias anteriores. No son preguntas históricas oficiales de la Comunidad de Madrid.
 
 ## Preguntas
 
@@ -186,6 +188,156 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
     C. Son protocolos identicos
     D. SFTP solo sirve para enviar correo electrónico
 
+31. ¿Qué significan las siglas SSL, relacionadas con la seguridad en Internet?
+    A. Secure Service Language
+    B. Security Socket Language
+    C. Secure Socket Layer
+    D. Socket Service Landing
+
+32. Una red privada usada para compartir de forma segura parte de la información de una organización con proveedores, clientes u otras organizaciones externas se denomina:
+    A. Intranet
+    B. Extranet
+    C. Internet
+    D. Red local (LAN)
+
+33. ¿Qué es una dirección IP?
+    A. Un enlace a la página de inicio de una empresa
+    B. Una dirección única que identifica a un dispositivo en Internet o en una red local
+    C. La dirección postal de la sede de una empresa
+    D. La URL de la página principal de un sitio web
+
+34. ¿Cuál de las siguientes opciones corresponde a un software de servidor web?
+    A. Apache
+    B. Kaspersky
+    C. YouTube
+    D. Voz IP
+
+35. Un sistema informático que indexa páginas y archivos de servidores web y que, ante una consulta sobre un tema, devuelve enlaces relacionados, se denomina:
+    A. Una red social
+    B. Una inteligencia artificial
+    C. Un motor de búsqueda o buscador
+    D. Una tecnología geoespacial
+
+36. En una arquitectura cliente-servidor, ¿cuál de las siguientes afirmaciones es correcta?
+    A. El servidor siempre es un equipo físico distinto del cliente
+    B. El cliente solicita servicios y el servidor los proporciona
+    C. Ambos comparten los mismos recursos sin ninguna distinción de roles
+    D. El servidor depende del cliente para poder ejecutarse
+
+37. ¿Qué función cumple el protocolo DNS en la navegación por Internet?
+    A. Comprimir los datos para que se descarguen más rápido
+    B. Traducir nombres de dominio en direcciones IP
+    C. Cifrar las comunicaciones mediante certificados
+    D. Establecer conexiones directas entre servidores de correo
+
+38. Sobre las direcciones IP, es correcto afirmar que:
+    A. Sólo pueden estar formadas por números binarios
+    B. Pueden ser fijas (estáticas) o dinámicas
+    C. Sólo pueden ser privadas, nunca públicas
+    D. Existen las versiones v4, v6 y v8
+
+39. ¿Cuál es la principal diferencia entre una red LAN y una red MAN?
+    A. La velocidad de transmisión de datos
+    B. El protocolo de comunicación utilizado
+    C. El número máximo de dispositivos conectados
+    D. El tamaño geográfico que abarca cada una
+
+40. ¿Qué característica es común a la mayoría de los gestores de contenidos (CMS) como WordPress, Joomla o PrestaShop?
+    A. No permiten instalar plantillas
+    B. Funcionan sin necesidad de un servidor web
+    C. Todos utilizan una base de datos para almacenar los contenidos
+    D. Sus hojas de estilo están codificadas siempre en PHP
+
+41. ¿En qué tipo de topología de red están todos los nodos conectados a un único nodo central, de forma que el fallo de un nodo no afecta al resto?
+    A. Anillo
+    B. Bus
+    C. Estrella
+    D. Árbol
+
+42. Una inyección SQL es:
+    A. Una técnica de fuerza bruta para descifrar contraseñas
+    B. Un ataque que aprovecha vulnerabilidades de una aplicación web para ejecutar código malicioso contra su base de datos
+    C. Un virus que se propaga mediante correos electrónicos no deseados
+    D. Una técnica para redirigir el tráfico de red hacia sitios web falsos
+
+43. ¿Qué combinación de teclas realiza una captura de pantalla dentro del navegador Microsoft Edge?
+    A. `Ctrl + Impr Pant`
+    B. `Ctrl + Mayús + S`
+    C. `Ctrl + C`
+    D. `Impr Pant`
+
+44. ¿Qué combinación de teclas abre el panel de Favoritos en Microsoft Edge?
+    A. `Ctrl + A`
+    B. `Ctrl + I`
+    C. `Ctrl + O`
+    D. `Ctrl + Mayús + O`
+
+45. El modo `InPrivate` de Microsoft Edge se caracteriza por:
+    A. Aumentar la velocidad de navegación
+    B. Bloquear automáticamente todos los anuncios emergentes
+    C. Navegar sin guardar el historial ni las cookies de la sesión
+    D. Guardar automáticamente las contraseñas utilizadas
+
+46. ¿Qué diferencia hay entre un Scam y un Spam?
+    A. Son términos equivalentes para el correo no deseado
+    B. El Scam es una estafa por medios electrónicos; el Spam es correo o mensajes no solicitados, no necesariamente fraudulentos
+    C. El Spam es siempre un fraude económico; el Scam no
+    D. El Scam sólo se produce por teléfono, nunca por Internet
+
+47. ¿Cuál de las siguientes opciones corresponde a una dirección IPv4 válida?
+    A. `193.0.0.1`
+    B. `195.10.256.5`
+    C. `192:1:30:250`
+    D. `10.100.ff.2b`
+
+48. ¿Qué protocolo se utiliza para recibir o gestionar correo electrónico manteniéndolo sincronizado en un servidor remoto?
+    A. HTTP
+    B. ARP
+    C. DNS
+    D. IMAP
+
+49. ¿Qué protocolo se utiliza para averiguar la dirección física (MAC) de un dispositivo a partir de su dirección IP dentro de una red local?
+    A. IP
+    B. ARP
+    C. DNS
+    D. SMTP
+
+50. De los siguientes gestores de contenidos (CMS), ¿cuál está especialmente orientado a la educación virtual (aulas y cursos en línea)?
+    A. WordPress
+    B. Joomla
+    C. Moodle
+    D. PrestaShop
+
+51. Para transferir archivos desde el propio ordenador a un sitio web alojado en un servidor remoto se utiliza habitualmente:
+    A. Un servidor FTP
+    B. Un cliente FTP
+    C. Un navegador FTP
+    D. Un motor de búsqueda
+
+52. ¿Cuál de las siguientes aplicaciones NO ha sido desarrollada por la Fundación Mozilla?
+    A. Firefox
+    B. Thunderbird
+    C. FileZilla
+    D. Sunbird
+
+53. Gemini, desarrollado por Google, es:
+    A. Un bot conversacional de inteligencia artificial multimodal y generativa
+    B. Una aplicación que sustituye a Cortana en Windows
+    C. Un asistente de inteligencia artificial desarrollado por OpenAI
+    D. Un complemento de inteligencia artificial integrado en Microsoft Office
+
+54. En el ámbito de la ciberseguridad, una cadena de custodia es:
+    A. Un protocolo para simular ser una víctima y retener a un atacante el mayor tiempo posible
+    B. Un procedimiento para extraer y proteger evidencias digitales, con cifrado y sellado de tiempo, de cara a un procedimiento judicial
+    C. Un mecanismo que bloquea automáticamente a los atacantes de un sitio web
+    D. Un tipo de firma digital exclusivo del correo electrónico
+
+55. ¿Qué red sustituyó históricamente a ARPANET, ampliando la interconexión de redes académicas y sentando parte de las bases de la Internet actual?
+    A. W3C
+    B. Ethernet
+    C. WWAN
+    D. NSFNet
+
 ## Plantilla de respuestas
 
 | Nº | Respuesta | Explicación breve |
@@ -220,3 +372,28 @@ Tiempo recomendado: 35 minutos (ritmo del segundo ejercicio real: ~70 segundos p
 | 28 | D | Rust es un lenguaje de programación, no un navegador. |
 | 29 | B | HTTPS cifra las comunicaciones con certificados de clave pública. |
 | 30 | A | SFTP usa canal seguro; FTP no lo hace por defecto. |
+| 31 | C | SSL significa Secure Socket Layer. |
+| 32 | B | La Extranet comparte información con proveedores, clientes u otras organizaciones. |
+| 33 | B | Una IP identifica de forma única a un dispositivo en una red. |
+| 34 | A | Apache es software de servidor web. |
+| 35 | C | Un motor de búsqueda indexa y devuelve enlaces relacionados. |
+| 36 | B | El cliente solicita servicios y el servidor los proporciona. |
+| 37 | B | El DNS traduce nombres de dominio en direcciones IP. |
+| 38 | B | Las direcciones IP pueden ser fijas o dinámicas. |
+| 39 | D | LAN y MAN se diferencian principalmente por el tamaño geográfico. |
+| 40 | C | Los CMS habituales usan una base de datos para almacenar contenidos. |
+| 41 | C | La topología en estrella conecta todos los nodos a un nodo central. |
+| 42 | B | La inyección SQL aprovecha vulnerabilidades web para atacar la base de datos. |
+| 43 | B | `Ctrl + Mayús + S` hace una captura de pantalla en Edge. |
+| 44 | D | `Ctrl + Mayús + O` abre el panel de Favoritos en Edge. |
+| 45 | C | InPrivate navega sin guardar historial ni cookies. |
+| 46 | B | El Scam es una estafa; el Spam es correo no solicitado, no necesariamente fraudulento. |
+| 47 | A | `193.0.0.1` es una IPv4 válida; las demás tienen octetos fuera de rango o formato incorrecto. |
+| 48 | D | IMAP gestiona el correo manteniéndolo sincronizado con el servidor. |
+| 49 | B | ARP resuelve la MAC a partir de la IP en una red local. |
+| 50 | C | Moodle está orientado a la educación virtual. |
+| 51 | B | Un cliente FTP transfiere archivos hacia un servidor remoto. |
+| 52 | C | FileZilla no es una aplicación de Mozilla. |
+| 53 | A | Gemini es el bot conversacional de IA multimodal de Google. |
+| 54 | B | La cadena de custodia protege evidencias digitales para un procedimiento judicial. |
+| 55 | D | NSFNet sustituyó históricamente a ARPANET. |
