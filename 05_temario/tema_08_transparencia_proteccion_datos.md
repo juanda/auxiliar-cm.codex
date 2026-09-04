@@ -454,6 +454,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. La Ley 19/2013 regula:
@@ -463,7 +465,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    D. Solo contratación pública.
 
 2. El Título II de la Ley 19/2013 se denomina:
-   A. Régimen general.
+   A. Publicidad activa.
    B. Transparencia de la actividad pública.
    C. Buen Gobierno.
    D. Consejo de Transparencia y Buen Gobierno.
@@ -495,7 +497,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 7. El plazo de resolución de acceso puede ampliarse:
    A. Otro mes por volumen o complejidad, previa notificación.
    B. Otros 6 meses siempre.
-   C. Solo 5 días.
+   C. Otros 15 días, sin necesidad de notificación previa.
    D. Nunca.
 
 8. El silencio en solicitudes de acceso a información pública tiene sentido:
@@ -514,7 +516,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Accesibilidad, interoperabilidad y reutilización.
     B. Usabilidad, jerarquía y secreto.
     C. Oportunidad, mérito y capacidad.
-    D. Eficiencia, potestad y sanción.
+    D. Objetividad, publicidad y coordinación, como en la Ley 1/1983.
 
 11. Como principio técnico del artículo 11, es incorrecto:
     A. Accesibilidad.
@@ -526,7 +528,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Están incluidas en el ámbito de la Ley 19/2013.
     B. Están excluidas siempre.
     C. Solo están incluidas si tienen menos del 50% público.
-    D. Solo se rigen por Derecho Civil.
+    D. Solo si superan el 50% de participación pública, igual que las sociedades mercantiles.
 
 13. Las corporaciones de Derecho Público se someten a transparencia:
     A. En todas sus actividades privadas.
@@ -537,7 +539,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 14. Las sociedades mercantiles públicas entran en el ámbito cuando la participación pública sea:
     A. Inferior al 50%.
     B. Superior al 50%.
-    C. Exactamente del 10%.
+    C. Exactamente del 50%, ni más ni menos.
     D. Cualquiera, aunque sea simbólica.
 
 15. Los órganos del Consejo de Transparencia y Buen Gobierno son:
@@ -578,19 +580,19 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 21. El RGPD establece como principio:
     A. Minimización de datos.
-    B. Acumulación ilimitada.
-    C. Secreto absoluto sin derechos.
+    B. Exactitud sin necesidad de actualización de los datos.
+    C. Integridad y confidencialidad sin medidas de seguridad.
     D. Conservación indefinida siempre.
 
 22. El principio de responsabilidad proactiva implica que:
     A. El responsable debe poder demostrar cumplimiento.
     B. El encargado decide siempre los fines.
     C. No hacen falta medidas de seguridad.
-    D. La AEPD decide cada tratamiento.
+    D. El encargado del tratamiento asume toda la responsabilidad en lugar del responsable.
 
 23. El derecho de supresión permite:
     A. Solicitar eliminación de datos cuando proceda.
-    B. Crear datos nuevos.
+    B. Oponerse al tratamiento en ciertos casos.
     C. Ceder datos a terceros siempre.
     D. Evitar toda transparencia pública.
 
@@ -604,7 +606,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Decide fines y medios del tratamiento.
     B. Solo aloja técnicamente datos por cuenta de otro.
     C. Siempre es una persona física.
-    D. Nunca existe en el sector público.
+    D. Solo puede ser una autoridad de control como la AEPD.
 
 26. El encargado del tratamiento:
     A. Trata datos por cuenta del responsable.
@@ -615,20 +617,20 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 27. El Delegado de Protección de Datos:
     A. Informa, asesora, supervisa y coopera con la autoridad de control.
     B. Decide siempre todos los fines del tratamiento.
-    C. Es el titular de los datos.
-    D. Es un recurso administrativo.
+    C. Es el encargado del tratamiento en todo caso.
+    D. Sustituye a la Agencia Española de Protección de Datos.
 
 28. Deben designar DPD:
     A. Autoridades y organismos públicos, salvo tribunales en función judicial.
-    B. Solo pequeñas empresas familiares.
-    C. Solo ciudadanos.
+    B. Solo entidades con menos de diez empleados, sin excepción.
+    C. Solo colegios profesionales, nunca organismos públicos.
     D. Nadie en el sector público.
 
 29. Según el art. 34 LO 3/2018, es entidad que debe designar DPD:
     A. Colegios profesionales y consejos generales.
     B. Empresas de seguridad pública.
-    C. Cualquier comunidad de vecinos sin más.
-    D. Cualquier persona física.
+    C. Cualquier empresa, con independencia de su actividad o tamaño.
+    D. Cualquier persona física que trate datos de familiares.
 
 30. La opción falsa histórica sobre DPD era:
     A. Establecimientos financieros de crédito.

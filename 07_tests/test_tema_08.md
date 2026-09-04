@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_08_transparencia_proteccion_datos.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. El Título I de la Ley 19/2013 regula:
@@ -20,18 +22,18 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    A. En sus actividades sujetas a Derecho Administrativo.
    B. En todas sus actividades, sin excepción.
    C. Nunca, están completamente excluidos.
-   D. Solo si lo autoriza el Consejo de Transparencia.
+   D. Solo si lo autoriza el Tribunal Constitucional en cada caso.
 
 4. Dentro de la publicidad activa, la información institucional, organizativa y de planificación incluye, entre otros contenidos:
    A. Exclusivamente las cuentas anuales.
-   B. Solo la agenda del Presidente del Gobierno.
+   B. Solo las directrices, instrucciones y anteproyectos normativos.
    C. Funciones, normativa aplicable, organigramas y planes con su grado de cumplimiento.
-   D. Solo datos de contacto de particulares.
+   D. Solo los contratos, convenios y subvenciones.
 
 5. La información de relevancia jurídica sujeta a publicidad activa incluye:
-   A. Solo sentencias firmes.
+   A. Solo los organigramas y planes de la entidad.
    B. Directrices, instrucciones, anteproyectos y proyectos normativos.
-   C. Solo actas notariales.
+   C. Solo los contratos y convenios suscritos.
    D. Solo circulares internas confidenciales.
 
 6. ¿Qué información pertenece al bloque económico, presupuestario y estadístico de publicidad activa?
@@ -44,7 +46,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    A. El contenido o documento que obre en poder de un sujeto incluido en la Ley, elaborado o adquirido en ejercicio de sus funciones.
    B. Únicamente los documentos clasificados como secretos.
    C. Solo la información publicada previamente en el BOE.
-   D. Solo los datos personales de los empleados públicos.
+   D. Solo la información que ya conste en el Portal de Transparencia.
 
 8. Entre los límites que pueden justificar la denegación del acceso a información pública NO se encuentra, con carácter general:
    A. La seguridad nacional.
@@ -60,31 +62,31 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 10. Cuando la información solicitada contiene datos personales meramente identificativos relacionados con la organización o funcionamiento público, la regla general es:
     A. Denegar siempre el acceso.
-    B. Exigir autorización judicial previa en todo caso.
-    C. Suspender indefinidamente la solicitud.
+    B. Exigir el consentimiento expreso de todos los demás interesados en el expediente.
+    C. Suspender la solicitud hasta que finalice el procedimiento administrativo relacionado.
     D. Conceder normalmente el acceso, salvo que prevalezca la protección de datos u otros derechos.
 
 11. La solicitud de acceso a la información pública debe permitir identificar, entre otros elementos:
     A. Al solicitante y la información que se solicita.
     B. Únicamente el DNI escaneado.
     C. El motivo obligatorio de la petición.
-    D. El número de expediente judicial asociado.
+    D. El número de expediente administrativo previo, si existiera obligatoriamente.
 
 12. Respecto a la lengua de la solicitud de acceso, la Ley 19/2013 permite:
     A. Usar solo el castellano en todo el territorio nacional.
-    B. Usar solo inglés en solicitudes internacionales.
+    B. Usar cualquier lengua cooficial de cualquier Comunidad Autónoma, sin relación con el territorio de la Administración.
     C. Dirigirse a las Administraciones en cualquiera de las lenguas cooficiales del Estado en el territorio de la Administración correspondiente.
     D. Usar cualquier idioma extranjero sin restricción.
 
 13. La resolución que deniega total o parcialmente el acceso a la información:
     A. No requiere motivación en ningún caso.
     B. Debe motivarse.
-    C. Solo se comunica verbalmente.
+    C. Solo debe motivarse cuando lo solicite expresamente el interesado.
     D. Se dicta siempre por el Consejo de Transparencia.
 
 14. Frente a la resolución sobre una solicitud de acceso, cabe interponer:
-    A. Recurso de casación directo.
-    B. Denuncia penal obligatoria.
+    A. Recurso de alzada ante el superior jerárquico, en todo caso.
+    B. Recurso de reposición, con carácter obligatorio previo al contencioso.
     C. Recurso contencioso-administrativo, sin más opciones.
     D. Reclamación potestativa ante el órgano de garantía, con carácter previo al recurso contencioso-administrativo.
 
@@ -95,8 +97,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Entidad puramente privada.
 
 16. El nombramiento del Presidente del Consejo de Transparencia y Buen Gobierno se realiza mediante:
-    A. Elección directa por sufragio universal.
-    B. Sorteo entre los vocales.
+    A. Elección por el Congreso de los Diputados, por mayoría absoluta.
+    B. Nombramiento por el Rey a propuesta del Consejo General del Poder Judicial.
     C. Real Decreto.
     D. Decisión exclusiva de la Comisión de Transparencia.
 
@@ -108,15 +110,15 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 18. El Presidente del Consejo de Transparencia y Buen Gobierno puede cesar, entre otras causas, por:
     A. Cambio de legislatura automático.
-    B. Solicitud de cualquier ciudadano.
-    C. Renuncia de un vocal distinto.
+    B. Solicitud del Consejo de Transparencia de otra Comunidad Autónoma.
+    C. Renuncia del Presidente del Tribunal Constitucional.
     D. Incapacidad, incompatibilidad sobrevenida o condena por delito doloso.
 
 19. En la Comunidad de Madrid, entre los instrumentos de participación ciudadana en materia de transparencia se encuentran:
     A. Consultas públicas, foros de consulta y paneles ciudadanos.
     B. Exclusivamente referéndums vinculantes.
-    C. Solo encuestas telefónicas oficiales.
-    D. Únicamente reuniones vecinales sin registro.
+    C. Exclusivamente foros de debate inclusivos.
+    D. Únicamente grupos colaborativos de trabajo sectoriales, sin las demás modalidades.
 
 20. Según el principio de minimización del RGPD, el tratamiento de datos personales debe limitarse a:
     A. Todos los datos disponibles del interesado.
@@ -128,7 +130,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. Pueden usarse para cualquier fin posterior sin restricción.
     B. Deben tratarse para fines determinados, explícitos y legítimos.
     C. Deben eliminarse inmediatamente tras su recogida.
-    D. Solo pueden tratarse por la autoridad de control.
+    D. Solo pueden tratarse si el responsable lo notifica previamente a la autoridad de control en cada caso.
 
 22. El derecho de portabilidad permite al interesado:
     A. Eliminar cualquier dato sin condiciones.
@@ -144,15 +146,15 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 24. Si el menor no alcanza la edad legal para consentir por sí mismo, el tratamiento basado en consentimiento exige:
     A. Autorización judicial en todo caso.
-    B. Autorización del centro escolar.
+    B. Autorización del Ministerio Fiscal, salvo urgencia.
     C. El consentimiento del titular de la patria potestad o tutela.
     D. Ninguna autorización adicional.
 
 25. El contrato o acto jurídico que vincula al encargado del tratamiento con el responsable debe regular, entre otros aspectos:
-    A. Únicamente el precio del servicio.
+    A. Únicamente las medidas de seguridad técnicas, sin mencionar la finalidad del tratamiento.
     B. Objeto, duración, naturaleza, finalidad, tipo de datos y categorías de interesados.
-    C. Solo la ubicación física de las oficinas.
-    D. Exclusivamente el horario laboral del personal.
+    C. Solo las obligaciones del responsable, sin mencionar las del encargado.
+    D. Exclusivamente el plazo de conservación de los datos.
 
 26. Entre las funciones del Delegado de Protección de Datos se encuentra:
     A. Decidir los fines y medios del tratamiento.
@@ -163,19 +165,19 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 27. Debe designarse Delegado de Protección de Datos, conforme al RGPD, cuando las actividades principales exigen:
     A. Observación habitual y sistemática de interesados a gran escala.
     B. Cualquier tratamiento puntual y aislado de datos.
-    C. Uso de correo electrónico corporativo.
-    D. Publicación de un organigrama.
+    C. Tratamiento ocasional de currículums para procesos de selección puntuales.
+    D. Gestión de un registro de visitas de una sola oficina pequeña.
 
 28. Según el artículo 34 de la LO 3/2018, deben designar Delegado de Protección de Datos, entre otras entidades:
-    A. Cualquier persona física sin actividad económica.
-    B. Las comunidades de propietarios sin más requisitos.
+    A. Las empresas de seguridad pública, conforme a la ley.
+    B. Cualquier comunidad de propietarios, sin excepción.
     C. Los centros docentes y las universidades.
-    D. Los ciudadanos particulares sin relación con datos de terceros.
+    D. Cualquier empresa, con independencia de su actividad o tamaño.
 
 29. En el sector público, la publicación de actos administrativos que contengan datos personales debe respetar especialmente el principio de:
     A. Publicidad absoluta sin restricciones.
     B. Minimización, evitando publicar más datos personales de los necesarios.
-    C. Máxima difusión en redes sociales.
+    C. Transparencia total, sin ponderar la protección de datos.
     D. Anonimización total, incluso cuando la ley exija identificar a la persona.
 
 30. El sector público, en materia de protección de datos:
