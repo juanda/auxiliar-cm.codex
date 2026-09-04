@@ -546,6 +546,8 @@ Cobertura añadida para próxima convocatoria:
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. Según la Constitución, el Estado tiene competencia exclusiva sobre:
 
 A. Solo legislación básica sobre Hacienda general.  
@@ -604,7 +606,7 @@ D. Anual, múltiple y excluye organismos autónomos.
 
 9. Si no se aprueba la Ley de Presupuestos antes del primer día del ejercicio:
 
-A. Se paraliza toda la actividad de gasto.  
+A. Se paralizan los pagos ya comprometidos del ejercicio anterior.  
 B. Se prorrogan automáticamente los presupuestos anteriores hasta publicación en BOCM y entrada en vigor de los nuevos.  
 C. Se prorrogan hasta publicación en BOE.  
 D. Se aprueban por decreto de la Mesa de la Asamblea.
@@ -613,7 +615,7 @@ D. Se aprueban por decreto de la Mesa de la Asamblea.
 
 A. BOE.  
 B. BOCM.  
-C. Diario Oficial de la Unión Europea.  
+C. Boletín Oficial de la Provincia de Madrid.  
 D. Boletín municipal.
 
 11. ¿Cuál de los siguientes supuestos fue la opción sometida a intervención previa en la pregunta histórica de 2017?
@@ -626,7 +628,7 @@ D. Gastos periódicos una vez intervenido el gasto inicial.
 12. La intervención previa es:
 
 A. Un control interno anterior a la aprobación o eficacia económica de ciertos actos.  
-B. Un control judicial penal.  
+B. Un control externo realizado por la Cámara de Cuentas.  
 C. La aprobación parlamentaria del presupuesto.  
 D. La publicación del presupuesto.
 
@@ -641,21 +643,21 @@ D. Elaboración del anteproyecto.
 
 A. Control externo parlamentario.  
 B. Control interno.  
-C. Aprobación de leyes.  
-D. Gestión electoral.
+C. Aprobación de la Ley de Presupuestos.  
+D. Gestión de la caja única de la Tesorería.
 
 15. Un crédito presupuestario es:
 
-A. Una deuda privada del empleado público.  
+A. El derecho económico a liquidar durante el ejercicio.  
 B. Un ingreso patrimonial.  
-C. Una sanción tributaria.  
+C. La clasificación económica de un capítulo de gastos.  
 D. Una autorización máxima para gastar en una finalidad.
 
 16. Si existe gasto necesario y no hay crédito, procede:
 
 A. Suplemento de crédito.  
-B. Transferencia corriente.  
-C. Baja contable automática.  
+B. Transferencia de crédito entre partidas ya existentes.  
+C. Ampliación de crédito en partidas no ampliables.  
 D. Crédito extraordinario.
 
 17. Si existe crédito pero resulta insuficiente, procede:
@@ -670,13 +672,13 @@ D. Caja única.
 A. Para qué política se gasta.  
 B. Quién gasta.  
 C. En qué naturaleza económica se gasta.  
-D. En qué mes se gasta.
+D. Dónde se ejecuta el gasto territorialmente.
 
 19. La clasificación por programas responde principalmente a:
 
-A. Titularidad de la tesorería.  
+A. Quién gasta dentro de la organización.  
 B. Vencimiento de la deuda.  
-C. Publicación oficial.  
+C. En qué naturaleza económica se gasta.  
 D. Objetivos o políticas de gasto.
 
 20. El capítulo 1 de gastos se corresponde habitualmente con:
@@ -705,7 +707,7 @@ D. Pasivos financieros.
 A. Que se aprueba la Ley de Presupuestos.  
 B. Que se acredita que procede pagar.  
 C. Que se publica el presupuesto.  
-D. Que se liquida un impuesto estatal.
+D. Que se ordena materialmente el pago al acreedor.
 
 24. La ordenación del pago se sitúa:
 
@@ -730,7 +732,7 @@ D. No cabe prórroga.
 
 27. La LOFCA desarrolla principalmente:
 
-A. El régimen electoral municipal.  
+A. El régimen de incompatibilidades del personal funcionario.  
 B. La jurisdicción contencioso-administrativa.  
 C. El procedimiento sancionador común.  
 D. La financiación de las Comunidades Autónomas.
@@ -738,14 +740,14 @@ D. La financiación de las Comunidades Autónomas.
 28. Los recursos de una Comunidad Autónoma pueden incluir:
 
 A. Tributos propios y tributos cedidos.  
-B. Solo multas penales.  
-C. Solo ingresos privados de sus empleados.  
+B. Solo recargos sobre tributos estatales, sin tributos propios.  
+C. Solo operaciones de crédito, sin transferencias del Estado.  
 D. Exclusivamente deuda municipal.
 
 29. La liquidación del presupuesto muestra:
 
-A. El nombramiento de altos cargos.  
-B. La convocatoria de elecciones.  
+A. Los créditos iniciales aprobados en la Ley de Presupuestos, sin modificaciones.  
+B. El anteproyecto elaborado por las Consejerías.  
 C. La estructura de las Consejerías.  
 D. El resultado de la ejecución al cierre del ejercicio.
 

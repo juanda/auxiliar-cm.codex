@@ -2,11 +2,13 @@
 
 Preguntas nuevas de entrenamiento, distintas del test embebido en `05_temario/tema_12_hacienda_presupuestos.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. El artículo 31 de la Constitución establece el deber de:
 
-A. Contribuir únicamente mediante tasas municipales.  
+A. Contribuir únicamente mediante impuestos indirectos.  
 B. Contribuir al sostenimiento de los gastos públicos según su capacidad económica, mediante un sistema tributario justo, progresivo y no confiscatorio.  
-C. Contribuir solo si se es funcionario público.  
+C. Contribuir solo si se supera el tope máximo de cotización.  
 D. Contribuir exclusivamente a través de la Seguridad Social.
 
 2. Según el artículo 134 de la Constitución, los Presupuestos Generales del Estado:
@@ -35,7 +37,7 @@ D. El artículo que regula los Presupuestos Generales del Estado.
 A. Suprime la autonomía financiera autonómica.  
 B. Reconoce la autonomía financiera de las Comunidades Autónomas ejercida de forma coordinada con la Hacienda estatal.  
 C. Regula exclusivamente los tributos locales.  
-D. Solo se aplica a la Comunidad de Madrid.
+D. Solo se aplica a las Comunidades Autónomas de régimen foral.
 
 6. El concepto de Hacienda Pública, según el tema:
 
@@ -48,7 +50,7 @@ D. Solo comprende el presupuesto de gastos.
 
 A. Sustituye íntegramente a la Ley 9/1990 en la Comunidad de Madrid.  
 B. Solo regula los tributos autonómicos.  
-C. Es una norma exclusivamente municipal.  
+C. Es una norma exclusivamente aplicable a la Unión Europea.  
 D. Es la referencia estatal de principios presupuestarios y no desplaza a la Ley 9/1990 en la Comunidad de Madrid.
 
 8. La Hacienda de la Comunidad de Madrid comprende:
@@ -56,7 +58,7 @@ D. Es la referencia estatal de principios presupuestarios y no desplaza a la Ley
 A. La Administración de la Comunidad de Madrid, sus organismos autónomos y las empresas públicas coordinadas con la Hacienda autonómica.  
 B. Solo la Administración General del Estado en territorio madrileño.  
 C. Exclusivamente los ayuntamientos de la Comunidad de Madrid.  
-D. Solo las empresas privadas concesionarias.
+D. Exclusivamente las mutuas colaboradoras de la Seguridad Social.
 
 9. Dentro de la estructura material de la Ley 9/1990, el bloque de "obligaciones económicas" regula:
 
@@ -119,7 +121,7 @@ D. El límite cuantitativo solo se aplica a inversiones.
 A. El crédito puede emplearse en cualquier ejercicio sin límite temporal.  
 B. El crédito debe emplearse dentro del ejercicio correspondiente, salvo las excepciones previstas.  
 C. El crédito caduca a los seis meses en todo caso.  
-D. El crédito solo puede emplearse en el primer trimestre.
+D. El crédito solo puede emplearse durante el período de prórroga presupuestaria.
 
 18. El principio de publicidad presupuestaria exige que:
 
@@ -130,7 +132,7 @@ D. La publicidad solo afecta al estado de ingresos.
 
 19. La diferencia entre el estado de gastos y el estado de ingresos del presupuesto es:
 
-A. Ambos estados recogen exclusivamente los mismos datos.  
+A. Ambos estados agrupan exclusivamente los gastos de personal.  
 B. El estado de gastos recoge los derechos a liquidar.  
 C. El estado de ingresos recoge los créditos para obligaciones.  
 D. El estado de gastos recoge los créditos necesarios para las obligaciones; el estado de ingresos, los derechos económicos a liquidar.
@@ -186,7 +188,7 @@ D. Publicación inmediata sin trámite parlamentario.
 
 27. La diferencia entre anteproyecto, proyecto y ley de presupuestos es:
 
-A. Los tres términos son sinónimos intercambiables.  
+A. El anteproyecto y el proyecto los aprueba conjuntamente la Consejería de Hacienda.  
 B. El proyecto lo aprueba la Asamblea y la Ley el Consejo de Gobierno.  
 C. El anteproyecto ya tiene rango de Ley.  
 D. El anteproyecto es trabajo interno administrativo; el proyecto lo aprueba el Consejo de Gobierno y lo remite a la Asamblea; la Ley la aprueba y publica la Asamblea.
@@ -207,7 +209,7 @@ D. Se produce la salida efectiva de fondos.
 
 30. La diferencia entre transferencia de crédito y generación de crédito es:
 
-A. Ambas figuras significan exactamente lo mismo.  
+A. Ambas figuras requieren siempre autorización previa de la Asamblea de Madrid en cada caso.  
 B. La generación mueve crédito entre partidas y la transferencia se financia con ingresos específicos.  
 C. La transferencia mueve crédito entre partidas; la generación se financia con ingresos específicos.  
 D. Ninguna de las dos altera la cuantía del presupuesto.
