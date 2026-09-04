@@ -2,47 +2,49 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco distinto del test embebido en el tema (sección 7), para practicar con formulaciones y artículos no repetidos.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. El Presidente de la Comunidad de Madrid, además de dirigir el Gobierno:
    A. Ejerce la potestad legislativa de la Comunidad.
    B. Preside la Asamblea de Madrid.
    C. Coordina la acción del Gobierno e impulsa su actuación.
-   D. Resuelve los recursos de inconstitucionalidad.
+   D. Nombra a los Magistrados del Tribunal Superior de Justicia de Madrid.
 
 2. Entre las funciones del Presidente de la Comunidad de Madrid se encuentra:
-   A. Aprobar el Reglamento de la Asamblea.
-   B. Elegir a los Diputados de la Asamblea.
-   C. Nombrar al Presidente del Tribunal Constitucional.
+   A. Aprobar la estructura orgánica de las Consejerías, sin necesidad de acuerdo del Consejo de Gobierno.
+   B. Nombrar y separar al Vicepresidente o Vicepresidentes, previo acuerdo del Consejo de Gobierno.
+   C. Firmar los Decretos Legislativos, aunque no exista delegación previa de la Asamblea.
    D. Crear, modificar o suprimir Consejerías mediante Decreto.
 
 3. La cuestión de confianza la plantea el Presidente de la Comunidad:
    A. Sin necesidad de deliberación previa.
    B. Previa deliberación del Consejo de Gobierno.
-   C. Solo a propuesta de la Asamblea.
-   D. Solo tras una moción de censura fallida.
+   C. Previa deliberación de la Asamblea, sin intervención del Consejo de Gobierno.
+   D. Solo si antes ha fracasado una moción de censura contra su propio Gobierno.
 
 4. El Presidente de la Comunidad de Madrid puede resolver:
    A. Conflictos de competencia entre el Estado y la Comunidad, con carácter definitivo.
-   B. Litigios entre particulares.
+   B. Recursos de alzada interpuestos por los ciudadanos contra actos de las Consejerías.
    C. Conflictos entre distintas Consejerías, en su función de coordinación.
-   D. Recursos contencioso-administrativos.
+   D. Recursos contencioso-administrativos contra actos del Consejo de Gobierno.
 
 5. El Consejo de Gobierno aprueba los proyectos de ley:
    A. Para remitirlos a la Asamblea de Madrid.
    B. Para su publicación directa en el BOCM sin intervención de la Asamblea.
-   C. Para someterlos a referéndum.
+   C. Para incorporarlos directamente al ordenamiento como Decretos Legislativos, sin intervención de la Asamblea.
    D. Para remitirlos a las Cortes Generales.
 
 6. Los Decretos Legislativos del Consejo de Gobierno se dictan:
    A. Sin necesidad de habilitación previa de la Asamblea.
    B. Solo en materia tributaria.
    C. Cuando existe delegación legislativa de la Asamblea.
-   D. Por acuerdo directo con el Gobierno de la Nación.
+   D. Por acuerdo directo con el Consejo de Gobierno de otra Comunidad Autónoma.
 
 7. El Consejo de Gobierno delibera sobre la cuestión de confianza:
    A. Después de que la Asamblea la haya votado.
-   B. Solo si lo solicita el Tribunal Superior de Justicia.
+   B. Solo si lo solicita la Diputación Permanente de la Asamblea.
    C. Nunca; es una decisión exclusivamente personal del Presidente.
    D. Antes de que el Presidente la plantee ante la Asamblea.
 
@@ -59,10 +61,10 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    D. Reales Decretos.
 
 10. Además de dirigir su Consejería, un Consejero:
-    A. No tiene ningún tipo de responsabilidad política.
+    A. Tiene responsabilidad política exclusivamente ante el Rey, no ante la Asamblea.
     B. Responde exclusivamente ante la Asamblea de forma individual, sin implicar al resto del Gobierno.
     C. Responde políticamente de su gestión, sin perjuicio de la responsabilidad solidaria del Gobierno.
-    D. Solo responde ante el Presidente en el ámbito penal.
+    D. Responde penalmente ante el Tribunal Superior de Justicia, pero no tiene responsabilidad política propia.
 
 11. La Viceconsejería, cuando existe, actúa como:
     A. Órgano superior equivalente al Consejero.
@@ -72,13 +74,13 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 12. La Dirección General, dentro de la estructura de una Consejería, se ocupa de:
     A. La dirección de áreas materiales concretas.
-    B. La representación exterior de la Comunidad.
-    C. La elección del Consejero.
-    D. El control parlamentario del Gobierno.
+    B. La coordinación sectorial dentro de la Consejería, función propia de la Viceconsejería.
+    C. Los servicios comunes, el régimen jurídico y el apoyo administrativo, función propia de la Secretaría General Técnica.
+    D. La gestión especializada de nivel inferior, función propia de la Subdirección General.
 
 13. Conforme al Decreto 38/2023, la Consejería que integra Educación se denomina:
     A. Educación, Ciencia y Universidades.
-    B. Educación y Cultura.
+    B. Educación, Universidades y Deporte.
     C. Educación, Juventud y Deporte.
     D. Universidades y Formación Profesional.
 
@@ -95,21 +97,21 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Consejería de Cultura y Deporte.
 
 16. Los principios de actuación de la Administración de la Comunidad de Madrid del artículo 37 incluyen la celeridad, entendida como:
-    A. Prioridad absoluta sobre la legalidad.
-    B. Reducción del número de funcionarios.
+    A. Actuación coherente entre los distintos órganos de la Administración.
+    B. Uso racional de los recursos públicos.
     C. Tramitación de los asuntos sin dilaciones indebidas.
-    D. Delegación automática de competencias.
+    D. Distribución interna de competencias dentro de una misma Administración.
 
 17. Entre los principios del artículo 37 se encuentra la economía, entendida como:
-    A. Gratuidad de todos los servicios administrativos.
-    B. Reducción de impuestos autonómicos.
+    A. Tramitación de los asuntos sin dilaciones indebidas.
+    B. Logro de los objetivos públicos fijados.
     C. Equilibrio presupuestario obligatorio en toda actuación.
     D. Uso racional de los recursos públicos.
 
 18. El principio de coordinación del artículo 37 implica:
     A. Actuación coherente entre los distintos órganos de la Administración.
-    B. Subordinación de la Comunidad de Madrid al Estado en toda materia.
-    C. Unificación de todas las Consejerías en un único órgano.
+    B. Distribución de competencias hacia entes o niveles territoriales distintos.
+    C. Intervención ciudadana o de los sectores afectados cuando proceda.
     D. Delegación obligatoria de funciones en los municipios.
 
 19. El principio de participación del artículo 37 se refiere a:
@@ -121,31 +123,31 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 20. La descentralización, como principio de actuación administrativa, consiste en:
     A. La distribución de competencias hacia entes o niveles territoriales distintos.
     B. La concentración de competencias en un único órgano central.
-    C. La eliminación de los organismos autónomos.
-    D. La supresión de las Consejerías.
+    C. La distribución interna de competencias dentro de una misma Administración.
+    D. La reducción del número de funcionarios mediante externalización de servicios.
 
 21. La desconcentración, a diferencia de la descentralización, consiste en:
     A. La creación de nuevos entes con personalidad jurídica propia.
     B. La distribución interna de competencias dentro de una misma Administración.
-    C. La transferencia de competencias a otro Estado.
+    C. La distribución de competencias hacia entes o niveles territoriales distintos.
     D. La supresión de niveles jerárquicos.
 
 22. La Administración institucional de la Comunidad de Madrid está formada por entidades:
-    A. Exclusivamente privadas sin vinculación pública.
+    A. Exclusivamente privadas, sin ningún vínculo ni dependencia de la Comunidad de Madrid.
     B. Dependientes directamente del Estado.
-    C. De naturaleza judicial.
+    C. Creadas exclusivamente por Decreto de la Presidencia para fines de coordinación interna.
     D. Instrumentales, creadas para gestionar servicios, actividades o funciones públicas bajo dependencia o vinculación con la Comunidad.
 
 23. Una empresa pública autonómica, a diferencia de un organismo autónomo, se caracteriza por:
-    A. No tener ningún vínculo con la Comunidad de Madrid.
+    A. Ser una entidad de Derecho público creada por ley para la gestión de servicios o actividades administrativas.
     B. Ejercer potestades legislativas propias.
-    C. Sustituir a la Asamblea en el control del Gobierno.
+    C. Tener personalidad jurídica propia, pero sin capacidad de actuar en el tráfico económico.
     D. Estar vinculada al sector público autonómico para actividades económicas o de gestión.
 
 24. Un ente institucional de la Comunidad de Madrid se define como:
     A. Un órgano sin personalidad jurídica integrado en la Consejería.
     B. Un órgano exclusivamente consultivo sin funciones ejecutivas.
-    C. Una dependencia directa del Gobierno de la Nación.
+    C. Una unidad administrativa creada exclusivamente por Orden de un Consejero.
     D. Un instrumento con personalidad jurídica propia, adscrito o vinculado a la Administración autonómica.
 
 25. La Ley 1/1984 regula específicamente:
@@ -155,8 +157,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. El régimen electoral de la Asamblea.
 
 26. El Decreto 38/2023 tiene por objeto:
-    A. Regular el procedimiento de elaboración de leyes autonómicas.
-    B. Aprobar los Presupuestos Generales de la Comunidad.
+    A. Regular el procedimiento de elaboración de los Decretos Legislativos del Consejo de Gobierno.
+    B. Fijar la estructura orgánica interna y las Direcciones Generales de cada Consejería.
     C. Crear la Administración institucional.
     D. Establecer el número y denominación de las Consejerías de la Comunidad de Madrid.
 
@@ -167,7 +169,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Exclusivamente Órdenes ministeriales.
 
 28. Una Orden, dictada por un Consejero, tiene rango:
-    A. Superior a la Ley.
+    A. Superior al Decreto del Consejo de Gobierno.
     B. Inferior al Decreto.
     C. Idéntico al Decreto Legislativo.
     D. Equivalente al Real Decreto estatal.

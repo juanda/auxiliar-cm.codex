@@ -383,6 +383,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. Según el artículo 1 de la Ley 1/1983, son órganos superiores de Gobierno y Administración:
@@ -425,7 +427,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    A. El órgano colegiado que dirige la política y la Administración de la Comunidad.
    B. El órgano que ejerce la potestad legislativa de la Comunidad.
    C. El órgano parlamentario que controla al Presidente.
-   D. El órgano judicial superior de Madrid.
+   D. El órgano que representa a la Comunidad de Madrid ante el Tribunal Constitucional.
 
 8. El Consejo de Gobierno ejerce:
    A. Potestad legislativa, iniciativa ejecutiva y potestad judicial.
@@ -473,12 +475,12 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Jerárquicamente ordenados.
     B. Independientes entre sí en todo caso.
     C. Integrados en la Administración General del Estado.
-    D. Electivos.
+    D. Desconcentrados, sin relación jerárquica entre ellos.
 
 16. ¿Cuál de estos principios aparece en el artículo 37?
     A. Transparencia.
     B. Publicidad.
-    C. Competencia.
+    C. Eficiencia.
     D. Subsidiariedad.
 
 17. ¿Cuál de estos pares reproduce correctamente principios del artículo 37?
@@ -490,7 +492,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 18. La descentralización y la desconcentración:
     A. Son principios de actuación de la Administración autonómica.
     B. Son órganos superiores.
-    C. Son tipos de Consejería.
+    C. Son instrumentos con rango de ley del Consejo de Gobierno.
     D. Son formas de recurso administrativo.
 
 19. Conforme al Decreto 38/2023, forma parte de las Consejerías:
@@ -513,15 +515,15 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 22. En la estructura ordinaria de una Consejería, la Secretaría General Técnica se vincula sobre todo a:
     A. Servicios comunes y apoyo jurídico-administrativo.
-    B. Elección del Presidente.
-    C. Control parlamentario.
+    B. La dirección de áreas materiales concretas, función propia de la Dirección General.
+    C. La coordinación sectorial dentro de la Consejería, función propia de la Viceconsejería.
     D. Creación de organismos autónomos por sí misma.
 
 23. Los Viceconsejeros:
     A. Son órganos superiores del artículo 1.
     B. Son órganos directivos dentro de la estructura administrativa.
-    C. Sustituyen siempre al Presidente.
-    D. Aprueban leyes autonómicas.
+    C. Sustituyen al Consejero en la coordinación sectorial, pero no en la titularidad de la Consejería.
+    D. Aprueban la estructura orgánica de su Consejería sin necesidad de acuerdo del Consejo de Gobierno.
 
 24. La Administración institucional de la Comunidad de Madrid se regula principalmente por:
     A. Ley 1/1984, de 19 de enero.
@@ -537,8 +539,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 26. Una empresa pública autonómica forma parte del ámbito de:
     A. La Administración institucional o sector público instrumental.
-    B. La Asamblea como órgano parlamentario.
-    C. La Administración de Justicia estatal.
+    B. La Consejería de Economía, Hacienda y Empleo, como órgano administrativo integrado en ella.
+    C. El Consejo de Gobierno, como órgano colegiado que la preside directamente.
     D. La Delegación del Gobierno.
 
 27. ¿Cuál es la opción correcta sobre el Consejo de Gobierno?
@@ -548,7 +550,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. No puede aprobar reglamentos.
 
 28. ¿Cuál es la opción correcta sobre los Consejeros?
-    A. Son elegidos por sufragio universal.
+    A. Elegidos por la Asamblea de entre sus miembros, igual que el Presidente.
     B. Son titulares de Consejerías.
     C. Son nombrados por la Asamblea.
     D. Tienen tratamiento de Señoría.
@@ -556,13 +558,13 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 29. La potestad reglamentaria del Gobierno se expresa principalmente mediante:
     A. Leyes de la Asamblea.
     B. Decretos y otras disposiciones reglamentarias.
-    C. Sentencias.
+    C. Decretos Legislativos, en todo caso.
     D. Reales Decretos estatales.
 
 30. En el Tema 3, la trampa más frecuente sobre el Consejo de Gobierno consiste en:
     A. Confundir iniciativa legislativa con potestad legislativa.
-    B. Confundir publicidad con transparencia en la Constitución.
-    C. Confundir Asamblea con Parlamento Europeo.
+    B. Confundir Decreto con Decreto Legislativo.
+    C. Confundir el tratamiento de Excelencia con el de Ilustrísima.
     D. Confundir organismos autónomos con municipios.
 
 ### Plantilla de respuestas
