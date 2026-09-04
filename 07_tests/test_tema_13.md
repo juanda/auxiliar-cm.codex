@@ -2,10 +2,12 @@
 
 Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_13_igualdad_violencia_lgtbi.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. El artículo 9.2 de la Constitución obliga a los poderes públicos a:
 
-A. Aprobar presupuestos anuales.  
-B. Sancionar exclusivamente conductas penales.  
+A. Aprobar presupuestos generales con perspectiva de género, sin más obligación.  
+B. Sancionar penalmente cualquier conducta discriminatoria, sin intervención administrativa.  
 C. Promover condiciones para que la igualdad sea real y efectiva y remover los obstáculos que impidan su plenitud.  
 D. Regular el régimen electoral general.
 
@@ -53,9 +55,9 @@ D. Se consideran en todo caso discriminatorios.
 
 8. La garantía de indemnidad protege a la persona que reclama igualdad o denuncia discriminación frente a:
 
-A. La pérdida de la nacionalidad.  
+A. La obligación de asumir las costas del procedimiento.  
 B. Cualquier trato adverso o represalia por esa reclamación.  
-C. Sanciones penales automáticas.  
+C. La aplicación retroactiva de sanciones no favorables.  
 D. La revisión de oficio de sus actos.
 
 9. Una medida específica y proporcionada destinada a corregir una desigualdad de hecho constatada se denomina:
@@ -67,7 +69,7 @@ D. Principio informador.
 
 10. Integrar el principio de igualdad de forma activa en el conjunto de las políticas públicas se conoce como:
 
-A. Compulsa.  
+A. Impacto de género.  
 B. Interoperabilidad.  
 C. Transversalidad.  
 D. Subsidiariedad.
@@ -82,14 +84,14 @@ D. Cualquier número, sin umbral.
 12. El umbral de «más de 250 personas trabajadoras» para planes de igualdad corresponde a:
 
 A. La regla vigente para la convocatoria 2026.  
-B. Una excepción aplicable solo al sector público.  
-C. Una medida exclusiva de la Comunidad de Madrid.  
+B. Una regla aplicable únicamente a las empresas públicas estatales.  
+C. Una medida introducida por la Ley 4/2023.  
 D. Una redacción histórica ya superada, citada en una pregunta de 2017.
 
 13. Un plan de igualdad de empresa debe contener, entre otros elementos:
 
 A. Un conjunto ordenado de medidas adoptado tras un diagnóstico de situación.  
-B. Un listado de sanciones penales.  
+B. Un listado de infracciones tipificadas en el Código Penal.  
 C. Solo el organigrama de la empresa.  
 D. Exclusivamente medidas retributivas.
 
@@ -109,9 +111,9 @@ D. Un reglamento autonómico.
 
 16. Entre los derechos reconocidos a la funcionaria víctima de violencia de género se encuentra:
 
-A. La pérdida automática de la condición de funcionaria.  
-B. La suspensión de todos sus derechos económicos.  
-C. La exclusión de procesos selectivos futuros.  
+A. La pérdida de la antigüedad acumulada en el cuerpo.  
+B. La suspensión de la reducción de jornada solicitada.  
+C. La exclusión de la excedencia por cuidado de familiares.  
 D. La movilidad geográfica de centro de trabajo.
 
 17. En materia de publicidad y medios de comunicación, la LO 1/2004 promueve que la Administración impulse:
@@ -151,7 +153,7 @@ D. Del Consejo General del Poder Judicial.
 
 22. Conforme a la Ley 4/2023, las empresas de más de 50 personas trabajadoras deben disponer de:
 
-A. Un juzgado especializado propio.  
+A. Un plan de igualdad idéntico al exigido por la LO 3/2007.  
 B. Medidas y recursos para la igualdad real de las personas LGTBI, incluido un protocolo frente al acoso o la violencia.  
 C. Un plan de pensiones obligatorio.  
 D. Un registro mercantil interno.
@@ -159,7 +161,7 @@ D. Un registro mercantil interno.
 23. La norma de la Comunidad de Madrid que regula específicamente la identidad y expresión de género es:
 
 A. La Ley 3/2016.  
-B. El Decreto 21/2002.  
+B. La Ley Orgánica 3/2007, en su aplicación autonómica.  
 C. La Ley 2/2016.  
 D. La Ley 15/2022.
 
@@ -174,7 +176,7 @@ D. La protección integral frente a la LGTBIfobia y la discriminación por orien
 
 A. Recursos y resarcimientos efectivos frente a la vulneración de sus derechos.  
 B. Un trato diferenciado exclusivamente en el ámbito sanitario.  
-C. La exención del deber de identificación en trámites administrativos.  
+C. La sustitución del nombre registral sin ningún trámite administrativo.  
 D. Un régimen fiscal específico.
 
 26. La atracción afectiva, sexual o emocional que una persona siente hacia otras personas se corresponde con el concepto de:
@@ -202,7 +204,7 @@ D. Las características sexuales.
 
 A. Justificar de forma objetiva y razonable la medida adoptada y su proporcionalidad.  
 B. Ser absuelta automáticamente.  
-C. Renunciar a toda defensa.  
+C. Aportar solo indicios adicionales, sin justificar la medida.  
 D. Trasladar el caso a un juzgado penal en todo caso.
 
 30. ¿Qué pareja norma-materia es correcta?

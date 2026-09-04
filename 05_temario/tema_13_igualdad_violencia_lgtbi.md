@@ -393,18 +393,20 @@ Cobertura añadida para próxima convocatoria:
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. El principio de igualdad ante la ley y no discriminación se recoge en la Constitución en:
 
 A. Artículo 14.  
-B. Artículo 8.  
+B. Artículo 38.  
 C. Artículo 9.2.  
 D. Artículo 15.
 
 2. El artículo 9.2 de la Constitución se relaciona especialmente con:
 
 A. Igualdad real y efectiva.  
-B. La bandera española.  
-C. La mayoría de edad.  
+B. La interdicción de la arbitrariedad de los poderes públicos.  
+C. La sujeción a la Constitución y al resto del ordenamiento jurídico.  
 D. La potestad reglamentaria.
 
 3. El principio de igualdad de trato entre mujeres y hombres del artículo 3 LO 3/2007 supone:
@@ -412,7 +414,7 @@ D. La potestad reglamentaria.
 A. Ausencia de toda discriminación directa o indirecta por razón de sexo.  
 B. Ausencia solo de discriminación penal.  
 C. Igualdad solo en acceso a función pública.  
-D. Obligación de aprobar una ley anual.
+D. Obligación de elaborar un plan de igualdad cada tres años.
 
 4. La igualdad de trato y oportunidades entre mujeres y hombres es, según el artículo 4 LO 3/2007:
 
@@ -424,7 +426,7 @@ D. Un principio solo presupuestario.
 5. Una discriminación indirecta se produce cuando:
 
 A. Siempre existe intención de discriminar.  
-B. Solo hay violencia física.  
+B. Se compara directamente a dos personas del mismo sexo.  
 C. Se aplica una medida de acción positiva proporcionada.  
 D. Una regla aparentemente neutra provoca desventaja particular injustificada.
 
@@ -451,7 +453,7 @@ D. Más de 250 trabajadores.
 
 9. Los planes de igualdad son:
 
-A. Listado de sanciones penales.  
+A. Un listado de infracciones tipificadas en el Código Penal.  
 B. Conjunto ordenado de medidas tras diagnóstico para alcanzar igualdad y eliminar discriminación.  
 C. Memoria presupuestaria anual.  
 D. Instrumento exclusivo de entidades locales.
@@ -474,7 +476,7 @@ D. Todas son correctas.
 
 A. Prohibición absoluta de usar imagen de mujeres.  
 B. Acuerdos de autorregulación con mecanismos eficaces de control y resolución extrajudicial.  
-C. Supresión de todos los medios privados.  
+C. La cesión íntegra de la supervisión a corporaciones privadas sin control.  
 D. Competencia exclusiva de los ayuntamientos.
 
 13. La Ley 15/2022 regula:
@@ -501,7 +503,7 @@ D. De cada ayuntamiento.
 16. Las empresas de más de 50 personas trabajadoras, conforme a Ley 4/2023, deben contar con:
 
 A. Solo un registro salarial.  
-B. Un juzgado propio.  
+B. Un plan de igualdad idéntico al exigido por la LO 3/2007.  
 C. Medidas y recursos para igualdad LGTBI, incluido protocolo frente a acoso o violencia.  
 D. Un plan presupuestario plurianual.
 
@@ -537,48 +539,48 @@ D. Silencio administrativo.
 
 A. Solo rasgos cromosómicos.  
 B. Atracción afectiva, sexual o emocional.  
-C. Solo nombre registral.  
+C. Solo la vivencia interna del género.  
 D. Solo apariencia externa.
 
 22. La expresión de género es:
 
-A. Competencia exclusiva del Estado sobre deuda.  
-B. Una prestación económica.  
+A. La atracción afectiva, sexual o emocional hacia otras personas.  
+B. La vivencia interna y personal del sexo o género.  
 C. Manifestación externa del género.  
 D. Un trámite presupuestario.
 
 23. Las características sexuales son:
 
 A. Rasgos físicos o biológicos relacionados con el sexo.  
-B. La afiliación a Seguridad Social.  
-C. Los derechos presupuestarios.  
-D. La forma de una ley.
+B. La atracción afectiva, sexual o emocional hacia otras personas.  
+C. La manifestación externa del género mediante apariencia o conducta.  
+D. La vivencia interna y personal del sexo o género.
 
 24. La garantía de indemnidad protege frente a:
 
-A. La aprobación de reglamentos.  
+A. La obligación de asumir las costas del procedimiento.  
 B. Represalias por reclamar igualdad o denunciar discriminación.  
-C. El pago de tasas.  
-D. La pérdida de expedientes.
+C. La aplicación retroactiva de sanciones no favorables.  
+D. La revisión de oficio de sus actos administrativos.
 
 25. La acción positiva es:
 
 A. Una discriminación arbitraria siempre prohibida.  
 B. Una medida proporcionada para corregir desigualdad real.  
-C. Una sanción penal.  
+C. Una discriminación indirecta encubierta.  
 D. Un recurso administrativo.
 
 26. La transversalidad de género implica:
 
 A. Aplicarla solo en educación.  
 B. Integrar la igualdad en todas las políticas públicas.  
-C. Sustituir la Constitución.  
+C. Realizar el impacto de género solo cuando lo solicite el interesado.  
 D. Evitar informes.
 
 27. La acreditación de situaciones de violencia de género puede realizarse, entre otros medios, mediante:
 
 A. Solo declaración verbal sin más.  
-B. Solo contrato laboral.  
+B. Solo mediante informe del Consejo de Participación LGTBI.  
 C. Solo inscripción padronal.  
 D. Sentencia condenatoria u orden de protección.
 
@@ -592,9 +594,9 @@ D. Solo se aplica en contratación pública.
 29. En el artículo 3 LO 3/2007, la discriminación por razón de sexo incluye especialmente las derivadas de:
 
 A. Maternidad, obligaciones familiares y estado civil.  
-B. Nacionalidad, deuda y presupuesto.  
+B. Origen racial o étnico, religión y discapacidad.  
 C. Edad de jubilación exclusivamente.  
-D. Registro electrónico.
+D. Orientación o identidad sexual y expresión de género.
 
 30. ¿Cuál es la asociación correcta?
 
