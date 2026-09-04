@@ -2,23 +2,25 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco independiente del test embebido en el tema: mismos contenidos, formulaciones distintas.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. El acto administrativo es, ante todo, una declaración:
    A. Bilateral que requiere el acuerdo del destinatario
    B. De una Administración sin sujeción a Derecho Administrativo
    C. De una Administración, en ejercicio de potestad administrativa, que produce efectos jurídicos
-   D. Exclusivamente verbal y provisional
+   D. Un documento administrativo que constituye siempre un acto, con independencia de sus efectos
 
 2. Los actos administrativos:
    A. Se presumen válidos y producen efectos desde que se dictan, salvo que dispongan otra cosa
    B. Son inválidos hasta su notificación
    C. Solo son eficaces tras su publicación
-   D. Requieren ratificación judicial previa
+   D. Requieren dictamen previo del Consejo de Estado para producir efectos
 
 3. La competencia del órgano que dicta el acto puede determinarse por:
    A. Solo por la antigüedad del funcionario
-   B. Solo por sorteo
+   B. Solo por delegación de firma, que no transfiere la titularidad de la competencia
    C. Solo por la voluntad del interesado
    D. Materia, territorio, jerarquía, función o cuantía, entre otros criterios
 
@@ -29,10 +31,10 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    D. Revocación automática
 
 5. El contenido de un acto administrativo debe ser:
-   A. Oral y secreto
+   A. Oral y discrecional, sin necesidad de estar determinado
    B. Siempre favorable al interesado
    C. Lícito, posible, determinado o determinable y adecuado al fin
-   D. Aprobado previamente por un juez
+   D. Aprobado previamente por el Consejo de Estado en todo caso
 
 6. ¿Cuál de estos actos exige motivación especial según la Ley 39/2015?
    A. Un acto meramente informativo sin efectos
@@ -42,15 +44,15 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 7. La forma ordinaria de producción de los actos administrativos es:
    A. Escrita a través de medios electrónicos, salvo que la naturaleza del acto exija otra forma
-   B. Siempre oral
+   B. Oral, salvo que el interesado solicite por escrito
    C. Siempre mediante contrato privado
    D. Siempre mediante publicación previa
 
 8. La eficacia de un acto puede quedar demorada cuando:
    A. Lo decide unilateralmente el interesado
    B. Lo exige el contenido del acto, o depende de notificación, publicación o aprobación superior
-   C. Transcurre un año desde que se dicta
-   D. Lo pide un tercero ajeno al procedimiento
+   C. Transcurre el plazo de prescripción de cuatro años del recurso extraordinario de revisión
+   D. Lo exige el Consejo de Estado en su dictamen preceptivo
 
 9. Una notificación debe contener, entre otros elementos:
    A. Solo el número de expediente
@@ -101,15 +103,15 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Actos favorables al interesado
 
 17. La revisión de oficio de actos nulos exige:
-    A. Autorización previa del interesado
-    B. Mayoría absoluta del Congreso
+    A. Autorización previa de la jurisdicción contencioso-administrativa
+    B. Declaración previa de lesividad para el interés público
     C. Informe del Defensor del Pueblo
     D. Dictamen favorable del Consejo de Estado u órgano consultivo equivalente
 
 18. La declaración de lesividad tiene por objeto:
     A. Actos anulables favorables al interesado, para poder impugnarlos ante la jurisdicción contencioso-administrativa
     B. Actos nulos de pleno derecho
-    C. Reglamentos ya derogados
+    C. Actos que ponen fin a la vía administrativa, sean o no favorables
     D. Actos de mero trámite
 
 19. La declaración de lesividad no puede adoptarse una vez transcurridos:
@@ -127,12 +129,12 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 21. La suspensión del acto en un procedimiento de revisión de oficio procede cuando:
     A. Su ejecución pudiera causar perjuicios de imposible o difícil reparación
     B. Lo pide cualquier tercero sin motivo
-    C. Han pasado más de 30 días desde el acto
+    C. Lo exige el Consejo de Estado en su dictamen sobre la revisión de oficio
     D. El interesado deposita una fianza
 
 22. La revocación regulada en el artículo 109 de la Ley 39/2015 se refiere a:
-    A. Reglamentos derogados
-    B. Sentencias firmes
+    A. Actos anulables favorables al interesado
+    B. Actos nulos de pleno derecho
     C. Actos favorables sin ningún límite
     D. Actos desfavorables o de gravamen, si no vulnera la igualdad, el interés público o el ordenamiento
 
@@ -140,24 +142,24 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. Solo dentro del primer mes desde el acto
     B. En cualquier momento
     C. Solo tras interponer recurso de alzada
-    D. Solo por orden judicial
+    D. Solo mediante el procedimiento de revisión de oficio del artículo 106
 
 24. El recurso de alzada procede contra:
     A. Actos firmes por causas tasadas
     B. Actos que ponen fin a la vía administrativa exclusivamente
     C. Actos que no ponen fin a la vía administrativa
-    D. Reglamentos únicamente
+    D. Actos de trámite simples, sin cualificación especial
 
 25. El plazo de resolución del recurso de alzada es de:
     A. 1 mes
-    B. 15 días
+    B. 1 mes, igual que el plazo de interposición
     C. 2 meses
     D. 3 meses
 
 26. El recurso potestativo de reposición:
     A. Es potestativo: cabe interponerlo o acudir directamente a la vía contencioso-administrativa
     B. Es obligatorio en todo caso
-    C. Solo cabe si lo autoriza un superior jerárquico
+    C. Solo cabe si el acto no ha sido resuelto por silencio administrativo
     D. Sustituye siempre al recurso de alzada
 
 27. El recurso de reposición lo resuelve:

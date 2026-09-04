@@ -449,23 +449,25 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. El acto administrativo es:
    A. Una norma general dictada por la Administración.
    B. Un contrato entre Administración y particular.
-   C. Una sentencia judicial.
+   C. Un documento administrativo, con independencia de que produzca o no efectos jurídicos.
    D. Una declaración administrativa que produce efectos jurídicos en ejercicio de potestad administrativa.
 
 2. Los actos administrativos se presumen:
    A. Inválidos hasta que se notifiquen.
-   B. Nulos si no los confirma un juez.
+   B. Nulos si no cuentan con dictamen previo del Consejo de Estado.
    C. Válidos desde que se dictan, salvo prueba o declaración en contra.
    D. Ineficaces siempre hasta publicación.
 
 3. La competencia del órgano puede determinarse por:
    A. Solo por antigüedad del funcionario.
-   B. Solo por sorteo.
+   B. Solo por delegación de firma, que no transfiere la titularidad de la competencia.
    C. Solo por voluntad del interesado.
    D. Materia y territorio, entre otros criterios.
 
@@ -473,37 +475,37 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
    A. Anulabilidad siempre convalidable.
    B. Nulidad de pleno derecho.
    C. Revocación automática.
-   D. Silencio positivo.
+   D. Mera irregularidad no invalidante, sin consecuencias jurídicas.
 
 5. El contenido del acto debe ser:
-   A. Oral, discrecional y secreto.
+   A. Oral y discrecional, sin necesidad de estar determinado.
    B. Lícito, posible, determinado y adecuado al fin.
    C. Siempre favorable al interesado.
-   D. Aprobado por la jurisdicción contenciosa.
+   D. Aprobado previamente por el Consejo de Estado en todo caso.
 
 6. Deben motivarse:
    A. Los actos que limiten derechos subjetivos o intereses legítimos.
    B. Solo los actos favorables.
-   C. Solo los actos verbales.
+   C. Solo los actos que confirman el criterio habitual sin cambios.
    D. Ningún acto discrecional.
 
 7. La motivación debe contener:
-   A. Solo una firma.
-   B. Solo el sello electrónico.
+   A. Solo la referencia al órgano que dictó el acto.
+   B. Solo la cita de la norma aplicable, sin explicar los hechos.
    C. Hechos y fundamentos de derecho.
    D. Solo el recurso procedente.
 
 8. La forma ordinaria de producción de los actos administrativos es:
-   A. Oral siempre.
-   B. Telefónica.
+   A. Oral, salvo que el interesado solicite por escrito.
+   B. Verbal, cuando la Administración lo considere más ágil.
    C. Mediante contrato privado.
    D. Escrita a través de medios electrónicos, salvo excepción por naturaleza.
 
 9. La eficacia del acto puede quedar demorada por:
    A. Notificación, publicación o aprobación superior.
    B. La mera voluntad del interesado.
-   C. El paso de un año.
-   D. La falta de recursos.
+   C. El transcurso del plazo de prescripción del recurso extraordinario de revisión.
+   D. La falta de dictamen del Consejo de Estado sobre el acto.
 
 10. Una notificación debe indicar:
     A. Texto íntegro, recursos, órgano y plazo para recurrir.
@@ -514,20 +516,20 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 11. La publicación puede proceder cuando:
     A. El acto tiene destinatarios indeterminados.
     B. El interesado no quiere recibir notificaciones.
-    C. El acto es verbal.
-    D. El acto es nulo.
+    C. El acto es de trámite simple, para agilizar el procedimiento.
+    D. El acto beneficia únicamente a un solo interesado identificado.
 
 12. Un acto que lesione derechos y libertades susceptibles de amparo constitucional es:
     A. Anulable siempre.
     B. Irregular no invalidante.
     C. Nulo de pleno derecho.
-    D. Válido si lo firma un superior.
+    D. Anulable, salvo que se subsane mediante convalidación.
 
 13. Un acto de contenido imposible es:
     A. Anulable solo si hay indefensión.
     B. Nulo de pleno derecho.
     C. Convalidable siempre.
-    D. Una notificación defectuosa.
+    D. Un supuesto de eficacia demorada, no de invalidez.
 
 14. La regla general para los actos que incurran en infracción del ordenamiento no incluida en nulidad es:
     A. Nulidad de pleno derecho.
@@ -556,7 +558,7 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 18. La declaración de lesividad sirve para:
     A. Convalidar actos nulos.
     B. Resolver recursos de alzada.
-    C. Publicar reglamentos.
+    C. Revocar actos desfavorables o de gravamen.
     D. Impugnar actos anulables favorables ante la jurisdicción contencioso-administrativa.
 
 19. La declaración de lesividad no puede adoptarse una vez transcurridos:
@@ -567,20 +569,20 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 
 20. La revocación del artículo 109 se refiere a:
     A. Actos desfavorables o de gravamen.
-    B. Actos nulos favorables.
-    C. Reglamentos.
-    D. Sentencias.
+    B. Actos anulables favorables al interesado.
+    C. Actos nulos de pleno derecho.
+    D. Actos que ponen fin a la vía administrativa, sean o no favorables.
 
 21. La rectificación de errores materiales, de hecho o aritméticos puede realizarse:
     A. Solo en un mes.
     B. Solo si hay recurso de alzada.
     C. En cualquier momento.
-    D. Solo por juez.
+    D. Solo mediante el procedimiento de revisión de oficio del artículo 106.
 
 22. El recurso de alzada procede contra:
     A. Actos firmes por causas tasadas.
     B. Actos que no ponen fin a la vía administrativa.
-    C. Reglamentos.
+    C. Actos de trámite simples, sin cualificación especial.
     D. Actos que ponen fin a la vía administrativa exclusivamente.
 
 23. El plazo de resolución del recurso de alzada es:
@@ -592,7 +594,7 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 24. El recurso potestativo de reposición procede contra:
     A. Actos que ponen fin a la vía administrativa.
     B. Actos de trámite simples.
-    C. Actos no administrativos.
+    C. Actos que no ponen fin a la vía administrativa.
     D. Actos no notificados únicamente.
 
 25. El plazo de resolución del recurso de reposición es:
@@ -603,8 +605,8 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
 
 26. El recurso extraordinario de revisión procede contra:
     A. Cualquier acto de trámite.
-    B. Reglamentos.
-    C. Actos no dictados todavía.
+    B. Actos que no ponen fin a la vía administrativa.
+    C. Actos anulables favorables al interesado, antes de su declaración de lesividad.
     D. Actos firmes en vía administrativa por causas tasadas.
 
 27. Si el recurso extraordinario de revisión se basa en error de hecho, el plazo es:
@@ -629,7 +631,7 @@ Cobertura: el desarrollo anterior permite resolver las dos preguntas históricas
     A. Nulidad: art. 48; anulabilidad: art. 47.
     B. Nulidad y anulabilidad están en el art. 107.
     C. Nulidad: art. 47; anulabilidad: art. 48.
-    D. Solo existe anulabilidad.
+    D. Nulidad: art. 106; anulabilidad: art. 107.
 
 ### Plantilla de respuestas
 
