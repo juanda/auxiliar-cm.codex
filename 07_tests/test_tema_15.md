@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_15_documentos_registros_archivos.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. El documento administrativo se define como:
 
 A. Únicamente el soporte papel producido por un órgano judicial.  
@@ -82,7 +84,7 @@ D. Sustituye a la resolución en todos los casos.
 12. Entre los requisitos de validez de un documento electrónico administrativo se encuentra:
 
 A. La identificación del órgano o persona que lo emite.  
-B. La impresión obligatoria en papel.  
+B. La conversión automática a formato PDF sin metadatos.  
 C. La ausencia de metadatos.  
 D. La imposibilidad de conservación a largo plazo.
 
@@ -133,7 +135,7 @@ D. 1 mes.
 A. El propio interesado, antes de acudir a la oficina.  
 B. El archivo histórico competente.  
 C. La oficina de asistencia en materia de registros en la que se presenta.  
-D. El órgano judicial de control.
+D. El archivo intermedio de la Administración.
 
 20. Tras digitalizar un documento presentado presencialmente, la regla general es:
 
@@ -159,8 +161,8 @@ D. Custodiar exclusivamente documentos de valor histórico.
 23. Un asiento registral debe recoger, entre otros datos:
 
 A. Fecha, hora, identificación del interesado y extracto del contenido.  
-B. Únicamente la firma manuscrita del funcionario.  
-C. Solo el color de la carpeta del expediente.  
+B. Únicamente el número de expediente, sin fecha ni hora.  
+C. Solo el medio de presentación, sin identificación del interesado.  
 D. Solo el archivo de destino final.
 
 24. El registro de salida recoge principalmente:
@@ -168,7 +170,7 @@ D. Solo el archivo de destino final.
 A. Documentos presentados por ciudadanos que llegan a la Administración.  
 B. Solo documentos históricos ya archivados.  
 C. Documentos emitidos por la Administración hacia ciudadanos, empresas u otros órganos.  
-D. Solo borradores internos no oficiales.
+D. Solo documentos remitidos al archivo intermedio.
 
 25. El Registro Electrónico General de la Comunidad de Madrid está disponible:
 

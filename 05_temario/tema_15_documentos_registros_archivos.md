@@ -528,6 +528,8 @@ Cobertura añadida para próxima convocatoria:
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. Los documentos presentados presencialmente ante una Administración deben ser digitalizados:
 
 A. Por el interesado en todo caso.  
@@ -545,7 +547,7 @@ D. Incorporarlo al expediente electrónico y devolver el original al interesado.
 3. La solicitud de copia auténtica de un documento público administrativo se dirige:
 
 A. Al órgano que emitió el documento original.  
-B. A cualquier juzgado.  
+B. Al archivo intermedio de la Administración.  
 C. Al archivo histórico siempre.  
 D. A Correos.
 
@@ -602,7 +604,7 @@ D. Sustituir al registro.
 
 A. Comunica formalmente un acto al interesado.  
 B. Es siempre la resolución.  
-C. Es un archivo histórico.  
+C. Es un asiento registral de salida.  
 D. Es una denuncia.
 
 12. Un certificado:
@@ -614,7 +616,7 @@ D. Ordena expedientes por fecha.
 
 13. El documento electrónico administrativo debe garantizar:
 
-A. Solo apariencia visual.  
+A. Solo la conversión automática a formato PDF sin metadatos.  
 B. Exclusivamente impresión en papel.  
 C. Autenticidad e integridad.  
 D. Ningún metadato.
@@ -649,8 +651,8 @@ D. Sustituir al órgano gestor.
 
 18. Un asiento registral debe incluir normalmente:
 
-A. Solo el color del documento.  
-B. Solo la firma manuscrita.  
+A. Únicamente el número de expediente, sin fecha ni hora.  
+B. Solo el medio de presentación, sin identificación del interesado.  
 C. Fecha, hora, número y datos básicos de identificación.  
 D. Solo el archivo de destino.
 
@@ -659,7 +661,7 @@ D. Solo el archivo de destino.
 A. Solo documentos emitidos al exterior.  
 B. Documentos que llegan a la Administración.  
 C. Solo expedientes históricos.  
-D. Solo borradores internos.
+D. Solo documentos remitidos al archivo intermedio.
 
 20. El Registro Electrónico General de la Comunidad de Madrid está disponible:
 
@@ -671,15 +673,15 @@ D. Todos los días del año durante las 24 horas.
 21. Una oficina de asistencia en materia de registros puede:
 
 A. Digitalizar documentos y asistir en presentación electrónica.  
-B. Dictar sentencias.  
-C. Aprobar leyes.  
+B. Aprobar disposiciones de carácter general.  
+C. Dictar resoluciones administrativas sobre el fondo del expediente.  
 D. Sustituir al archivo histórico nacional.
 
 22. El archivo de oficina o gestión conserva principalmente:
 
-A. Documentos históricos medievales siempre.  
-B. Solo boletines oficiales.  
-C. Documentos eliminados.  
+A. Documentos de conservación permanente por valor histórico.  
+B. Expedientes finalizados de consulta administrativa frecuente.  
+C. Documentación de baja frecuencia pendiente de valoración y transferencia.  
 D. Expedientes vivos o de uso frecuente por la unidad.
 
 23. El archivo histórico se caracteriza por:
@@ -720,14 +722,14 @@ D. Confidencialidad.
 28. El acceso parcial consiste en:
 
 A. Denegar siempre toda solicitud.  
-B. Destruir documentos.  
+B. Denegar la solicitud y remitirla a un archivo histórico.  
 C. Evitar el registro.  
 D. Facilitar información ocultando datos afectados por límites.
 
 29. La copia simple se diferencia de la copia auténtica porque:
 
-A. La simple siempre es ilegal.  
-B. La auténtica no existe.  
+A. La simple siempre requiere compulsa previa obligatoria.  
+B. La auténtica se expide sin ningún plazo legal aplicable.  
 C. La auténtica tiene efectos administrativos reforzados.  
 D. La simple siempre sustituye al original.
 
