@@ -2,11 +2,13 @@
 
 Preguntas nuevas de entrenamiento, distintas del test embebido en `05_temario/tema_11_seguridad_social.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. El principio de universalidad del sistema de Seguridad Social significa:
 
 A. Protección limitada solo a trabajadores por cuenta ajena.  
 B. Financiación exclusiva mediante impuestos.  
-C. Gestión exclusivamente autonómica.  
+C. Gestión exclusiva por las mutuas colaboradoras.  
 D. Vocación de cobertura amplia hacia todas las personas incluidas en el sistema.
 
 2. El principio de unidad del sistema implica que:
@@ -69,7 +71,7 @@ D. Asistencia jurídica y representación o defensa en los términos legales.
 
 A. El INSS reconoce y controla prestaciones económicas; la TGSS gestiona la caja única, afiliación y recaudación.  
 B. La TGSS reconoce prestaciones económicas y el INSS gestiona la caja única.  
-C. Ambos organismos realizan exactamente las mismas funciones.  
+C. El INSS gestiona la caja única y la TGSS reconoce prestaciones no contributivas.  
 D. El INSS gestiona exclusivamente la recaudación ejecutiva.
 
 11. Las mutuas colaboradoras con la Seguridad Social NO son:
@@ -81,16 +83,16 @@ D. Entidades sin ánimo de lucro.
 
 12. Entre las actividades atribuidas a las mutuas colaboradoras figura:
 
-A. Aprobación de la Ley General de la Seguridad Social.  
-B. Fijación anual del salario mínimo interprofesional.  
+A. Fijación de las bases máximas de cotización cada año.  
+B. Reconocimiento y control de pensiones de jubilación contributivas.  
 C. Gestión de prestaciones derivadas de accidente de trabajo y enfermedad profesional.  
-D. Dictado de sentencias sobre prestaciones.
+D. Gestión de la caja única de la Seguridad Social.
 
 13. Entre las actividades atribuidas a las mutuas colaboradoras también figura:
 
 A. Gestión exclusiva de pensiones de jubilación.  
 B. Inscripción de empresas nuevas.  
-C. Aprobación del presupuesto de la Seguridad Social.  
+C. Aprobación de los topes máximos y mínimos de cotización.  
 D. Prestaciones económicas por riesgo durante el embarazo o la lactancia natural, cuando proceda.
 
 14. Las mutuas colaboradoras también intervienen en:
@@ -118,7 +120,7 @@ D. Depende de si el cambio es voluntario o forzoso.
 
 A. No, solo puede practicarla el trabajador.  
 B. No, solo puede practicarla el empresario.  
-C. No, requiere siempre resolución judicial.  
+C. No, requiere siempre autorización previa del Ministerio Fiscal.  
 D. Sí puede practicarse de oficio por la Administración.
 
 18. La inscripción de empresa en la Seguridad Social afecta principalmente:
@@ -126,7 +128,7 @@ D. Sí puede practicarse de oficio por la Administración.
 A. Al empresario, que queda identificado como empleador ante la Seguridad Social.  
 B. Al trabajador, que queda incorporado al sistema.  
 C. A la mutua colaboradora.  
-D. Al pensionista no contributivo.
+D. Al Instituto Nacional de la Seguridad Social, como parte interesada.
 
 19. El alta en la Seguridad Social comunica:
 
@@ -168,7 +170,7 @@ D. Solo se aplican topes a los autónomos.
 A. El resultado final de aplicar el tipo a la base.  
 B. El porcentaje que se aplica a la base.  
 C. La magnitud económica sobre la que se aplica el tipo de cotización.  
-D. El número de afiliación del trabajador.
+D. El plazo de prescripción de la deuda por cuotas.
 
 25. El tipo de cotización se define como:
 
@@ -186,7 +188,7 @@ D. Solo las aportaciones voluntarias del trabajador.
 
 27. La recaudación en periodo voluntario y en vía ejecutiva consisten, respectivamente, en:
 
-A. Dos fases idénticas sin diferencia práctica.  
+A. Dos fases gestionadas exclusivamente por las mutuas colaboradoras.  
 B. El ingreso dentro del plazo reglamentario y la actuación forzosa ante la falta de ingreso, respectivamente.  
 C. Dos procedimientos que solo afectan a autónomos.  
 D. Dos trámites gestionados exclusivamente por el INSS.
@@ -202,7 +204,7 @@ D. Prescribe a los 10 años en todo caso.
 
 A. Protege situaciones de necesidad sin exigir cotización.  
 B. Se financia exclusivamente con impuestos.  
-C. Solo se aplica a autónomos.  
+C. Solo se aplica a las prestaciones no contributivas.  
 D. Exige cotización previa o una relación profesional incluida en el sistema.
 
 30. Las prestaciones no contributivas y los complementos asumidos por presupuesto se financian principalmente con:

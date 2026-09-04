@@ -511,6 +511,8 @@ Cobertura añadida para próxima convocatoria:
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. La norma que aprueba el texto refundido de la Ley General de la Seguridad Social es:
 
 A. Real Decreto-ley 8/2015, de 30 de octubre.  
@@ -536,7 +538,7 @@ D. Solidaridad.
 
 A. Régimen General y regímenes especiales.  
 B. Régimen contributivo y régimen asistencial.  
-C. Régimen único y régimen complementario.  
+C. Régimen General, servicios comunes y mutuas colaboradoras.  
 D. Régimen General, entidades gestoras y servicios comunes.
 
 5. La afiliación a la Seguridad Social es:
@@ -550,7 +552,7 @@ D. Potestativa si el trabajador ya cotizó anteriormente.
 
 A. La afiliación incorpora al sistema; el alta vincula a una actividad concreta.  
 B. La afiliación se produce cada mes; el alta solo una vez.  
-C. La afiliación corresponde a empresas; el alta a mutuas.  
+C. La afiliación corresponde al INSS; el alta a la TGSS.  
 D. No existe diferencia.
 
 7. La Tesorería General de la Seguridad Social se asocia principalmente con:
@@ -571,15 +573,15 @@ D. Gestión informática del sistema.
 
 A. Entidades gestoras estatales.  
 B. Asociaciones privadas autorizadas que colaboran en determinadas prestaciones.  
-C. Órganos autonómicos de recaudación.  
+C. Servicios comunes de ámbito estatal.  
 D. Servicios comunes con caja única.
 
 10. Una actividad atribuida a las mutuas colaboradoras es:
 
-A. Aprobar la Ley General de la Seguridad Social.  
+A. Fijar las bases máximas de cotización cada año.  
 B. Gestionar la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave.  
-C. Dictar sentencias sobre prestaciones.  
-D. Fijar anualmente el salario mínimo interprofesional.
+C. Reconocer y controlar pensiones de jubilación contributivas.  
+D. Gestionar la caja única de la Seguridad Social.
 
 11. Las bases de cotización tienen como tope máximo:
 
@@ -592,15 +594,15 @@ D. Una cuantía fijada por cada mutua.
 
 A. El salario mínimo interprofesional vigente incrementado en un sexto, salvo disposición expresa.  
 B. El 50% del salario mínimo interprofesional.  
-C. La pensión media de jubilación.  
+C. El importe de las cotizaciones del año anterior incrementado en un tercio.  
 D. La base máxima del año anterior.
 
 13. La cuota de Seguridad Social es:
 
-A. La suma de todas las prestaciones reconocidas.  
+A. La magnitud económica sobre la que se aplica el tipo de cotización.  
 B. El resultado de aplicar el tipo de cotización a la base.  
-C. La edad ordinaria de jubilación.  
-D. El número de afiliación.
+C. El porcentaje aplicable a la base de cotización.  
+D. El plazo de prescripción de la deuda por cuotas.
 
 14. El derecho de la Administración de la Seguridad Social para determinar deudas por cuotas mediante liquidación prescribe, como regla histórica preguntada, a los:
 
@@ -663,7 +665,7 @@ D. Concepto de recaudación conjunta.
 A. Ingresa solo la aportación empresarial.  
 B. Ingresa la aportación empresarial y la del trabajador.  
 C. No interviene en la cotización.  
-D. Solo comunica la jubilación.
+D. Solo ingresa la aportación del trabajador, nunca la propia.
 
 23. La acción protectora de la Seguridad Social comprende:
 
@@ -677,7 +679,7 @@ D. Solo ayudas autonómicas.
 A. Supuesto especialmente mencionado.  
 B. Prestación complementaria libre exclusivamente.  
 C. Materia ajena a la Seguridad Social.  
-D. Competencia exclusiva municipal.
+D. Competencia exclusiva de las Comunidades Autónomas.
 
 25. Las prestaciones complementarias, según el artículo 41 CE:
 
@@ -696,29 +698,29 @@ D. Son exclusivamente autonómicas.
 27. La inscripción de empresas afecta principalmente:
 
 A. Al empresario.  
-B. Al pensionista no contributivo.  
+B. Al Instituto Nacional de la Seguridad Social, como parte interesada.  
 C. A la mutua.  
-D. Al órgano judicial.
+D. A la Gerencia de Informática de la Seguridad Social.
 
 28. El alta en Seguridad Social comunica:
 
 A. La primera incorporación vitalicia al sistema.  
 B. El inicio o reanudación de una actividad concreta.  
 C. La aprobación de una prestación.  
-D. La extinción del sistema.
+D. El cese en una actividad concreta.
 
 29. La modalidad no contributiva se caracteriza por:
 
 A. Exigir siempre cotización previa máxima.  
 B. Proteger situaciones de necesidad aunque no exista cotización suficiente.  
 C. Ser un régimen especial del artículo 9.  
-D. Depender de la libre contratación privada.
+D. Depender exclusivamente de las mutuas colaboradoras.
 
 30. ¿Cuál es la asociación correcta?
 
 A. TGSS - caja única y recaudación.  
 B. INSS - salario mínimo interprofesional.  
-C. Mutuas - aprobación de leyes.  
+C. Mutuas - gestión de la caja única.  
 D. IMSERSO - recaudación ejecutiva de cuotas.
 
 ### Plantilla de respuestas
