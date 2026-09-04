@@ -447,13 +447,15 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. Son empleados públicos quienes desempeñan funciones:
-   A. No retribuidas en cualquier entidad.
+   A. Retribuidas en cualquier entidad privada sin ánimo de lucro.
    B. Retribuidas en las Administraciones Públicas al servicio de intereses generales.
    C. Retribuidas en empresas privadas al servicio de intereses generales.
-   D. Voluntarias en asociaciones.
+   D. Voluntarias en Administraciones Públicas, sin retribución.
 
 2. Los empleados públicos se clasifican en:
    A. Carrera, empleo, estatutarios y directivos.
@@ -463,14 +465,14 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 3. El personal eventual realiza funciones:
    A. Propias exclusivamente de funcionarios de carrera.
-   B. De policía judicial.
+   B. Ejecución de programas temporales de duración determinada.
    C. De confianza o asesoramiento especial.
    D. De selección de funcionarios.
 
 4. Los sistemas selectivos ordinarios de funcionarios de carrera son:
    A. Concurso y libre designación.
    B. Sorteo y concurso.
-   C. Entrevista y antigüedad.
+   C. Concurso y entrevista personal no reglada.
    D. Oposición y concurso-oposición.
 
 5. El concurso como sistema selectivo de funcionarios de carrera:
@@ -492,16 +494,16 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    D. Separación del servicio firme.
 
 8. La pérdida de nacionalidad puede producir:
-   A. Ascenso automático.
+   A. Cambio automático a personal laboral.
    B. Servicios especiales.
    C. Comisión de servicios.
    D. Pérdida de la condición de funcionario.
 
 9. La sanción de separación del servicio produce pérdida de condición cuando:
-   A. Se propone verbalmente.
+   A. Se dicta en primera instancia, aunque se recurra.
    B. Adquiere firmeza.
    C. Se abre expediente.
-   D. La pide un compañero.
+   D. Lo solicita el sindicato correspondiente.
 
 10. Es derecho individual ejercido colectivamente:
     A. Formación continua.
@@ -536,8 +538,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 15. La productividad retribuye:
     A. Especial rendimiento, actividad extraordinaria, interés o iniciativa.
     B. Antigüedad.
-    C. Nacionalidad.
-    D. Nombramiento.
+    C. La dificultad técnica del puesto.
+    D. El nivel del puesto de trabajo desempeñado.
 
 16. Para autorizar compatibilidad pública, el incremento permitido para grupo A respecto al puesto principal es:
     A. 30%.
@@ -571,7 +573,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 21. Es principio de potestad disciplinaria:
     A. Presunción de inocencia.
-    B. Arbitrariedad.
+    B. Retroactividad de las disposiciones sancionadoras no favorables.
     C. Doble sanción siempre.
     D. Secreto absoluto sin defensa.
 
@@ -582,34 +584,34 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Predeterminación normativa de faltas y sanciones.
 
 23. La separación del servicio:
-    A. Es complemento retributivo.
+    A. Es una situación administrativa reversible.
     B. Es sanción aplicable a funcionarios por faltas muy graves.
-    C. Es derecho colectivo.
-    D. Es permiso.
+    C. Es una falta disciplinaria, no una sanción.
+    D. Es un tipo de excedencia voluntaria.
 
 24. El personal laboral se vincula por:
     A. Nombramiento estatutario siempre.
     B. Contrato de trabajo.
-    C. Elección parlamentaria.
-    D. Sorteo.
+    C. Nombramiento por libre designación del órgano competente.
+    D. Acuerdo de encomienda de gestión entre Administraciones.
 
 25. El funcionario interino se nombra por:
     A. Razones justificadas de necesidad y urgencia.
     B. Confianza política exclusivamente.
-    C. Elección directa de ciudadanos.
-    D. Contrato mercantil.
+    C. Concurso de méritos con carácter definitivo.
+    D. Contrato laboral indefinido, igual que el personal laboral fijo.
 
 26. El deber de confidencialidad implica:
     A. Publicar todos los expedientes.
-    B. Desobedecer normas.
+    B. Publicar únicamente la información de interés general, sin reserva alguna.
     C. Guardar reserva sobre información que lo requiera.
     D. Usar datos para fines privados.
 
 27. La inamovilidad corresponde como derecho a:
     A. Personal eventual.
     B. Funcionarios de carrera.
-    C. Contratistas.
-    D. Ciudadanos solicitantes.
+    C. Personal laboral temporal.
+    D. Funcionarios interinos.
 
 28. La excedencia por cuidado de familiares es:
     A. Retribución básica.
@@ -620,8 +622,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 29. La suspensión de funciones puede ser:
     A. Provisional o firme.
     B. Solo voluntaria.
-    C. Siempre premio.
-    D. Sistema retributivo.
+    C. Siempre una modalidad de excedencia voluntaria.
+    D. Una retribución complementaria por incompatibilidad.
 
 30. ¿Cuál es la opción correcta?
     A. EBEP art. 8: directivo y estatutario; básicas: productividad y destino.

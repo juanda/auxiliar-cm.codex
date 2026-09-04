@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Este banco es distinto del test embebido en `05_temario/tema_10_ebep_funcion_publica.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. El TREBEP se aplica, entre otros ámbitos, a:
@@ -13,8 +15,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 2. Uno de los objetivos principales del TREBEP es:
    A. Sustituir totalmente la normativa autonómica de función pública.
    B. Establecer un régimen común básico aplicable a todas las Administraciones.
-   C. Regular exclusivamente el régimen disciplinario militar.
-   D. Suprimir la carrera profesional.
+   C. Regular exclusivamente el régimen retributivo del personal laboral privado.
+   D. Suprimir la clasificación en funcionarios de carrera e interinos.
 
 3. Un rasgo propio del funcionario de carrera, frente al interino, es:
    A. Su nombramiento se basa en razones de urgencia.
@@ -54,8 +56,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 9. Un funcionario que cesa en un puesto de trabajo concreto:
    A. No pierde por ello la condición de funcionario.
-   B. Pierde automáticamente la condición de funcionario.
-   C. Pasa obligatoriamente a personal laboral.
+   B. Pasa obligatoriamente a la situación de excedencia voluntaria.
+   C. Queda en situación de suspensión provisional de funciones.
    D. Queda inhabilitado para la función pública.
 
 10. Es un derecho individual del empleado público, y no un derecho ejercido colectivamente:
@@ -66,7 +68,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 11. El derecho de huelga de los empleados públicos se ejerce:
     A. Sin ningún límite.
-    B. Solo mediante autorización previa del superior jerárquico.
+    B. Solo mediante autorización previa del Consejo de Ministros en cada convocatoria.
     C. Con la garantía del mantenimiento de los servicios esenciales.
     D. Únicamente por personal laboral, nunca por funcionarios.
 
@@ -114,9 +116,9 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 19. La suspensión de funciones, provisional o firme, puede acordarse como consecuencia de:
     A. Solicitud voluntaria del interesado en cualquier momento.
-    B. La superación de un concurso de méritos.
+    B. La superación de un concurso de traslados a otro puesto.
     C. Un procedimiento judicial o disciplinario.
-    D. Un ascenso de categoría.
+    D. Un cambio de situación a servicios especiales.
 
 20. El complemento de destino, dentro de las retribuciones complementarias, retribuye principalmente:
     A. Los años de servicio.
@@ -138,14 +140,14 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 23. Las faltas disciplinarias graves, a diferencia de las muy graves, se tipifican:
     A. Siempre en el propio TREBEP.
-    B. Exclusivamente por reglamento interno de cada unidad.
+    B. Exclusivamente por convenio colectivo, incluso para funcionarios.
     C. Por ley de las Cortes Generales o de la Asamblea correspondiente, o por convenio colectivo en el caso de personal laboral.
-    D. Nunca pueden dar lugar a sanción.
+    D. Únicamente en la Ley 1/1986 de la Comunidad de Madrid, nunca en normativa estatal.
 
 24. La sanción de despido disciplinario, a diferencia de la separación del servicio:
     A. Se aplica solo a funcionarios interinos.
     B. Nunca puede imponerse por faltas muy graves.
-    C. Es una sanción exclusivamente económica.
+    C. Es una sanción aplicable también al personal eventual con inamovilidad.
     D. Se aplica al personal laboral, mientras que la separación del servicio se aplica a los funcionarios.
 
 25. El apercibimiento, dentro del catálogo de sanciones disciplinarias, se considera:
@@ -179,7 +181,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Solo personal laboral privado.
 
 30. Señala la combinación correcta:
-    A. Los sistemas selectivos ordinarios son sorteo y entrevista.
+    A. Los sistemas selectivos ordinarios son concurso y libre designación.
     B. El concurso es siempre el sistema ordinario de acceso.
     C. Los sistemas selectivos ordinarios son oposición y concurso-oposición; el concurso solo procede excepcionalmente por ley.
     D. La oposición ha sido sustituida por el concurso en todos los casos.
