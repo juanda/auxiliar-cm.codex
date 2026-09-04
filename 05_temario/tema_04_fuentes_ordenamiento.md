@@ -361,6 +361,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. Según el artículo 1 del Código Civil, las fuentes del ordenamiento jurídico español son:
@@ -372,14 +374,14 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 2. La jurisprudencia, según el Código Civil:
    A. Es fuente directa junto a la ley.
    B. Complementa el ordenamiento jurídico.
-   C. Deroga la ley cuando sea reiterada.
-   D. Solo se aplica en Derecho penal.
+   C. Deroga la costumbre cuando sea reiterada, aunque no la ley.
+   D. Solo complementa el ordenamiento cuando la dicta el Tribunal Constitucional.
 
 3. La costumbre rige:
    A. Siempre que sea alegada por una parte.
    B. En defecto de ley aplicable, si no es contraria a moral u orden público y se prueba.
    C. Aunque contradiga una ley.
-   D. Solo si la aprueba el Gobierno.
+   D. Solo si se limita a materias de Derecho mercantil.
 
 4. Las leyes entran en vigor, si no disponen otra cosa:
    A. El mismo día de su publicación.
@@ -388,7 +390,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    D. A los treinta días de su aprobación parlamentaria.
 
 5. La Constitución Española es:
-   A. Un reglamento superior.
+   A. Una ley orgánica reforzada, con rango superior al resto de leyes orgánicas.
    B. La norma suprema del ordenamiento.
    C. Una ley ordinaria.
    D. Una fuente subsidiaria.
@@ -396,14 +398,14 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 6. Son leyes orgánicas las relativas:
    A. Al desarrollo de los derechos fundamentales y libertades públicas.
    B. A cualquier derecho del Título I.
-   C. A toda materia administrativa.
-   D. A todos los reglamentos estatales.
+   C. A toda materia reservada a ley, sea o no relativa a derechos fundamentales.
+   D. A todas las leyes que regulen materia tributaria.
 
 7. La aprobación de una ley orgánica exige:
    A. Mayoría simple del Congreso.
    B. Mayoría absoluta del Congreso en votación final sobre el conjunto del proyecto.
    C. Mayoría absoluta del Senado exclusivamente.
-   D. Referéndum obligatorio.
+   D. Mayoría de tres quintos del Congreso y del Senado.
 
 8. ¿Cuál de estas materias está reservada a ley orgánica?
    A. Derecho de asociación.
@@ -457,13 +459,13 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Delegación previa de las Cortes.
     B. Extraordinaria y urgente necesidad.
     C. Mayoría absoluta del Senado.
-    D. Referéndum.
+    D. Convalidación previa del Consejo de Estado.
 
 17. El decreto-ley toma la forma de:
     A. Disposición legislativa provisional.
-    B. Reglamento municipal.
-    C. Sentencia constitucional.
-    D. Tratado internacional.
+    B. Ley de bases para delegación legislativa.
+    C. Decreto Legislativo con delegación de las Cortes.
+    D. Reglamento ejecutivo subordinado a la ley.
 
 18. El Congreso debe debatir y votar el decreto-ley:
     A. Dentro de los 15 días siguientes a su promulgación.
@@ -473,9 +475,9 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 19. El decreto-ley no puede afectar:
     A. Al Derecho electoral general.
-    B. A ninguna materia económica.
-    C. A ningún procedimiento administrativo.
-    D. A ningún impuesto.
+    B. A la política fiscal en materias no básicas.
+    C. Al procedimiento administrativo no común.
+    D. A los impuestos de carácter local.
 
 20. El Gobierno ejerce la potestad reglamentaria según:
     A. Artículo 81 CE.
@@ -492,26 +494,26 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 22. En la jerarquía reglamentaria estatal, las Órdenes Ministeriales se sitúan:
     A. Por encima de los Reales Decretos.
     B. Por debajo de los Reales Decretos.
-    C. Al mismo nivel que las leyes orgánicas.
-    D. Por encima de la Constitución.
+    C. Al mismo nivel que los Reales Decretos, aplicándose el criterio de norma posterior.
+    D. Por encima de los Decretos Legislativos, por ser de aprobación más ágil.
 
 23. Los tratados internacionales de carácter político:
     A. Requieren previa autorización de las Cortes Generales.
-    B. No son vinculantes.
+    B. Solo requieren autorización si el Gobierno decide someterlos a las Cortes voluntariamente.
     C. Solo deben comunicarse después al Congreso.
     D. Se aprueban por Orden Ministerial.
 
 24. Un tratado contrario a la Constitución:
     A. Puede celebrarse sin más si lo firma el Gobierno.
     B. Exige previa revisión constitucional.
-    C. Se convierte automáticamente en ley orgánica.
-    D. Deroga la Constitución.
+    C. Exige autorización de las Cortes por mayoría de tres quintos, sin revisión constitucional.
+    D. Exige el visto bueno del Tribunal Constitucional mediante recurso de amparo.
 
 25. Los tratados internacionales forman parte del ordenamiento interno:
     A. Desde la firma por el Gobierno.
     B. Desde su publicación oficial en España.
-    C. Solo si los aprueba una comunidad autónoma.
-    D. Desde su negociación.
+    C. Desde su ratificación por el Rey, aunque no se haya publicado en el BOE.
+    D. Desde su aprobación por las Cortes Generales mediante ley orgánica.
 
 26. La ley ordinaria:
     A. Regula materias no reservadas a ley orgánica.
@@ -521,15 +523,15 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 27. La relación entre ley orgánica y ley ordinaria se explica principalmente por:
     A. Materia y procedimiento.
-    B. Fecha de publicación.
-    C. Orden alfabético.
-    D. Costumbre.
+    B. Jerarquía normativa general, siendo la ley orgánica siempre superior.
+    C. El principio de temporalidad, aplicándose la norma posterior sobre la anterior.
+    D. La reserva de ley, sin distinción entre orgánica u ordinaria.
 
 28. Los principios generales del derecho:
     A. Se aplican en defecto de ley o costumbre y tienen carácter informador.
     B. Derogan las leyes ordinarias.
-    C. Solo sirven en Derecho laboral.
-    D. Son reglamentos del Gobierno.
+    C. Solo se aplican cuando la ley se remite expresamente a ellos.
+    D. Tienen rango de ley, igual que los Decretos Legislativos.
 
 29. La publicidad de las normas se conecta con:
     A. Seguridad jurídica.
@@ -541,7 +543,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Decreto-ley: delegación previa; Decreto Legislativo: urgencia.
     B. Decreto-ley: urgencia; Decreto Legislativo: delegación previa.
     C. Ambos requieren ley orgánica.
-    D. Ambos son reglamentos sin rango de ley.
+    D. Ninguno de los dos exige publicación en el BOE para su validez.
 
 ### Plantilla de respuestas
 

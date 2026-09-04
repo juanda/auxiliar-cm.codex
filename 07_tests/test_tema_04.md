@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco independiente del test embebido en el tema: mismos contenidos, formulaciones distintas.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. ¿Qué fuente del ordenamiento jurídico rige solo en defecto de ley aplicable, si no es contraria a la moral o al orden público y resulta probada?
@@ -13,8 +15,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 2. Según el Código Civil, la jurisprudencia:
    A. Complementa el ordenamiento jurídico con la doctrina reiterada del Tribunal Supremo
    B. Es fuente directa igual que la ley
-   C. Deroga las leyes contrarias a ella
-   D. Solo se aplica en el orden penal
+   C. Deroga la costumbre contraria a ella, aunque no la ley
+   D. Solo complementa el ordenamiento cuando la dicta el Tribunal Constitucional, no el Tribunal Supremo
 
 3. Si una ley no dispone otra cosa, entra en vigor:
    A. El mismo día de su publicación
@@ -32,7 +34,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    A. Desde su firma por el Gobierno
    B. Desde su ratificación por el Rey
    C. Desde su publicación oficial en España
-   D. Desde el inicio de su negociación
+   D. Desde su aprobación por las Cortes Generales, aunque no se haya publicado en el BOE
 
 6. El decreto-ley no puede afectar a:
    A. La política económica general
@@ -49,8 +51,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 8. La aprobación de una ley orgánica exige:
    A. Mayoría simple del Senado
    B. Mayoría absoluta del Congreso en la votación final sobre el conjunto del proyecto
-   C. Unanimidad de ambas cámaras
-   D. Referéndum vinculante previo
+   C. Mayoría absoluta de ambas Cámaras, en lectura única
+   D. Mayoría de tres quintos del Congreso, igual que en la reforma constitucional ordinaria
 
 9. La iniciativa popular no procede en materias:
    A. De ordenación del territorio
@@ -139,7 +141,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 23. Los principios generales del derecho:
     A. Se aplican con preferencia sobre la ley
     B. Se aplican en defecto de ley y costumbre, con carácter informador del ordenamiento
-    C. Solo rigen en Derecho mercantil
+    C. Solo rigen cuando la ley se remite expresamente a ellos
     D. Derogan la costumbre contraria
 
 24. ¿Cuál de los siguientes NO es un principio del artículo 9.3 de la Constitución?
@@ -151,18 +153,18 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 25. ¿Qué figura requiere delegación previa de las Cortes Generales?
     A. El decreto-ley
     B. El reglamento independiente
-    C. La costumbre
+    C. La ley de bases
     D. El decreto legislativo
 
 26. La ley ordinaria regula:
     A. Materias no reservadas a ley orgánica
-    B. Solo materia tributaria
+    B. Solo las materias delegadas expresamente por el Gobierno
     C. Solo los Estatutos de Autonomía
     D. Solo el régimen electoral general
 
 27. La relación entre ley orgánica y ley ordinaria se explica principalmente porque:
     A. La ley orgánica es siempre jerárquicamente superior a la ordinaria
-    B. Se relacionan únicamente por orden cronológico
+    B. Se relacionan por jerarquía, siendo la ley ordinaria superior en materia presupuestaria
     C. La relación se basa en la reserva de materia y en el procedimiento, no en una jerarquía general
     D. La ley ordinaria puede regular cualquier materia orgánica si lo aprueba el Senado
 
@@ -182,7 +184,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. El decreto-ley responde a una situación de urgencia; el decreto legislativo requiere delegación previa de las Cortes
     B. Ambos requieren delegación previa de las Cortes
     C. El decreto-ley requiere delegación y el decreto legislativo urgencia
-    D. Ninguno de los dos tiene rango de ley
+    D. Ninguno de los dos exige publicación en el BOE para su validez
 
 ## Respuestas
 
