@@ -2,13 +2,15 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_07_jurisdiccion_contencioso_administrativa.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. La jurisdicción contencioso-administrativa es, además de judicial, una jurisdicción de tipo:
-   A. Meramente consultiva.
-   B. Exclusivamente sancionadora.
+   A. Meramente consultiva, como el Consejo de Estado.
+   B. Exclusivamente disciplinaria, como la jurisdicción militar.
    C. Revisora y de plena jurisdicción.
-   D. Arbitral.
+   D. Constitucional, como el Tribunal Constitucional.
 
 2. El artículo 24 de la Constitución, en relación con este orden jurisdiccional, consagra:
    A. La tutela judicial efectiva.
@@ -18,7 +20,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 3. Según el artículo 106 CE, los Tribunales controlan:
    A. Solo los reglamentos autonómicos.
-   B. Únicamente las sanciones penales.
+   B. Únicamente los actos de las Comunidades Autónomas, no los del Estado.
    C. Solo los actos de trámite.
    D. La potestad reglamentaria y la legalidad de la actuación administrativa.
 
@@ -30,31 +32,31 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 5. Los conflictos de atribuciones entre órganos de una misma Administración:
    A. Se resuelven siempre por el orden contencioso-administrativo ordinario.
-   B. Los resuelve el Ministerio Fiscal.
+   B. Los resuelve la Sala de lo Contencioso-administrativo de la Audiencia Nacional en todo caso.
    C. Quedan excluidos del orden contencioso-administrativo.
    D. Se acumulan siempre al recurso principal.
 
 6. Los Juzgados de lo Contencioso-administrativo tienen ámbito:
    A. Provincial.
    B. Municipal exclusivamente.
-   C. Europeo.
+   C. Estatal, con sede única en Madrid.
    D. Solo autonómico.
 
 7. Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia tienen ámbito:
    A. Provincial.
    B. Estatal exclusivamente.
-   C. Municipal.
+   C. De toda España, igual que la Audiencia Nacional.
    D. Autonómico.
 
 8. En el proceso contencioso-administrativo, quien interpone el recurso recibe el nombre de:
    A. Codemandado.
    B. Demandante o recurrente.
    C. Ministerio Fiscal.
-   D. Órgano jurisdiccional.
+   D. Administración demandada.
 
 9. Pueden ser codemandados en el proceso:
    A. Solo el Ministerio Fiscal.
-   B. Solo funcionarios del órgano jurisdiccional.
+   B. Solo el recurrente que interpuso el recurso.
    C. Personas o entidades cuyos derechos o intereses legítimos puedan quedar afectados.
    D. Únicamente asociaciones sin ánimo de lucro.
 
@@ -62,12 +64,12 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. Pueden tener capacidad procesal para defender sus derechos e intereses legítimos cuando la ley lo permita.
     B. Nunca pueden actuar en el proceso contencioso-administrativo.
     C. Necesitan siempre autorización judicial expresa previa.
-    D. Solo pueden actuar como testigos.
+    D. Solo pueden actuar asistidos de abogado y procurador, nunca por sí mismos.
 
 11. En los órganos judiciales unipersonales, la intervención de abogado es, con carácter general:
     A. Innecesaria en todo caso.
     B. Sustituida siempre por procurador.
-    C. Reservada a delitos penales.
+    C. Reservada a los procedimientos ante el Tribunal Supremo exclusivamente.
     D. Necesaria, con las excepciones legalmente previstas.
 
 12. No es un acto impugnable ante el orden contencioso-administrativo, con carácter general:
@@ -102,7 +104,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 17. El escrito de interposición del recurso contencioso-administrativo tiene como función principal:
     A. Formular ya toda la prueba documental.
-    B. Dictar sentencia provisional.
+    B. Reclamar directamente el expediente administrativo a la Administración.
     C. Identificar la actuación impugnada y solicitar que se tenga por interpuesto el recurso.
     D. Sustituir a la demanda en todo caso.
 
@@ -110,12 +112,12 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. Completo, foliado y autenticado, acompañado de índice.
     B. Sin foliar, para agilizar el envío.
     C. Resumido por la Administración a su criterio.
-    D. Firmado únicamente por el recurrente.
+    D. Certificado únicamente por el Ministerio Fiscal.
 
 19. La demanda en el procedimiento ordinario debe contener necesariamente:
-    A. Solo la firma del recurrente.
-    B. Solo la identidad del juez.
-    C. Únicamente el sello del registro.
+    A. Solo la identificación de la actuación impugnada, como en el escrito de interposición.
+    B. Solo la reclamación del expediente administrativo.
+    C. Únicamente la solicitud de medidas cautelares.
     D. Hechos, fundamentos de Derecho, pretensiones y documentos que procedan.
 
 20. La contestación a la demanda corresponde formularla, con carácter general, en un plazo de:
@@ -126,15 +128,15 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 21. Puede examinarse como causa de inadmisión del recurso contencioso-administrativo:
     A. Que el recurso se haya interpuesto dentro de plazo.
-    B. Que la Administración conteste en plazo.
+    B. Que la Administración remita el expediente completo y foliado.
     C. Que exista falta de jurisdicción o de legitimación.
-    D. Que el expediente esté foliado.
+    D. Que la demanda cumpla el plazo de veinte días para formularla.
 
 22. No se abre el periodo de prueba en el proceso contencioso-administrativo cuando:
     A. Solo se discuten cuestiones jurídicas.
     B. Existe disconformidad sobre hechos relevantes.
     C. El recurrente lo solicita expresamente.
-    D. Hay varios codemandados.
+    D. La Administración no contesta la demanda en plazo.
 
 23. Entre las pretensiones que puede formular el recurrente NO se encuentra:
     A. La anulación del acto o disposición.
@@ -143,10 +145,10 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. La imposición de una sanción penal al funcionario responsable.
 
 24. Un pronunciamiento posible de la sentencia contencioso-administrativa es:
-    A. Convocar elecciones.
+    A. Declarar inconstitucional una ley aplicada por la Administración.
     B. Reconocer una situación jurídica individualizada.
-    C. Aprobar los Presupuestos Generales del Estado.
-    D. Nombrar cargos públicos.
+    C. Anular una sentencia penal firme relacionada con los mismos hechos.
+    D. Ordenar la disolución de la Asamblea de Madrid.
 
 25. Las medidas cautelares en el proceso contencioso-administrativo tienen como finalidad principal:
     A. Sustituir a la sentencia definitiva.
@@ -156,33 +158,33 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 26. Para acordar una medida cautelar, el órgano judicial debe ponderar, entre otros factores:
     A. El interés general, los intereses de terceros y los perjuicios que puedan derivarse.
-    B. Solo la opinión del recurrente.
+    B. Solo la solvencia económica de la Administración demandada.
     C. Exclusivamente el coste económico para la Administración.
     D. Solo el tiempo transcurrido desde la interposición.
 
 27. Las medidas cautelares pueden solicitarse:
     A. Solo en el escrito de interposición.
-    B. Solo tras la sentencia.
+    B. Solo durante el período de prueba.
     C. Únicamente antes de reclamar el expediente.
     D. En cualquier estado del proceso.
 
 28. El procedimiento abreviado, frente al ordinario, se caracteriza especialmente por:
-    A. Prescindir siempre de sentencia.
+    A. Prescindir siempre del trámite de contestación a la demanda.
     B. Iniciarse directamente por demanda y concentrar los trámites en una vista.
     C. Excluir cualquier posibilidad de prueba.
-    D. Tramitarse únicamente ante el Tribunal Supremo.
+    D. Tramitarse únicamente ante los Juzgados Centrales de lo Contencioso-administrativo.
 
 29. La cuestión de ilegalidad, como procedimiento especial, permite:
-    A. Anular directamente cualquier ley.
+    A. Anular directamente cualquier reglamento, sin necesidad de un acto de aplicación previo.
     B. Sustituir el recurso de casación.
     C. El control indirecto de un reglamento cuando se anula un acto por ilegalidad de la disposición general en que se basaba.
-    D. Suspender automáticamente cualquier expediente.
+    D. Sustituir el procedimiento de protección de derechos fundamentales.
 
 30. Respecto a los plazos de este tema, señala la afirmación correcta:
     A. El plazo para recurrir un acto presunto (6 meses) es más largo que el de un acto expreso (2 meses).
     B. El plazo para recurrir un acto presunto es más corto que el de un acto expreso.
     C. Ambos plazos son idénticos e improrrogables.
-    D. El plazo de un acto presunto no está regulado.
+    D. El plazo de un acto presunto depende de si hubo requerimiento previo, igual que en la vía de hecho.
 
 ## Respuestas
 

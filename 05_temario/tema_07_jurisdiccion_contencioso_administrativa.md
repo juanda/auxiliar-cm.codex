@@ -410,13 +410,15 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. La jurisdicción contencioso-administrativa controla:
-   A. Solo delitos cometidos por funcionarios.
+   A. Solo los delitos cometidos por funcionarios, como la jurisdicción penal.
    B. La actividad administrativa sometida al Derecho Administrativo.
-   C. Solo contratos privados entre particulares.
-   D. Solo conflictos laborales.
+   C. Solo los contratos entre particulares, como la jurisdicción civil.
+   D. Solo los conflictos laborales, como la jurisdicción social.
 
 2. La Ley reguladora de la Jurisdicción Contencioso-administrativa es:
    A. Ley 39/2015.
@@ -439,29 +441,29 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 5. Los conflictos de jurisdicción entre Juzgados y Tribunales y Administración:
    A. Son competencia ordinaria de cualquier Juzgado contencioso.
    B. Quedan excluidos del orden contencioso-administrativo.
-   C. Siempre se resuelven por recurso de alzada.
-   D. Son competencia del Ministerio Fiscal.
+   C. Se resuelven siempre por la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+   D. Son competencia exclusiva del Tribunal Constitucional.
 
 6. La Sala de lo Contencioso-administrativo del Tribunal Supremo conoce de:
    A. Todos los recursos de reposición.
    B. Recursos de casación en cualquiera de sus modalidades.
-   C. Todos los expedientes administrativos.
+   C. Todos los conflictos de atribuciones entre órganos de una misma Administración.
    D. Todos los recursos de alzada.
 
 7. Los Juzgados Centrales de lo Contencioso-administrativo tienen sede:
    A. En cada capital de provincia.
    B. En cada Comunidad Autónoma.
    C. En Madrid.
-   D. En Bruselas.
+   D. En la Audiencia Nacional, como sección específica.
 
 8. En el proceso contencioso, la Administración autora del acto actúa normalmente como:
    A. Demandada.
-   B. Tribunal.
-   C. Perito.
+   B. Recurrente, igual que quien impugna el acto.
+   C. Codemandada, junto con terceros afectados.
    D. Ministerio Fiscal.
 
 9. Puede interponer recurso quien ostente:
-   A. Simple curiosidad.
+   A. La condición de funcionario público, sin más requisito.
    B. Interés político abstracto sin legitimación.
    C. Derecho o interés legítimo.
    D. Solo nacionalidad española.
@@ -469,12 +471,12 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 10. Pueden impugnarse:
     A. Disposiciones generales de rango inferior a ley.
     B. Leyes orgánicas directamente ante cualquier Juzgado.
-    C. Sentencias penales.
+    C. Sentencias dictadas por la Sala de lo Civil del Tribunal Supremo.
     D. Actos privados sin relación administrativa.
 
 11. También puede impugnarse:
-    A. Una conversación informal sin efectos.
-    B. Cualquier noticia de prensa.
+    A. Un acto de trámite simple que no decide el fondo del asunto.
+    B. Una sentencia firme dictada por un Juzgado de lo Contencioso-administrativo.
     C. Una ley estatal.
     D. Inactividad de la Administración.
 
@@ -482,7 +484,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Son actos de trámite cualificados.
     B. Son todos recurribles siempre.
     C. Nunca son recurribles.
-    D. Los firma un funcionario.
+    D. Cuando los dicta un órgano colegiado en lugar de uno unipersonal.
 
 13. El plazo para interponer recurso contra acto expreso que pone fin a la vía administrativa es:
     A. 2 meses.
@@ -493,36 +495,36 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 14. El plazo para recurso contra acto presunto es:
     A. 10 días.
     B. 2 meses.
-    C. 1 año.
+    C. 4 años, como el recurso extraordinario de revisión.
     D. 6 meses.
 
 15. En vía de hecho, si hubo requerimiento previo, el plazo puede ser:
     A. 2 meses siempre.
     B. 6 meses siempre.
-    C. 30 días desde sentencia.
+    C. 20 días desde el inicio de la actuación, igual que sin requerimiento previo.
     D. 10 días desde el fin del plazo del requerimiento.
 
 16. El procedimiento ordinario suele iniciarse mediante:
     A. Escrito de interposición.
     B. Recurso de alzada.
     C. Decreto administrativo.
-    D. Denuncia penal.
+    D. Recurso de amparo ante el Tribunal Constitucional.
 
 17. El emplazamiento a la Administración se entiende efectuado:
     A. Por la remisión del expediente.
     B. Por la reclamación del expediente.
-    C. Por la sentencia.
-    D. Por la vista.
+    C. Por la contestación a la demanda.
+    D. Por el trámite de audiencia previo a la demanda.
 
 18. El expediente administrativo debe remitirse:
-    A. Solo verbalmente.
-    B. Sin documentos.
-    C. Solo si la Administración quiere.
+    A. Resumido por la Administración según su propio criterio.
+    B. Sin foliar, para agilizar el envío.
+    C. Certificado únicamente por el Ministerio Fiscal.
     D. Completo, foliado y acompañado de índice.
 
 19. Tras recibir el expediente, el recurrente formula normalmente:
     A. Contestación.
-    B. Sentencia.
+    B. Escrito de interposición, por segunda vez.
     C. Demanda.
     D. Recurso de reposición.
 
@@ -535,8 +537,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 21. La contestación a la demanda corresponde:
     A. A la parte demandada y codemandados.
     B. Al recurrente.
-    C. Al perito.
-    D. Al Registro.
+    C. Al Ministerio Fiscal en todo caso.
+    D. Al órgano judicial que instruye el proceso.
 
 22. El proceso se recibe a prueba cuando:
     A. Existen hechos relevantes discutidos.
@@ -551,40 +553,40 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. 10 días.
 
 24. La sentencia puede:
-    A. Dictar siempre un reglamento.
+    A. Declarar inconstitucional una ley aplicada por la Administración.
     B. Inadmitir, desestimar o estimar el recurso.
-    C. Resolver un recurso de alzada.
-    D. Nombrar funcionarios.
+    C. Anular una sentencia penal firme relacionada con los mismos hechos.
+    D. Ordenar la disolución de la Asamblea de Madrid.
 
 25. El procedimiento abreviado se caracteriza por:
-    A. No tener sentencia.
+    A. Prescindir siempre del trámite de contestación a la demanda.
     B. Mayor oralidad y concentración.
-    C. Ser siempre ante el Tribunal Supremo.
+    C. Tramitarse únicamente ante los Juzgados Centrales de lo Contencioso-administrativo.
     D. Excluir prueba en todo caso.
 
 26. El procedimiento especial de derechos fundamentales:
     A. Está excluido del orden contencioso-administrativo.
     B. Está incluido en el orden contencioso-administrativo.
     C. Es un recurso administrativo.
-    D. Se tramita siempre ante órganos penales.
+    D. Se tramita siempre ante el Tribunal Constitucional, nunca ante el orden contencioso.
 
 27. Las medidas cautelares buscan:
     A. Sustituir siempre a la sentencia.
-    B. Evitar toda demanda.
+    B. Sustituir el trámite de contestación a la demanda.
     C. Asegurar la eficacia de la sentencia.
-    D. Convertir actos nulos en válidos.
+    D. Declarar la nulidad de pleno derecho del acto impugnado.
 
 28. Una pretensión posible del recurrente es:
     A. Imposición de una pena privativa de libertad.
-    B. Aprobación de una ley.
-    C. Elección de un alcalde.
+    B. Declaración de inconstitucionalidad de una ley.
+    C. Disolución anticipada de la Asamblea de Madrid.
     D. Anulación del acto o disposición.
 
 29. Si se anula una disposición general, el fallo debe publicarse:
     A. En el mismo periódico oficial en que se publicó la disposición anulada.
     B. Solo en el tablón del Juzgado.
-    C. Solo en una web privada.
-    D. No debe publicarse.
+    C. En el Boletín Oficial del Estado, aunque la disposición anulada fuera autonómica.
+    D. Solo si lo solicita expresamente el recurrente.
 
 30. ¿Cuál es la opción correcta?
     A. Acto expreso: 6 meses; sentencia desde concluso: 20 días.
