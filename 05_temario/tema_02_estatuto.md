@@ -479,6 +479,8 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. La Ley Orgánica 3/1983, de 25 de febrero, aprueba:
@@ -488,10 +490,10 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
    D. El Estatuto de Autonomía de la Comunidad de Madrid.
 
 2. El Estatuto de Autonomía de la Comunidad de Madrid es:
-   A. Una norma reglamentaria autonómica.
+   A. Una ley ordinaria de la Asamblea de Madrid.
    B. Una ley ordinaria estatal.
    C. La norma institucional básica de la Comunidad de Madrid.
-   D. Una ley de presupuestos.
+   D. Un decreto legislativo del Gobierno de la Nación.
 
 3. El territorio de la Comunidad de Madrid es:
    A. El término municipal de Madrid.
@@ -500,7 +502,7 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
    D. La villa de Madrid y sus municipios limítrofes.
 
 4. La capital de la Comunidad, sede de sus instituciones, es:
-   A. Madrid capital.
+   A. El municipio de Madrid, según delimitación del Instituto Nacional de Estadística.
    B. La villa de Madrid.
    C. La ciudad de Madrid.
    D. La provincia de Madrid.
@@ -532,14 +534,14 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 9. La composición de la Asamblea se fija en:
    A. Un Diputado por cada 50.000 habitantes o fracción superior a 25.000.
    B. Un Diputado por cada 25.000 habitantes.
-   C. Un Diputado por cada municipio.
+   C. Un Diputado por cada 50.000 habitantes, sin fracción adicional computable.
    D. Un número fijo de 100 Diputados.
 
 10. Para distribuir escaños en la Asamblea se tienen en cuenta las listas con:
     A. Al menos el 5% de sufragios válidamente emitidos.
     B. Al menos el 3% de votos válidos.
     C. Más del 10% de votos emitidos.
-    D. Mayoría simple en su municipio.
+    D. Al menos el 5% de los votos emitidos en su circunscripción municipal.
 
 11. La circunscripción electoral en las elecciones a la Asamblea es:
     A. El municipio.
@@ -549,20 +551,20 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 
 12. Los Diputados de la Asamblea:
     A. Están ligados por mandato imperativo.
-    B. Dependen jerárquicamente del Gobierno.
-    C. Son nombrados por el Presidente de la Comunidad.
+    B. Deben seguir las instrucciones de voto de su Grupo Parlamentario en todo caso.
+    C. Pueden ser sustituidos por el Presidente de la Comunidad en caso de ausencia reiterada.
     D. No están ligados por mandato imperativo alguno.
 
 13. La aprobación y reforma del Reglamento de la Asamblea requiere:
     A. Mayoría simple de presentes.
-    B. Decreto del Gobierno.
+    B. Mayoría absoluta de los presentes en el momento de la votación, no del total de Diputados.
     C. Mayoría absoluta de los Diputados en votación final sobre la totalidad.
-    D. Autorización de Cortes Generales.
+    D. Mayoría de dos tercios de los Diputados, en votación final sobre la totalidad.
 
 14. Los portavoces de los Grupos Parlamentarios integran:
     A. La Junta Administrativa.
     B. La Junta de Portavoces.
-    C. El Consejo de Gobierno.
+    C. La Mesa de la Asamblea.
     D. La Diputación Provincial.
 
 15. La Asamblea funciona:
@@ -574,7 +576,7 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 16. Los períodos ordinarios de sesiones de la Asamblea son:
     A. Enero-julio y septiembre-diciembre.
     B. Marzo-junio y octubre-enero.
-    C. Todo el año sin períodos.
+    C. Septiembre-julio, sin distinguir periodos ordinarios y extraordinarios.
     D. Septiembre-diciembre y febrero-junio.
 
 17. Corresponde a la Asamblea:
@@ -586,14 +588,14 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 18. La Asamblea elige de entre sus miembros:
     A. Al Presidente de la Comunidad.
     B. A todos los Consejeros.
-    C. Al Delegado del Gobierno.
+    C. Al Presidente de la Diputación Permanente, como cargo distinto del Presidente de la Asamblea.
     D. Al Presidente del Tribunal Superior de Justicia.
 
 19. Si un candidato a Presidente no obtiene mayoría absoluta en primera votación:
     A. Se vota de nuevo 48 horas después y basta mayoría simple.
-    B. Queda automáticamente investido.
+    B. Se repite la misma votación con mayoría absoluta cada 15 días hasta lograrla.
     C. Se convocan elecciones inmediatamente.
-    D. Decide el Gobierno de la Nación.
+    D. El Rey nombra directamente al candidato más votado, sin nueva votación.
 
 20. La moción de censura debe ser propuesta, al menos, por:
     A. El 15% de los Diputados.
@@ -605,13 +607,13 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
     A. Un órgano dependiente de la Asamblea.
     B. El órgano colegiado que dirige la política de la Comunidad.
     C. Una comisión permanente de Diputados.
-    D. Un órgano consultivo sin funciones ejecutivas.
+    D. Un órgano consultivo que informa a la Asamblea antes de la aprobación de las leyes.
 
 22. Los miembros del Gobierno son nombrados y cesados por:
     A. La Asamblea.
     B. El Presidente de la Asamblea.
     C. El Presidente de la Comunidad.
-    D. Las Cortes Generales.
+    D. El Consejo de Gobierno, por acuerdo colegiado de sus propios miembros.
 
 23. Para ser Vicepresidente o Consejero:
     A. Es necesaria siempre la condición de Diputado.
@@ -627,39 +629,39 @@ Cobertura: el desarrollo anterior permite resolver las preguntas históricas cla
 
 25. La potestad reglamentaria y la función ejecutiva corresponden, con carácter general:
     A. A la Asamblea.
-    B. Al Tribunal Superior de Justicia.
+    B. Al Presidente de la Comunidad en solitario, sin intervención del resto del Gobierno.
     C. A la Junta de Portavoces.
     D. Al Consejo de Gobierno.
 
 26. Es competencia exclusiva de la Comunidad de Madrid:
     A. Aeropuertos que desarrollen actividades comerciales.
     B. Helipuertos deportivos.
-    C. Administración de Justicia.
-    D. Defensa nacional.
+    C. Coordinación hospitalaria.
+    D. Ordenación farmacéutica.
 
 27. También es competencia exclusiva del artículo 26:
-    A. Legislación penal.
+    A. Régimen jurídico y funcionarios de la Administración autonómica.
     B. Pesca fluvial y lacustre.
-    C. Nacionalidad.
-    D. Relaciones internacionales.
+    C. Gestión de la asistencia sanitaria de la Seguridad Social.
+    D. Crédito, banca y seguros.
 
 28. Los convenios con otras Comunidades Autónomas para gestión y prestación de servicios propios:
     A. Requieren siempre reforma estatutaria.
-    B. No tienen control alguno.
+    B. Requieren autorización previa de las Cortes Generales, igual que los acuerdos de cooperación.
     C. Requieren autorización del Tribunal Constitucional.
     D. Deben comunicarse a las Cortes Generales antes de su entrada en vigor.
 
 29. Los acuerdos de cooperación con otras Comunidades Autónomas sobre materias distintas:
-    A. Solo requieren informe municipal.
+    A. Solo requieren comunicación a las Cortes Generales antes de su entrada en vigor.
     B. Requieren autorización previa de las Cortes Generales.
     C. Se aprueban por decreto del Presidente sin intervención estatal.
-    D. Están prohibidos.
+    D. Requieren autorización del Tribunal Constitucional, no de las Cortes Generales.
 
 30. El Derecho estatal respecto del Derecho propio de Madrid tiene carácter:
     A. Preferente siempre.
-    B. Derogatorio automático.
+    B. De aplicación preferente en materias de competencia compartida, pero supletorio en las exclusivas.
     C. Supletorio.
-    D. Reglamentario.
+    D. De igual rango que el Derecho propio, resolviéndose el conflicto por norma posterior.
 
 ### Plantilla de respuestas
 

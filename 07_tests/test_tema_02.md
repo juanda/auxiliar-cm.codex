@@ -2,53 +2,55 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco distinto del test embebido en el tema (sección 7), para practicar con formulaciones y artículos no repetidos.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. La bandera de la Comunidad de Madrid es:
-   A. Roja y gualda con el escudo autonómico centrado.
+   A. Roja y gualda, como la bandera de España, con el escudo autonómico centrado.
    B. Roja carmesí con siete estrellas blancas de cinco puntas, colocadas cuatro y tres.
-   C. Blanca con una estrella roja.
-   D. Verde con siete estrellas doradas.
+   C. Roja carmesí con siete estrellas doradas de cinco puntas, colocadas cuatro y tres.
+   D. Roja carmesí con ocho estrellas blancas de cinco puntas, colocadas cuatro y cuatro.
 
 2. La fiesta de la Comunidad de Madrid se celebra el:
-   A. 6 de diciembre.
-   B. 1 de marzo.
+   A. 6 de diciembre, coincidiendo con el Día de la Constitución.
+   B. 1 de marzo, fecha de entrada en vigor del Estatuto.
    C. 2 de mayo.
-   D. 9 de noviembre.
+   D. 25 de febrero, fecha de aprobación de la Ley Orgánica 3/1983.
 
 3. La condición política de ciudadano de la Comunidad de Madrid corresponde, conforme al artículo 7 del Estatuto, a:
    A. Los ciudadanos españoles que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de los municipios de la Comunidad.
-   B. Solo a quienes hayan nacido en la Comunidad de Madrid.
-   C. Solo a los residentes con más de 10 años de antigüedad.
-   D. A quienes lo soliciten expresamente ante la Asamblea.
+   B. Los ciudadanos españoles empadronados en la Comunidad de Madrid durante más de un año ininterrumpido.
+   C. Solo a los residentes con más de 10 años de antigüedad en el mismo municipio.
+   D. Los ciudadanos españoles y extranjeros que acrediten residencia legal en cualquier municipio de la Comunidad.
 
 4. El Estatuto de Autonomía entró en vigor:
    A. El 25 de febrero de 1983, fecha de su aprobación.
-   B. El 6 de diciembre de 1983.
-   C. El 1 de enero de 1984.
+   B. El 2 de mayo de 1983, fecha de la primera fiesta de la Comunidad.
+   C. El 1 de marzo de 1984, un año después de su publicación en el BOE.
    D. El 1 de marzo de 1983, fecha de su publicación en el BOE.
 
 5. La Diputación Permanente de la Asamblea actúa:
    A. Solo durante los períodos ordinarios de sesiones.
-   B. Exclusivamente para elegir al Presidente de la Comunidad.
+   B. Exclusivamente para convocar sesiones extraordinarias por iniciativa propia, sin poder actuar en ausencia de la Asamblea.
    C. Entre períodos ordinarios de sesiones y en los casos de expiración del mandato o disolución de la Asamblea.
-   D. Solo cuando lo solicite el Gobierno de la Nación.
+   D. Solo cuando lo solicite una cuarta parte de los Diputados, sin que pueda actuar en caso de disolución.
 
 6. Las sesiones extraordinarias de la Asamblea pueden ser solicitadas, entre otros, por:
    A. Solo por el Presidente de la Comunidad.
-   B. Solo por el Tribunal Superior de Justicia.
+   B. Solo por el Presidente de la Asamblea, sin intervención del Gobierno ni de los Diputados.
    C. El Gobierno, la Diputación Permanente o una cuarta parte de los Diputados.
-   D. Solo por las Cortes Generales.
+   D. Solo por la Diputación Permanente, sin que el Gobierno pueda solicitarlas.
 
 7. Para que la Asamblea adopte acuerdos, con carácter general, es necesaria:
    A. La asistencia de la totalidad de los Diputados.
    B. La reunión reglamentaria de sus miembros y la asistencia de la mayoría de ellos.
-   C. La aprobación previa del Gobierno de la Nación.
+   C. La presencia de al menos dos tercios de los Diputados, sin necesidad de votación.
    D. Un quórum de un tercio de los Diputados, sin excepción.
 
 8. La Asamblea puede delegar en el Gobierno la potestad de dictar normas con rango de ley:
    A. En ningún caso.
-   B. Solo si lo autoriza el Tribunal Constitucional.
+   B. Solo si lo autoriza previamente el Senado por mayoría absoluta.
    C. Solo en materia presupuestaria.
    D. Conforme a las reglas constitucionales sobre delegación legislativa.
 
@@ -66,27 +68,27 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 11. El Presidente de la Comunidad ostenta:
     A. La suprema representación de la Comunidad y la ordinaria del Estado en Madrid.
-    B. Solo la representación protocolaria de la Comunidad.
-    C. La representación exclusiva ante la Unión Europea.
-    D. La jefatura del Tribunal Superior de Justicia.
+    B. La suprema representación de la Comunidad, pero no la representación ordinaria del Estado en Madrid.
+    C. La representación ordinaria del Estado en Madrid, pero no la suprema representación de la Comunidad.
+    D. La dirección exclusiva del Gobierno, sin representación de la Comunidad ante el Estado.
 
 12. Si el candidato a Presidente no obtiene la mayoría absoluta en la primera votación de investidura, se procede a una nueva votación:
     A. 48 horas después, en la que basta la mayoría simple.
     B. Al día siguiente, exigiendo de nuevo mayoría absoluta.
     C. En el plazo de un mes, con mayoría de dos tercios.
-    D. Sin plazo determinado.
+    D. En el plazo máximo de dos meses desde la primera votación, exigiendo de nuevo mayoría absoluta.
 
 13. La moción de censura contra el Presidente de la Comunidad:
     A. Puede aprobarse por mayoría simple sin candidato alternativo.
     B. Debe incluir un candidato a la Presidencia y ser aprobada por mayoría absoluta.
-    C. Solo puede plantearla el propio Presidente.
-    D. No está prevista en el Estatuto.
+    C. Debe incluir un candidato a la Presidencia y ser aprobada por mayoría de dos tercios.
+    D. Puede aprobarse sin candidato alternativo, siempre que la proponga al menos el 15% de los Diputados.
 
 14. La disolución anticipada de la Asamblea corresponde a:
     A. La propia Asamblea, por mayoría simple.
     B. El Presidente de la Comunidad, con los límites establecidos en el Estatuto.
-    C. El Gobierno de la Nación.
-    D. El Tribunal Superior de Justicia de Madrid.
+    C. El Gobierno de la Comunidad, por acuerdo colegiado y sin límite temporal alguno.
+    D. La Diputación Permanente, previa autorización de las Cortes Generales.
 
 15. El Gobierno de la Comunidad de Madrid está compuesto por:
     A. El Presidente, el Vicepresidente o Vicepresidentes en su caso, y los Consejeros.
@@ -97,11 +99,11 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 16. La responsabilidad política del Gobierno ante la Asamblea es:
     A. Solidaria, sin perjuicio de la responsabilidad directa de cada Consejero por su gestión.
     B. Individual y exclusiva de cada Consejero, sin responsabilidad conjunta.
-    C. Inexistente, porque el Gobierno solo responde ante el Rey.
-    D. Compartida con el Gobierno de la Nación.
+    C. Individual de cada Consejero ante el Rey, sin responsabilidad colegiada ante la Asamblea.
+    D. Solidaria, pero solo exigible mediante moción de censura constructiva contra cada Consejero individualmente.
 
 17. Cuando cesa un Gobierno de la Comunidad de Madrid:
-    A. Cesan automáticamente todos los funcionarios de la Comunidad.
+    A. Cesan también, en el mismo acto, el Presidente del Tribunal Superior de Justicia y el Consejo Consultivo.
     B. Asume las funciones el Presidente de la Asamblea.
     C. Se disuelve automáticamente la Asamblea.
     D. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.
@@ -115,24 +117,24 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 19. En materias de ejecución de legislación del Estado del artículo 28 del Estatuto, la Comunidad de Madrid:
     A. Administra, ejecuta e inspecciona conforme a la legislación estatal, dictando sus reglamentos internos de organización.
     B. Dicta leyes propias que sustituyen a la legislación estatal.
-    C. No tiene ninguna función.
-    D. Solo puede actuar previa autorización de las Cortes Generales en cada caso.
+    C. Legisla en desarrollo de la legislación básica estatal, sin ejercer función ejecutiva propia.
+    D. Ejerce función ejecutiva, pero remitiendo cada expediente a las Cortes Generales para su aprobación final.
 
 20. La competencia de la Comunidad de Madrid sobre enseñanza, conforme al artículo 29 del Estatuto:
     A. Es una competencia exclusiva sin ningún límite estatal.
     B. Se limita a la enseñanza no universitaria.
     C. Es de desarrollo legislativo y ejecución en toda su extensión, niveles, grados, modalidades y especialidades, respetando el artículo 27 CE y la alta inspección estatal.
-    D. Corresponde íntegramente al Estado.
+    D. Es de ejecución de la legislación estatal, sin potestad de desarrollo legislativo propio.
 
 21. La Comunidad de Madrid puede asumir nuevas competencias no previstas inicialmente en el Estatuto mediante:
-    A. Simple acuerdo del Consejo de Gobierno.
-    B. Decreto de la Presidencia.
+    A. Ley de la Asamblea aprobada por mayoría absoluta, sin intervención de las Cortes Generales.
+    B. Solicitud de leyes marco o de transferencia o delegación exclusivamente, sin reforma estatutaria posible.
     C. Reforma del Estatuto o decisión de las Cortes Generales por los procedimientos constitucionales.
     D. Resolución de la Asamblea sin intervención estatal.
 
 22. El Derecho propio de la Comunidad de Madrid, en materias de su competencia plena, se aplica en su territorio:
     A. Solo con carácter supletorio respecto del Derecho estatal.
-    B. Únicamente si lo autoriza el Estado en cada caso.
+    B. Con preferencia sobre el Derecho estatal, salvo en las materias de competencia exclusiva del artículo 26.
     C. En pie de igualdad con el Derecho estatal, decidiendo los tribunales caso por caso.
     D. Con preferencia sobre el Derecho estatal, que tiene carácter supletorio.
 
@@ -157,26 +159,26 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 26. La responsabilidad penal de los Diputados de la Asamblea por hechos cometidos en el territorio de la Comunidad de Madrid corresponde a:
     A. El Tribunal Superior de Justicia de Madrid.
     B. La Sala de lo Penal del Tribunal Supremo, en todo caso.
-    C. La propia Asamblea, mediante expediente disciplinario.
+    C. El Tribunal Constitucional, mediante un procedimiento de amparo específico.
     D. Los Juzgados de Instrucción ordinarios.
 
 27. Conforme al Estatuto, es competencia exclusiva de la Comunidad de Madrid, entre otras, la ordenación del territorio:
     A. El urbanismo y la vivienda.
     B. La Administración de Justicia.
-    C. La política monetaria.
-    D. La defensa nacional.
+    C. Sanidad e higiene.
+    D. Régimen minero y energético.
 
 28. Los ferrocarriles, carreteras y caminos cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad de Madrid son competencia:
     A. Exclusiva del Estado en todo caso.
     B. Exclusiva de la Comunidad de Madrid.
-    C. Compartida con la Unión Europea.
+    C. Compartida con el Estado, que conserva la alta inspección.
     D. De los municipios exclusivamente.
 
 29. Entre las materias que debe regular el Reglamento de la Asamblea se encuentra:
     A. El régimen retributivo de los funcionarios autonómicos.
-    B. La composición del Gobierno de la Nación.
+    B. La composición y funciones de la Diputación Permanente, pero no la constitución de Grupos Parlamentarios.
     C. El número mínimo de Diputados para formar Grupo Parlamentario.
-    D. El procedimiento de elecciones generales.
+    D. La elección de Senadores representantes de la Comunidad, pero no las relaciones entre Asamblea y Gobierno.
 
 30. Conforme al artículo 3 del Estatuto, la Comunidad de Madrid se organiza territorialmente en:
     A. Provincias y comarcas históricas.
