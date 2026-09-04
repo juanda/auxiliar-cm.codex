@@ -2,12 +2,14 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco de preguntas distinto del test embebido en `05_temario/tema_09_contratos_sector_publico.md`.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. En la contratación del sector público, un poder adjudicador que no tiene la consideración de Administración Pública:
    A. Queda completamente excluido de la Ley 9/2017.
    B. Tiene exactamente el mismo régimen que una Administración Pública en todo caso.
-   C. Nunca puede celebrar contratos administrativos ni privados.
+   C. Solo puede celebrar contratos administrativos típicos, nunca privados.
    D. Se somete a un régimen contractual público con particularidades propias.
 
 2. Las relaciones laborales del personal al servicio del sector público:
@@ -18,18 +20,18 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 3. Los convenios y encomiendas de gestión con régimen propio:
    A. Están siempre sometidos íntegramente a la LCSP como un contrato más.
-   B. Son siempre nulos de pleno derecho.
+   B. Requieren siempre autorización previa del Tribunal de Cuentas.
    C. Pueden quedar excluidos si cumplen los requisitos legales previstos.
-   D. Solo pueden celebrarse entre particulares.
+   D. Solo pueden celebrarse entre una Administración y una empresa privada.
 
 4. El órgano de contratación, dentro de las partes del contrato público:
    A. Representa al ente del sector público y tramita o adjudica el contrato.
-   B. Es siempre una empresa privada.
+   B. Es siempre el Consejo de Gobierno de la Comunidad Autónoma.
    C. Ejecuta materialmente la prestación contratada.
    D. Sustituye al contratista en caso de incumplimiento.
 
 5. Entre los requisitos exigibles al contratista se encuentra:
-   A. Ser necesariamente una Administración Pública.
+   A. Estar clasificado en todos los casos, sin excepción.
    B. Carecer de solvencia técnica.
    C. Estar incurso en causa de prohibición de contratar.
    D. Tener capacidad de obrar y no estar incurso en prohibición de contratar.
@@ -38,11 +40,11 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    A. En todos los contratos sin excepción.
    B. En determinados contratos, especialmente obras, según los casos legalmente previstos.
    C. Únicamente en contratos menores.
-   D. Solo para personas físicas.
+   D. Solo para contratos de suministro de bienes muebles.
 
 7. El objeto del contrato público, conforme a la LCSP:
    A. Puede fraccionarse libremente para reducir su cuantía y evitar publicidad.
-   B. Es irrelevante para el expediente de contratación.
+   B. Solo es relevante para calcular el IVA aplicable.
    C. Debe ser determinado y responder a una necesidad pública.
    D. No necesita justificarse en ningún documento.
 
@@ -53,28 +55,28 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    D. No sirve para determinar el régimen jurídico del contrato.
 
 9. El valor estimado del contrato es la magnitud que sirve principalmente para:
-   A. Fijar el sueldo del personal del órgano de contratación.
+   A. Fijar el presupuesto base de licitación, sustituyéndolo por completo.
    B. Sustituir al precio final abonado al contratista.
    C. Calcular exclusivamente el IVA repercutido.
    D. Determinar el régimen jurídico y el procedimiento aplicable al contrato.
 
 10. La duración del contrato debe establecerse teniendo en cuenta, entre otros factores:
-    A. Solo la antigüedad del órgano de contratación.
+    A. Solo el precio ofertado por el contratista en su proposición.
     B. La naturaleza de las prestaciones, la financiación y la necesidad de someter periódicamente el contrato a concurrencia.
-    C. Exclusivamente el criterio personal del contratista.
-    D. El número de empleados de la empresa adjudicataria.
+    C. Exclusivamente la clasificación exigida al contratista.
+    D. Solo la existencia de garantía definitiva constituida.
 
 11. El pliego que regula las características técnicas de la prestación es el:
-    A. Pliego de cláusulas administrativas particulares.
-    B. Pliego de condiciones laborales.
+    A. Pliego de cláusulas administrativas generales.
+    B. Pliego de bases de ejecución del presupuesto.
     C. Pliego de prescripciones técnicas.
-    D. Pliego de solvencia económica.
+    D. Pliego de cláusulas administrativas particulares.
 
 12. El pliego de cláusulas administrativas particulares regula, entre otros aspectos:
     A. Los derechos, obligaciones y criterios de adjudicación aplicables al contrato.
     B. Únicamente las características técnicas de la prestación.
-    C. Solo la ubicación geográfica de la obra.
-    D. Exclusivamente el organigrama de la empresa contratista.
+    C. Solo el precio de licitación, sin mencionar criterios de adjudicación.
+    D. Exclusivamente el régimen jurídico aplicable, sin derechos ni obligaciones.
 
 13. La perfección de los contratos del sector público se produce, con carácter general:
     A. Con la mera presentación de la oferta.
@@ -86,7 +88,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. La Administración lo asume siempre a su costa.
     B. Puede hacerlo, pero a su propia costa.
     C. Está prohibido por la LCSP.
-    D. Se convierte automáticamente en contrato privado.
+    D. Requiere la autorización previa del Consejo de Estado.
 
 15. La memoria justificativa, dentro del expediente de contratación, tiene como función:
     A. Sustituir al pliego de prescripciones técnicas.
@@ -96,8 +98,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 16. Cuando un contrato no se divide en lotes, el expediente debe incluir:
     A. La justificación de la no división en lotes, si procede.
-    B. Un informe favorable del contratista.
-    C. La renuncia expresa de todos los licitadores.
+    B. Un informe favorable de la Intervención sobre la oportunidad de la división.
+    C. La clasificación exigida a todos los licitadores potenciales.
     D. La autorización previa del Tribunal de Cuentas en todo caso.
 
 17. La fiscalización previa, dentro de la tramitación del expediente de contratación:
@@ -110,19 +112,19 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. No incluir nunca ejecución de obra.
     B. Transferir al concesionario el riesgo operacional derivado de la explotación.
     C. Excluir cualquier contraprestación económica.
-    D. Ser siempre un contrato menor.
+    D. Estar siempre sujeto al procedimiento negociado sin publicidad.
 
 19. En la concesión de servicios, el elemento distintivo frente al contrato de servicios ordinario es:
-    A. La ausencia total de pliegos.
-    B. La imposibilidad de que exista un poder adjudicador.
+    A. La ausencia de riesgo operacional para el concesionario.
+    B. La imposibilidad de que el poder adjudicador conserve la titularidad del servicio.
     C. La transferencia de riesgo operacional al concesionario en la gestión del servicio.
     D. La prohibición de licitación pública.
 
 20. Un contrato mixto es aquel que:
     A. Contiene prestaciones correspondientes a distintos tipos contractuales.
-    B. Solo puede celebrarse de forma verbal.
-    C. Excluye cualquier régimen jurídico aplicable.
-    D. Es siempre nulo de pleno derecho.
+    B. Se rige siempre exclusivamente por las normas del contrato de menor cuantía entre los tipos combinados.
+    C. Excluye la aplicación de cualquier pliego de cláusulas administrativas.
+    D. Debe tramitarse siempre como contrato menor, con independencia de su importe.
 
 21. Los contratos privados del sector público, a diferencia de los administrativos:
     A. Nunca pueden celebrarlos las Administraciones Públicas.
@@ -134,19 +136,19 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     A. Un procedimiento exclusivo para contratos de emergencia.
     B. Una variante ágil del procedimiento abierto para contratos que cumplen determinados requisitos de cuantía y criterios.
     C. Un procedimiento sin ningún tipo de publicidad.
-    D. Un procedimiento reservado a la Unión Europea.
+    D. Reservado exclusivamente a contratos por encima de los umbrales de regulación armonizada de la Unión Europea.
 
 23. El concurso de proyectos, como procedimiento de contratación, se emplea especialmente para:
     A. Contratos de suministro de bienes muebles.
     B. Contratos menores de servicios.
     C. Seleccionar planes o proyectos, especialmente en arquitectura, urbanismo o ingeniería.
-    D. Adquirir productos financieros.
+    D. Contratos de concesión de servicios financieros excluidos de la LCSP.
 
 24. Los criterios cualitativos de adjudicación pueden valorar, entre otros aspectos:
     A. La calidad, el valor técnico, la accesibilidad y las características sociales o ambientales.
     B. Únicamente el precio más bajo.
-    C. Solo la antigüedad de la empresa.
-    D. Exclusivamente el domicilio social del licitador.
+    C. Solo el coste del ciclo de vida del producto o servicio.
+    D. Exclusivamente la clasificación exigida al contratista.
 
 25. Los criterios de adjudicación deben, entre otros requisitos:
     A. Permanecer ocultos a los licitadores hasta la adjudicación.
@@ -162,18 +164,18 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 27. Entre las prerrogativas de la Administración en los contratos administrativos se encuentra:
     A. Eliminar cualquier derecho del contratista sin procedimiento.
-    B. Actuar sin sujeción a la ley.
+    B. Actuar sin necesidad de que la prerrogativa esté prevista en la Ley 9/2017.
     C. Modificar el contrato por razones de interés público, dentro de los límites legales.
     D. Resolver el contrato sin necesidad de audiencia al contratista en ningún caso.
 
 28. El ejercicio de las prerrogativas administrativas en los contratos exige, con carácter general:
     A. Procedimiento y audiencia al contratista.
     B. Aprobación previa del contratista afectado.
-    C. Autorización del Tribunal Supremo en cada caso.
+    C. Autorización previa del Consejo de Estado en cada caso.
     D. Ausencia total de control posterior.
 
 29. La fase de selección, dentro del procedimiento de contratación, incluye principalmente:
-    A. La aprobación de los Presupuestos Generales del Estado.
+    A. La aprobación del expediente de contratación por el órgano competente.
     B. La firma del contrato formalizado.
     C. La ejecución material de la obra.
     D. La comprobación de capacidad y solvencia y la valoración de las ofertas presentadas.

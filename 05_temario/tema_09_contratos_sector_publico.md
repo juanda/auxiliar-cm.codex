@@ -394,6 +394,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. La Ley 9/2017 regula:
@@ -403,7 +405,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    D. La contratación del sector público.
 
 2. La contratación pública debe ajustarse a los principios de:
-   A. Jerarquía, disciplina y obediencia.
+   A. Estabilidad presupuestaria, jerarquía normativa y coordinación.
    B. Secreto, rapidez y adjudicación directa.
    C. Libertad de acceso, publicidad, transparencia, no discriminación e igualdad de trato.
    D. Mérito, capacidad y antigüedad.
@@ -411,7 +413,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 3. En toda contratación pública se incorporarán transversalmente:
    A. Criterios profesionales sin relación con el objeto.
    B. Solo criterios económicos.
-   C. Solo criterios políticos.
+   C. Solo criterios de eficiencia energética, sin relación con el objeto del contrato.
    D. Criterios sociales y medioambientales vinculados al objeto.
 
 4. Los contratos excluidos de la LCSP incluyen:
@@ -424,7 +426,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    A. Al interés público, ordenamiento jurídico y principios de buena administración.
    B. Al interés privado y a la buena fe.
    C. Solo a la Constitución.
-   D. A la voluntad del contratista.
+   D. A la voluntad del órgano de contratación, sin más límite.
 
 6. La contratación verbal:
    A. Está permitida siempre.
@@ -447,7 +449,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 9. Los importes de contrato menor se entienden:
    A. Sin IVA, como valor estimado.
    B. Con IVA incluido siempre.
-   C. Solo con impuestos locales.
+   C. Con el presupuesto base de licitación, IVA incluido.
    D. Sin relación con el valor estimado.
 
 10. El contrato de suministro tiene por objeto:
@@ -471,7 +473,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 13. La concesión de servicios se caracteriza por:
     A. Prohibición de explotación.
     B. Transferencia de riesgo operacional.
-    C. Ser siempre contrato menor.
+    C. Estar siempre sujeta al procedimiento de emergencia.
     D. No tener licitación.
 
 14. La concesión de obras combina:
@@ -489,32 +491,32 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 16. En el procedimiento restringido:
     A. Cualquier empresa puede solicitar participar, pero solo las seleccionadas presentan oferta.
     B. Todo empresario interesado puede presentar proposición directamente.
-    C. Se adjudica verbalmente.
+    C. Se negocian las condiciones con los candidatos seleccionados.
     D. Solo se usa para emergencias.
 
 17. En el procedimiento negociado:
     A. Nunca hay negociación.
     B. Siempre gana el precio más bajo sin más.
     C. Se negocian condiciones con uno o varios candidatos.
-    D. Solo se usa para contratos laborales.
+    D. Solo se usa para contratos ya formalizados y en ejecución.
 
 18. El diálogo competitivo se usa especialmente:
     A. Para comprar bienes muebles simples.
     B. Para contratos verbales.
-    C. Para sanciones.
+    C. Para contratos menores de escasa cuantía.
     D. Para contratos complejos en los que se dialoga para definir soluciones.
 
 19. La asociación para la innovación sirve para:
     A. Desarrollar productos, servicios u obras innovadores y adquirirlos después.
-    B. Resolver recursos administrativos.
-    C. Elegir funcionarios.
+    B. Seleccionar planes o proyectos de arquitectura o ingeniería.
+    C. Adjudicar contratos menores sin publicidad.
     D. Sustituir todo procedimiento.
 
 20. La adjudicación debe basarse normalmente en:
-    A. Antigüedad del licitador.
+    A. El coste del ciclo de vida exclusivamente, sin ningún criterio cualitativo.
     B. Mejor relación calidad-precio.
     C. Nacionalidad del empresario.
-    D. Sorteo.
+    D. Sorteo entre los licitadores que superen el umbral de solvencia mínima.
 
 21. Los criterios de adjudicación deben estar:
     A. Vinculados al objeto del contrato.
@@ -523,16 +525,16 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Ocultos a los licitadores.
 
 22. El perfil de contratante se relaciona con:
-    A. Registro civil.
-    B. Expediente sancionador penal.
+    A. El registro de contratos del sector público, como órgano jurisdiccional.
+    B. El expediente de contratación, sustituyéndolo por completo.
     C. Publicidad y transparencia contractual.
-    D. Nóminas de empleados.
+    D. La memoria justificativa, sustituyéndola por completo.
 
 23. El objeto del contrato:
     A. Puede fraccionarse indebidamente para evitar publicidad.
     B. Debe ser determinado.
     C. No debe responder a necesidad pública.
-    D. Es irrelevante.
+    D. Solo debe describirse en el pliego de prescripciones técnicas, nunca en el de cláusulas administrativas.
 
 24. El valor estimado:
     A. Incluye siempre IVA.
@@ -543,20 +545,20 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 25. El pliego de cláusulas administrativas particulares regula:
     A. Solo dibujos técnicos.
     B. Derechos, obligaciones y reglas administrativas del contrato.
-    C. Solo normativa penal.
-    D. Solo organigrama del órgano.
+    C. Solo el precio de licitación, sin criterios de adjudicación.
+    D. Solo las características técnicas de la prestación.
 
 26. El pliego de prescripciones técnicas regula:
-    A. Solo recursos administrativos.
+    A. Solo los derechos y obligaciones de las partes.
     B. Solo solvencia económica.
-    C. Solo nombramientos.
+    C. Solo el régimen jurídico aplicable al contrato.
     D. Características técnicas de la prestación.
 
 27. La solvencia del empresario acredita:
     A. Capacidad económica, financiera, técnica o profesional para ejecutar.
-    B. Que siempre es Administración Pública.
+    B. Que está clasificado en todos los contratos, sin excepción.
     C. Que no hay que licitar.
-    D. Que el contrato es verbal.
+    D. Que el contrato es un contrato menor, sin necesidad de acreditar solvencia.
 
 28. Las prerrogativas administrativas en contratos administrativos:
     A. Permiten actuar sin ley.
@@ -565,16 +567,16 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Solo existen en contratos privados.
 
 29. El contrato mixto:
-    A. Es siempre nulo.
+    A. Se rige siempre exclusivamente por las normas del contrato de menor cuantía entre los tipos combinados.
     B. Contiene prestaciones de distintos tipos contractuales.
-    C. Es un contrato verbal.
-    D. Solo puede ser laboral.
+    C. Excluye la aplicación de cualquier pliego de cláusulas administrativas.
+    D. Debe tramitarse siempre como contrato menor, con independencia de su importe.
 
 30. ¿Cuál es la opción correcta?
     A. Abierto: todos pueden presentar oferta; restringido: solo seleccionados presentan oferta.
     B. Abierto: solo seleccionados; restringido: todos presentan oferta.
-    C. Ambos son contratación verbal.
-    D. Ninguno exige publicidad nunca.
+    C. Abierto: contratación verbal siempre; restringido: contratación escrita siempre.
+    D. Ninguno exige publicidad cuando el contrato es de emergencia.
 
 ### Plantilla de respuestas
 
