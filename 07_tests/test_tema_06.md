@@ -2,6 +2,8 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco independiente del test embebido en el tema: mismos contenidos, formulaciones distintas.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. El objeto de la Ley 39/2015 incluye:
@@ -17,26 +19,26 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    D. Al sector público institucional
 
 3. Las Corporaciones de Derecho Público, en el ejercicio de funciones públicas atribuidas o delegadas:
-   A. Se rigen solo por Derecho privado
-   B. Quedan fuera de toda norma administrativa
+   A. Se rigen por la Ley 40/2015 de forma exclusiva y excluyente
+   B. Quedan sometidas al mismo régimen que la Administración General del Estado, sin normativa propia
    C. Se rigen exclusivamente por la Ley 39/2015
    D. Se rigen por su normativa específica y, supletoriamente, por la Ley 39/2015
 
 4. ¿Quién tiene la condición de interesado en un procedimiento según la Ley 39/2015?
    A. Solo quien lo inicia
    B. También quien, sin haberlo iniciado, tiene derechos que pueden resultar afectados por la resolución
-   C. Solo el personal funcionario que lo tramita
-   D. Solo quien abona una tasa
+   C. Solo quien tiene intereses legítimos y no comparece en el procedimiento
+   D. Solo quien es citado como testigo en el período de prueba
 
 5. Deben motivarse, entre otros:
-   A. Los actos confidenciales, que nunca se motivan
+   A. Los actos que confirman el criterio seguido en actuaciones precedentes
    B. Los actos solo si el interesado lo pide expresamente
    C. Los actos que se separen del dictamen de órganos consultivos
    D. Nunca los actos dictados en ejercicio de potestades discrecionales
 
 6. Los actos administrativos se producirán:
-   A. Siempre de forma oral
-   B. Siempre mediante telegrama
+   A. Oral, salvo que el interesado solicite por escrito
+   B. Verbal, cuando la Administración lo considere más ágil
    C. Por escrito solo si el interesado lo autoriza expresamente
    D. Por escrito a través de medios electrónicos, salvo que su naturaleza exija otra forma
 
@@ -44,7 +46,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    A. Desde la fecha en que se dictan, salvo que dispongan otra cosa
    B. Solo transcurrido un mes desde que se dictan
    C. Solo tras una publicación previa
-   D. Desde que el interesado firma su conformidad
+   D. Desde que el Consejo de Estado emite dictamen favorable
 
 8. La notificación se practicará mediante anuncio en el BOE cuando:
    A. El destinatario rechace la notificación
@@ -54,8 +56,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 
 9. Si el destinatario rechaza la notificación:
    A. Debe publicarse siempre en el BOE
-   B. El acto se anula
-   C. El procedimiento se archiva
+   B. Se abre de oficio un trámite de subsanación de diez días
+   C. Se practica la notificación mediante comparecencia obligatoria del interesado en las oficinas del órgano
    D. Se tiene por efectuado el trámite y continúa el procedimiento
 
 10. Las fases del procedimiento administrativo común son:
@@ -73,8 +75,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 12. Cuando un procedimiento se inicia por denuncia:
     A. Se entiende iniciado de oficio
     B. El denunciante se convierte automáticamente en interesado
-    C. El procedimiento se archiva sin más trámite
-    D. Se abre directamente la vía contencioso-administrativa
+    C. Se requiere ratificación notarial de la denuncia para tramitarla
+    D. Se abre directamente un período de información pública de veinte días
 
 13. Si una solicitud de iniciación no reúne los requisitos exigidos, se concede para subsanar, con advertencia de desistimiento:
     A. 5 días
@@ -97,8 +99,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 16. Las cuestiones incidentales que se susciten en el procedimiento:
     A. Suspenden siempre la tramitación
     B. No suspenden la tramitación, salvo la recusación
-    C. Equivalen a un recurso administrativo
-    D. Solo pueden plantearse al finalizar el procedimiento
+    C. Solo pueden plantearse mediante recurso de alzada previo
+    D. Solo pueden plantearse en el trámite de audiencia
 
 17. Los defectos de tramitación pueden alegarse por los interesados:
     A. Solo antes de iniciarse el procedimiento
@@ -113,8 +115,8 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Solo en vía de recurso
 
 19. El período de prueba tendrá una duración:
-    A. Siempre de 5 días
-    B. Siempre de 3 meses
+    A. Siempre de 10 días, sin posibilidad de prueba extraordinaria
+    B. No superior a 30 días ni inferior a 15
     C. No superior a 30 días ni inferior a 10
     D. Indefinida, según el instructor
 
@@ -127,7 +129,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 21. Si una Administración distinta de la que tramita el procedimiento no emite su informe en plazo:
     A. Se pueden proseguir las actuaciones
     B. Caduca automáticamente el procedimiento
-    C. Se anula el expediente
+    C. Se suspende el procedimiento hasta que se emita el informe, sin plazo máximo
     D. Se amplía siempre el plazo cinco días
 
 22. El trámite de audiencia se realiza:
@@ -137,7 +139,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Inmediatamente antes de redactar la propuesta de resolución
 
 23. El plazo del trámite de audiencia será:
-    A. Inferior a 5 días
+    A. No inferior a 5 días ni superior a 10
     B. No inferior a 10 días ni superior a 15
     C. Siempre de 30 días
     D. Siempre de 3 meses
@@ -157,14 +159,14 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 26. La resolución que ponga fin al procedimiento debe decidir:
     A. Todas las cuestiones planteadas por los interesados y las derivadas del procedimiento
     B. Solo lo pedido literalmente en la solicitud inicial
-    C. Solo cuestiones de competencia
-    D. Solo cuestiones de plazo
+    C. Solo las cuestiones alegadas en el trámite de audiencia
+    D. Solo las cuestiones que consten en el informe preceptivo
 
 27. La diferencia entre desistimiento y renuncia es que:
     A. Son términos sinónimos en la Ley 39/2015
     B. El desistimiento abandona el derecho y la renuncia el procedimiento
     C. El desistimiento abandona la solicitud o el procedimiento; la renuncia abandona el derecho, si es renunciable
-    D. Ambos exigen sentencia judicial previa
+    D. Ambas requieren la previa declaración de lesividad del acto
 
 28. En procedimientos iniciados de oficio susceptibles de producir efectos desfavorables, la caducidad se produce:
     A. Nunca, en los procedimientos de oficio no cabe caducidad
@@ -181,7 +183,7 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
 30. El recurso extraordinario de revisión se entiende desestimado por silencio si transcurren sin resolver:
     A. Más de 3 meses
     B. Más de 1 mes
-    C. Más de 15 días
+    C. Más de 2 meses
     D. No cabe el silencio en este recurso
 
 ## Respuestas

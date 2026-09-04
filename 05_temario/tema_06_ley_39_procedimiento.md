@@ -474,6 +474,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. La Ley 39/2015 tiene por objeto regular:
@@ -490,18 +492,18 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 3. Las Corporaciones de Derecho Público, en funciones públicas atribuidas o delegadas:
    A. Se rigen por su normativa específica y supletoriamente por la Ley 39/2015.
-   B. Se rigen solo por Derecho privado.
-   C. Quedan fuera de toda norma administrativa.
+   B. Se rigen por la Ley 40/2015 de forma exclusiva y excluyente.
+   C. Quedan sometidas al mismo régimen que la Administración General del Estado, sin normativa propia.
    D. Se rigen exclusivamente por la Ley 39/2015.
 
 4. Los actos que se separen del criterio seguido en actuaciones precedentes:
    A. No requieren motivación.
    B. Deben motivarse con referencia de hechos y fundamentos de derecho.
-   C. Son nulos automáticamente.
+   C. Son irregulares no invalidantes, sin necesidad de motivación.
    D. Solo se motivan si son favorables.
 
 5. Los actos administrativos se producirán:
-   A. Exclusivamente de forma oral.
+   A. Oral, salvo que el interesado solicite por escrito.
    B. Por escrito a través de medios electrónicos, salvo que su naturaleza exija otra forma.
    C. Por escrito solo cuando sea posible.
    D. Mediante publicación en el BOE en todo caso.
@@ -509,26 +511,26 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 6. Los actos administrativos se presumen válidos y producen efectos:
    A. Desde el día siguiente a dictarse.
    B. Desde la fecha en que se dicten, salvo que dispongan otra cosa.
-   C. Desde que el interesado recurra.
+   C. Desde que el Consejo de Estado emite dictamen favorable.
    D. Solo desde publicación.
 
 7. La notificación mediante anuncio en el BOE procede cuando:
    A. El destinatario rechaza la notificación.
    B. Los interesados son desconocidos.
    C. El acto es favorable.
-   D. El interesado prefiere no recibir notificaciones.
+   D. El interesado reside fuera de la Comunidad de Madrid.
 
 8. Si el destinatario rechaza la notificación:
    A. Debe publicarse siempre en BOE.
    B. Se tiene por efectuado el trámite y continúa el procedimiento.
-   C. Se archiva el procedimiento.
-   D. El acto se vuelve nulo.
+   C. Se abre de oficio un trámite de subsanación de diez días.
+   D. Se practica la notificación mediante comparecencia obligatoria del interesado en las oficinas del órgano.
 
 9. La nulidad de pleno derecho incluye:
    A. Actos dictados por órgano manifiestamente incompetente por materia o territorio.
    B. Cualquier defecto de forma.
    C. Cualquier actuación fuera de plazo.
-   D. Todo error mecanográfico.
+   D. Todo error material susceptible de rectificación conforme al artículo 109.2.
 
 10. La conservación de actos y trámites se regula en el artículo:
     A. 47.
@@ -546,12 +548,12 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Por acuerdo del órgano competente.
     B. Por acuerdo del órgano instructor siempre.
     C. Por acuerdo del interesado.
-    D. Por publicación en el BOE.
+    D. Por petición razonada de un particular ajeno al procedimiento.
 
 13. Cuando un procedimiento se inicia por denuncia, se entiende iniciado:
     A. A instancia de parte.
     B. De oficio.
-    C. Por recurso administrativo.
+    C. Por reclamación previa a la vía judicial.
     D. Por terminación convencional.
 
 14. Si una solicitud no reúne requisitos, normalmente se concede para subsanar:
@@ -574,7 +576,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 17. Los defectos de tramitación pueden alegarse:
     A. En cualquier momento.
-    B. Solo antes de iniciar el procedimiento.
+    B. Solo durante el trámite de audiencia.
     C. Solo en período de prueba.
     D. Solo después de la resolución.
 
@@ -585,9 +587,9 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Solo en recurso de alzada.
 
 19. La prueba tendrá un plazo:
-    A. Siempre de 5 días.
+    A. Siempre de 10 días, sin posibilidad de prueba extraordinaria.
     B. No superior a 30 días ni inferior a 10.
-    C. Siempre de 3 meses.
+    C. No superior a 30 días ni inferior a 15.
     D. Indefinido.
 
 20. Los informes serán, salvo disposición expresa:
@@ -599,7 +601,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 21. Si una Administración distinta no emite en plazo un informe para expresar sus competencias:
     A. Se pueden proseguir las actuaciones.
     B. Caduca automáticamente el procedimiento.
-    C. Se anula el expediente.
+    C. Se suspende el procedimiento hasta que se emita el informe, sin plazo máximo.
     D. Se amplía el plazo siempre 5 días.
 
 22. El trámite de audiencia se realiza:
@@ -609,7 +611,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Solo si hay recurso.
 
 23. El plazo del trámite de audiencia será:
-    A. Inferior a 5 días.
+    A. No inferior a 5 días ni superior a 10.
     B. No inferior a 10 ni superior a 15 días.
     C. Siempre 30 días.
     D. Siempre 3 meses.
@@ -623,8 +625,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 25. La resolución debe decidir:
     A. Solo lo pedido en el primer escrito, nunca cuestiones derivadas.
     B. Todas las cuestiones planteadas por interesados y las derivadas del procedimiento.
-    C. Solo cuestiones de competencia.
-    D. Solo cuestiones de notificación.
+    C. Solo las cuestiones alegadas en el trámite de audiencia.
+    D. Solo las cuestiones que consten en el informe preceptivo.
 
 26. En reposición, si el acto es expreso, el plazo de interposición es:
     A. 10 días.
@@ -641,20 +643,20 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 28. La encomienda de gestión:
     A. Altera la titularidad de la competencia.
     B. No altera la titularidad de la competencia.
-    C. Es siempre un recurso administrativo.
-    D. Es una forma de finalización.
+    C. Es una modalidad de delegación de firma.
+    D. Es una forma de iniciación de oficio del procedimiento.
 
 29. La delegación de firma y la suplencia:
     A. Alteran siempre la titularidad de la competencia.
     B. No alteran la titularidad de la competencia.
-    C. Son formas de iniciación a solicitud.
-    D. Son recursos extraordinarios.
+    C. Son modalidades de encomienda de gestión.
+    D. Son formas de terminación convencional del procedimiento.
 
 30. ¿Cuál es la opción correcta?
     A. Alegaciones ordinarias: cualquier momento anterior a audiencia; defectos de tramitación: cualquier momento.
     B. Alegaciones ordinarias: solo después de audiencia; defectos: solo en recurso.
-    C. Ambas solo pueden presentarse al inicio.
-    D. Ambas solo pueden presentarse ante juez.
+    C. Alegaciones ordinarias: solo en período de prueba; defectos de tramitación: solo en audiencia.
+    D. Ambas solo pueden presentarse en el trámite de audiencia.
 
 ### Plantilla de respuestas
 
