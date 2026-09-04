@@ -2,49 +2,51 @@
 
 Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio. Banco distinto del test embebido en el tema (sección 7), para practicar con formulaciones y artículos no repetidos.
 
+Los distractores de este banco están construidos con contenido constitucional real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ## Preguntas
 
 1. ¿Qué reconoce el artículo 2 CE junto a la unidad de la Nación española?
-   A. La soberanía compartida entre Estado y Comunidades.
+   A. La indisoluble unidad de la Nación española, sin reconocer ningún tipo de autonomía territorial.
    B. La autonomía de nacionalidades y regiones y la solidaridad entre ellas.
-   C. El derecho de autodeterminación.
-   D. La federación de territorios históricos.
+   C. La oficialidad de las lenguas propias de las Comunidades Autónomas junto al castellano.
+   D. El derecho de autodeterminación de las nacionalidades históricas.
 
 2. ¿Qué establece el artículo 3 CE sobre el castellano?
-   A. Es lengua oficial solo en algunas comunidades.
-   B. Es lengua cooficial junto al inglés.
+   A. Es lengua oficial del Estado junto con las demás lenguas españolas, todas con igual rango en todo el territorio nacional.
+   B. Es lengua oficial del Estado; su conocimiento es un derecho, pero no un deber, para los españoles.
    C. Es la lengua oficial del Estado; todos los españoles tienen el deber de conocerla y el derecho a usarla.
-   D. Su uso es voluntario para las Administraciones.
+   D. Es lengua oficial en las Comunidades Autónomas que la declaren cooficial en su Estatuto.
 
 3. ¿A qué se refiere el artículo 4 CE?
-   A. Al himno nacional únicamente.
+   A. Al himno nacional.
    B. A la bandera de España y las banderas de las Comunidades Autónomas.
    C. A la capital del Estado.
-   D. A los símbolos de las Fuerzas Armadas.
+   D. Al escudo de España y sus cuarteles heráldicos.
 
 4. La villa de Madrid es, conforme al artículo 5 CE:
-   A. Sede del Tribunal Constitucional.
+   A. Sede del Tribunal Constitucional en exclusiva, sin mención a la capitalidad del Estado.
    B. La capital del Estado.
-   C. Sede exclusiva de las Cortes Generales.
-   D. Territorio de régimen foral.
+   C. Sede de las Cortes Generales, pero no capital del Estado.
+   D. Territorio sometido a régimen foral especial.
 
 5. ¿Qué exige la Constitución a la estructura interna de los partidos políticos, sindicatos y asociaciones empresariales?
-   A. Que estén federados.
-   B. Que tengan sede en Madrid.
+   A. Que concurran a la formación de la voluntad popular, sin exigencia de estructura interna democrática.
+   B. Que su creación sea libre, pero su funcionamiento quede sujeto a autorización previa del Ministerio del Interior.
    C. Que sean democráticos.
-   D. Que se financien solo con fondos públicos.
+   D. Que respeten la Constitución y la ley, sin condicionar además su estructura interna.
 
 6. Las Fuerzas Armadas tienen como misión, conforme al artículo 8 CE:
    A. Garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.
-   B. Ejercer funciones de policía judicial.
-   C. Controlar el orden público en exclusiva.
-   D. Sustituir a la Administración civil en caso de huelga.
+   B. Proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.
+   C. Garantizar la soberanía e independencia de España y el mantenimiento del orden público en todo el territorio.
+   D. Defender la integridad territorial y sustituir a las Fuerzas y Cuerpos de Seguridad durante los estados de alarma.
 
 7. ¿A quién vincula el artículo 9.1 CE, además de a los poderes públicos?
-   A. Solo a los funcionarios.
+   A. Únicamente a los funcionarios públicos y a la Administración.
    B. A los ciudadanos.
-   C. Solo a las Administraciones territoriales.
-   D. Solo a los Jueces y Tribunales.
+   C. Únicamente a los poderes públicos, sin extenderse a los particulares.
+   D. A los ciudadanos, pero no a los extranjeros residentes en España.
 
 8. ¿Cuál de los siguientes NO es uno de los principios del artículo 9.3 CE?
    A. La jerarquía normativa.
@@ -59,10 +61,10 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
    D. El libre desarrollo de la personalidad.
 
 10. Un español de origen:
-    A. Puede ser privado de su nacionalidad en casos graves.
+    A. Puede ser privado de ella si el Gobierno lo considera necesario por razones de orden público.
     B. No podrá ser privado de su nacionalidad en ningún caso.
-    C. Pierde la nacionalidad si reside fuera de España más de 10 años.
-    D. Necesita renovar su nacionalidad cada 10 años.
+    C. Puede perderla si adquiere la nacionalidad de un país iberoamericano, salvo tratado de doble nacionalidad.
+    D. Puede ser privado de ella únicamente mediante sentencia firme por delito grave.
 
 11. Los españoles alcanzan la mayoría de edad, conforme al artículo 12 CE, a los:
     A. 18 años.
@@ -71,22 +73,22 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. 14 años.
 
 12. La extradición de extranjeros solo se concede, conforme al artículo 13 CE:
-    A. Nunca, salvo delitos políticos.
-    B. Automáticamente si lo solicita otro Estado.
-    C. Solo si el extranjero lo consiente.
+    A. Nunca, ya que todos los delitos políticos, incluido el terrorismo, quedan excluidos de la extradición.
+    B. Automáticamente, siempre que exista reciprocidad, sin necesidad de tratado ni de ley.
+    C. Solo si el extranjero reclamado presta su consentimiento expreso.
     D. En cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.
 
 13. El artículo 15 CE prohíbe expresamente:
-    A. Solo la pena de muerte en tiempo de paz.
-    B. Solo los tratos degradantes en centros penitenciarios.
+    A. Únicamente la pena de muerte, sin mención expresa a la tortura ni a los tratos degradantes.
+    B. Los tratos degradantes, pero solo cuando se producen en centros penitenciarios.
     C. La tortura y las penas o tratos inhumanos o degradantes.
-    D. Únicamente la tortura policial.
+    D. La tortura, salvo lo que dispongan las leyes penales militares para tiempos de guerra.
 
 14. Conforme al artículo 16 CE:
-    A. El catolicismo es la religión oficial del Estado.
-    B. Las confesiones religiosas deben inscribirse obligatoriamente.
+    A. El Estado es aconfesional y no podrá mantener relaciones de cooperación con ninguna confesión religiosa.
+    B. Las confesiones religiosas deben inscribirse obligatoriamente para poder ejercer el culto.
     C. Ninguna confesión tendrá carácter estatal.
-    D. La libertad religiosa solo protege a los ciudadanos españoles.
+    D. Ninguna confesión tendrá carácter estatal, salvo la Iglesia Católica por razones históricas.
 
 15. El procedimiento de «habeas corpus» se regula mediante:
     A. Ley orgánica que determine el procedimiento para la inmediata puesta a disposición judicial.
@@ -107,34 +109,34 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. Elegir libremente su residencia y a circular por el territorio nacional.
 
 18. Conforme al artículo 20 CE:
-    A. La censura previa es admisible por razones de seguridad nacional.
-    B. Solo el Gobierno puede autorizar publicaciones.
+    A. Solo podrá acordarse mediante resolución judicial el secuestro de publicaciones, pero la censura previa administrativa sí es posible.
+    B. Se admite la censura previa exclusivamente durante los estados de excepción o de sitio.
     C. Se prohíbe la censura previa.
-    D. Las publicaciones requieren depósito previo obligatorio.
+    D. La censura previa está prohibida salvo para medios de comunicación de titularidad pública.
 
 19. El derecho de reunión del artículo 21 CE exige comunicación previa a la autoridad:
-    A. En todo caso, sin excepción.
-    B. Solo para reuniones de más de 100 personas.
+    A. En todo caso, incluidas las reuniones en lugares de tránsito público sin manifestación.
+    B. Solo cuando la reunión se convoque con menos de diez días de antelación.
     C. Cuando se trate de reuniones en lugares de tránsito público y manifestaciones.
-    D. Nunca; el derecho de reunión no admite ningún requisito.
+    D. Siempre, y la autoridad deberá autorizarlas expresamente antes de su celebración.
 
 20. Conforme al artículo 22 CE, quedan prohibidas:
-    A. Todas las asociaciones sin ánimo de lucro.
+    A. Las asociaciones que no se inscriban en el registro correspondiente a efectos de publicidad.
     B. Las asociaciones secretas y las de carácter paramilitar.
-    C. Las asociaciones religiosas.
-    D. Las asociaciones sindicales.
+    C. Las asociaciones que persigan fines tipificados como delito, aunque no sean secretas ni paramilitares.
+    D. Las asociaciones secretas, pero no las de carácter paramilitar si cuentan con autorización militar.
 
 21. El artículo 23 CE reconoce el derecho de los ciudadanos a:
-    A. Ser convocados obligatoriamente a referéndum cada año.
+    A. Ser consultados mediante referéndum vinculante en todas las decisiones legislativas relevantes.
     B. Participar en los asuntos públicos directamente o por medio de representantes, y acceder en condiciones de igualdad a las funciones y cargos públicos.
-    C. Elegir directamente a los Consejeros autonómicos.
-    D. Vetar leyes aprobadas por las Cortes.
+    C. Elegir directamente a los Consejeros del Gobierno autonómico.
+    D. Presentar iniciativas legislativas populares sin ningún requisito de firmas.
 
 22. El derecho a la tutela judicial efectiva del artículo 24 CE incluye:
     A. El derecho a la defensa, a la prueba y a la presunción de inocencia, sin que se produzca indefensión.
-    B. El derecho a no sufrir nunca un proceso judicial.
-    C. El derecho a elegir libremente al juez.
-    D. El derecho a un segundo juicio ante cualquier tribunal europeo.
+    B. El derecho a elegir libremente el juez o tribunal que ha de conocer de la causa.
+    C. El derecho a que el proceso se resuelva en una única instancia, sin posibilidad de recurso.
+    D. El derecho a un doble grado de jurisdicción ante cualquier tribunal de la Unión Europea.
 
 23. El principio de legalidad penal del artículo 25 CE implica que:
     A. Las penas pueden aplicarse retroactivamente si son más graves.
@@ -155,10 +157,10 @@ Preguntas nuevas de entrenamiento, orientadas a la convocatoria 2026 y a las rec
     D. El artículo 35 CE.
 
 26. Conforme al artículo 33 CE, la propiedad privada:
-    A. Se reconoce delimitada por su función social; cabe expropiación por causa justificada mediante indemnización.
-    B. Es un derecho absoluto sin límites.
-    C. Queda suprimida en caso de estado de excepción.
-    D. Solo protege bienes inmuebles.
+    A. Se reconoce delimitada por su función social; cabe expropiación por causa justificada, mediante indemnización.
+    B. Es un derecho absoluto que no admite expropiación en ningún caso.
+    C. Es uno de los derechos susceptibles de suspensión durante los estados de excepción o de sitio.
+    D. Solo ampara la propiedad de bienes inmuebles, no la propiedad mobiliaria ni intelectual.
 
 27. ¿En qué artículo de la Constitución se sitúa el mandato a los poderes públicos de mantener un régimen público de Seguridad Social?
     A. Artículo 35.

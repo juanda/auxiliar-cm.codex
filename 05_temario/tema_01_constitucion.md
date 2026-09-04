@@ -429,6 +429,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido constitucional real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 ### Preguntas
 
 1. Según el artículo 1.1 de la Constitución Española, España se constituye en:
@@ -453,7 +455,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    A. La Monarquía parlamentaria.
    B. La República parlamentaria.
    C. El Estado autonómico.
-   D. La democracia representativa.
+   D. La democracia parlamentaria.
 
 5. Los ciudadanos y los poderes públicos están sujetos:
    A. A la Constitución y a la ley.
@@ -477,19 +479,19 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
    A. La dignidad de la persona y el libre desarrollo de la personalidad.
    B. La unidad de mercado y el libre desarrollo de la empresa.
    C. La solidaridad territorial y la economía de mercado.
-   D. La seguridad nacional y la jerarquía administrativa.
+   D. La seguridad jurídica y la jerarquía normativa.
 
 9. Las normas relativas a derechos fundamentales y libertades se interpretarán conforme:
-   A. A los Estatutos de Autonomía.
+   A. A la Constitución exclusivamente, sin remisión a normas internacionales.
    B. A la Declaración Universal de Derechos Humanos y tratados ratificados por España.
    C. A los reglamentos de la Unión Europea exclusivamente.
-   D. A la costumbre constitucional.
+   D. A los tratados internacionales en general, sin necesidad de que España los haya ratificado.
 
 10. Los derechos fundamentales y libertades públicas se regulan en:
     A. Sección 1.ª, Capítulo II, Título I.
     B. Sección 2.ª, Capítulo II, Título I.
     C. Capítulo III, Título I.
-    D. Título III.
+    D. Capítulo I, Título I.
 
 11. El artículo 14 reconoce:
     A. La tutela judicial efectiva.
@@ -501,7 +503,7 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Un máximo de 24 horas.
     B. Un máximo de 48 horas.
     C. El tiempo estrictamente necesario y, en todo caso, máximo 72 horas.
-    D. El tiempo que autorice la Administración.
+    D. El tiempo estrictamente necesario, con un máximo de 48 horas prorrogables por el juez.
 
 13. El habeas corpus sirve para:
     A. Proteger el secreto de las comunicaciones.
@@ -510,19 +512,19 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. Suspender derechos en estado de excepción.
 
 14. La entrada en un domicilio exige, con carácter general:
-    A. Autorización administrativa.
+    A. Resolución judicial únicamente, sin que el consentimiento del titular sea suficiente.
     B. Consentimiento del titular, resolución judicial o flagrante delito.
     C. Comunicación previa a la Delegación del Gobierno.
     D. Acuerdo del Consejo de Ministros.
 
 15. El secuestro de publicaciones, grabaciones y otros medios de información solo puede acordarse:
     A. Por resolución judicial.
-    B. Por orden policial.
+    B. Por resolución judicial o, en caso de urgencia, por orden de la autoridad gubernativa con ratificación judicial posterior.
     C. Por acuerdo del Gobierno.
     D. Por instrucción del Ministerio Fiscal.
 
 16. El derecho de petición del artículo 29 se ejerce:
-    A. Siempre oralmente.
+    A. Por escrito u oralmente, a elección del solicitante.
     B. Por escrito.
     C. Solo mediante abogado y procurador.
     D. Solo ante el Defensor del Pueblo.
@@ -537,22 +539,22 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     A. Capítulo I del Título I.
     B. Sección 1.ª del Capítulo II del Título I.
     C. Capítulo III del Título I.
-    D. Título X.
+    D. Sección 2.ª del Capítulo II del Título I.
 
 19. El artículo 53.1 exige que la regulación del ejercicio de los derechos y libertades del Capítulo II:
-    A. Se haga solo por reglamento.
+    A. Se haga únicamente mediante ley orgánica en todo caso, sin excepción.
     B. Respete su contenido esencial.
     C. Sea siempre por decreto-ley.
-    D. Requiera referéndum.
+    D. Sea desarrollada exclusivamente por los reglamentos de las Comunidades Autónomas.
 
 20. El recurso de amparo protege:
-    A. Todos los derechos de la Constitución.
+    A. El artículo 14, toda la Sección 2.ª del Capítulo II del Título I y los principios rectores del Capítulo III.
     B. El artículo 14, la Sección 1.ª del Capítulo II del Título I y la objeción de conciencia del artículo 30.
     C. Solo los principios rectores.
     D. Solo los derechos del Capítulo III.
 
 21. El Defensor del Pueblo es:
-    A. Un órgano del Gobierno.
+    A. Un alto comisionado del Gobierno para la defensa de los derechos fundamentales.
     B. Alto comisionado de las Cortes Generales.
     C. Un órgano dependiente del Tribunal Supremo.
     D. Un órgano de las comunidades autónomas.
@@ -566,8 +568,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 23. La suspensión general del artículo 55.1 se vincula a:
     A. Estados de excepción o sitio.
     B. Estado de alarma exclusivamente.
-    C. Cualquier crisis sanitaria.
-    D. Cualquier acuerdo del Congreso.
+    C. Únicamente al estado de sitio, no al de excepción.
+    D. Los tres estados: alarma, excepción y sitio, por igual.
 
 24. ¿Cuál de los siguientes derechos puede ser objeto de suspensión individual conforme al artículo 55.2?
     A. Igualdad del artículo 14.
@@ -584,8 +586,8 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
 26. La reforma agravada del artículo 168 se aplica, entre otros supuestos, a reformas que afecten:
     A. Al Título Preliminar.
     B. Al Título VII exclusivamente.
-    C. A cualquier artículo reglamentario.
-    D. Solo a las disposiciones transitorias.
+    C. Al Título II (De la Corona) exclusivamente, sin incluir el Título Preliminar.
+    D. A la Sección 2.ª del Capítulo II del Título I.
 
 27. La capital del Estado es:
     A. Madrid.
@@ -594,22 +596,22 @@ Cobertura: el desarrollo anterior permite resolver todas las preguntas históric
     D. La Comunidad de Madrid.
 
 28. Los partidos políticos, según el artículo 6:
-    A. Son órganos del Estado.
+    A. Son instrumento fundamental para la participación política, pero no expresan el pluralismo político.
     B. Expresan el pluralismo político.
     C. Defienden intereses económicos y sociales propios.
-    D. Integran las Fuerzas Armadas.
+    D. Concurren a la formación de la voluntad popular, pero su estructura interna no está sujeta a exigencias democráticas.
 
 29. Ninguna confesión tendrá carácter estatal, conforme al derecho de:
     A. Libertad ideológica, religiosa y de culto.
-    B. Libertad de residencia.
-    C. Libertad de empresa.
-    D. Derecho de petición.
+    B. Libertad de expresión y de difusión de pensamientos e ideas (art. 20).
+    C. Libertad de conciencia militar y objeción al servicio de armas (art. 30).
+    D. Igualdad y no discriminación por razón de religión (art. 14).
 
 30. Los principios rectores del Capítulo III:
     A. Tienen siempre recurso de amparo directo.
     B. Solo podrán alegarse ante la jurisdicción ordinaria según las leyes que los desarrollen.
     C. No vinculan en ningún caso a los poderes públicos.
-    D. Se suspenden automáticamente en estado de alarma.
+    D. Se suspenden automáticamente durante los estados de excepción y de sitio.
 
 ### Plantilla de respuestas
 

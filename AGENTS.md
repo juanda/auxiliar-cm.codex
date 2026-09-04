@@ -416,3 +416,14 @@ Orden de redacción:
 * Incluir siempre preguntas tipo test.
 * Indicar referencias normativas.
 * Favorecer esquemas y tablas frente a texto extenso.
+
+## Reglas de distractores (preguntas tipo test)
+
+Objetivo: que solo se acierte al 100% habiendo estudiado, no por descarte de sentido común. Al redactar o revisar las 3 opciones incorrectas de cada pregunta:
+
+* **Vecinas reales, no absurdas**: basar cada distractor en contenido normativo auténtico pero equivocado para esa pregunta (otro artículo cercano, otra cifra/plazo real, otro quórum real, la categoría vecina), nunca en afirmaciones disparatadas o antidemocráticas que se descarten sin conocer la norma.
+* **Explotar distinciones clásicas de examen**: usar los pares que realmente confunden a quien no ha estudiado (p. ej. comunicación previa vs. autorización previa; español de origen vs. no de origen; recurso de amparo vs. cuestión de inconstitucionalidad; plazos/mayorías distintos y reales del mismo procedimiento).
+* **Sin lenguaje absoluto como pista**: evitar que "nunca/siempre/en ningún caso/sin excepción" delate por sí solo la opción correcta o incorrecta.
+* **Longitud y estilo parejos**: las 4 opciones con extensión y grado de tecnicismo similares; la correcta no debe ser la más larga o la más detallada por defecto.
+* **Plausibilidad temática**: las 4 opciones deben versar sobre el mismo objeto (misma institución/derecho/procedimiento), no sobre temas distintos fácilmente separables a simple vista.
+* Cada distractor debe seguir siendo una afirmación jurídicamente correcta *en otro contexto* (no inventar contenido normativo falso), solo incorrecta como respuesta a esa pregunta concreta.
