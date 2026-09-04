@@ -108,11 +108,11 @@ Los distractores están construidos con contenido normativo real (otra fecha, ot
     C. La negociación colectiva laboral
     D. El deber de defender España
 
-18. El derecho de fundación para fines de interés general, con arreglo a la ley, se reconoce en el artículo:
-    A. 33
-    B. 34
-    C. 36
-    D. 22
+18. El derecho de fundación para fines de interés general se ejerce, conforme al artículo 34 CE:
+    A. Sin sujeción a la ley, por mera declaración de voluntad del fundador
+    B. Con arreglo a la ley, aplicándose también lo dispuesto en los apartados 2 y 4 del artículo 22 sobre asociaciones
+    C. Únicamente mediante autorización previa y expresa del Gobierno
+    D. Solo por personas jurídicas de derecho público
 
 19. El artículo 35 CE reconoce:
     A. La libertad de empresa en el marco de la economía de mercado
@@ -120,23 +120,23 @@ Los distractores están construidos con contenido normativo real (otra fecha, ot
     C. El deber de trabajar y el derecho al trabajo, a la libre elección de profesión u oficio y a una remuneración suficiente
     D. El derecho de fundación para fines de interés general
 
-20. La regulación de las peculiaridades propias del régimen jurídico de los Colegios Profesionales y del ejercicio de las profesiones tituladas corresponde al artículo:
-    A. 35
-    B. 37
-    C. 28
-    D. 36
+20. Conforme al artículo 36 CE, la estructura interna y el funcionamiento de los Colegios Profesionales deben ser:
+    A. Jerárquicos, bajo control ministerial directo
+    B. Determinados libremente sin sujeción a ningún principio
+    C. Iguales en todo caso a los de los sindicatos
+    D. Democráticos
 
-21. El derecho a la negociación colectiva laboral entre los representantes de los trabajadores y los empresarios, así como la fuerza vinculante de los convenios, se reconoce en el artículo:
-    A. 37
-    B. 28
-    C. 35
-    D. 40
+21. El artículo 37 CE, además de garantizar la negociación colectiva laboral y la fuerza vinculante de los convenios, reconoce a trabajadores y empresarios el derecho a:
+    A. Adoptar medidas de conflicto colectivo, con las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad
+    B. Constituir sindicatos únicos de afiliación obligatoria
+    C. Fijar unilateralmente el salario mínimo interprofesional
+    D. Suspender el derecho de huelga mediante convenio colectivo
 
-22. La libertad de empresa en el marco de la economía de mercado se reconoce en el artículo:
-    A. 33
-    B. 38
-    C. 35
-    D. 37
+22. Conforme al artículo 38 CE, los poderes públicos garantizan el ejercicio de la libertad de empresa y:
+    A. La prohibición absoluta de cualquier intervención pública en la economía
+    B. La defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación
+    C. La reserva al sector público de los recursos o servicios esenciales, sin excepción
+    D. La planificación obligatoria de toda la actividad económica privada
 
 23. Dentro de los principios rectores de la política social y económica, el artículo 39 CE se refiere a:
     A. La Seguridad Social
@@ -156,35 +156,35 @@ Los distractores están construidos con contenido normativo real (otra fecha, ot
     C. Las personas con discapacidad
     D. La juventud
 
-26. El derecho a la protección de la salud se reconoce en el artículo:
-    A. 41
-    B. 43
-    C. 45
-    D. 49
+26. Conforme al artículo 43 CE, además de reconocer el derecho a la protección de la salud, los poderes públicos deben fomentar:
+    A. Exclusivamente la construcción de hospitales públicos
+    B. La educación sanitaria, la educación física y el deporte, así como facilitar la adecuada utilización del ocio
+    C. La investigación farmacéutica privada, con exclusión de la pública
+    D. Únicamente la afiliación obligatoria a mutualidades sanitarias
 
-27. El acceso a la cultura, a la ciencia y a la investigación científica y técnica se reconoce en el artículo:
-    A. 43
-    B. 46
-    C. 44
-    D. 51
+27. Conforme al artículo 44 CE, los poderes públicos promoverán la ciencia y la investigación científica y técnica:
+    A. Solo cuando lo soliciten las universidades públicas
+    B. En beneficio exclusivo de las empresas privadas del sector
+    C. En beneficio del interés general
+    D. Únicamente en materia de patrimonio histórico
 
-28. El derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo, se reconoce en el artículo:
-    A. 44
-    B. 46
-    C. 47
-    D. 45
+28. Conforme al artículo 45 CE, quienes violen el deber de conservar el medio ambiente quedarán sometidos, en los términos que la ley fije:
+    A. Únicamente a sanciones disciplinarias internas de su empresa
+    B. A sanciones civiles, exclusivamente, sin obligación de reparar el daño
+    C. A la revocación automática de su nacionalidad
+    D. A sanciones penales o, en su caso, administrativas, así como a la obligación de reparar el daño causado
 
-29. La conservación y promoción del enriquecimiento del patrimonio histórico, cultural y artístico de los pueblos de España se encomienda a los poderes públicos en el artículo:
-    A. 46
-    B. 45
-    C. 47
-    D. 44
+29. Conforme al artículo 46 CE, el patrimonio histórico, cultural y artístico de los pueblos de España se protege:
+    A. Cualquiera que sea su régimen jurídico y su titularidad, sancionando la ley penal los atentados contra él
+    B. Solo cuando su titularidad sea pública
+    C. Solo si figura previamente inscrito en un registro autonómico
+    D. Exclusivamente mediante convenios internacionales, sin ley penal interna
 
-30. El derecho a disfrutar de una vivienda digna y adecuada se reconoce en el artículo:
-    A. 45
-    B. 47
-    C. 41
-    D. 33
+30. Conforme al artículo 47 CE, para hacer efectivo el derecho a una vivienda digna y adecuada, los poderes públicos deben regular la utilización del suelo de acuerdo con el interés general para:
+    A. Favorecer la construcción exclusivamente privada
+    B. Impedir la especulación
+    C. Garantizar la propiedad exclusivamente estatal del suelo urbano
+    D. Suprimir cualquier plusvalía urbanística
 
 ## Respuestas
 

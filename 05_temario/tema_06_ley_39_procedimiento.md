@@ -532,11 +532,11 @@ Los distractores están construidos con contenido normativo real (otro artículo
    C. Cualquier actuación fuera de plazo.
    D. Todo error material susceptible de rectificación conforme al artículo 109.2.
 
-10. La conservación de actos y trámites se regula en el artículo:
-    A. 47.
-    B. 51.
-    C. 76.
-    D. 126.
+10. Conforme al principio de conservación de actos y trámites del artículo 51, cuando se declare la nulidad o se anulen actuaciones, el órgano competente:
+    A. Debe repetir todo el procedimiento desde el inicio, sin excepción.
+    B. Dispondrá la conservación de los actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción.
+    C. Debe declarar caducado el procedimiento automáticamente.
+    D. Debe iniciar un nuevo procedimiento sancionador contra el instructor.
 
 11. Los procedimientos pueden iniciarse:
     A. Solo de oficio.

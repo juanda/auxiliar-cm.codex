@@ -479,11 +479,11 @@ Los distractores están construidos con contenido normativo real (otro artículo
     C. Al procedimiento administrativo no común.
     D. A los impuestos de carácter local.
 
-20. El Gobierno ejerce la potestad reglamentaria según:
-    A. Artículo 81 CE.
-    B. Artículo 86 CE.
-    C. Artículo 94 CE.
-    D. Artículo 97 CE.
+20. Conforme al artículo 97 CE, el Gobierno ejerce la potestad reglamentaria:
+    A. Con absoluta discrecionalidad, sin sujeción a la Constitución ni a las leyes.
+    B. Únicamente en materias no reguladas previamente por ninguna ley.
+    C. Solo cuando media delegación expresa de las Cortes Generales.
+    D. De acuerdo con la Constitución y las leyes.
 
 21. Un reglamento:
     A. Puede modificar una ley si lo aprueba el Gobierno.

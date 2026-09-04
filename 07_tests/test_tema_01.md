@@ -162,11 +162,11 @@ Los distractores de este banco están construidos con contenido constitucional r
     C. Es uno de los derechos susceptibles de suspensión durante los estados de excepción o de sitio.
     D. Solo ampara la propiedad de bienes inmuebles, no la propiedad mobiliaria ni intelectual.
 
-27. ¿En qué artículo de la Constitución se sitúa el mandato a los poderes públicos de mantener un régimen público de Seguridad Social?
-    A. Artículo 35.
-    B. Artículo 43.
-    C. Artículo 50.
-    D. Artículo 41.
+27. Conforme al artículo 41 CE, el régimen público de Seguridad Social debe garantizar asistencia y prestaciones sociales suficientes ante situaciones de necesidad, mencionando expresamente:
+    A. El caso de discapacidad.
+    B. El caso de jubilación.
+    C. El caso de maternidad.
+    D. El caso de desempleo.
 
 28. Los principios rectores del Capítulo III del Título I:
     A. Tienen la misma protección que los derechos fundamentales.

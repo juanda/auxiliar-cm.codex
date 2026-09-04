@@ -463,11 +463,11 @@ Los distractores están construidos con contenido constitucional real (otro art�
    C. A la Constitución y al resto del ordenamiento jurídico.
    D. A la Constitución, a la ley y a la jurisprudencia exclusivamente.
 
-6. El principio de interdicción de la arbitrariedad de los poderes públicos se recoge en:
-   A. Artículo 1.1.
-   B. Artículo 9.2.
-   C. Artículo 9.3.
-   D. Artículo 10.1.
+6. El artículo 9.3 CE garantiza, además de la interdicción de la arbitrariedad de los poderes públicos:
+   A. La reserva de ley orgánica para el desarrollo de los derechos fundamentales.
+   B. La sumisión de la Administración a los fines que la justifican.
+   C. La jerarquía normativa, la publicidad de las normas y la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+   D. La responsabilidad penal exclusiva de los poderes públicos.
 
 7. Conforme al artículo 9.2, corresponde a los poderes públicos:
    A. Garantizar exclusivamente la igualdad formal ante la ley.
@@ -559,11 +559,11 @@ Los distractores están construidos con contenido constitucional real (otro art�
     C. Un órgano dependiente del Tribunal Supremo.
     D. Un órgano de las comunidades autónomas.
 
-22. La suspensión de derechos y libertades se regula en:
-    A. Artículo 53.
-    B. Artículo 54.
-    C. Artículo 55.
-    D. Artículo 116.
+22. Entre los derechos que pueden ser objeto de suspensión general conforme al artículo 55.1 CE se encuentra:
+    A. La igualdad del artículo 14.
+    B. El derecho a la vida del artículo 15.
+    C. La libertad de residencia y circulación del artículo 19.
+    D. La tutela judicial efectiva del artículo 24.
 
 23. La suspensión general del artículo 55.1 se vincula a:
     A. Estados de excepción o sitio.
