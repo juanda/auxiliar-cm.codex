@@ -457,6 +457,8 @@ Cobertura añadida para próxima convocatoria:
 
 ## 7. Test de entrenamiento
 
+Los distractores están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. Cuando una notificación electrónica obligatoria se pone a disposición y no se accede a su contenido, se entiende rechazada tras:
 
 A. 10 días naturales.  
@@ -468,14 +470,14 @@ D. 15 días hábiles.
 
 A. Desde el envío de un aviso por SMS.  
 B. Desde la publicación en boletín.  
-C. Desde la llamada telefónica.  
+C. Desde la comparecencia presencial en la oficina.  
 D. Desde la puesta a disposición de la notificación.
 
 3. La Oficina de Atención al Ciudadano actúa, según pregunta histórica, como:
 
-A. Órgano judicial de recursos.  
+A. Coordinadora de las Oficinas de Correos.  
 B. Administradora del Sistema de Atención al Ciudadano.  
-C. Registro mercantil autonómico.  
+C. Cámara de Cuentas de la Comunidad de Madrid.  
 D. Servicio común de Seguridad Social.
 
 4. La información que requiere mayor profundización o consultas complementarias es:
@@ -504,11 +506,11 @@ D. Concreta.
 A. Particular.  
 B. Reservada siempre.  
 C. General.  
-D. Sancionadora.
+D. Especializada, salvo que se solicite por escrito.
 
 8. La interoperabilidad es:
 
-A. La obligación de acudir presencialmente.  
+A. Obligación de digitalizar documentos en papel.  
 B. Capacidad de compartir datos e intercambiar información y conocimiento.  
 C. Una forma de recurso administrativo.  
 D. Una clase de contrato menor.
@@ -525,25 +527,25 @@ D. Elaborados por las Administraciones Públicas.
 A. Copia electrónica auténtica.  
 B. Copia electrónica compulsada con menor validez.  
 C. Copia simple sin efectos.  
-D. Documento rechazado automáticamente.
+D. Borrador administrativo pendiente de cotejo posterior.
 
 11. Las notificaciones electrónicas pueden practicarse:
 
 A. Por DEHú y comparecencia en sede electrónica.  
 B. Solo por correo postal.  
-C. Solo por teléfono.  
+C. Solo mediante certificado de representante sin acceso a sede.  
 D. Solo por publicación en tablón físico.
 
 12. Las Administraciones Públicas, entre sí, están:
 
 A. Obligadas a relacionarse electrónicamente.  
-B. Prohibidas de usar medios electrónicos.  
+B. Obligadas a relacionarse exclusivamente por correo postal certificado.  
 C. Facultadas libremente sin obligación.  
-D. Obligadas solo por fax.
+D. Obligadas solo cuando el importe del expediente supere un umbral económico.
 
 13. Las personas jurídicas:
 
-A. Nunca pueden usar medios electrónicos.  
+A. Pueden elegir libremente el canal, igual que las personas físicas no obligadas.  
 B. Solo pueden usar canal telefónico.  
 C. Solo actúan por correo postal.  
 D. Están obligadas a relacionarse electrónicamente con las Administraciones.
@@ -564,7 +566,7 @@ D. Qué contrato se adjudica.
 
 16. La firma electrónica se vincula principalmente con:
 
-A. Ubicación física de oficinas.  
+A. Quién actúa en la relación electrónica.  
 B. Calendario laboral internacional.  
 C. Voluntad y consentimiento en la actuación.  
 D. Plazo de garantía contractual.
@@ -586,35 +588,35 @@ D. Solo por cita previa presencial.
 19. Si una presentación electrónica se realiza en día inhábil, como regla general se entiende presentada:
 
 A. En la primera hora del primer día hábil siguiente.  
-B. El día anterior.  
+B. En la última hora del día inhábil en que se presentó.  
 C. Nunca.  
-D. En el siguiente mes natural.
+D. En el plazo de diez días naturales desde la presentación.
 
 20. La DEHú es:
 
 A. Documento Estatal Habilitado Único.  
 B. Departamento Electrónico de Hacienda.  
 C. Dirección Electrónica Habilitada Única.  
-D. Diario Electrónico de Humanidades.
+D. Documento Electrónico Habilitado Único.
 
 21. La comparecencia electrónica consiste en:
 
-A. Comparecer físicamente ante un juzgado.  
-B. Enviar un escrito por fax.  
-C. Recibir una llamada informativa.  
+A. Solicitar cita previa presencial en una oficina.  
+B. Enviar un escrito por correo postal certificado.  
+C. Recibir una llamada del servicio 012.  
 D. Acceder al contenido de una notificación en sede electrónica o sede asociada.
 
 22. Un certificado de representante se utiliza principalmente para:
 
-A. Consultar el calendario escolar.  
+A. Acceder a la Cl@ve PIN sin identificación adicional.  
 B. Sustituir el registro electrónico.  
 C. Actuar electrónicamente en nombre de una persona jurídica.  
 D. Evitar toda identificación.
 
 23. El código seguro de verificación sirve para:
 
-A. Calcular sanciones.  
-B. Abrir oficinas físicas.  
+A. Sustituir la firma electrónica en todo tipo de documento.  
+B. Calcular el plazo de prescripción de una deuda.  
 C. Contrastar autenticidad e integridad de documentos.  
 D. Presentar recursos sin plazo.
 
@@ -623,18 +625,18 @@ D. Presentar recursos sin plazo.
 A. Informa y orienta, pero no siempre formaliza actuaciones con firma o registro.  
 B. Sustituye siempre a la firma electrónica.  
 C. Permite consultar cualquier expediente sin identificación.  
-D. Anula la sede electrónica.
+D. Sustituye a la Oficina de Atención al Ciudadano en todas sus funciones.
 
 25. La información particular puede exigir:
 
 A. Ninguna comprobación nunca.  
 B. Identificación, legitimación o representación.  
-C. Solo una llamada anónima.  
-D. Publicación en redes sociales.
+C. Solo una autorización verbal del superior jerárquico.  
+D. Solo la firma de un documento por dos testigos.
 
 26. La asistencia en el uso de medios electrónicos se relaciona con:
 
-A. Imponer sanciones penales.  
+A. Imponer el uso exclusivo del canal electrónico a toda persona física.  
 B. Facilitar a los interesados el uso de medios digitales.  
 C. Aprobar presupuestos.  
 D. Resolver contratos administrativos.
@@ -642,15 +644,15 @@ D. Resolver contratos administrativos.
 27. La sede electrónica es:
 
 A. Un local físico exclusivamente.  
-B. Una oficina bancaria.  
+B. Un servicio privado de mensajería certificada.  
 C. Dirección electrónica cuya titularidad corresponde a una Administración Pública.  
 D. Un archivo histórico en papel.
 
 28. La carpeta ciudadana permite normalmente:
 
 A. Consultar trámites, expedientes o notificaciones disponibles.  
-B. Dictar sentencias.  
-C. Aprobar leyes.  
+B. Aprobar disposiciones de carácter general.  
+C. Sustituir el Registro Electrónico General.  
 D. Sustituir al Consejo de Gobierno.
 
 29. Los escritos dirigidos a la Comunidad de Madrid pueden presentarse, entre otros lugares:

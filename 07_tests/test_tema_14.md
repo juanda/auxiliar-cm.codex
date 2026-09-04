@@ -2,10 +2,12 @@
 
 Preguntas nuevas de entrenamiento, distintas de las incluidas en la sección 7 de `05_temario/tema_14_atencion_ciudadano_administracion_electronica.md`, orientadas a la convocatoria 2026 y a las recurrencias históricas del repositorio.
 
+Los distractores de este banco están construidos con contenido normativo real (otro artículo, otra cifra o quórum, la categoría vecina) para exigir conocimiento preciso; evita marcar por descarte de sentido común.
+
 1. La Oficina de Atención al Ciudadano, según el Decreto 21/2002, actúa como:
 
 A. Órgano de recurso extraordinario.  
-B. Registro mercantil autonómico.  
+B. Coordinadora de las Oficinas de Correos.  
 C. Administradora del Sistema de Atención al Ciudadano.  
 D. Archivo histórico central.
 
@@ -47,7 +49,7 @@ D. Ninguno de los canales tiene esa limitación.
 7. Los escritos dirigidos a la Comunidad de Madrid pueden presentarse, entre otros lugares, en:
 
 A. Solo en la sede central de la Consejería competente.  
-B. Solo mediante correo certificado privado.  
+B. Solo mediante representaciones diplomáticas de otros países en España.  
 C. Solo en el registro del propio órgano destinatario.  
 D. Oficinas de Correos, en la forma reglamentariamente establecida.
 
@@ -74,7 +76,7 @@ D. Representación.
 
 11. Cl@ve PIN es un sistema de:
 
-A. Firma manuscrita digitalizada.  
+A. Firma electrónica avanzada basada en certificado cualificado.  
 B. Sello electrónico para personas jurídicas.  
 C. Certificado de representante.  
 D. Acceso electrónico temporal para personas físicas.
@@ -83,7 +85,7 @@ D. Acceso electrónico temporal para personas físicas.
 
 A. Actuar electrónicamente en nombre de una persona jurídica.  
 B. Sustituir el Registro Electrónico General.  
-C. Acceder al calendario laboral.  
+C. Acceder a la Cl@ve PIN sin identificación adicional.  
 D. Evitar cualquier proceso de identificación.
 
 13. El Registro Electrónico General de una Administración debe permitir la presentación de documentos:
@@ -131,7 +133,7 @@ D. Borrador pendiente de cotejo posterior.
 19. Las notificaciones electrónicas, conforme al RD 203/2021, pueden practicarse mediante:
 
 A. Únicamente correo electrónico ordinario.  
-B. Solo mensaje de texto al teléfono móvil.  
+B. Solo mediante Cl@ve PIN sin acceso a sede electrónica.  
 C. Solo publicación en el tablón físico del Ayuntamiento.  
 D. Dirección Electrónica Habilitada Única o comparecencia en sede electrónica o sede asociada.
 
@@ -139,7 +141,7 @@ D. Dirección Electrónica Habilitada Única o comparecencia en sede electrónic
 
 A. Las personas jurídicas.  
 B. Todas las personas físicas, sin excepción.  
-C. Solo los menores de edad no emancipados.  
+C. Solo los notarios y registradores de la propiedad, con exclusión de las personas jurídicas.  
 D. Ninguna persona, la relación electrónica es siempre voluntaria.
 
 21. Las Administraciones Públicas, en el ejercicio de sus competencias y entre sí, están:
